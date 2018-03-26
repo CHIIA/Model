@@ -1,0 +1,153 @@
+9/20/2017
+
+Factiva
+
+SE  Companies and Markets
+HD  ACCC's concerns delay Asciano deal
+BY  Perry Williams
+WC  755 words
+PD  27 May 2016
+SN  The Australian Financial Review
+SC  AFNR
+ED  First
+PG  22
+LA  English
+CY  Copyright 2016. Fairfax Media Management Pty Limited.
+LP  Canada's Brookfield Infrastructure may be forced to hand control of the Australian Container Freight Services
+joint venture to the Tzaneros family to help overcome competition concerns over the $9  billion  break­up of
+ports and rail giant Asciano.
+
+The battle for control of Asciano hit a fresh snag on Thursday after the Australian Competition and Consumer
+Commission flagged a series of "amber light" concerns that will need to be addressed for the deal to get over
+the line.
+
+TD  The regulator released a statement of issues, as foreshadowed by Fairfax Media, which means its final decision
+on the drawn­out takeover deal will be delayed until July 21 and the transaction will stretch to more than a year
+if completed.
+
+At the heart of the ACCC's concerns is the 50­50 joint venture, ACFS Port Logistics, which was formed in mid­
+2015 between Arthur and Terry Tzaneros and Asciano.
+
+Under the proposed takeover, Asciano's  stake  in the ACFS joint venture is to be acquired by Canada's
+Brookfield, Singapore sovereign wealth fund GIC, Qatar Investco and the British Columbia Investment
+Management Corporation.
+
+The ACCC said it was concerned by a lack of competition if this aspect of the deal were to proceed.
+
+ACFS has already asked the NSW Supreme Court to halt the deal and sources close to the transaction told
+Fairfax Media the Tzaneros family may gain overall control of the venture to sate the ACCC's concerns.
+
+Brookfield disputed the ACCC's contention that the tie­up will result in less competition. "Brookfield remains of
+the view that none of the issues raised by the ACCC will result in a lessening of competition," the  company
+said in a statement. "However, the consortium continues to be committed to working with the ACCC to address
+these issues expeditiously."
+
+ACCC chairman Rod Sims said the regulator had received many submissions, with some in the market
+concerned by the prospect of less competition from the tie­up of Patrick, Qube and ACFS.
+
+He noted the ACCC was concerned Patrick container terminals may provide "preferential access" to Qube and
+ACFS vehicles, along with Qube regional export trains into Port Botany, and this could  lead  to a hike in rivals'
+costs.
+
+"Qube and Brookfield will each own 50 per cent of Patrick container terminals, and may have parallel incentives
+to favour their landside logistics  operations ," Mr Sims said.
+
+A second issue centres on rival stevedores, which are concerned if Patrick gives better treatment to the
+container logistics  operations  of both Qube and ACFS then the two companies may boost the service they
+offer to importers and exporters on the basis they use shipping lines calling at Patrick container terminals.
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=All
+
+1/2
+
+9/20/2017
+
+Factiva
+
+The ACCC is also considering whether stevedoring and empty­container park services will be bundled together,
+in a way that forecloses rival stevedores. Submissions to the ACCC's statement of issues are due by June 10,
+and a final decision expected on July 21.
+
+Asciano said on Thursday it would keep its meeting to vote on the scheme set for June 3 despite the ACCC still
+considering the issue.
+
+Asciano's board has recommended that investors accept a takeover bid worth $9.28 a share, which would split
+the port and rail group into three parts, with separate consortiums acquiring the  company 's rail, ports and bulk
+and automotive ports services businesses.
+
+The joint takeover bid led by Qube and Brookfield, which ended a nine­month takeover battle between the two
+groups for Asciano, is designed to address the ACCC's previous concerns over an earlier proposal from
+Brookfield to acquire all of the  company .
+
+In the complex Asciano takeover bid, Brookfield will acquire the Patrick container ports business in a joint
+venture with Qube, and a group of international pension funds will buy Pacific National. Qube will own 50 per
+cent of Patrick and Brookfield will own 33.5 per cent directly. Pacific National will be acquired by Global
+Infrastructure Partners, the Canada Pension Plan Investment Board (CPPIB),  China 's CIC Capital Corporation
+as well as GIC and BCIMC. Brookfield and GIC, BCIMC and QIA will jointly acquire Asciano's bulk and
+automotive ports services businesses (BAPS), with Brookfield taking a two­thirds  stake .
+
+Separately, CPPIB will take a 9.99 per cent  stake  in Qube while several investment groups have stakes in
+other Australian infrastructure businesses, including BCIMC's 9 per cent interest in DBCT Management, the
+leaseholder of Queensland's Dalrymple Bay  Coal  Terminal.
+
+CO  brknfr : Brookfield Infrastructure Partners L.P. | ascian : Asciano Ltd. | auccc : Australian Competition and Consumer
+
+Commission
+
+IN  i763 : Port/Harbor Operations | iship : Water Transport/Shipping | itsp : Transportation/Logistics | i831 : Financial Investments |
+
+i83107 : Portfolio/Fund/Asset Management | ifinal : Financial Services | iinv : Investing/Securities
+
+NS  c184 : Joint Ventures | c181 : Acquisitions/Mergers/Divestments | ccat : Corporate/Industrial News | c18 : Ownership Changes |
+
+cactio : Corporate Actions | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  Fairfax Media Management Pty Limited
+
+AN  Document AFNR000020160526ec5r0000v
+
+Search Summary
+Text
+
+((chin* or hong kong)) and ( ( (residential or site or commercial) and (casino resort or island or hotel or apartment or park or
+estate or property) and (group or firm or company or board or entitys) and (transaction* or purchase* or sale or sold or buy)
+) or ( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead or coal or oil) and (bonds or
+acquisition or merge or purchase or sale or stake or equity) and (million* or billion* or B or M) and (operations or mining or
+firm or company)) or ( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity or stake or
+merge or acquire) and (brand or company or business or group or firm or board) and (million* or billion* or B or M)) ) not
+(terrorism or war or navy or stock market or share market or Wall St or Wall Street or Forex or Stock Exchange or
+rst=asxtex) and re=austr
+27/05/2016 to 02/06/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results
+Found
+Timestamp 20 September 2017 20:14
+
+205
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=All
+
+2/2
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+

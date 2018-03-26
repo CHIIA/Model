@@ -1,0 +1,84 @@
+News
+$1.2b tower set to rise
+416 words
+18 December 2015
+Gold Coast Bulletin
+GCBULL
+GoldCoast
+61
+English
+© 2015 News Limited. All rights reserved.
+CHINESE group Forise Holdings has settled on its purchase of the former Iluka building site, paving the
+way for the construction of a $1.2 billion tower next year.
+
+Tenders have gone out to contractors for the first stage with early works due to start in mid-January.
+
+...
+Forise bought the 3494sq m site in January through Forise Investments Australia with the sale negotiated by
+Roland Evans of Canford Property Group.
+
+...
+“Forise is in the unique position of being able to start construction immediately and, now the site has settled,
+is on track for construction to start as early as March,” he said.
+
+...
+“Forise’s settlement of the site now ensures that the project will move forward and deliver its estimated $2.08
+billion in direct and indirect economic benefits for the city,” Mr Hickey said.
+
+...
+At 285m, it will be one of Australia’s tallest residential buildings, eclipsing the height of Gold Coast’s current
+tallest tower, Q1.
+
+...
+
+Document GCBULL0020151218ebci0000x
+
+Search Summary
+
+Text
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entity) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+
+Page 1 of 2 © 2017 Factiva, Inc. All rights reserved.
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+16/12/2015 to 22/12/2015
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+199
+24 August 2017 8:47
+
+Page 2 of 2 © 2017 Factiva, Inc. All rights reserved.
+
+

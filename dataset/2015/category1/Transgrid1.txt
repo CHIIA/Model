@@ -1,0 +1,134 @@
+8/27/2017
+
+Factiva
+
+SE  News
+HD  TransGrid bidders face restrictions
+BY  Angus Grigg and Geoff Winestock
+WC  684 words
+PD  11 November 2015
+SN  The Australian Financial Review
+SC  AFNR
+ED  First
+PG  7
+LA  English
+CY  Copyright 2015. Fairfax Media Management Pty Limited.
+LP  Chinese companies bidding for the $9 billion NSW electricity transmission network will be prevented from having
+
+any staff in management positions, and directors will require a security clearance, as part of strict conditions
+placed on the sale.
+
+As final bids for TransGrid are due at the end of this month, The Australian Financial Review has confirmed the
+imposition of tough national security requirements for foreign bidders.
+
+TD  These include a majority of local directors for the privatised TransGrid, security checks for directors being
+
+nominated and restrictions on foreigners in management positions.
+
+A NSW government source said "Australian oversight and management" would be required by the Foreign
+Investment Review Board.
+
+"It's also logical security clearances would be required for such an asset," said the person, who asked not to be
+named.
+
+The sale of TransGrid has been a politically sensitive topic in NSW given the interest from Chinese state-owned
+bidders and a general perception that Beijing uses commercial enterprises to pursue its broader national
+security agenda.
+
+The Chinese government-owned State Grid is bidding as a part of a consortium which includes Macquarie
+Infrastructure and Real Assets.
+
+The consortium is favoured to win the auction.
+
+The sensitivity around the sale is because of TransGrid's central role in the national electricity grid and its
+ownership of a fibre optic network that is used by data centres in Canberra, which count the federal government
+as a client.
+
+Such is the secrecy surrounding these centres, even their location is considered classified.
+
+In addition, TransGrid is at the core of the national electricity network, providing the back-up power supply for
+the whole grid which comes through the Snowy Hydro scheme.
+
+NSW Premier Mike Baird said the Foreign Investment Review Board would consider the national security and
+foreign ownership issues surrounding the sale.
+
+"My position in relationship to foreign ownership is that it is a matter which needs to be nationally consistent and
+nationally considered and the body that does that in terms of ownership and security concerns is the Foreign
+Investment Review Board," Mr Baird said during a visit to Shanghai on Friday.
+
+"Any foreign bidder must clear the FIRB process."
+
+Mr Baird stressed that the conditions on bidders were yet to be finalised.
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/2
+
+8/27/2017
+
+Factiva
+
+The planned sale of NSW's electricity assets flared as an issue during the state election in March, when the
+Construction Forestry Mining and Energy Union ran an advertising campaign against Chinese ownership.
+
+The Baird government slammed the CFMEU's campaign as "xenophobic" and a "racist rant", which would make
+it harder to attract investors.
+
+The opposition also questioned why NSW Treasurer Andrew Constance had held meetings with State Grid in
+the lead-up to the assets being put on the market.
+
+State Grid has been making investments over the world in recent years, as it looks to have 20 per cent of its
+assets outside China by 2020.
+
+State Grid's first Australian investment came in November 2012 when it paid $500 million for a 41 per cent stake
+in South Australian transmission company ElectraNet.
+
+That deal required FIRB approval and State Grid emerged with four of the nine board seats at ElectraNet.
+
+State Grid also has minority shareholdings in gas and electricity distributors in Victoria and NSW.
+
+Chinese ownership of strategic Australian assets became an issue again last month when the Port of Darwin
+was sold to Chinese company Landbridge for $506 million.
+
+Peter Jennings, from the Australian Strategic Policy Institute, questioned the sale to a Chinese company, given
+the port's central role in the defence infrastructure of northern Australia.
+
+"I think there is reason to be concerned about this sale and really the question that needs to be asked is, what
+assessment of national security implications was made before the sale was agreed," he said.
+
+Geoff Wade, from the Australian National University, pointed out that though Landbridge was a private company,
+it had intimate links to the Communist Party.
+
+Key points
+
+Chinese ownership of strategic assets has raised security concerns.
+
+The CFMEU campaigned against the NSW assets sale.
+
+CO  tastr : TransGrid
+
+IN  i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | i1 : Energy | ieutil : Electric Utilities | iutil : Utilities
+
+NS  c181 : Acquisitions/Mergers/Shareholdings | c183 : Privatizations/Nationalization | gdip : International Relations | gpol :
+
+Domestic Politics | ccat : Corporate/Industrial News | c18 : Ownership Changes | cactio : Corporate Actions | gcat :
+Political/General News | gpir : Politics/International Relations | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E
+Industry News Filter
+
+RE  austr : Australia | china : China | nswals : New South Wales | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania |
+bric : BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+easiaz : Eastern Asia
+
+PUB  Fairfax Media Management Pty Limited
+
+AN  Document AFNR000020151110ebbb0002d
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/2
+
+

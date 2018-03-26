@@ -1,0 +1,90 @@
+Property
+Chinese $170m Sydney apartment deal
+Residential Mercedes Ruehl
+448 words
+6 June 2015
+The Australian Financial Review
+AFNR
+First
+39
+English
+Copyright 2015. Fairfax Media Management Pty Limited.
+Chinese state-owned conglomerate Greenland Holdings Group has bolstered its pipeline of apartment
+projects in Sydney, buying the former Mercure Hotel site in the heart of Kings Cross and the Crown Hotel in
+Parramatta in a deal sources say is valued at close to $170 million.
+The Shanghai-based group, which is building the massive Greenland Centre apartment tower at Bathurst
+Street in the CBD, bought the two sites from savvy pub group and residential developer Iris Capital in an
+offmarket deal.
+The transaction will add more than 300 units to Greenland's already expansive development pipeline in
+Australia since it entered the market several years ago.
+
+...
+Greenland, one of China's biggest builders, has been seeking new development opportunities in Australia for
+months. It has not limited its expansion to Sydney. It has a joint venture bid with...
+
+... developing the $700 million Greenland Tower, which will be one of the tallest in the CBD, comprising 478
+apartments. It also converting the adjoining heritage building into a hotel, known as the Greenland Primus
+Hotel. The $200 million Lucent project in North Sydney, at 225 Pacific Highway, will have 211 units.
+Greenland also forged into Melbourne in 2013, buying two sites and involving more than 1000 apartments.
+
+...Greenland has not had as much success in Sydney's inner western suburb of Leichhardt. The local council
+last year rejected an initial proposal by Greenland at the former Kolotex site.
+The Mercure Hotel project, which incorporates the Crest Hotel and late-trading Goldfish bar, will be known
+as the Hourglass. Iris, which has earned a strong reputation in the market for its residential-above-hotel
+developments, bought it in 2012 from Australand Property Group for $65 million.
+
+... near the famous Coca-Cola sign, will have some of the best views in Sydney. A $55 million planning
+proposal designed by architects Durbach Block Jaggers for an hourglass shaped apartment tower with 139
+units was submitted earlier this year. The Crown Hotel, in a burgeoning arts precinct on Parramatta's Church
+Street, has a planning proposal for just under 200 units.
+Iris made a name for itself in Sydney spotting opportunities in both the pub and residential sectors. It entered
+the hotel industry in 1995 and also owns the Bourbon bar and restaurant in Kings Cross, the Clovelly Hotel
+and the Cock & Bull in Bondi Junction.
+
+Document AFNR000020150605eb660000t
+
+Search Summary
+
+Text
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (project) and (casino resort or island or
+hotel or apartment or park or estate or property) and (group or firm or company
+or board or assets) and (transaction* or purchase* or sale or sold or buy) )
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron
+or lead or coal or oil) and (bonds or acquisition or merge or purchase or sale or
+stake or equity) and (million* or billion* or B or M) and (operations or mining or
+firm or company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or
+equity or stake or merge or acquire) and (brand or company or business or group
+or firm or board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall
+Street or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+03/06/2015 to 09/06/2015
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+99
+1 August 2017 0:21
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

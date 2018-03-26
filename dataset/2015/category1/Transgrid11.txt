@@ -1,0 +1,64 @@
+8/27/2017
+
+Factiva
+
+SE  Business Spectator
+HD  Debt fuels State Grid asset bid
+BY  Bridget Carter & Gretchen Friemann - The Australian
+WC  290 words
+PD  23 November 2015
+SN  Business Spectator - Online
+SC  NBSPEC
+LA  English
+CY  © 2015 News Limited. All rights reserved.
+LP  State Grid is believed to be funding its bid for the NSW transmission network with 80% debt.
+
+State Grid is believed to be funding its bid for the NSW transmission network TransGrid with 80 per cent debt.
+
+TD  The company is poised to lob a knockout bid in conjunction with Macquarie’s infrastructure arm ahead of today’s
+
+deadline for final offers to buy the asset.
+
+Other global groups may also use this level of debt funding, which could count against some of the more
+conservative locally listed funds, which would have about 40 per cent debt capacity.
+
+However, the Foreign Investment Review Board is expected to play a major role in the contest, with some
+questioning whether the Chinese government-owned State Grid will receive clearance.
+
+State Grid and Macquarie are among the four final parties competing for the asset that is expected to sell for
+more than $8 billion.
+
+Elsewhere, AES Corp, advised by Goldman Sachs, is believed to be out of the contest to buy IFM’s $2bn
+renewable energy business Pacific Hydro, which is up for sale through Bank of America Merrill Lynch and Credit
+Suisse.
+
+It comes with suggestions that a trade buyer could still be in discussions with private equity firm Affinity over a
+sale of its $NZ700 million-plus poultry producer Tegel. This is despite the theory that the company had
+abandoned attempts to embark on a trade sale via Deutsche and Goldman Sachs and was now proceeding with
+a public float next year.
+
+The market is betting that the most likely buyer would be Thai poultry producer Charoen Pokphand.
+
+This article first appeared in The Australian Business Review
+[http://www.theaustralian.com.au/business/dataroom/debt-fuels-state-grid-asset-bid-for-transgrid/story-fnjw8txa-
+1227618884475?sv=a218153a6f261e95ec740c79e9aecd1e].
+
+CO  aescor : The AES Corp | tastr : TransGrid
+
+IN  i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | ieutil : Electric Utilities | iutil : Utilities
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  News Ltd.
+
+AN  Document NBSPEC0020151122ebbn0002t
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/1
+
+

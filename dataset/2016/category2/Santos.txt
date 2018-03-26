@@ -1,0 +1,105 @@
+11/10/2017
+
+Factiva
+
+Home
+
+Search
+
+Alerts
+
+Newsletters
+
+News Pages
+
+Companies/Markets
+
+Display Options
+
++ Related Dow Jones Intelligent Indexing™
+
+Listen to Article
+
+ | 
+
+Translate Article | 
+
+Share
+
+SE  What's New
+HD  Australia's Santos Fends off LNG Attacks
+WC  804 words
+PD  21 June 2017
+SN  World Gas Intelligence
+SC  WGI
+LA  English
+CY  (c) 2017 Energy Intelligence Group. All rights reserved
+LP  The CEO of Australian independent Santos has come out swinging, saying the reason domestic gas prices are high is down to geology, not his company's
+
+Gladstone LNG (GLNG) project. GLNG is one of three liquefaction plants built simultaneously on Curtis Island in Queensland that are blamed for creating gas
+shortages and price spikes in eastern Australia, prompting government moves to limit LNG exports. But Santos Chief Kevin Gallagher said last week that
+prices have risen because "all the cheap gas has been developed, so it is costing more to get gas out of the ground." 
+
+TD  Prime Minister Malcolm Turnbull announced in April that restrictions would be introduced from July to ensure the domestic market was adequately supplied
+
+before gas exports were allowed (WGI May3'17). Under the Australian Domestic Gas Security Mechanism (ADGSM), exporters that are not net contributors to
+the domestic market -- they take out more gas than they put in -- must explain how they intend to plug the gap (WGI Mar.22'17). Unlike conventional LNG
+plants in northern and western Australia, the three coalbed methane-fed projects in Queensland require new wells to be drilled to maintain production or third-
+party gas to be bought in. GLNG sources more than half its feedstock from third-party contracts, and Gallagher said the ADGSM "unfairly targets" his project as
+it is the only one that is not a net contributor. The other two, Royal Dutch Shell's QCLNG and Origin Energy-ConocoPhillips' APLNG, have their own gas. 
+
+Gallagher has also taken exception to assertions that Australian prices are higher than in markets like Japan where the gas is sold. "It has been widely
+publicized that Australian gas is sold in Japan cheaper than it can be purchased in Australia. The GLNG project does not sell gas to Japan [it has long-term
+contracts with Malaysia and South Korea] ... Given that all of GLNG's gas is contracted overseas, GLNG has no cheap, surplus gas -- indeed it’s all contracted
+at premium prices." 
+
+There is one piece of good news. Turnbull's decision was made partly on the basis of forecasts from the Australia Energy Market Operator (AEMO) of
+shortages as LNG projects ramped up and domestic production declined. But in an update last week, AEMO said it has raised supply projections, although gas
+markets "remain finely balanced," and much will hinge on the Queensland plants.
+
+UBS analyst Nik Burns said AEMO's updated supply/demand balance means there is less likelihood that GLNG will be asked to address physical gas shortfalls
+in eastern Australia by, for example, reducing exports or making more gas available to the domestic market. But as the ADGSM runs until the end of 2023, "the
+issue of supply adequacy will be revisited every year, leading to a degree of lingering uncertainty around GLNG." Minh Hoang, a credit analyst with ratings
+agency Standard & Poor's, reckons that even if the mechanism were invoked, GLNG partners would be given the chance to make up supply through means
+such as LNG swaps.
+
+Santos has a 30% operating interest in the $18.5 billion plant; its partners are Total (27.5%), Malaysia's Petronas (27.5%) and South Korea's Kogas (15%). To
+say the project has been a challenge is an understatement. Gas supply problems have forced the partners to write down billions, with Santos alone writing
+down $1.5 billion (WGI Sep.21'16). GLNG has also been operating well below its 7.8 million ton per year nameplate capacity. It produced just 1.4 million tons in
+the first quarter of 2017 and Santos has said it will only ramp up to 6 million tons/yr by 2019. The Institute for Energy Economics and Financial Analysis, a US-
+based think tank, said recently that a combination of lower-than-expected production and low oil prices, off which the LNG is priced, may lead to further write-
+downs. Chinese equity firm Hony Capital and gas distributor ENN Group recently increased their stake in Santos to 15.1% through share purchases on the
+open market, saying they would "act in concert" at shareholder meetings. There is speculation the Chinese may be looking to take over the company, whose
+share price has tumbled 25% since the start of the year.
+
+With debt of US$3.1 billion, Santos has been moving to restructure and refocus its portfolio to improve its balance sheet and growth potential (EIF Dec.14'16).
+The focus is gas and LNG projects. It has 13.5% of Exxon Mobil's PNG LNG scheme in Papua New Guinea, where it hopes to expand. It also has an 11.5%
+stake in Darwin LNG in Northern Australia, and domestic gas positions in western and eastern Australia.
+
+Shani Alexander, Singapore
+
+CO  sants : Santos Ltd
+
+IN  i13 : Crude Oil/Natural Gas Upstream Operations | i1 : Energy | i1300003 : Crude Petroleum Extraction | iextra : Natural Gas/Oil Extraction
+
+NS  mhtgol : Heating Oil Markets | mlpg : Liquid Petroleum Gas Markets | m14 : Commodity Markets | m143 : Energy Markets | mcat : Commodity/Financial Market News | mcrntg :
+
+Crude Oil/Natural Gas Product Markets | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter
+
+RE  austr : Australia | queensl : Queensland | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  Energy Intelligence Group Inc.
+
+AN  Document WGI0000020170721ed6l00006
+
+UI Ver:99.11.0.0 Mod:20:58 ID:VIRPINFWAUTH02
+
+© 2017 Factiva, Inc. All rights reserved.  Terms of Use Privacy Policy UPDATED Cookie Policy UPDATED
+
+ 
+
+https://global-factiva-com.virtual.anu.edu.au/ga/default.aspx
+
+1/1
+
+

@@ -1,0 +1,93 @@
+8/27/2017
+
+Factiva
+
+HD  Asia business news in media at a glance: November 24
+WC  588 words
+PD  24 November 2015
+SN  Platts Commodity News
+SC  PLATT
+LA  English
+CY  Copyright 2015. Platts. All Rights Reserved.
+LP  Mumbai (Platts)--24Nov2015/1210 am EST/510 GMT Highlights of news items relevant to the energy, metals
+
+and agricultural commodities sectors published in regional media over Monday and Tuesday, compiled by Platts.
+**CHINA** CONSORTIUM MAKES SHORTLIST FOR AUSTRALIAN NETWORK: A consortium that includes
+State Grid Corp. of China, the world's largest utility company, is among the approved final bidders for a $6 billion
+electricity network in Australia's most populous state New South Wales, China Daily reported Tuesday. All four
+bidders for TransGrid, owner and operator of the high-voltage electricity transmission lines, have received
+approval from Australia's Foreign Investment Review Board, local media reports said.
+
+TD  SGCC teamed up with Macquarie Group Ltd's Macquarie Infrastructure and Real Assets Fund in July, which
+
+plans to raise A$20 billion ($15 billion) from selling a long-term lease to operate the company and stakes in two
+energy-distribution companies to fund new railways, roads, schools and hospitals. OIL GIANTS CONSIDER
+PIPELINE, REFINERY SALES: PetroChina and its state-owned parent China National Petroleum Corp. are
+planning to sell assets before year end that may include stakes in pipelines and refineries as the country's
+biggest oil and gas producers seek to shore up their balance sheets, China Daily reported Tuesday. The stake
+sale may be announced as early as this week, sources were quoted as saying. CNPC is seeking to use
+proceeds from the sale to meet annual income growth targets set by state asset regulators. Income at both
+companies dropped sharply this year, adding to pressure to meet growth targets. **INDIA** QATAR TO WAIVE
+$1 BIL PENALTY FOR LOWER GAS OFFTAKE: Qatar's RasGas has agreed not to impose a $1 billion penalty
+on Petronet LNG, India's biggest importer of LNG, for buying only 68% of its contracted 7.5 million mt in 2015,
+Business Standard reported Tuesday. RasGas has also agreed in principle to change the current pricing formula
+based on a 60-month average of a basket of Japanese crude oil prices to a three-month average of Brent crude,
+a move that will lower the cost of LNG to $7-$8/MMBtu from $12-$13/MMBtu currently. Petronet is taking only
+68% of the volume it agreed to this year under a 25-year contract with RasGas after a slump in global energy
+prices resulted in LNG becoming available in the spot market at roughly half the current contracted rate. Under
+the new deal being negotiated, Petronet would take the volumes it did not take this year over the remainder of
+the contract period. **TAIWAN** INDUSTRIAL OUTPUT FALLS FOR SIXTH STRAIGHT MONTH: Taiwan's
+industrial production index fell 6.15% year on year in October, marking the sixth month of consecutive decline,
+China Post reported Tuesday, quoting the Ministry of Economics Affairs. Manufacturing has slowed on weak
+demand, with the production of consumer electronics, optical instrument, panels, base metal and machinery
+posting double-digit declines in October from the year before. Only the chemical sector reported growth,
+according to the report. The Economics Ministry separately said the wholesaling sector fell 4.4% year on year in
+October, while the retail and food services sectors rose 0.6% and 7.7% respectively. In the wholesale sector,
+machinery orders fell 6.3% as demand from Japan dwindled, while construction material orders fell 15% amid a
+slump in global steel prices.
+
+Staff, newsdesk@platts.com
+
+Edited by Wendy Wells, wendy.wells@platts.com
+
+CO  stgcoc : State Grid Corporation Of China | tastr : TransGrid
+
+IN  i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | i16102 : Electric Bulk Power Transmission |
+
+ieutil : Electric Utilities | iutil : Utilities
+
+NS  e1111 : Industrial Production | c151 : Earnings | c15 : Financial Performance | ccat : Corporate/Industrial News | e11 :
+Economic Performance/Indicators | ecat : Economic News | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E
+Industry News Filter
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/2
+
+8/27/2017
+
+Factiva
+
+RE  austr : Australia | china : China | mumbai : Mumbai | nswals : New South Wales | apacz : Asia Pacific | asiaz : Asia | ausnz :
+
+Australia/Oceania | bric : BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | easiaz : Eastern Asia | india : India | indsubz : Indian Subcontinent | mahara : Maharashtra | sasiaz
+: Southern Asia
+
+IPD  0100 | --Platts Global Alert-- | MTL | ASI | CH | EMRG | ASA | UTI | ELG | FCTY | PET | PROD | NGS | IN | ML | QA | OPC |
+
+LNG | JA | EU | GB | NSEA | EURO | TW | MF | N | QQ | PLTN | PGA | PPN | NW
+
+PUB  Platts, a division of The McGraw-Hill Companies Inc.
+
+AN  Document PLATT00020151124ebbo000dy
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/2
+
+

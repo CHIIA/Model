@@ -1,0 +1,91 @@
+8/27/2017
+
+Factiva
+
+HD  State Grid to bid for Australian firm
+BY  Lyu Chang
+WC  445 words
+PD  24 November 2015
+SN  China Daily-US Edition
+SC  CDUSDE
+PG  16
+LA  English
+CY  Copyright 2015 China Daily Information Company. All rights reserved.
+LP  Utility partners Macquarie in consortium, among 4 bidders for TransGrid of NSW
+
+A consortium that includes State Grid Corp of China is among the approved final bidders for a $6 billion
+electricity network in New South Wales, Australia's most populous state, despite growing concern Down Under
+over sales of strategic assets to foreign companies.
+
+TD  All four bidders for TransGrid, the owner and operator of the state's high-voltage electricity transmission lines,
+have received approval from the country's Foreign Investment Review Board, according to local media reports.
+
+SGCC, the world's largest utility company, was not immediately available for comment.
+
+The Chinese company teamed up with Macquarie Group Ltd's Macquarie Infrastructure and Real Assets Fund in
+July to bid for TransGrid in New South Wales, which plans to raise A$20 billion ($15 billion) from selling a long-
+term lease to operate the company and stakes in two energy-distribution companies to fund new railways, roads,
+schools and hospitals.
+
+As well as the NSW electricity grid, TransGrid owns fiber optic cable networks in the state. The bidding process
+comes as Chinese State investments are facing greater scrutiny from foreign countries, including Australia, amid
+mounting concerns over ownership of strategic assets, as well as the competition they may bring to local
+markets.
+
+Industry experts said, however, that being cleared to bid was a reflection of the efficiency improvements that the
+China's State-owned enterprise is expected to bring.
+
+Guo Chunmei, a scholar with the China Institute of Contemporary International Relations, said that foreign
+ownership of infrastructure remains a sensitive issue.
+
+Despite the recent signing of a free-trade agreement, the threshold is still very high in Australia for Chinese
+investors, especially for State-owned enterprises, said Guo.
+
+"China needs time to be accepted on the global stage," she said.
+
+"It is getting better, with a new round of SOE reform underway and the enhanced reputation of Chinese State-
+owned companies overseas."
+
+State Grid has been building its presence in Australia's energy sector since 2012, after buying a 41 percent
+stake in South Australian electricity supplier ElectraNet Pty Ltd from the State of Queensland-owned Powerlink.
+
+In 2013, the company bought stakes worth another A$5 billion in the country's power companies, including 60
+percent of SPI (Australia) Assets Pty Ltd, a wholly owned subsidiary of Singapore Power, and a 19 percent
+stake in its sister company SP AusNet.
+
+Liu Zhenya, the president of State Grid, has said the company aims to quadruple its overseas assets by 2020,
+bringing their value to as high as $50 billion.
+
+lvchang@chinadaily.com.cn
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/2
+
+8/27/2017
+
+Factiva
+
+CO  stgcoc : State Grid Corporation Of China | tastr : TransGrid
+
+IN  i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | i16102 : Electric Bulk Power Transmission |
+
+ieutil : Electric Utilities | iutil : Utilities
+
+RE  austr : Australia | china : China | nswals : New South Wales | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania |
+bric : BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+easiaz : Eastern Asia
+
+PUB  China Daily Information Company
+
+AN  Document CDUSDE0020151124ebbo0000g
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/2
+
+

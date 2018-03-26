@@ -1,0 +1,109 @@
+8/27/2017
+
+Factiva
+
+SE  DataRoom
+HD  TransGrid sale could top $10bn
+BY  Bridget Carter & Gretchen Friemann - The Australian
+WC  525 words
+PD  24 November 2015
+SN  Business Spectator - Online
+SC  NBSPEC
+LA  English
+CY  © 2015 News Limited. All rights reserved.
+LP  State Grid, Macquarie Infrastructure Real Assets likely bid over $10bn for NSW network.
+
+State Grid and its partner, Macquarie Infrastructure Real Assets, is believed to have bid more than $10 billion for
+the NSW government’s transmission network.
+
+TD  The knockout price is likely to clinch the deal in the closely watched contest.
+
+The other bidding groups most likely lobbed offers of between $9.5bn and $10bn, sources said.
+
+Final bids were due yesterday.
+
+Some believe that should one consortium offer a price far higher than others, a preferred party will be
+announced tomorrow or Thursday, but if bids are close, it could take a fortnight for the government to announce
+a buyer.
+
+State Grid and its Macquarie backers have been under the spotlight since the Deutsche and UBS-run contest
+began, with some questioning whether the consortium would secure approval from the Foreign Investment
+Review Board for its offer.
+
+The 99-year Trans Grid lease is said to be the most sought-after NSW government electricity asset up for sale,
+because it offers 100 per cent ownership and full management control.
+
+Of all the state government assets for sale, it is thought to be the business least directly affected by the
+increasing threat of households using their own solar panels to generate power.
+
+TransGrid’s regulated asset base is about $6bn, and it has been widely expected to sell for more than 1.4 times
+that number, which had previously placed sale price expectations at about $9bn.
+
+Spark Infrastructure and its bidding partners, advised by JPMorgan and Royal Bank of Canada, are understood
+to have secured a $500 million bridging loan to fund its proposal.
+
+Its backers include Hastings Funds Management, Ontario Teachers Pension Plan, Canada’s Caisse de depot et
+placement du Quebec, the Abu Dhabi Investment Authority and Kuwait’s Wren House.
+
+Others include IFM and Queensland Investment Corporation, advised by Lazard and Barclays and Australian
+Super with the Canadian Pension Plan Investment Board and Borealis, all advised by Morgan Stanley and
+Goldman Sachs.
+
+Meanwhile, one theory circling the market is that State Grid could eventually angle for a takeover of the $5.3bn-
+listed energy provider Ausnet.
+
+The Chinese government-backed company already owns about 20 per cent.
+
+This would be a possibility if State Grid was unsuccessful in securing the government’s $7.4bn-plus distribution
+network Ausgrid.
+
+State Grid, which is the world’s largest utility operator and one of the 10 largest companies globally, is after fully
+owned operational expertise to run TransGrid, according to some market analysts, but the company does not
+have this in Australia.
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/2
+
+8/27/2017
+
+Factiva
+
+Information memorandums for the asset sale are expected to be sent out around mid-December, with all of the
+same bidding consortium groups for TransGrid expected to line up.
+
+Meanwhile, Macquarie’s move to draft in PGGM could see the Dutch pension fund make one of its first major
+Australian acquisitions.
+
+Hesta is also working with State Grid’s partner, the Macquarie infrastructure arm, which is widely known as
+MIRA.
+
+This article first appeared in The Australian Business Review
+[http://www.theaustralian.com.au/business/dataroom/state-grid-in-the-box-seat-with-10bn-bid/story-fnjw8txa-
+1227620243190].
+
+CO  tastr : TransGrid
+
+IN  i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | ieutil : Electric Utilities | iutil : Utilities
+
+NS  c182 : Asset Transactions | c18 : Ownership Changes | cactio : Corporate Actions | ccat : Corporate/Industrial News | ncat :
+
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | cana : Canada | nswals : New South Wales | apacz : Asia Pacific | ausnz : Australia/Oceania | namz :
+
+North America
+
+PUB  News Ltd.
+
+AN  Document NBSPEC0020151123ebbo0015s
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/2
+
+

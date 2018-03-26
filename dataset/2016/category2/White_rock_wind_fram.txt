@@ -1,0 +1,158 @@
+10/7/2017
+
+Factiva
+
+Home
+
+Search
+
+Alerts
+
+Newsletters
+
+News Pages
+
+Companies/Markets
+
+Display Options
+
++ Related Dow Jones Intelligent Indexing™
+
+Listen to Article
+
+ | 
+
+Translate Article | 
+
+Share
+
+SE  Feature
+HD  Investment stalemate puts the renewable energy target at risk
+
+AU  Andrew White
+BY  ANDREW WHITE, RENEWABLES
+WC  1214 words
+PD  16 April 2016
+SN  The Australian
+SC  AUSTLN
+ED  Australian
+PG  29
+LA  English
+CY  © 2016 News Limited. All rights reserved.
+LP  Projects have been delayed for want of long-term contracts
+
+A stand-off between investors, banks and electricity retailers has put Australia at risk of missing even the lower 2020 renewable energy target, with a lack of
+long-term supply contracts stalling the needed $10 billion of development for new solar and wind farms.
+
+TD  Despite hopes a compromise deal on the 2020 RET last year would give the industry certainty to invest, new projects have been stalled as investors and other
+
+project developers push for longer-term contracts to underwrite their investment.
+
+Investors said they were being asked to assume too much merchant risk in selling power on the spot market and were uncomfortable with committing to new
+development. Banks wouldn’t lend as much for projects without long-term contracts, forcing investors to put more equity into a project, industry sources said.
+
+Infrastructure Capital Group chairman Andrew Pickering said energy companies were offering three to five-year contracts for prospective wind and solar
+energy developments, rather than the 10 to 15 years needed to justify investment from infrastructure funds.
+
+“The problem will be that the retailers, not only do they not want to deploy their own balance sheet for these things themselves ... they don’t want to offer long-
+term fixed-price contracts to support these projects,’’ Mr Pickering said.
+
+“They think they can offer short contracts, and for us at least that is a little too far up the risk curve for our liking, a little too much merchant risk in the portfolio.’’
+The industry is facing a critical period, with an estimated $10 billion of investment — equivalent to all spending since 2001 — needed over the next four years
+to meet the 2020 RET target of developing another 6000 megawatts of capacity.
+
+Clean Energy Council chief executive Kane Lucas said more than 6000MW of projects had been given planning approval but were yet to be financed or
+started. Each projects takes about 18 months to develop, according to industry estimates.
+
+Mr Lucas said there was also a surplus of Large Scale Generation Certificates — sold by renewable energy companies to electricity retailers to help underwrite
+the cost of new projects — which was acting as a drag on development.
+
+“This is a critical year for the target,’’ he said.
+
+“Each of the retailers will have their own targets, but through this year there needs to be a number of projects reach financial close and ready to be in
+production in the next year or two when that shortfall hits.’’ The federal government last year cut the RET from 41 gigawatt hours of generation to 33GW/h after
+a year-long review by businessman Richard Warburton that stalled investment and slashed jobs.
+
+Prices of certificates collapsed from above $60 a megawatt to as low as $22.50 in July amid concerns the target would be cut. But they have since quadrupled
+to $83.50 in January, a level industry observers say makes green energy projects highly profitable.
+
+John Titchen, the chief executive of GoldWind Australia, a Chinese wind turbine supplier, said the industry should be building capacity at the moment because
+the strength of the LGC price showed the market was concerned about a shortfall of capacity.
+
+“The LGC price is strong, the market conditions are right for investment,’’ Mr Titchen said.
+
+GoldWind has partnered with CECP Wind-Power Corporation to develop the White Rock wind farm west of Glen Innes in the New England region of NSW.
+
+The 175MW project will be the largest in NSW when it comes online late next year.
+
+But work will start later this month despite the project having no long-term supply contracts, with Goldwind funding the development via its own balance sheet
+and taking merchant risk on the project.
+
+ICG’s Mr Pickering said that without a change in supply contracts the market was likely to require a new class of investor, such as equipment manufacturers
+like GoldWind with the balance sheet and risk appetite to finance developments on expectations of strong prices. ”The risk premium for these projects is going
+to go up,’’ Mr Pickering said.
+
+“The banks will not be able to gear up very much so the capital will need to be equity and I am not sure who is going to provide it.
+
+“It is unlikely to be infrastructure funds like us. I am not sure how much the retailers can fund, so I would expect to see a new class of investors, be it the
+equipment suppliers, more developers who have a bit of a balance sheet and like to take risk.’’ Green Energy Markets analyst Tristan Edis said the market
+needed to go through a period of adjustment to bring in new investors, but there was still uncertainty about the long-term price and supply for the large-scale
+generation certificates.
+
+“I think we will see some investment but it will probably be too slow and not enough to meet the target,’’ Mr Edis said.
+
+https://global-factiva-com.virtual.anu.edu.au/ga/default.aspx
+
+1/2
+
+10/7/2017
+
+Factiva
+
+The chief executive of the government-funded Clean Energy Finance Corporation, Oliver Yates, said the volatility of the price of the certificates had caused
+concerns for some investors, but they would have to fall a long way for investors to lose money. A wind farm can receive about $40 a megawatt hour for power
+and about $80 for the certificates for a combine price of $120. That combined price would have to fall below $50 to lose the owner money.
+
+“The underlying asset is still good, but you can’t get as much debt as you used to and will have to put more equity in,’’ Mr Yates said, “That should not affect
+their long-term returns, because if they put more in and develop the project the market will turn eventually and they will get long-term contracts.’’ The GoldWind
+investment is among a handful of new investments announced since June when the new RET was settled.
+
+Origin recently announced a 15-year deal with Spanish group FRV for the offtake from the 56MW Moree Solar Farm and is evaluating Darling Downs as a site
+for utility-scale solar in Queensland. “Origin supports the RET and, consistent with our renewables position, we intend to meet our obligation under the target,’’
+the company said.
+
+AGL, the country’s biggest emitter, said in February it would establish a $3 billion fund to house renewable energy projects, including its recently completed
+solar project in western NSW. AGL will tip $200 million into the fund and invite others, including infrastructure funds, to invest alongside.
+
+The Clean Energy Finance Corporation has also announced a partnership with fund manager Palisade to accelerate $1 billion of investment in renewable
+energy, while the federal government has announced a $1bn clean energy innovation fund.
+
+Environment Minister Greg Hunt said more than 550MW of investment had been announced since and innovative new ways of financing projects were
+emerging.
+
+“We expect more major announcements in the near future with a significant pipeline of investment,’’ Mr Hunt said.Mr Lucas said there was a strong incentive
+for retailers to correct the market and buy capacity as they would face fines for failing to purchase 20 per cent of electricity from renewable sources by 2020.
+
+IN  i163 : Renewable Energy Generation | iwind : Wind Energy | i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power Generation | ieutil : Electric Utilities | iutil :
+
+Utilities
+
+NS  ccat : Corporate/Industrial News
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  News Ltd.
+
+AN  Document AUSTLN0020160415ec4g0008q
+
+UI Ver:99.1.0 Mod:22:40 ID:FWEB7
+
+© 2017 Factiva, Inc. All rights reserved.  Terms of Use Privacy Policy Cookie Policy
+
+ 
+
+https://global-factiva-com.virtual.anu.edu.au/ga/default.aspx
+
+2/2
+
+

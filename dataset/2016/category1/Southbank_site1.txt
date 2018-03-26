@@ -1,0 +1,124 @@
+SE
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Business
+Southbank site in play for $65m
+
+473 words
+4 February 2016
+The Australian - Online
+AUSTOL
+English
+© 2016 News Limited. All rights reserved.
+
+A Chinese development syndicate is set to storm into the Melbourne development market, with the
+group eyeing the purchase of a Southbank site that could sustain a $500 million-plus apartment
+and hotel project.
+Southbank site in play for $65m
+
+The Australian understands Singaporean business heavyweight Michael Kum has agreed to sell the
+site to a Chinese group for nearly $65m.
+Mr Kum, who owns hotel investment company M&L Hospitality Group, bought the site in 2013 for
+just $30m. The 4000sq m parcel, at 38 Freshwater Place, has approval for the construction of a 73
+level, 280m-high tower.
+The Victorian government has approved plans to build 496 apartments and a 390 hotel rooms. The
+planned project, called Ultimus Tower, is close to Crown Resorts and the site that Crown and
+Schiavello Group hope to construct a 90-stroey apartment and hotel tower worth about $1.5 billion.
+
+The building will be among a host of other tall towers slated for Southbank, which is Australia’s
+highest density suburb.
+A six-level office building next to the Freshwater Place site is set to be converted into a 66-level
+apartment tower, while on the other side of the site is the recently built 72-level Prima Pearl
+apartment tower.
+Mr Kum’s site would have attracted premium offers given that a project of this scale would struggle
+to gain the approval of planners due to the year-long interim controls that will be in place in
+Melbourne until August.
+
+After August, State planning minister Richard Wynne will announce a long-term policy for
+plot-rations in the city. There is no certainty a project of this scale would be allowed in the future.
+
+The deal was brokered by agency CBRE, which declined to comment.
+But the Melbourne site sale could be overshadowed by M&L Hospitality’s efforts to offload its
+$1.5bn-plus Australian and New Zealand hotels arm.
+
+The Kum family placed a string of landmark hotels, including Sydney’s Sheraton Four Points and
+Melbourne’s Hilton DoubleTree, on the market in early December.
+It is the largest hotel portfolio sale process in more than a decade and is being handled by
+Rothschild and UBS. They are marketing the six hotel assets in one line with bidding extended to
+close later this month.
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.At least five global institutions are chasing the portfolio, which includes Melbourne’s Travelodge
+Docklands, the Hilton Auckland, Christchurch’s Chateau on the Park and Sydney’s Swissotel.
+M&L last year confirmed it was running the hotel process, but maintained it was not set on a sale. It
+also remains an active developer in Sydney, buying a hotel project in Sussex Street near
+Barangaroo, and undertaking the One Wharf Lane tower adjoining the Sheraton Four Points.
+
+IN
+
+RE
+
+IPD
+PUB
+AN
+
+i5010022 : Residential Building Construction | i501 : Building Construction | iconst : Construction |
+icre : Real Estate/Construction
+austr : Australia | melb : Melbourne | nswals : New South Wales | nz : New Zealand | sydney :
+Sydney | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz : Australia/Oceania
+hotel project
+News Ltd.
+Document AUSTOL0020160204ec240015d
+
+Search Summary
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entitys) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+29/01/2016 to 04/02/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+199
+21 September 2017 13:53
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

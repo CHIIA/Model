@@ -1,0 +1,141 @@
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Business
+Pembroke buys $104m Peabody coal projects
+
+Matt Chambers MINING
+510 words
+11 May 2016
+The Australian
+AUSTLN
+Australian
+22
+English
+© 2016 News Limited. All rights reserved.
+
+Peabody Energy Australia has sold a suite of Bowen Basin coking coal projects to the private
+equity-backed Pembroke Resources for $104 million, in a move that will provide a further buffer
+from the pressures of Peabody’s bankrupt US parent.
+It is the first purchase from Sydney-based Pembroke, which is run by former Gloucester Coal chief
+Barry Tudor and owned by the Boston-based Denham Capital Group.
+
+Pembroke will pay a total of $120m plus a royalty for the assets, some of which will go to Peabody’s
+partner in the projects, China’s Citic Resources, The sale comes with Peabody Energy, the world’s
+biggest private sector coal company, in Chapter 11 bankruptcy in the US, but its Australian assets
+excluded.
+
+But as revealed in The Australian last month, Peabody Australia is subject to potential cash calls
+related to the US operations that make it uncertain whether it can continue as a going concern.
+The $104m received from the sale to Pembroke will add to a $US250m ($340.6m) loan facility
+provided by the parent company last month to provide working capital and liquidity.
+Over the weekend, Peabody released March quarter results showing its Australian operations were
+making cash overall but that its coking coalmines, which account for about half of production, were
+now out of the money.
+
+So while Peabody’s Australian thermal coalmines made earnings before interest, tax, depreciation
+and amortisation of $US42.9m, down from $US48.3m a year earlier, coking coal reported a $US37m
+loss, down from a $US13.6m profit a year earlier.
+
+Peabody would not comment on the prospects for the coking coalmines. “Peabody will continue to
+evaluate opportunities to reshape its platform to best compete in key regions,” a spokeswoman said.
+
+“We have said publicly many times that the Australian assets represent a core region with excellent
+access to high demand Asia markets through both our thermal and metallurgical platform.”
+Pembroke, formed in May 2014 with a $US200m spending limit from Denham, gave no information
+on its plans for the projects, but is expected to provide a better idea in coming months.
+“Pembroke will continue to assess other acquisition and development opportunities as it seeks to
+further build out its portfolio of high quality metallurgical coal assets,” the company said.
+
+The tenements are known as the Olive Downs complex and comprise the Olive Downs South, Olive
+Downs North and Willunga deposits acquired in Peabody’s 2011 takeover of Macarthur Coal.
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.According to the takeover documents, in 2011 Olive Downs North was the most advanced project,
+with 11.6 million tonnes of coal reserves and 93 million tonnes of resources.
+The resources are primarily pulverised coal injection (PCI) coal, which Macarthur was built on. Olive
+Downs South (coking coal, PCI and thermal coal) and Willlunga (PCI and thermal) had not been
+proved up enough to report reserves but had a combined resource of 515 million tonnes.Peabody
+has reported its share of the ground had resources of 165 million short tons.
+
+CO
+
+IN
+
+NS
+RE
+PUB
+AN
+
+pbdy : Peabody Energy Corp | seawd : CITIC Resources Holdings Ltd | citic : CITIC Group
+Corporation
+i1 : Energy | i111 : Coal Mining | i13 : Crude Oil/Natural Gas | ibasicm : Basic Materials/Resources |
+iexplo : Natural Gas/Oil Exploration | imet : Mining/Quarrying
+c11 : Plans/Strategy | ccat : Corporate/Industrial News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+News Ltd.
+Document AUSTLN0020160510ec5b0001w
+
+Search Summary
+
+Text
+
+((chin* or hong kong)) and (
+
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or assets) and
+(transaction* or purchase* or sale or sold or buy) )
+
+or
+
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+
+or
+
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+
+)
+
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+and re=austr
+06/05/2016 to 12/05/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+166
+9 October 2017 21:58
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

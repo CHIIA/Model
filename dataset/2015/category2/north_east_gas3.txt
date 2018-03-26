@@ -1,0 +1,195 @@
+8/27/2017
+
+Factiva
+
+SE  Chanticleer
+HD  NT's blueprint for infrastructure
+BY  TONY BOYD
+WC  1376 words
+PD  18 November 2015
+SN  The Australian Financial Review
+SC  AFNR
+ED  First
+PG  48
+LA  English
+CY  Copyright 2015. Fairfax Media Management Pty Limited.
+LP  The Northern Territory's $1 billion gas pipeline to bring natural gas to the eastern states provides a blueprint for
+
+constructing infrastructure that is entirely funded by the private sector.
+
+At a time when governments in Western Australia and Queensland are struggling under the weight of their
+debts, NT Chief Minister Adam Giles has shown a pathway to open up the states gas resources without
+troubling taxpayers.
+
+TD  The competitive bidding process for the North East Gas Interconnector (NEGI) resulted in four companies vying
+
+for the right to build a pipeline to connect to the east coast gas network.
+
+Chinese-owned energy and water utility company Jemena, which is headed by Paul Adams, won the bid to build
+the 622-kilometre northern route between Tennant Creek and Mt Isa.
+
+There were plenty of bouquets and brickbats for Giles when the decision was announced. Central Petroleum's
+Richard Cottee and the Australian Industry Group attacked the decision not to go with the much more expensive
+southern route option. Cottee will be a beneficiary of the northern route but he laments the fact that federal and
+state governments did not step in to subsidise the southern route and significantly boost the supply of gas to the
+east coast.
+
+What Cottee and the AI Group have ignored is two things. First, molecules of gas can be moved anywhere in the
+network. The important things is being in the network. Second, if Giles had put his hand out for other state
+governments to step in and fund a pipeline nothing would have happened.
+
+Instead, Giles took the brave step of seeing if the private sector could, with the initial support of government-
+contracted gas supply, finance and build the pipeline without government funding. Giles was prepared to provide
+debt guarantees.
+
+A process that started in December 2014 has drawn to a conclusion in less than 12 months with a solution that
+is cost effective and can be built relatively quickly.
+
+Standing behind the entire process was a decision made several years ago by Giles to call in expert external
+advice on the management of government finances and the involvement of the private sector.
+
+Giles formed an economic advisory council comprising two people who were respected in their fields - Doug
+McTaggart, the former chief executive of the Queensland Investment Corporation and Ian Smith, a partner in the
+firm Bespoke Approach. McTaggart and Smith advised Giles to sell the government owned general insurer, the
+TIO and the Darwin Port Corporation. Also, they advised the government to seek advice on how to finance a
+pipeline connecting the territory to the east coast gas network.
+
+The TIO sale was handled by Flagstaff Partners and the pipeline advice came from Port Jackson Partners.
+
+The private sector funding of the NT pipeline is also a symbol of the co-operation between states, particularly
+Queensland and South Australia.
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/3
+
+8/27/2017
+
+O'Dwyer's slow reveal
+
+Factiva
+
+When the Minister for Small Business and Assistant Treasurer, Kelly O'Dwyer, lifted the veil of secrecy
+surrounding the government's plans for crowd-sourced equity funding it sent shockwaves through the tech
+sector.
+
+Lawyers, venture capitalists and crowd sourced equity funding experts were horrified with what they heard. They
+were left with the impression that more than a year of consultations had been for nought.
+
+O'Dwyer said the government's approach would be "focused on Australian public companies with annual
+turnover and gross assets of less than $5 million so that the benefits are targeted."
+
+This revelation caused concern because Australian public companies carry with them a range of obligations that
+are both costly and bureaucratic.
+
+Public companies must be audited twice a year, which can cost $20,000 to $30,000. If they are listed they are
+subject to continuous disclosure obligations and a range of other reporting requirements. Chanticleer
+understands O'Dwyer only told half the story. It is believed that the crowd-sourced equity funding model being
+released with the innovation statement in December will include an exemption from all the usual requirements
+imposed on public companies.
+
+That is an important concession that should assuage those who read O'Dwyer's speech on Monday and
+assumed that Treasury officials had not been listening during the consultation period.
+
+The special exemption for public companies will be made instead of allowing the use of proprietary limited
+companies because the legislation says these companies cannot have more than 50 shareholders.
+
+During her speech she said that the maximum funds that an issuer may raise in any 12 month period will be
+capped at $5 million. That is five times higher than the cap imposed in the United States.
+
+That will be welcomed by many in the industry. However, the $5 million cap on gross assets and revenue could
+still cause angst among those who think equity crowd funding should be available to larger companies.
+
+Theoretically, larger companies would pose less risk to investors.
+
+Critical issues that need to be resolved and which will have a critical bearing on the success or otherwise of
+crowd sourced equity funding are licensing arrangements.
+
+If an Australian Financial Services Licence is required it will make the system more costly and forced new
+companies into the arms of intermediaries. A smarter system would be to use a bulletin board approach that
+matches investors with companies raising cash.
+
+Woolworths chairman Gordon Cairns is moving quickly to rebuild the company's board of directors. His
+appointment of Holly Kramer, the former Telstra marketing executive and former CEO of Best & Less, is a good
+start.
+
+At Best & Less, Kramer inherited a company with a five-year track record of declining sales and profits. She
+hired the best buyers as the starting point of her turnaround strategy. She has since taken directorships at Nine
+Entertainment Co and financial services group, AMP.
+
+Cairns has resisted the pressure to appoint former chief executive Roger Corbett to the board. But bringing him
+in as a consultant is a reasonable second best option.
+
+Corbett's eight-year directorship of one of the world's largest retailers, Walmart, has kept him well informed
+about global retail trends.
+
+Companies in strife tend to be a magnet for trouble. That appears to be happening at Woolworths. Its shares hit
+a 12-month low on Tuesday.
+
+One of the many problems causing vexation among the company's senior executive team is the SAP software
+which was installed over the past few years as part of the $100 million Project Galaxy. SAP is a German
+company that makes software which is widely used by multi-nationals and locally listed companies. It is said to
+offer an industrial strength foundation for managing finance, inventory, human resources and logistics.
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/3
+
+8/27/2017
+
+Factiva
+
+It is not a very flexible product. In fact, many companies have changed the way they run their businesses in
+order to make the software work as smoothly as possible.
+
+BHP Billiton runs on SAP systems. This is said to be the abiding legacy of former chief executive Marius
+Kloppers. Although some would argue that his greatest legacy was the global introduction of the spot pricing of
+iron ore.
+
+At Woolworths, the SAP implementation was designed to make it cheaper and easier to source products across
+the group.
+
+But glitches in the system meant that shelves were left empty in 2014. Suppliers to BigW were frustrated by the
+inability of Woolies customers to purchase their goods. Woolworths admitted to the problems during its last two
+financial results. While many in the market believed the software problems had been resolved that is not the
+case.
+
+Woolworths executives do not want to discuss the issues because they don't want to be seen blaming SAP for
+the company's problems.
+
+It is noble for the company to stand back from blame shifting. But shareholders deserve to know the truth if a
+software implementation of this magnitude has been bungled.
+
+Chanticleer understands that the after the system was rolled out to BigW it caused severe problems for the
+supermarkets and still is. For example, adding a new product to the shelves takes about two hours because the
+request is first routed through the entire database of BigW products.
+
+Twitter: @TonyBoydAFR
+
+tony.boyd@afr.com.au
+
+CO  ctrpet : Central Petroleum Limited
+
+IN  i13 : Crude Oil/Natural Gas | i1 : Energy | iexplo : Natural Gas/Oil Exploration
+
+NS  c183 : Privatizations/Nationalization | gpol : Domestic Politics | nedc : Commentaries/Opinions | ccat : Corporate/Industrial
+
+News | c18 : Ownership Changes | cactio : Corporate Actions | gcat : Political/General News | gpir : Politics/International
+Relations | ncat : Content Types | nfact : Factiva Filters | nfcpex : C&E Executive News Filter | nfcpin : C&E Industry News
+Filter
+
+RE  austr : Australia | nterry : Northern Territory | queensl : Queensland | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  Fairfax Media Management Pty Limited
+
+AN  Document AFNR000020151117ebbi00004
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=Publication
+
+3/3
+
+

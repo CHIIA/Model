@@ -1,0 +1,96 @@
+8/26/2017
+
+Factiva
+
+CLM  Heard on the Street
+
+SE  Markets
+HD  Santos Must Pray Harder for Oil’s Rebound; By keeping its prized possessions, Australian energy company Santos is
+
+betting that the oil price will recover. This is a gamble
+
+BY  By Abheek Bhattacharya
+WC  519 words
+PD  9 November 2015
+ET  21:14
+SN  The Wall Street Journal Online
+SC  WSJO
+LA  English
+CY  Copyright 2015 Dow Jones & Company, Inc. All Rights Reserved.
+LP  There are no easy choices for a burdened oil and gas producer when oil is cheap. But in deciding to sell new
+shares near the bottom of the cycle instead of selling assets, Australia's Santos is betting it can hang around
+long enough for the cycle to turn. However, that may be longer than investors should be willing to wait.
+
+Santos Ltd . announced Monday a series of steps to raise a total $2.5 billion in capital
+[http://www.wsj.com.virtual.anu.edu.au/articles/santos-to-raise-2-46-billion-with-share-issue-gas-field-sale-
+1447024021]. It will issue new shares to Chinese private-equity giant Hony Capital at a 15% premium to Friday's
+closing price. Next, it will launch a rights offering for all shareholders, including Hony, at a hefty 35% discount to
+the Friday price. Last, it will sell its stake in an eastern Australian gas asset to a Japanese trader, though that
+only fetches $370 million.
+
+TD  These initiatives bring down Santos' net debt to about 40% of equity, in line with BHP Billiton , from a worrisome
+
+89% as of June. This probably staves off a downgrade by credit-rating firms, resolving the big question
+surrounding this company's near future.
+
+The price of this deleveraging is painful, primarily an increase in the number of its shares by some 60%,
+calculates Sanford C. Bernstein. Shareholders should want to know why Santos didn't exercise the alternatives.
+Last month, a private-equity fund backed by Brunei royalty made a lowball offer for the whole company
+[http://www.wsj.com.virtual.anu.edu.au/articles/oil-bargain-hunting-remains-elusive-game-1445502742], which
+Santos rejected.
+
+Why not more asset sales, though? One possibility was the sale of assets in Western Australia
+[http://blogs.wsj.com.virtual.anu.edu.au/privateequity/2015/10/02/eig-noble-joint-venture-bids-for-santos-assets/]
+worth $1 billion and in Southeast Asia up to $750 million, according to Financial News. That these deals didn't
+materialize suggests Santos didn't get the bids it wanted. In contrast, the one eastern Australian asset it is
+ejecting isn't key for its portfolio.
+
+By keeping its prized possessions, Santos is betting that the oil price will recover. This is a gamble. The
+company factored in an oil price of $70 a barrel in 2016 and $90 in 2018, when it tested for asset impairments as
+recently as June. But the futures curve currently shows Brent not even crossing $56 by the end of 2016 and $61
+by the end of 2018, from $48 today. Santos might have to write down some asset values soon.
+
+Santos halted trading of its shares until Thursday. When the shares restart, they should immediately fall in price
+to account for the dilution, plus a cut in the dividend per share. The stock could rise slightly afterward if the
+substantial number of short sellers in Santos call it victory and close their positions, since the company has
+addressed the primary risk surrounding the balance sheet.
+
+In the long term, though, the outlook for Santos is wedded to the oil price. And that doesn't yet look promising.
+
+Write to Abheek Bhattacharya at abheek.bhattacharya@wsj.com [mailto:abheek.bhattacharya@wsj.com]
+
+CO  sants : Santos Ltd
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/2
+
+8/26/2017
+
+Factiva
+
+IN  i1 : Energy | i13 : Crude Oil/Natural Gas | i1300003 : Crude Petroleum Extraction | iextra : Natural Gas/Oil Extraction
+
+NS  c181 : Acquisitions/Mergers/Divestments | c182 : Physical Asset Transactions | cacqu : Acquisitions/Mergers | m14 :
+
+Commodity Markets | mcat : Commodity/Financial Market News | ncolu : Columns | c18 : Ownership Changes | cactio :
+Corporate Actions | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion
+Filter | nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | ausnz : Australia/Oceania | apacz : Asia Pacific
+
+IPD  Heard on the Street
+
+PUB  Dow Jones & Company, Inc.
+
+AN  Document WSJO000020151109ebb90038p
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/2
+
+

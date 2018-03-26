@@ -1,0 +1,113 @@
+HD
+WC
+PD
+ET
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+CO
+
+IN
+
+NS
+
+Hony's Exit from Santos Baffles Credit Suisse -- Market Talk
+
+182 words
+29 March 2016
+08:00
+Dow Jones Institutional News
+DJDN
+English
+Copyright © 2016, Dow Jones & Company, Inc.
+
+2159 GMT - Credit Suisse is baffled by Chinese private equity firmHony Capital 's US$750 million sale
+of its 11.7% stake in Australian oil and gas producer Santos (STO.AU) to ENN Ecological Holdings
+(600803.SH), a unit of Chinese gas distributor ENN. Hony bought the stake in Santos as part of the
+Australian company's review in November 2015, and was billed as a long-term strategic investor.
+Clearly that's not how it panned out in this case. Credit Suisse says Hony bought shares at an average
+price of A$4.90 each. "With the move in the Australian dollar, it has possibly actually not lost money on
+the deal," Credit Suisse says. "That said, it doesn't seem to have locked in a huge profit." It keeps an
+outperform call on Santos and a A$4.10/share price target. STO last traded at A$4.03.
+(david.winning@wsj.com; @dwinningWSJ)
+
+(END) Dow Jones Newswires
+
+March 28, 2016 18:00 ET (22:00 GMT)
+
+hbwynd : ENN Ecological Holdings Co.,Ltd. | hnycp : Hony Capital (Beijing) Co., Ltd. | sk : Credit Suisse
+Group AG | sants : Santos Ltd | legndh : Legend Holdings Ltd
+i1 : Energy | i13 : Crude Oil/Natural Gas | i1300003 : Crude Petroleum Extraction | i25 : Chemicals |
+i2568 : Pesticides | i814 : Banking | i81502 : Trusts/Funds/Financial Vehicles | i8150203 : Private Equity |
+iagro : Agrochemicals | ialtinv : Alternative Investments | ibasicm : Basic Materials/Resources | ibnk :
+Banking/Credit | iextra : Natural Gas/Oil Extraction | ifinal : Financial Services | iibnk : Integrated Banks |
+iinv : Investing/Securities
+c181 : Acquisitions/Mergers/Divestments | namt : All Market Talk | ndjmt : Dow Jones Market Talk |
+neqac : Equities Asset Class News | nfiac : Fixed Income Asset Class News | c18 : Ownership Changes |
+cactio : Corporate Actions | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : C&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+PUB Dow Jones & Company, Inc.
+AN
+
+Document DJDN000020160328ec3s002n5
+
+Search Summary
+
+Text
+
+((chin* or hong kong)) and (
+
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or assets) and
+(transaction* or purchase* or sale or sold or buy) )
+
+or
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+
+or
+
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+
+)
+
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+and re=austr
+25/03/2016 to 31/03/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+127
+2 October 2017 22:44
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

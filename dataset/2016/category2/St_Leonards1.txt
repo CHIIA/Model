@@ -1,0 +1,118 @@
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Property
+China Poly Group debut in St Leonard
+
+Su-Lin Tan
+296 words
+1 March 2016
+The Australian Financial Review
+AFNR
+First
+33
+English
+Copyright 2016. Fairfax Media Management Pty Limited.
+
+Chinese conglomerate and property heavyweight China Poly Group Corporation has joined the
+stampede of developers rushing into Sydney's St Leonards South residential precinct when it
+snapped up another coveted development site for just under $80 million.
+The 7414-square-metre site between Berry and Park Roads in Sydney's lower north shore is an
+amalgamation of 19 houses sold in one-line.
+
+Marketed as "Pinnacle", the site has the potential for high-rise residential apartment buildings up to
+14 levels with basement parking. Located 300 metres from St Leonards train station, the elevated
+site has uninterrupted harbour and city skyline views.
+Agents CBRE, which marketed the site declined, to comment on it.
+The powerful state-owned $75 billion Poly Group is involved in many industries, including real
+estate. Its real estate businesses are publicly listed in Shanghai and Hong Kong and worth about
+$20 billion to the group. It is one of the top five developers in China.
+
+It has global businesses and has attracted controversy for its arms dealing and weapons
+manufacturing businesses through another subsidiary, Poly Technologies. The group, which is
+already in the Sydney housing market, acquired a development site in Epping in Sydney's north last
+year for about $110 million, according to sources.
+Poly joins Chinese developer Greenland as the other state-backed group making a big play at
+Australia's housing market. Greenland is building Sydney CBD's tallest tower, Greenland Centre,
+and has built the Primus Hotel.
+Other Chinese developers in the St Leonards south area include a Hong Kong developer who paid
+$66 million for nine houses on Holdsworth Avenue and Canberra Street and Zhengtang Investments
+which paid over $60 million for ten houses this year.
+
+CO
+IN
+
+NS
+
+cpolgc : China Poly Group Corporation
+ireest : Real Estate | icre : Real Estate/Construction | i8396 : Diversified Holding Companies | ibcs :
+Business/Consumer Services
+ccat : Corporate/Industrial News
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.RE
+
+PUB
+AN
+
+china : China | austr : Australia | nswals : New South Wales | sydney : Sydney | apacz : Asia Pacific |
+asiaz : Asia | ausnz : Australia/Oceania | bric : BRICS Countries | chinaz : Greater China | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia
+Fairfax Media Management Pty Limited
+Document AFNR000020160229ec310000p
+
+Search Summary
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entitys) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+26/02/2016 to 03/03/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+236
+20 September 2017 11:29
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

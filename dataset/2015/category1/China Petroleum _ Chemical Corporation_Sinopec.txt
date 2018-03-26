@@ -1,0 +1,71 @@
+8/26/2017
+
+Factiva
+
+SE  Market Wrap - Street Talk
+HD  Pens down on Santos sales as equity option explored
+BY  Edited by Sarah Thompson; Anthony Macdonald and Joyce Moullakis
+WC  344 words
+PD  4 November 2015
+SN  The Australian Financial Review
+SC  AFNR
+ED  First
+PG  16
+LA  English
+CY  Copyright 2015. Fairfax Media Management Pty Limited.
+LP  Santos is understood to have stopped work on potential asset sales as the company and its advisers explore
+
+equity options to shore up its balance sheet.
+
+Street Talk understands Santos, which is advised by Deutsche Bank and Lazard, has turned its attention to Asia
+as it seeks a white knight cornerstone investor, as flagged by Street Talk on Tuesday.
+
+TD  Sources said China Petroleum & Chemical Corporation , known as Sinopec, could fit the bill, while any strategic
+
+placement would likely be capped at 15 per cent of the company's issued equity and its investment would be
+accompanied by a rights issue to existing shareholders.
+
+Securing a white knight backer could also effectively block any move by Santos' suitor, Middle East-backed
+Scepter Partners, which lobbed a $7.14 billion indicative bid a fortnight ago. The hard part for Santos would be
+pricing the deal, given turbulence in the underlying stock and the oil price, and Scepter's $6.88-a-share
+indicative offer. It may seem odd for Santos to offer new shares at $5 to $5.50 each, while also saying no to a
+$6.88-a-share bid.
+
+Santos shares closed at $6.21 on Tuesday, up 4.4 per cent.
+
+The decision to stop working on asset sales comes after Santos had sought bids for all or part of its portfolio,
+including its West Australian assets, its stake in the PNG LNG project and its gas assets off the coast of Victoria.
+
+As Street Talk has previously reported, Santos had been seeking bids for assets of the company as a whole by
+October 20 before extending the deadline by one week. (Santos did strike a deal to sell its stake in the Stag oil
+field in Western Australia, however, that process was outside of the wider strategic review).
+
+Santos' board, headed by executive chairman and owner of the strategic review Peter Coates, met to review the
+offers last week.
+
+CO  cpetc : China Petroleum and Chemical Corp (Sinopec Corp) | sants : Santos Ltd | chpc : China Petrochemical Corp
+
+IN  i1 : Energy | i13 : Crude Oil/Natural Gas | i1300003 : Crude Petroleum Extraction | iextra : Natural Gas/Oil Extraction | iioil :
+
+Integrated Oil/Gas
+
+NS  c182 : Physical Asset Transactions | c1513 : Sales Figures | ccat : Corporate/Industrial News | c15 : Financial Performance
+
+| c151 : Earnings | c18 : Ownership Changes | cactio : Corporate Actions | ncat : Content Types | nfact : Factiva Filters |
+nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  Fairfax Media Management Pty Limited
+
+AN  Document AFNR000020151103ebb400008
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/1
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+

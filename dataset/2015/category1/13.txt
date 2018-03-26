@@ -1,0 +1,157 @@
+8/26/2017
+
+Factiva
+
+SE  Industries
+HD  A shift in focus for Santos
+BY  Stephen Bartholomeusz
+WC  1268 words
+PD  9 November 2015
+SN  Business Spectator - Online
+SC  NBSPEC
+LA  English
+CY  © 2015 News Limited. All rights reserved.
+LP  After enduring its moment of crisis, Santos has unveiled measures that ought to ensure its stability in a low oil
+
+price environment.
+
+The shape of Santos’ response to the leverage in its balance sheet is somewhat different to what might have
+been anticipated when it began its strategic review nearly three months ago.
+
+TD  Nevertheless, the $3.5 billion of measures the group unveiled today ought to ensure its stability and, in the near
+term at least, continued independence. Moreover, the solution doesn’t involve selling down any of its exposures
+to its best assets: its portfolio of LNG operations.
+
+The package of measures Santos has opted for does involve a $2.5bn equity raising but, with some help from
+the takeover approach from a consortium of ultra-wealthy Asian and Middle Eastern investors, the deeply-
+discounted entitlement issue will be priced at a level ($3.85 a share) that would have been unthinkable when the
+shares were trading down towards $4 a share early last month.
+
+The fully underwritten issue is the centrepiece of a debt-reduction package that includes the sale of Santos’ 35
+per cent interest in the Kipper gas field off Victoria to Mitsui for $520 million.
+
+Potentially more controversial is a $500m placement, at $6.80 a share or a 15 per cent premium to Santos’
+closing price last week, to China’s largest private equity firm, Hony Capital . The placement will give Hony (which
+already had a 1.4 per cent shareholding in Santos and which will participate in the entitlement issue) a 7.9 per
+cent stake in Santos .
+
+As the placement shares will participate in the equity raising, the effective blended price Hony will pay is about
+$5.70 a share.
+
+Hony, which counts among its investors Singapore’s Temasek , the Bill & Melinda Gates Foundation and
+Goldman Sachs , has agreed to cap its Santos shareholding at 9.9 per cent for the next three months and not to
+sell any of the shares acquired through the placement and issue for 12 months.
+
+The takeover approach from the Scepter consortium that Santos rejected out of hand was pitched at $6.88 a
+share, so the placement price helps put that approach, which Santos saw as opportunistic, into perspective.
+
+Scepter, of course, would point to the average price Hony will pay rather than the headline $6.80 a share for the
+placement to argue that its offer wasn’t completely out of the ballpark of reasonableness.
+
+Hony’s motivation in acquiring the Santos stake isn’t clear (it first appeared on the register a couple of months
+ago) but it would make some sense as a counter-cyclical value play. In the near term, at its proposed level, it
+wouldn’t be sufficient to deter further takeover approaches but its stake would help put a floor under the starting
+point for any discussions.
+
+The various strands of the Santos package and the $3.5bn of cash they will generate will make a major dent in
+the group’s destabilising net debt of $8.8bn, reducing it (after taking into account foreign exchange impacts) to
+$6.2bn.
+
+The excessive leverage in Santos’ balance sheet is largely due to the group’s 30 per cent interest in the
+$US18.5bn GLNG export project in Queensland.
+
+The project has just started shipping gas -- there have been two shipments -- and cash flows from the project
+will build over the next 18 months to two years, particularly once its second train starts operating early next year.
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/3
+
+8/26/2017
+
+Factiva
+
+The project is cash flow-positive at an oil price of $US40 a barrel.
+
+It was the timing of the collapse in the oil price -- just as Santos’ funding of its share of the project was peaking
+but before GLNG was generating any cash flows -- that created the focus on its balance sheet, savaged its
+share price and ultimately forced it to act decisively.
+
+Well-respected chief executive David Knox stepped aside as the crisis enveloped the group, with its chairman,
+Peter Coates, taking charge of the strategic review and the search for Knox’s successor. Santos announced
+today that Clough Ltd chief executive and long-time senior Woodside executive Kevin Gallagher will take up the
+role early next year.
+
+Much of the focus of speculation about the outcome of the review centred on what Santos would have to sell to
+have any meaningful impact on its debt levels. There was an expectation that it would be forced to sell down a
+slice of its best asset -- its 13.5 per cent interest in the PNG LNG project -- as the core of the debt-reduction
+package.
+
+The outcome it has settled on, with only one non-core asset sale, leaves Santos’ LNG portfolio (which would
+have been the major attraction to both the Scepter consortium and Hony) intact.
+
+While there is a big call on Santos shareholders and a placement of a potentially strategic stake to Hony in the
+final outcome of the review, avoiding the sale of interests in its core assets during what is probably the low point
+in the oil price cycle (LNG is sold at oil-linked prices) is arguably a better outcome for shareholders.
+
+Santos, before it announced the strategic review, had been under a lot of pressure to raise equity but had
+resisted as its share price kept falling.
+
+The impact of the approach from the Scepter consortium on the Santos share price created an opportunity to
+issue equity on somewhat better terms, although it is arguable that a deeply-discounted issue that gives all
+shareholders an opportunity to participate or receive value for their entitlements would be fair regardless of the
+price.
+
+Santos has now given itself a better opportunity to get through the next 12 to 24 months as the GLNG project
+ramps up and starts to generate meaningful free cash flows, hopefully in a stronger oil price environment.
+
+It will help that its capital expenditures, having already been slashed from the original 2015 guidance of $2.7bn
+to $1.8bn, will fall further in 2016, to $1.2bn.
+
+Santos has also carved into its operating costs -- it has reduced its cost base by about $370 million a year -- and
+said today it would change its dividend policy to one where dividends were set as a payout ratio of earnings,
+expected to be a minimum of 40 per cent of after-tax profits.
+
+Having had its moment of crisis, all the group’s policies and settings are now geared towards operating with an
+assumption that the current low oil price environment might be sustained for some time.
+
+The appointment of Gallagher reinforces that shift and the focus on costs and financial discipline, given that
+Clough, an engineering and project services contractor, has been fully exposed to the impact of the collapse of
+commodity prices on the resource sector. He also has several decades of international experience in the oil and
+gas sector with Mobil and Woodside.
+
+The strategic review put almost every asset Santos owns up for grabs and would have provided the group with a
+very detailed understanding of what its individual assets might be worth in an environment of depressed oil
+prices and while its status was that of a distressed vendor.
+
+Gallagher, without the near-term balance sheet pressures, will have the benefit of the knowledge gained from
+the review. It will be interesting to see whether the Kipper interest is ultimately the only change to Santos’
+portfolio once its new chief executive has had time to settle into his role.
+
+CO  sants : Santos Ltd
+
+IN  i1 : Energy | i13 : Crude Oil/Natural Gas | i1300003 : Crude Petroleum Extraction | iextra : Natural Gas/Oil Extraction
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+2/3
+
+8/26/2017
+
+PUB  News Ltd.
+
+Factiva
+
+AN  Document NBSPEC0020151109ebb90005o
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+3/3
+
+

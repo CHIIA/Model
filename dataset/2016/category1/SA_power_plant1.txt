@@ -1,0 +1,138 @@
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Companies and Markets
+SA's high power prices drive project
+
+Angela Macdonald-Smith
+405 words
+7 April 2016
+The Australian Financial Review
+AFNR
+First
+22
+English
+Copyright 2016. Fairfax Media Management Pty Limited.
+
+Surging electricity prices for industrial customers in South Australia have triggered plans for a new
+gas-fired power station between local junior Leigh Creek Energy and giant Chinese equipment
+manufacturer Shanghai Electric.
+Leigh Creek managing director David Shearwood said the ASX-listed company had altered the shape
+of its integrated energy project, planned at the Leigh Creek coal deposit 550 kilometres north of
+Adelaide, to be able to supply electricity to industrial customers facing huge increases in power costs
+due to the closure of Alinta's power stations at Port Augusta.
+
+The power plant would have a capacity of 300 megawatts to 600MW, costing between $450 million
+and $900 million, depending on the final capacity, Mr Shearwood said. Start-up is targeted for early
+2019, with all power to be sold under long-term contracts with customers.
+Leigh Creek's business strategy centres on a proposal to produce gas from the underground coal
+deposit using a controversial process known as in-situ gasification. Some of the gas would be used in
+the power plant and for fertiliser production, and the rest transported through a new pipeline to supply
+east coast markets.
+The heads of agreement signed with Hong Kong-listed Shanghai Electric provides for the two to work
+together to set up a joint venture in South Australia that would construct, own and run the gas-fired
+generator.
+The equity split between the partners, funding and arrangements for electricity sales have still to be
+determined.
+
+The venture aims to construct a generator to provide cheaper and reliable electricity to industry and
+mines in South Australia, according to Justyn Peters, executive chairman of Leigh Creek. The
+company's shares surged 16.7 per cent in morning trading.
+
+Leigh Creek, formed through a back-door listing last year using the shell of the former Marathon
+Resources, is about 7.5 per cent owned by China's CITIC.
+Mr Peters said the deal was "a great first step" in Leigh Creek's development as an energy company.
+
+"The generation of base-load power through a gas-fired power station is important both to our
+company and to South Australia," he said.
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.Mr Shearwood said the total project, including power plant, gas production and pipelines, could involve
+an investment approaching $2 billion.
+In-situ gasification involves heating coal underground, to produce methane and other usable gases.
+
+shshe : Shanghai Mechanical & Electrical Industry Co Ltd
+i5020044 : Power Station Construction | i16101 : Electric Power Generation | i1 : Energy | i16 :
+Electricity/Gas Utilities | i502 : Heavy Construction | iconst : Construction | icre : Real
+Estate/Construction | ieutil : Electric Utilities | iutil : Utilities | i3302 : Computers/Consumer Electronics |
+i346 : Household Appliances | icnp : Consumer Goods | idurhg : Durable Household Products | ielec :
+Consumer Electronics | ihome : Home Electronics/Appliances | itech : Technology
+e1111 : Industrial Production | c314 : Pricing | c11 : Plans/Strategy | ccat : Corporate/Industrial News |
+c31 : Marketing/Markets | e11 : Economic Performance/Indicators | ecat : Economic News | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | saustr : South Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+Fairfax Media Management Pty Limited
+Document AFNR000020160406ec470000k
+
+CO
+IN
+
+NS
+
+RE
+PUB
+AN
+
+Search Summary
+
+Text
+
+((chin* or hong kong)) and (
+
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or assets) and
+(transaction* or purchase* or sale or sold or buy) )
+
+or
+
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+
+or
+
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+
+)
+
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+and re=austr
+01/04/2016 to 07/04/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+217
+2 October 2017 23:22
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

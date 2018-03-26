@@ -1,0 +1,112 @@
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Property
+Charsfield Hotel earns $28m
+
+Su-Lin Tan
+231 words
+22 June 2015
+The Australian Financial Review
+AFNR
+First
+31
+English
+Copyright 2015. Fairfax Media Management Pty Limited.
+
+Renzella Group has sold 478 St Kilda Road, Melbourne, which houses the heritage-listed Hotel
+Charsfield, to Beijing-based China's Ever Bright Group for $28 million.
+The site, between Fawkner and Albert Park, has a town planning submission to construct a
+60-metre residential tower with retail and office spaces in the first two levels. The 4-star Hotel
+Charsfield, a mansion that represents early St Kilda Road Victorian architecture, will be maintained
+on the site while all other buildings will be demolished.
+
+Architects Rothe Lowman recommended the construction of the new tower, with an incurvation, four
+metres behind the mansion. It will include an outdoor barbecue area and will have views of the
+Melbourne CBD skyline and Albert Park as well as a rooftop communal gym for residents.
+Renzella Group is a property development and management group headed up by Michael
+Renzella, who purchased and restored the Hotel Charsfield in 1988. The company owns various
+projects in the Melbourne CBD and inner south-east Melbourne.
+Ever Bright is based in Melbourne and Beijing. It is developing boutique project Lucia Apartments in
+South Yarra with LYZ Property Group, formerly HengMao Real Estate Development, and is
+involved in a controversial townhouse and apartment project on the Stonington mansion site in
+Malvern.
+Neither the Renzella Group nor Every Bright Group was able to comment.
+
+IN
+NS
+
+RE
+
+PUB
+AN
+
+ireest : Real Estate | icre : Real Estate/Construction
+c182 : Asset Transactions | c18 : Ownership Changes | cactio : Corporate Actions | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News
+Filter
+austr : Australia | melb : Melbourne | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz :
+Australia/Oceania
+Fairfax Media Management Pty Limited
+Document AFNR000020150621eb6m0001n
+
+Search Summary
+
+Page 1 of 2 © 2017 Factiva, Inc. All rights reserved.
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (project) and (casino resort or island or
+hotel or apartment or park or estate or property) and (group or firm or company
+or board or assets) and (transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron
+or lead or coal or oil) and (bonds or acquisition or merge or purchase or sale or
+stake or equity) and (million* or billion* or B or M) and (operations or mining or
+firm or company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or
+equity or stake or merge or acquire) and (brand or company or business or group
+or firm or board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall
+Street or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+17/06/2015 to 23/06/2015
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+166
+8 August 2017 22:20
+
+Page 2 of 2 © 2017 Factiva, Inc. All rights reserved.
+
+

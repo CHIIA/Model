@@ -1,0 +1,110 @@
+Property
+Taste for high life on the rise
+Development Nick Lenaghan
+762 words
+27 June 2015
+The Australian Financial Review
+AFNR
+First
+39
+English
+Copyright 2015. Fairfax Media Management Pty Limited.
+The increase in high-rise living coupled with a broader cultural willingness to move the family home into the
+sky is putting penthouses back on the drawing board for developers and their customers.
+
+For years a scarce resource on Australian skylines, penthouses have been making a high-priced return to the
+market in recent months. Developers as diverse as listed giant Mirvac Group and powerful Melbourne private
+MAB Corporation have recently moved to put penthouses back atop their towers. Lend Lease and Cbus
+Property are in the market too.
+
+...
+Down south, David Allt-Graham, MAB's general manager for residential, has already sold the two
+penthouses at the top of the new Banksia project at Docklands. Those dwellings sold for around $5 million
+for apartments in the 365-square-metre to 375 sq m range. It's the first time in a number of years that MAB
+has...
+
+...
+Designed by McBride Charles Ryan, the $140 million boutique-style project comprises 108 apartments
+across 18-levels. Three of the nine sub-penthouses, dubbed as "sky homes", ranging up to 264 sq m, have
+sold for $3.15 million apiece.
+
+...
+"There's also growing acceptance of apartment living. People who previously would have opted for a house
+are now happy to live in an apartment.
+
+...
+"For the last 10 years we've not felt there was a burning need for people in that realm to come out and buy
+bespoke penthouses," John Carfi, group chief executive for residential, said earlier this year.
+
+Further up the river, at the Australia 108 tower in Southbank, Singaporean developer Aspial set a Melbourne
+record, with the pre-sale of an apartment to a Chinese businessman for $25 million.
+Cbus Property is developing a well-located tower on Spring Street overlooking out over Treasury Gardens.
+
+The super fund developer allowed its buyers to consolidate apartments, with one buyer taking the entire top
+floor. The average apartment was $12,250 per square metre in the Spring Street tower. At the top, that figure
+was closer to $20,000 per square metre.
+In Sydney, Cbus Property is also going in at the top, selling a penthouse and two sub-penthouses at its
+Milsons Point project for near $25,000 per sq m.
+
+Chief executive Adrian Pozzo agrees a broader shift is taking place. "The market now is targeting family living
+in apartments. A one or two bedroom apartment doesn't suffice for that. People are trying to build homes,
+residential homes in apartment towers. A cultural shift is slowly occurring in Australia."
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.At Darling Harbour, Lend Lease is selling into the trend too, with two penthouses in the second stage of its
+Darling Square development. They sold for around $10 million each, or $25,000 per sq m.
+
+...s penchant for penthouses better than CBRE's Ben Stewart, who notes an uptick in that market in the past
+12 months or so, such as the $17 million sale of the Sulman at The Residence on Hyde Park at about
+$21,000 per sq m.
+
+"There's more confidence in the market. When you see an uplift in the housing market, it flows through to the
+residential penthouse and luxury apartment market," Stewart says.
+
+...
+
+Document AFNR000020150626eb6r0000k
+
+Search Summary
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (project) and (casino resort or island or
+hotel or apartment or park or estate or property) and (group or firm or company
+or board or assets) and (transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron
+or lead or coal or oil) and (bonds or acquisition or merge or purchase or sale or
+stake or equity) and (million* or billion* or B or M) and (operations or mining or
+firm or company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or
+equity or stake or merge or acquire) and (brand or company or business or group
+or firm or board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall
+Street or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+24/06/2015 to 30/06/2015
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+161
+15 August 2017 0:46
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

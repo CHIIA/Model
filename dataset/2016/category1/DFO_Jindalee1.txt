@@ -1,0 +1,124 @@
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+PrimeSpace
+Sales show sun is soon to set on DFO empire
+
+BEN WILMOT
+344 words
+25 February 2016
+The Australian
+AUSTLN
+Australian
+29
+English
+© 2016 News Limited. All rights reserved.
+
+RETAIL: One of the last vestiges of the DFO empire is close to selling, with Brisbane-based
+Taiwanese investors, the Wen family of Chin Hong Investments, close to buying the DFO Jindalee in
+western Brisbane for nearly $50 million.
+The sale comes as Warren Ebert’s Sentinel Property Group edges closer to buying the Cairns DFO
+shopping centre for less than $40m.
+
+The sales at healthy prices justify a decision by the developer to hold on for a recovery in retail
+property markets while other parts of its DFO business splintered.
+
+In Cairns, Mr Ebert has flagged the deal will probably settle next month after a required $24m in
+equity to buy the northern Queensland centre was rapidly raised.
+
+Sentinel is separately increasing its shareholding in the listed Unity Pacific, which it is trying to take
+over as a means of listing its $1 billion property funds operation.
+
+The DFO Jindalee was marketed by Peter Tyson and Jonathan Tyson of Savills as a value-add
+opportunity via repositioning, expansion or redevelopment but they declined to comment yesterday.
+
+The single-level centre built in 2007 has more than 70 stores with brands such as Nike, Adidas, Puma
+and Kathmandu. It generates a fully leased net income of $3.81m.
+
+DFO Jindalee sits on the Centenary Motorway in the affluent western corridor to Brisbane’s
+southwest. It has a trade area of about 488,000 people forecast to grow to 721,000 by 2026. There is
+also a strong surrounding retail precinct of over 40,000sq m including Coles, Freedom, Snooze and
+First Choice Liquor.
+
+The building spans a gross lettable area of 16,485sq m with more than 900 car parks, and the
+39,270sq m site has a range of development options.The Wen family bought the Centro Springwood
+centre in 2014 for $53m in what was their sixth shopping centre acquisition in southeast Queensland.
+Other centres in the $200m empire are in Burpengary, Morningside, Murrumba Downs, Arundel and
+Sunnybank Hills.
+
+CO
+IN
+NS
+
+sntpgp : Sentinel Property Group Pty Ltd
+i81502 : Trusts/Funds/Financial Vehicles | ifinal : Financial Services | iinv : Investing/Securities
+c182 : Physical Asset Transactions | c18 : Ownership Changes | cactio : Corporate Actions | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News
+Filter
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.RE
+
+PUB
+AN
+
+austr : Australia | brisbn : Brisbane | queensl : Queensland | apacz : Asia Pacific | ausnz :
+Australia/Oceania
+News Ltd.
+Document AUSTLN0020160224ec2p00003
+
+Search Summary
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entitys) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+19/02/2016 to 25/02/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+265
+21 September 2017 13:06
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

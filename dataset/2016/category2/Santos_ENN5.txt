@@ -1,0 +1,116 @@
+HD
+WC
+PD
+ET
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+CO
+IN
+
+NS
+
+RE
+
+Chinese Stake in Australia's Santos Could Be Just First Step -- Market Talk
+
+177 words
+24 March 2016
+13:33
+Dow Jones Institutional News
+DJDN
+English
+Copyright © 2016, Dow Jones & Company, Inc.
+
+0333 GMT [Dow Jones ] Plans by a unit of Chinese gas distributor ENN to acquire an 11.7% stake in
+Australia's Santos (STO.AU) may be a prelude to a full-blown takeover, says Bernstein analyst Neil
+Beveridge. Under the deal, ENN Ecological Holdings (600803.SH) will buy Hony Capital 's stake in
+Santos for $750 million. Hony will then take a stake in ENN Ecological Holdings via a private
+placement. "We believe ENN are dipping their toe in the water and could well come back for a full-blow
+takeover of Santos," Beveridge says in a note. He says a takeover by Hong Kong-listed ENN would be
+less politically sensitive than if it were by a state-owned Chinese oil giant, and would help the Chinese
+company grow to span the entire natural gas value chain from production to final distribution.
+(brian.spegele@wsj.com)
+
+Editor: KLH
+
+(END) Dow Jones Newswires
+
+March 23, 2016 23:33 ET (03:33 GMT)
+
+hbwynd : ENN Ecological Holdings Co.,Ltd. | sants : Santos Ltd
+i1 : Energy | i13 : Crude Oil/Natural Gas | i25 : Chemicals | ibasicm : Basic Materials/Resources |
+i1300003 : Crude Petroleum Extraction | i2568 : Pesticides | iagro : Agrochemicals | iextra : Natural
+Gas/Oil Extraction
+c1521 : Analysts' Comments/Recommendations | c181 : Acquisitions/Mergers/Divestments | cprpla :
+Private Placements | namt : All Market Talk | ndjmt : Dow Jones Market Talk | nenac : Energy Asset
+Class News | neqac : Equities Asset Class News | cacqu : Acquisitions/Mergers | c15 : Financial
+Performance | c152 : Earnings Projections | c17 : Corporate Funding | c18 : Ownership Changes | cactio
+: Corporate Actions | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce
+: C&E Exclusion Filter | nfcpin : C&E Industry News Filter
+austr : Australia | china : China | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric :
+BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | easiaz : Eastern Asia
+
+PUB Dow Jones & Company, Inc.
+AN
+
+Document DJDN000020160324ec3o0008j
+
+Search Summary
+
+Page1of2©2017Factiva,Inc.Allrightsreserved.Text
+
+((chin* or hong kong)) and (
+
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or assets) and
+(transaction* or purchase* or sale or sold or buy) )
+
+or
+
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+
+or
+
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+
+)
+
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+and re=austr
+18/03/2016 to 24/03/2016
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+172
+24 September 2017 11:41
+
+Page2of2©2017Factiva,Inc.Allrightsreserved.

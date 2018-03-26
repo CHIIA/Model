@@ -1,0 +1,49 @@
+8/26/2017
+
+Factiva
+
+HD  Santos Finds Silver Bullet for Credit Concerns: GS -- Market Talk
+WC  172 words
+PD  10 November 2015
+ET  10:04
+SN  Dow Jones Institutional News
+SC  DJDN
+LA  English
+CY  Copyright © 2015, Dow Jones & Company, Inc.
+LP  2303 GMT -- Goldman Sachs welcomes the end to speculation about Santos Ltd .'s (STO.AU) financial health
+
+with an upgrade to neutral from sell. On Monday, the Australian oil and gas producer unveiled a package of
+measures to raise 3.5 billion Australian dollars ($2.46 billion). They comprised the A$520 million sale of a gas
+field to Japan's Mitsui, a A$2.5 billion share issue to existing investors and a A$500 million placement to
+Chinese private equity firm Hony Capital . "By our estimates, the amount raised looks sufficient to bring Santos's
+credit metrics back to consistency with BBB credit metrics on our oil deck (and also looks sufficient on $50/bbl
+flat)," analyst Mark Wiseman says. The broker lifts its price target by 24% to A$4.95/share. STO last traded at
+A$5.91. (david.winning@wsj.com; @dwinningWSJ)
+
+(END) Dow Jones Newswires
+
+TD  November 09, 2015 18:04 ET (23:04 GMT)
+
+CO  sants : Santos Ltd
+
+IN  i1 : Energy | i13 : Crude Oil/Natural Gas | i1300003 : Crude Petroleum Extraction | iextra : Natural Gas/Oil Extraction
+
+NS  namt : All Market Talk | ncmac : Commodities Asset Class News | ndjmt : Dow Jones Market Talk | nenac : Energy Asset
+Class News | neqac : Equities Asset Class News | nfiac : Fixed Income Asset Class News | ncat : Content Types | nfact :
+Factiva Filters
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  Dow Jones & Company, Inc.
+
+AN  Document DJDN000020151109ebb9004ad
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global-factiva-com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=Publication
+
+1/1
+
+

@@ -1,0 +1,173 @@
+9/20/2017
+
+Factiva
+
+HD  Joint Asciano bid hits regulatory hurdle
+WC  752 words
+PD  27 May 2016
+SN  Infrastructure Investor
+SC  INVEST
+LA  English
+CY  Copyright 2016. PEI Media Ltd. All rights reserved.
+LP  "The latest proposal put forth by two private consortia to acquire the Australian port operator falls short of
+
+appeasing ACCC’s competition concerns.
+
+Australia's competition commission is still concerned that the  acquisition  by two private consortia of Asciano,
+one of the largest rail and port logistics companies in the country, could hurt competition, potentially blocking a
+deal that has been in the works for nearly a year.
+
+TD  "The ACCC has received a very large number of submissions from industry stakeholders expressing a broad
+range of concerns about the proposed  acquisition ," Rod Sims, chairman of the Australian Competition &
+Consumer Commission, said in a statement on Thursday.
+
+Competition concerns have been an obstacle since a consortium led by Toronto­based fund manager Brookfield
+Infrastructure [https://www.infrastructureinvestor.com/Profile/?partner=5903] announced last July its plans to
+acquire Asciano [https://www.infrastructureinvestor.com/news/asia­pacific/2015­07­01/brookfield­in­a_9bn­
+asciano­bid/] . Brookfield and its partners, which initially included the British Columbia Investment Management
+Corporation [https://www.infrastructureinvestor.com/Profile/?partner=72] (bcIMC) and Singapore's sovereign
+wealth fund GIC [https://www.infrastructureinvestor.com/Profile/?partner=1376] ­ the Qatar Investment Authority
+[https://www.infrastructureinvestor.com/Profile/?partner=2944] joined only recently ­ had to revise their proposal
+twice,  promising last December to divest part of Asciano
+[https://www.infrastructureinvestor.com/news/global/2015­12­22/brookfield­promises­to­divest­part­of­asciano/]
+post­acquisition .
+
+A month later [https://www.infrastructureinvestor.com/news/global/2016­01­29/asciano­bid­heats­up­with­
+binding­offer­from­gip/] , another consortium, led by Australian logistics  firm Qube Holdings and its partners ­
+Global Infrastructure Partners [https://www.infrastructureinvestor.com/Profile/?partner=8415] , the Canada
+Pension Plan Investment Board [https://www.infrastructureinvestor.com/Profile/?partner=87] and  China 's CIC
+Capital [https://www.infrastructureinvestor.com/Profile/?partner=3656] ­ submitted its own binding offer for
+Asciano. The group, which had acquired a 19.99 percent  stake  in the target  company  last October, touted its
+proposal as facing less of a regulatory hurdle.
+
+In March, however, the two consortia teamed up [https://www.infrastructureinvestor.com/news/global/2015­12­
+22/brookfield­promises­to­divest­part­of­asciano/] , putting forth an all­cash bid of A$9.05  billion  ($6.5  billion ;
+€5.8  billion ).
+
+Under the terms of the joint proposal, the Brookfield and Qube consortia would acquire Patrick Terminals,
+Asciano's container terminal  operations , on a 50/50 basis for A$3.84  billion . Brookfield and its partners
+would acquire 100 percent of Asciano's Bulk & Automotive Port Services (BAPS) business and 50 percent of
+Australian Amalgamated Terminals (AAT) for A$925  million .
+
+Qube would have the right to subsequently acquire the 50 percent interest in AAT out of the BAPS business for
+A$150  million , subject to regulatory approval, or to nominate a third­party buyer.
+
+Asciano's rail business would be split between the two investor groups with some of Qube's partners ­ but
+excluding Qube ­ acquiring 76 percent of the business. Certain members of the Brookfield consortium ­ with the
+exception of Brookfield ­ would acquire the remaining 24 percent. This term appears to have satisfied the
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=All
+
+1/3
+
+9/20/2017
+
+Factiva
+
+Australian regulator, which had initially flagged it as a concern last October when the Brookfield group's
+proposal was the only one on the table. 
+
+Under the terms of the original proposal, the Canadian  firm would own Asciano's Pacific National above­rail
+business, which operates on Brookfield's rail network in Western Australia. Pacific National also transports  coal
+to Brookfield's Dalrymple Bay  Coal  Terminal. As a result, the ACCC was concerned that Brookfield's
+acquisition  of Asciano would  lead  to a substantial lessening of competition
+[https://www.infrastructureinvestor.com/news/global/2015­11­26/regulator­deals­blow­to­
+brookfield%E2%80%99s­asciano­bid/] in markets for the supply of above­rail haulage services in Western
+Australia and Queensland.
+
+The ACCC's latest concerns relate to Asciano's ports business.
+
+"Market participants have expressed concerns about the vertical integration of Patrick container terminals with
+the two largest landside import­export container logistics providers in Australia, Qube and ACFS," ACCC's
+chairman said. ACFS (Australian Container Freight Services) and Asciano's Patrick container terminals formed
+a 50/50 joint venture in April 2015.
+
+Under the terms of the joint bid for Asciano, the Brookfield consortium would acquire Asciano's 50 percent
+ownership interest in ACFS, not Qube.
+
+"The ACCC is concerned that Patrick container terminals may provide preferential access to Qube and ACFS
+vehicles, and Qube regional export trains running into Port Botany and raise rivals' costs," Sims said. "Qube
+and Brookfield will each own 50 percent of Patrick container terminals, and may have parallel incentives to
+favour their landside logistics  operations ."
+
+The Australian regulator will continue to accept market feedback on the proposed merger until 10 June. It
+expects to announce a final decision on July 21.
+
+It is unclear whether the two consortia will revise their offer to address the latest issues raised. In a statement,
+Qube said it "continues to work closely with the Commission and is confident that the issues raised can be
+addressed. As a result of the new decision timetable, the completion of the transaction to acquire the Patrick
+terminals is expected to be delayed".
+
+Brookfield and GIP declined to comment.
+
+CO  bcimco : British Columbia Investment Management Corporation | brknfr : Brookfield Infrastructure Partners L.P. | ascian :
+
+Asciano Ltd.
+
+IN  i831 : Financial Investments | i83107 : Portfolio/Fund/Asset Management | ifinal : Financial Services | iinv : Investing/Securities
+
+| itsp : Transportation/Logistics
+
+NS  cacqu : Acquisitions/Mergers | c18 : Ownership Changes | c181 : Acquisitions/Mergers/Divestments | cactio : Corporate Actions
+
+| ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+PUB  PEI Media Ltd
+
+AN  Document INVEST0020160527ec5r0002u
+
+Search Summary
+Text
+
+((chin* or hong kong)) and ( ( (residential or site or commercial) and (casino resort or island or hotel or apartment or park or
+estate or property) and (group or firm or company or board or entitys) and (transaction* or purchase* or sale or sold or buy)
+) or ( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead or coal or oil) and (bonds or
+acquisition or merge or purchase or sale or stake or equity) and (million* or billion* or B or M) and (operations or mining or
+firm or company)) or ( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity or stake or
+merge or acquire) and (brand or company or business or group or firm or board) and (million* or billion* or B or M)) ) not
+(terrorism or war or navy or stock market or share market or Wall St or Wall Street or Forex or Stock Exchange or
+rst=asxtex) and re=austr
+27/05/2016 to 02/06/2016
+All Sources
+All Authors
+All Companies
+
+Date
+Source
+Author
+Company
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=All
+
+2/3
+
+9/20/2017
+
+Factiva
+
+All Subjects
+All Industries
+All Regions
+English
+
+Subject
+Industry
+Region
+Language
+Results
+Found
+Timestamp 20 September 2017 20:14
+
+205
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global.factiva.com/hp/printsavews.aspx?pp=Print&hc=All
+
+3/3
+
+
