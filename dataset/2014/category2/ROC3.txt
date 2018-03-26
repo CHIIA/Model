@@ -1,0 +1,185 @@
+6/20/2017
+
+Factiva
+
+SE  Companies and Markets
+HD  How Fosun's 'palm' wrapped up Roc
+BY  Amanda Saunders
+WC  887 words
+PD  15 November 2014
+SN  The Australian Financial Review
+SC  AFNR
+ED  First
+PG  38
+LA  English
+CY  Copyright 2014. Fairfax Media Management Pty Limited.
+LP  Inside the deal
+
+While Horizon slept, Fosun and Roc's advisers met to strike a last­minute deal.
+
+TD  The Holiday Inn in Kings Cross has seen all kinds of deals over the years. But in the early hours of Monday
+
+August 4, it played host to its very first  Chinese   takeover of a local  oil  and gas junior.
+
+Jon North, chief adviser to takeover target Roc  Oil , had rushed to the hotel at 2am with three hours left to get
+the deal done. North, who runs his eponymous boutique J. B . North & Co was flanked by ANZ's Martin
+Hanrahan,  lead  adviser to Roc suitor Fosun.
+
+On that freezing August morning they were couriering the final deal paperwork to Fosun's president of  energy
+Bin Zhao, who was staying at the hotel.
+
+And, in the lobby, the two bankers waited, exhausted and unsure if Zhao would warm to the fine print they had
+been labouring over all weekend.
+
+Zhao was camped upstairs, pouring over every word with a team of lawyers.
+
+James Stewart of Norton Rose  Fulbright was Fosun's main legal eagle, and in Roc's corner was Herbert Smith
+Freehills' Tony Damian.
+
+North had been holed up at  Hanrahan's Sydney office all weekend ironing out the deal, after broad  agreement
+had been reached  in Shanghai. Roc had put Fosun on a tight  timetable, saying if the deal was not tabled that
+Monday morning, and announced to market, it would run back into the arms of its far less cashed­up suitor,
+Horizon  Oil .
+
+Horzion and Roc had been engaged since April for "a merger of equals" and they were due to tie the knot on
+August 7, when the deal was to be put to  Horizon investors at a scheme meeting.
+
+This Roc­Horizon merger had its genesis in the winter of the previous year, over a cup of coffee between two
+old school friends at Toby's Estate in  Woolloomooloo, the harbourside hood that abuts Kings Cross.Project  ­
+Scissors
+
+North sewed the merger seed when was chewing the fat with Michael Sheridan, a schoolmate from his
+St Ignatius days, fellow second­rower in union, and Horizon CFO.
+
+Both companies were in the same asset in  China , while Roc had a pile of cash and Horizon had a  stake  in
+the desired Stanley project in PNG. It made sense, they thought.
+
+The two men pitched the idea to their executives. UBS's Richard Saywell was chief adviser to Horizon.
+
+In April, they told in market, entering a merger implementation deed.
+
+Roc and Horizon dubbed it "Project  Scissors", a nod to the game rock, paper, scissors.
+
+https://global­factiva­com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=All
+
+1/3
+
+6/20/2017
+
+Factiva
+
+But what neither side could not have predicted was the opposition from Roc's largest investor, Simon Marais's
+fund Allan Gray.
+
+Marais was furious Horizon  shareholders could vote on the deal but their Roc counterparts could not, and
+wanted to spill the Roc board.
+
+It was perhaps Marais's vocal  opposition that signalled to the  world that he was open to a  different suitor. Two
+bidders then came marching in: Fosun, moving ultra cautiously, and a United States private  equity
+firm.Project Palm
+
+Hanrahan floated Fosun's interest in to North over a bottle of white  burgundy at Palm Beach, on the balcony of
+former Roc chairman Andrew Love's weekender.
+
+Love had brokered the meeting. Hanrahan wanted to know if the Roc board would consider an alternative offer.
+
+The answer was simple – they weren't shopping for an  alternative, but the board would have to have a look if
+one were to lob.
+
+And so Fosun's "Project Palm" was born.
+
+Trumping an all­scrip merger is not the hardest task in  M &A but Fosun had to be talked into settling for a
+minimum acceptance condition. That effort could have been helped by a Horizon own goal of sorts on June 25,
+when they outed Fosun on a  no­names basis on legal advice.
+
+Roc had told Horizon another bidder was in the fray – without naming  them – but had no intention to disclose
+the approach unless a formal offer was put down.
+
+As soon as Horizon revealed a mystery party was interested in its merger partner, the market started to price
+Roc with a takeover  premium.
+
+Fosun tabled its eleventh­hour bid on August 4, putting a $474  million   all­cash bid to buy Roc at 69¢ a share,
+with a minimum acceptance threshold of 50.1 per cent. Marais was chuffed. Fosun was poised to snaffle more
+than 90 per cent of the register when the bid closed on Friday.
+
+Roc chairman Mike Harding was charged with breaking the news to Horizon chief Brent Emmett that the merger
+was off before market open on that fateful August 4.
+
+The two men would have held onto their titles if the $800  million  merger of equals had gone ahead.
+
+Meanwhile, North had hurried from the Holiday Inn to deliver the signed deal to the Bondi home of Roc's
+general counsel Leanne Nolan at 5.30am.
+
+Harding dubbed the takeover the "best deal he had seen in 36 years" – after months earlier declaring the  Roc­
+Horizon merger "the best deal he had seen in 35 years".
+
+A happy ending at the Holiday Inn.
+
+CO  rocoil : Roc Oil Company Ltd
+
+IN  i1 : Energy | i13 : Crude Oil/Natural Gas
+
+NS  c181 : Acquisitions/Mergers/Takeovers | ccat : Corporate/Industrial News | c18 : Ownership Changes | cactio : Corporate
+
+Actions | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+RE  austr : Australia | china : China | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric : BRICS Countries | chinaz
+
+: Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia
+
+PUB  Fairfax Media Management Pty Limited
+
+AN  Document AFNR000020141114eabf0000u
+
+Search Summary
+Text
+
+((chin* or hong kong)) and ( ( (residential or site or commercial) and (project) and (casino resort or island or hotel or
+apartment or park or estate or property) and (group or firm or company or board or assets) and (transaction* or purchase* or
+sale or sold or buy) ) or ( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead or coal or
+
+https://global­factiva­com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=All
+
+2/3
+
+6/20/2017
+
+Factiva
+
+oil) and (bonds or acquisition or merge or purchase or sale or stake or equity) and (million* or billion* or B or M) and
+(operations or mining or firm or company)) or ( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale
+or equity or stake or merge or acquire) and (brand or company or business or group or firm or board) and (million* or
+billion* or B or M)) ) not (terrorism or war or navy or stock market or share market or Wall St or Wall Street or Forex or
+Stock Exchange or rst=asxtex) and re=austr
+10/11/2014 to 16/11/2014
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results
+Found
+Timestamp 20 June 2017 18:43
+
+147
+
+© 2017 Factiva, Inc. All rights reserved.
+
+ 
+
+https://global­factiva­com.virtual.anu.edu.au/hp/printsavews.aspx?pp=Print&hc=All
+
+3/3
+
+

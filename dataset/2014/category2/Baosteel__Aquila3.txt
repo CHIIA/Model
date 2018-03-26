@@ -1,0 +1,135 @@
+6/2/2017
+
+Factiva
+
+Home
+
+Search
+
+Alerts
+
+Newsletters
+
+News Pages
+
+Companies/Markets
+
+LIVE HELP
+
+Display Options
+
++ Related Dow Jones Intelligent Indexing™
+
+Listen to Article
+
+ | 
+
+Share
+
+HD  Chinese companies at heart of US cyber espionage claims have Australian links, says expert
+
+AU  DYLAN WELCH
+BY  By Dylan Welch
+WC  597 words
+PD  21 May 2014
+SN  Australian Broadcasting Corporation (ABC) News
+SC  ABCNEW
+LA  English
+CY  (c) 2014 Australian Broadcasting Corporation
+LP  The three state­owned Chinese companies at the centre of US cyber espionage claims have deep and long standing involvement in Australia, according to an
+
+American cyber security expert.
+
+On Monday US attorney­general Eric Holder .
+
+TD  Washington claims that from 2006 five officers from a secretive hacking unit of the People's Liberation Army (PLA) called "Unit 61398" hacked the computers
+
+of US companies and stole secrets beneficial to three Chinese state­owned enterprises (SOEs) that were their direct competitors.
+
+Dmitri Alperovitch is a former vice­president of threat research at security software company McAfee and has led two investigations into Chinese hacking and
+cyber­espionage against American companies.
+
+The US did not name the three Chinese companies, only labelling them as SOE1, SOE2 and SOE3, but Mr Alperovitch told 7.30 it is clear from evidence in
+the indictment the companies are global aluminium giant Chinalco, Baosteel and nuclear company SNPT.
+
+The three companies have long and deep connections with Australia.
+
+"These are massive companies with billions of dollars in revenue and heavily involved in the world market," Mr Alperovitch said.
+
+"Baosteel is in the acquisition stage of trying to acquire resources in an Australian company right now, so all these companies would be familiar to the
+Australian audiences because they're massive companies in China and they are very interested in resources and extracting resources from Australia and other
+countries."
+
+He is referring to Baosteel's current attempt to takeover Australian iron and coal company, Aquila.
+
+Baosteel has joint business interests with Andrew Forrest's Fortescue Mining and funds a research and development centre in Queensland involving four
+major east coast universities.
+
+Chinalco was behind the failed 2009 merger with British­Australian miner Rio Tinto, while an ASX­listed wholly owned subsidiary of Chinalco, Yunnan Copper
+Resources, runs five mining projects in north Queensland.
+
+SNPT buys vast amounts of Australian uranium and was involved in a 2011 takeover bid for a Perth company with large uranium holdings.
+
+Mr Alperovitch is bound by confidentiality agreements regarding Australian companies that have been hacked, but says "they're major companies and they
+have lost significant intellectual property".
+
+He says evidence indicates the company referred to in the indictment as SOE2 is Baosteel.
+
+According to the indictment, a Unit 61398 officer created a secret database at SOE2 which was used to hold corporate intelligence about the iron and steel
+industries.
+
+In early 2010, America's largest steel maker, US Steel, was embroiled in a legal dispute with Baosteel.
+
+In the middle of the dispute, an email supposedly from US Steel's chief executive was sent to 20 of its senior employees.
+
+It was actually sent by cyber hacker Sun Kai Liang, who used a technique known as spearfishing.
+
+A link in the email downloaded intrusive malware onto US Steel computers, which enabled Wang Dong ­ operating under the pseudonym of UglyGorilla ­ to
+steal data from more than 1,700 US Steel computers.
+
+Dmitri Alperovitch says the US Steel hack was typical of Unit 61398.
+
+"We are seeing these patterns over and over again. We are seeing situations where companies are going into partnership with Chinese companies, or they
+have info that a Chinese company wants and we are seeing hacking attempts by the PLA to get that intellectual property and then that property ends up at
+these companies," he said.
+
+"So it shouldn't be surprising if major manufacturing companies doing business in China are being hit by the PLA to benefit SOEs."
+
+CO  almcor : Aluminium Corporation of China Limited
+
+IN  i22 : Primary Metals | i224 : Non­ferrous Metals | i2245 : Aluminum | ibasicm : Basic Materials/Resources
+
+NS  ghack : Computer Crime | c181 : Acquisitions/Mergers/Takeovers | gpol : Domestic Politics | gspy : Espionage | c18 : Ownership Changes | cactio : Corporate Actions | ccat :
+
+https://global.factiva.com/ga/default.aspx
+
+1/2
+
+6/2/2017
+
+Factiva
+
+Corporate/Industrial News | gcat : Political/General News | gcns : National Security | gcrim : Crime/Courts | gdef : Armed Forces | gpir : Politics/International Relations | ncat :
+Content Types | nfact : Factiva Filters | nfcpex : FC&E Executive News Filter | nfcpin : FC&E Industry News Filter
+
+RE  austr : Australia | china : China | namz : North America | usa : United States | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric : BRIC Countries | chinaz : Greater
+
+China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia
+
+IPD  Unit | 61398 | spies | cyber | crime | people's | liberation | army | eric | holder | Dmitri | Alperovitch
+
+PUB  Australian Broadcasting Corporation
+
+AN  Document ABCNEW0020140521ea5l000gq
+
+UI Ver:96.10.0 Mod:16:24 ID:FWEB9
+
+© 2017 Factiva, Inc. All rights reserved.  Terms of Use Privacy Policy Cookie Policy
+
+ 
+
+https://global.factiva.com/ga/default.aspx
+
+2/2
+
+
