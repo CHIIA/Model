@@ -1,0 +1,60 @@
+MONEY talk
+
+HD
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+CO
+IN
+NS
+RE
+PUB
+AN
+
+MONEY talk
+
+247 words
+30 April 2014
+Hobart Mercury
+MRCURY
+Hobart
+23
+English
+© 2014 News Limited. All rights reserved
+
+Variable loans drift Australians are switching back to variable rate home loans as the cash rate sits
+comfortably at its record low for the foreseeable future. The cash rate has been at 2.5 per cent since
+August last year and doesn’t look likely to be moving any time soon, with many economists expecting
+the Reserve Bank to keep it on hold for the rest of the year. Mortgage Choice spokesperson Jessica
+Darnbrough said people were now drifting back to variable loans after a jump in fixed-rate mortgages
+last year.
+
+Asciano commits Australia’s only combined ports and rail operator Asciano plans to more than double
+dividends by 2016 as it frees up cash. Chief executive John Mullen expects lower capital expenditure
+and other cuts to free up cashflow by fiscal 2016, despite the challenges presented by slowing
+economic growth. Asciano shares outperformed the market yesterday, dropping only half a cent to
+$5.395.
+
+Oil firms merge Oil and gas players Roc Oil and Horizon Oil have struck an $800 million deal to
+merge their Asian assets and produce up to 20,000 barrels of oil a day.The merged company is
+expected to have assets across China, Papua New Guinea, Malaysia, Myanmar, Australia and New
+Zealand with a market value of about $800 million. Horizon shares closed down 1.5c, or 4.05 per
+cent, at $35.5c, while Roc shares closed down 0.5c, or 1.1 per cent, at 45c.
+
+rocoil : Roc Oil Company Ltd | ascian : Asciano Ltd.
+i1 : Energy | i13 : Crude Oil/Natural Gas | itsp : Transportation/Shipping
+gcat : Political/General News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+News Ltd.
+Document MRCURY0020140429ea4u0000p
+
+Page49of243©2018Factiva,Inc.Allrightsreserved.

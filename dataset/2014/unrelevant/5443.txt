@@ -1,0 +1,484 @@
+10 November 2014
+
+HD 10 November 2014
+WC 5,299 words
+PD 10 November 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+Norman Swan: Hello and welcome to the Health Report with me, Norman Swan. Today: Endometriosis, the
+bane of many women's lives with not enough known about what causes it and certainly not enough about
+treatments. But are women in Australia being denied a treatment that's available overseas, or is it
+marketing hype from the pharmaceutical industry?
+
+A tool to help women who are suspected of having ovarian cancer to make the best decision about where
+to be investigated.
+
+TD
+
+And whether bowel cancer screening really does work to prevent what's called colorectal cancer. A large
+Australian study has just reported its findings, and one of the researchers was Professor Emily Banks, an
+epidemiologist at the Australian National University in Canberra. Thanks for coming on to the Health
+Report.
+
+Emily Banks: You're welcome, Norman.
+
+Norman Swan: What were you trying to answer here?
+
+Emily Banks: Well, what we really wanted to do was to look at the real-world scenario for people going for
+colorectal cancer screening. We already know from randomised control trial evidence that colorectal cancer
+or bowel cancer screening is effective in reducing death rates from colorectal cancer, and we also have
+evidence that people diagnosed with colorectal cancer at screening have an earlier stage of disease than
+those diagnosed outside of screening. But what we wanted to see was what the real-world experience for
+consumers would be if they actually went through the bowel cancer screening test.
+
+And what we found, by following 200,000 people participating in the Sax Institute's 45 and Up Study was
+that over a four-year period following having had a screening test there was around a halving or a 44%
+reduction in the risk of being diagnosed with a new cancer in those people who attended screening and
+had the all-clear, and those people who hadn't been for screening at all.
+
+Norman Swan: Which is really good news. We should just explain this study. In fact we had it on the
+program I think last week as well, another study from it. This is where people aged 45 and over in New
+South Wales, a very large number of them, their health and well-being is being followed for many years.
+
+Emily Banks: That's right. So we have over 250,000 people in New South Wales aged 45 and over who
+have filled in a questionnaire for the 45 and Up Study and given us permission to follow their health over
+time, and that's actually over 10% of the New South Wales population in that age group are in the study.
+
+So what we did was we got from the questionnaire whether or not people had actually been through bowel
+cancer screening and we divided people into those who had and had not. And what we found was that
+those who said they had had around a 44% reduction in the risk of developing a new colorectal cancer in
+the four years following that baseline questionnaire.
+
+Norman Swan: I could have said I had it and hadn't. How do you check that they are telling the truth?
+
+Emily Banks: Well, we don't really know exactly, but what we know is that the vast majority of people who
+say they've been for some form of bowel cancer testing will have been for some form of bowel cancer
+testing. And those who say they have not will generally not have been. And what that imperfection will tend
+to do is actually dilute the estimates. So that 44% reduction in risk may actually be an underestimate.
+
+Page230of286©2018Factiva,Inc.Allrightsreserved.We also adjusted for a number of things. So we know that people who attend screening are different from
+people who don't attend screening, for a number of different reasons. So we also adjusted for age, sex,
+body mass index, people's income, their education, whether they lived remotely or in an urban area, their
+family history of bowel cancer, whether they were using aspirin, whether they smoked, whether they had
+diabetes, whether they drank alcohol, and their physical activity, and some other dietary factors. So we
+ended up with a fairly robust comparison of people who reported they had and had not been for screening.
+
+And another piece of information that tells us that probably these estimates are valid is that we found that
+the reduction in risk was greater for those bowel cancers lower in the bowel, so rectal cancers and cancer
+of the lower colon compared to cancers of the colon higher up. And that's also been shown before.
+
+We did find that people who are living remotely were slightly less likely to ever have been screened, and
+previous studies from the 45 and Up Study have also shown that people from particular migrant
+backgrounds, particularly East Asian migrant backgrounds, are less likely to take up the offer of having
+bowel cancer screening.
+
+Norman Swan: How much of a difference was there between whether or not you had the faecal occult
+blood screening, which is the national bowel screening campaign where you test whether or not there is
+blood in your poo, versus having had a colonoscopy?
+
+Emily Banks: Well, we actually found that there was around a 50% reduction in risk with endoscopy, which
+is some form of tube being put in the bowel. We had around a 40% reduction for those reporting faecal
+occult blood testing, so it was actually quite similar between those two groups.
+
+Norman Swan: Why should…particularly if you are having a colonoscopy, why should you find tumours on
+the left side, in other words on the lower part of the bowel near where it comes out, rather than where it
+begins on the right side of the bowel, why should the detection rate be higher for tumours on the left side of
+your bowel rather than on the right?
+
+Emily Banks: So the faecal occult blood test actually by its name, it means it's detecting hidden blood in the
+faecal matter, and the lower down the bowel the tumour is, the more likely that the blood is less altered,
+and so it makes it easier for the test to pick it up. The other thing is that it's easier also to pick it up by
+putting a tube into the bowel the lower down in the bowel it is, the easier it is to reach. Having said that…
+
+Norman Swan: But it's a pretty long black snake that goes right around to the proximal colon, so what's
+wrong with the people who are doing the test that they are not finding the so-called proximal tumours?
+
+Emily Banks: Really most of what we are looking at here is cancers picked up by the faecal occult blood
+test, not so much by a colonoscopy. I think these are just properties of the test. I don't think it's about
+operator failure. The other thing is, having said that, we still saw a substantial reduction in risk for cancers
+of the proximal bowel, so high up in the bowel. So it's not saying that these screening tests are not effective
+for cancers high up in the bowel, it's just saying that they are actually even better when the cancer is further
+down the bowel.
+
+Norman Swan: How long does the effect last of screening?
+
+Emily Banks: Well, we followed people for an average of 3.8 years. We actually saw this reduction in risk
+over that time. We can't really comment beyond that time but it does look as if this reduction in risk is quite
+a long duration.
+
+Norman Swan: Of course the bowel cancer screening randomised trials showed annual screening was
+needed for this, and the debate is really if you are having endoscopy how often do you need the
+endoscopy, but that's a conversation for another time.
+
+Emily Banks: I agree.
+
+Norman Swan: So what's the message for people? Have your screening?
+
+Emily Banks: The message for people here is obviously people need to make an informed decision about
+whether or not they have bowel cancer screening. But this is a piece of good news, it's part of the puzzle
+which shows that if you do go for screening and you have the all-clear you can have an expectation that on
+average you will have around a halving in your risk of colorectal cancer over that subsequent period, and
+we see that that lasts for up to four years after screening.
+
+Norman Swan: Emily Banks, thanks for joining us on the Health Report.
+
+Emily Banks: Thank you.
+
+Page231of286©2018Factiva,Inc.Allrightsreserved.Norman Swan: Professor Emily Banks is an epidemiologist at the Australian National University in
+Canberra.
+
+And you're listening to the Health Report here on RN, with me, Norman Swan.
+
+Ovarian cancer is still a much feared malignancy among women because although treatments have
+improved, as have survival rates, they could do a lot better.
+
+There aren't any screening tests for ovarian cancer, like they have for bowel or breast which means when
+an ovarian tumour is suspected, there isn't time to be lost. A key goal is to get the right treatment first time,
+which is what a newly released study from Europe has tried to help with.
+
+To comment, I spoke to Associate Professor Peter Grant, who's in the Department of Gynaecological
+Oncology at the Mercy Hospital here in Melbourne.
+
+Peter Grant: They are trying to allow for the appropriate triage or direction of women to where they should
+have their care based when they are known to have an ovarian mass.
+Norman Swan: So tell me the typical story that would lead to the dilemma that this is trying to help.
+
+Peter Grant: I guess the typical story we encounter is a phone call from rural Victoria, a woman who has
+had an ultrasound that shows an ovarian mass, should she have her operation at a centre where she lives,
+200 kilometres from Melbourne, or should she be sent to a gynaecological cancer service? And I'm sure
+this happens all around the country.
+
+Norman Swan: And why would she have had the ultrasound in the first instance?
+
+Peter Grant: She probably presented with some symptoms—discomfort, pain—or someone may have
+found a mass on other investigations, scans done for other reasons, or even just routine examination had
+identified a lump.
+
+Norman Swan: And it's usually not just an ultrasound through the abdomen, it's often through the vagina
+that you do this.
+
+Peter Grant: Yes. The vaginal ultrasounds give much, much better definition of pelvic masses than a
+trans-abdominal ultrasound.
+
+Norman Swan: And of course the problem here is if a doctor or a GP or even a general gynaecologist
+thinks that a woman might have ovarian cancer, it's not like breast cancer or even colon cancer where it's
+easy to biopsy, find out what it is and then decide the definitive treatment, you've actually got to do the full
+operation to find out what's going on.
+
+Peter Grant: Yes, there are some situations where ovarian cancers are advanced cancers where you can
+get a diagnosis before surgery by taking a sample of fluid or an obvious area where this cancer has spread.
+But in many situations where this paper looks at, we are looking at women with an isolated mass in the
+pelvis, nothing else to find clinically, and you don't know is it a cancer or not. And until it's actually removed,
+you won't know.
+
+Norman Swan: And the question is once you get in and find if it is cancer, you really want somebody who's
+doing this kind of cancer surgery all the time to do the definitive operation.
+
+Peter Grant: In general that's true. It appears as though women with ovarian cancer or who are found to
+have an ovarian cancer, as a group do better, have better outcomes if they are managed in a centre that
+deals with gynaecologic cancer.
+
+Norman Swan: Because you do a more definitive operation?
+
+Peter Grant: Yes, well, if this is an advanced cancer we are more likely to achieve surgical outcomes that
+lead to a better prognosis in that we are able in general to remove the vast bulk of tumour. If it's an early
+cancer the most critical thing we need to do is find out is there evidence of spread of this cancer to
+anywhere else, and that involves surgery that isn't done except by people who are trained in this area.
+
+Norman Swan: Okay, so what are the criteria that they suggest in this paper you take into account to
+decide whether or not you get your operation done by a general gynaecologist in a country town versus
+coming in to, say, Melbourne, or in the case of other states major metropolitan areas where there are
+gynaecological cancer experts?
+
+Peter Grant: They've looked at some patient related characteristics, in particular age of the patient, and the
+result of a blood test, the CA125 which is a tumour marker. And then they've looked at particular
+
+Page232of286©2018Factiva,Inc.Allrightsreserved.characteristics of the mass as identified by the ultrasound, and they've got a series of criteria that they can
+evaluate and assign a score to. And when you put these all together in an algorithm you come up with a
+risk of malignancy index for that particular woman.
+
+Norman Swan: How reliable is that index?
+
+Peter Grant: The data that this paper has presented said it's very reliable at separating benign from
+malignant. They've looked at various other categories of malignant tumours that are very early, so-called
+stage one versus advanced stage cancers, and also looked at cancers that may have occurred in the ovary
+but got there from somewhere else. But it seems to be a good discriminator of benign from malignant.
+
+Norman Swan: It doesn't avoid the need for an operation but it might avoid the need for a trip to town.
+
+Peter Grant: It does, it's a means of trying to tell this woman, look, your risk of malignancy score on this
+ultrasound and your blood test and probably other discriminators that aren't included in this, such as a
+physical examination, say, look…
+
+Norman Swan: That's a bit radical, isn't it?
+
+Peter Grant: It is rather, but it's still an important part of triaging these women and that's not addressed in
+this paper at all, but it may allow this woman to have her surgery done in a country town rather than come
+to Melbourne.
+
+Norman Swan: It's not the only risk score around. Do you think it's going to be adopted by gynaecologists?
+
+Peter Grant: There are other risk scores. I think this suggests that maybe it has a better performance in
+selecting patients that are truly benign from patients who may warrant referral. But one of the things that is
+really unclear in this is who does the ultrasound and how good are they at doing this ultrasound,
+interpreting what they are finding?
+
+Norman Swan: So the assumption there being that maybe if it's a small country town the local radiologist
+doesn't do many of them each year and may or may not be as good as he or she might be.
+
+Peter Grant: That's right. It seems to be the case that volume and experience is really important in
+performing good ultrasounds, and this paper really doesn't address that. It's done in lots of different
+centres, 24 centres, but each of those centres the ultrasound was done by people who seem to have
+experience. It was done in a hospital unit or it was done by a dedicated gynaecology ultrasound unit or a
+cancer service, but there's no mention of how does this perform in a community-based radiology setting.
+
+Norman Swan: So for a woman having a discussion with her GP, who she gets referred to for her
+ultrasound is a critical part of the story.
+
+Peter Grant: It really is important I think, but it's not answered in this paper.
+
+Norman Swan: Now, there's this problem with ovarian cancer where it really is…to diagnose it you've
+actually got to remove the ovaries, so you got to do the definitive operation. It's a very significant step,
+unlike most other cancers. And people are going around touting blood tests, so there's the CA125, there
+are other blood tests around, saying they can, just by doing this blood test, tell whether or not you are at
+risk of having ovarian cancer. What's the state-of-the-art at the moment in terms of all these people trying
+to get a bit of space in the marketplace to sell their blood tests for ovarian cancer?
+
+Peter Grant: At the moment it is clear we have no screening test for asymptomatic women in the early
+detection of ovarian cancer. So there is no routine screen that I can tell a woman, 'Go and have this test, it
+will tell us if you've got an early cancer of the ovary,' whether it's a blood test, whether it's an ultrasound or
+any other imaging. In someone who presents with symptoms or clinical findings that raise the possibility of
+cancer, then these tests may be appropriate, but just sending women off for them to be done as a routine
+has no benefit.
+
+Norman Swan: And just remind us of the symptoms that are indicative that you might need to look for an
+ovarian tumour.
+
+Peter Grant: The common symptoms are unexplained abdominal or pelvic discomfort, persistent bloating,
+pain, feeling a lump, changes in bowel function, and particularly…
+
+Norman Swan: Which are new.
+
+Peter Grant: Yes, which are new and persistent, and particularly if you are seen with these symptoms and
+they are thought to be not important but they still are there, you need to look again and exclude an ovarian
+mass as a cause.
+
+Page233of286©2018Factiva,Inc.Allrightsreserved.Norman Swan: And if you are a woman with a strong family history, you may or may not have the genes
+like the BRCA1 or 2 genes which increase the risk of ovarian cancer, but you've got a strong family history,
+your mother got ovarian cancer at the age of 50 or something like that, really you cannot rely on any test,
+the answer is if you are really worried at some point after you've had your children you've really got to have
+your ovaries out.
+
+Peter Grant: I think before that step you actually should be seen by someone who has some knowledge
+and expertise in familial cancer to try and sort out what is the true risk. Seeing a genetic person or a
+gynaecological cancer unit with interest and expertise in this area can actually direct you as to the
+appropriate course of treatment.
+
+Norman Swan: Are you finding women are having unnecessary oophorectomies, removal of their ovaries?
+
+Peter Grant: I am, yes. You do see that happening. And it may not be unnecessary in the…how can I say,
+eyes of the woman if she is very worried, but you need to make sure they've got the appropriate
+information to make those decisions. And just having one family member with an ovarian cancer is often
+not enough to say, hey look, you should be having your ovaries removed at age 46 or 44 or whatever. I
+think getting the right advice from people who know what they are talking about can actually sometimes
+avoid women having an unnecessary procedure.
+
+Norman Swan: And for women or even general practitioners who are listening, is there a place they can go
+to see a directory of gynaecological cancer services in Australia?
+
+Peter Grant: Yes, there are. If you go to Cancer Australia website there will be a list of all the gynaecologic
+cancer services in Victoria. There's a website of the Australian gynaecologic cancer…ASGO, Australian
+Society of Gynaecologic Oncology, lists all the websites. Each state-based cancer service will have a list of
+specialised centres dealing in this, yes.
+
+Norman Swan: Peter, thank you.
+
+Peter Grant: Thank you.
+
+Norman Swan: Associate Professor Peter Grant, who's in the Department of Gynaecological Oncology at
+the Mercy Hospital in Melbourne.
+
+We're staying with gynaecology now but to a benign condition, although women who suffer from
+endometriosis would not say it feels very benign. 74,000 people are clamouring for an endometriosis
+treatment that the drug company doesn't want to sell in Australia, despite having approval to do so.
+
+Katie Silver has the story.
+
+Syl Freedman: At times I can feel like my ovaries are being minced. It can also feel like someone's just got
+a really strong grip on your insides and they are kind of giving you a Chinese burn. You feel as if you kind
+of have to like claw at the wall to try and get away from the pain.
+
+Katie Silver: 23-year-old Syl Freedman suffers from severe endometriosis, a condition which affects more
+Australians than asthma or diabetes. It causes fibrous scar tissue to form on the uterus, ovaries, fallopian
+tubes or bowel. Chronic and incurable, it can result in excruciatingly painful periods and infertility.
+
+Her mother Lesley finds it difficult to watch.
+
+Lesley Freedman: As a parent, watching your child or your daughter suffering, that is just excruciating. The
+normal over-the-counter pain relief doesn't even touch it.
+
+Katie Silver: The reason it's called endometriosis is that it comes from the word 'endometrium', which is the
+lining of the uterus. And what happens in the condition is cells from the uterus spread to other parts of the
+body.
+
+Luk Rombauts is a professor of gynaecology at Monash University and board member of the World
+Endometriosis Society
+
+Luk Rombauts: Why is it so painful? Because each time that a woman goes through a period, those
+lesions, those little blisters will also start bleeding, just like the lining inside the uterus does, and it causes
+local inflammation and pain and that leads to scarring and that can eventually lead to infertility.
+
+Katie Silver: What causes it?
+
+Luk Rombauts: That's a very good question. We know that in about 90% of the women, when they have
+their period, that some of the menstrual blood flows back through the tubes inside the pelvis. So we believe
+
+Page234of286©2018Factiva,Inc.Allrightsreserved.that in women that eventually develop endometriosis there's something wrong with their immune system,
+that's at least a current belief that we have and there is further research in that area that will hopefully try
+and prove that. The white blood cells seem to be unable to clean up those endometrial cells that end up in
+the pelvis behind the uterus.
+
+Katie Silver: He says other than taking a pill to skip her period, a woman with endometriosis has few
+options.
+
+Luk Rombauts: Surgery remains the key intervention to start off treatment with, in most women.
+
+Katie Silver: The surgery is called laparoscopy. It's invasive keyhole surgery to remove the lesions on the
+ovaries. For most people with endometriosis, it's the only way to be diagnosed. And then it's the only real
+treatment option.
+
+Luk Rombauts says it doesn't even really do the job.
+
+Luk Rombauts: Even though you may feel as a surgeon that you've done a very good job in removing all
+the visible disease, firstly there are probably already microscopic other lesions present that you will most
+likely miss. Secondly there is probably a 50% recurrence rate over five years.
+
+Katie Silver: Syl Freedman has undergone two such surgeries in the last 20 months.
+
+Syl Freedman: Well, the first surgery I had in 2012 I was told it was just supposed to be a half-hour day
+surgery and that recovery wouldn't be that bad. The surgery itself took about three hours, and I was told
+that I had stage four endo, which is the most severe, it's widespread throughout the body. And the recovery
+took months. And then not long later I found that my symptoms were starting to come back. So I went back
+to my surgeon and he thought it was probably a good idea to have a second laparoscopy, and that was
+less than 18 months later. The recovery was not as long, but really, really traumatic.
+
+Katie Silver: Apart from surgery, the only other treatment is the oral contraceptive pill, and the reason that
+can work is that it inhibits menstruation and so inhibits the tissue from endometriosis bleeding as well. But it
+doesn't actually work that well, and Lesley found that in her research too.
+
+Lesley Freedman: One of the things that kept coming up was this drug called Dienogest and it seemed to
+have a really good track record overseas, and I guess I was just interested. If there's something there that
+has been designed just for endo and all we have is the OC pill, and Syl certainly wasn't getting much joy
+out of those, she kept having to change brands, I thought I'll just ring and find out why we haven't got it.
+
+Katie Silver: The drug is marketed as Visanne and it's made by Bayer Healthcare Pharmaceuticals. Dr Jan
+Toomey is the company's medical director.
+
+Jan Toomey: Visanne is a progestogen, which means it's a form of progesterone which is the natural
+hormone secreted by the body which promotes the appropriate environment for pregnancy. It works
+principally by lowering the natural production of oestrogen in the body. We know that endometriosis is an
+oestrogen driven disease, and so if you can keep the body's levels of oestrogen relatively low, then that
+tends to inhibit endometriosis.
+
+Katie Silver: Luk Rombauts from Monash University agrees it's a valuable drug for treating the condition.
+
+Luk Rombauts: Visanne is another important instrument in the medical armamentarium that gynaecologists
+have overseas. It's certainly something that has proven in good randomised controlled trials to be a useful
+drug.
+
+Katie Silver: But while women in most parts of the world can use it, those in Australia can't. This is despite
+it being approved in 2010 by the Therapeutic Goods Administration for sale and marketing here.
+
+Syl Freedman: It just didn't make any sense and was just infuriating really.
+
+Lesley Freedman: I rang Bayer and they had one of those awful switchboards that you would go round and
+round in circles, you know, put you on to this number, put you on to…nobody answered the phone for ages,
+about five weeks, by which time I was really furious.
+
+Katie Silver: What reason did Bayer give you for not releasing the drug in Australia?
+
+Lesley Freedman: They said that they didn't think there'd be much demand for it. We're too far away,
+there's too few of us, and New Zealand is in an even worse situation than that. And I thought, well, what if I
+got a few signatures on a few emails. So I was sending emails out to my friends, and Syl came past and
+said, 'What are you doing that for? I've got 900 friends on Facebook, they'll sign a petition for me.' And so
+we moved it on to Change.org, and it was just phenomenal. I mean, obviously it had a little bit of publicity,
+
+Page235of286©2018Factiva,Inc.Allrightsreserved.but even so, the majority of people who signed the petition were people who suffered from endo or their
+family.
+
+Katie Silver: Lesley and Syl Freedman's campaign saw their petition reach 73,000 signatures in only a
+couple of weeks. Once they reached 74,500 signatures, Bayer phoned to say they would release the drug
+in February.
+
+Jan Toomey from Bayer says the drug was released sooner because GPs had indicated they wouldn't
+prescribe it without seeing the results of long-term clinical trials.
+
+Jan Toomey: When we initially registered it in 2010 and we looked then at how treaters would use it, and
+so we talked to a lot of potential prescribers, and at that time the message we got from them was that they
+weren't terribly interested in it as a product. There was only fairly short-term data back in 2010, and they
+said if we are going to use it at all, longer term it's not something we'd give for a short term. And so the
+impression we got very strongly was that there wasn't really any particular interest in prescribers for it at the
+time. And the trigger that initially started us looking again was that at this year's European Society of
+Contraception there was a symposium on Visanne, and some of the newer data was presented there, and
+we came away thinking this is actually worth another look now. Very soon after that I met with the
+Freedmans for the first time.
+
+Katie Silver: Has the petition by the Freedmans had any impact on the decision by Bayer to start to sell
+Visanne in the Australian market?
+
+Jan Toomey: I think what it did was to expedite the decision-making process. So we went back and
+consulted physicians again, which we were always going to do. We got a different message. Certainly the
+Freedmans' petition was excellent in giving us impetus to move ahead quickly with this.
+Katie Silver: Jan Toomey says the company was justified in choosing not to bring the drug to Australia.
+
+Jan Toomey: We need to make decisions based on whether there appears to be a market for a product.
+
+Katie Silver: There is an unfortunate history of consumer campaigns being covertly driven and funded by
+the drug companies in order to get the drug to market and push the hand of government. The question is, is
+this the case for the Freedmans, and are they connected to Bayer?
+
+Lesley Freedman: Gee, I wish I was! I wouldn't be scratching around for money to pay for pamphlets and
+badges to raise awareness, that's for sure. No, of course not.
+
+Katie Silver: Luk Rombauts from Monash University says Bayer has an obligation to bring the drug to the
+Australian market.
+
+Luk Rombauts: It is a sad state of affairs that the patients have to bring about a public awareness
+campaign, put a company under pressure to actually bring a very useful drug I think…I mean, it's not the
+be all or end all, but it's certainly one other important tool for gynaecologists to treat endometriosis, and it's
+important to know that there's only three approved drugs so far in Australia for the treatment of
+endometriosis. So it's not like we've got a wealth of different medical treatments that we can rely on.
+
+Katie Silver: Bayer says they are considering applying for Visanne to be on the Pharmaceutical Benefits
+Scheme, but when it's first released it should be about $80 a month. Either way, the Freedmans say they
+are happy the drug will soon arrive on our shores.
+
+Syl Freedman: By trying Visanne I would be hoping that it would prolong the need for surgeries and reduce
+my symptoms inbetween.
+
+Lesley Freedman: The girls are so desperate, and women, with endo, that they are praying that there'll be
+a cure, that this might be it. It is not a cure, it's a treatment.
+
+Norman Swan: And that special report on endometriosis came from Katie Silver.
+
+i257 : Pharmaceuticals | i951 : Health Care/Life Sciences
+
+IN
+NS gcancr : Cancer | ntra : Transcripts | gcat : Political/General News | ghea : Health | gmed : Medical
+
+Conditions | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E
+Executive News Filter | niwe : IWE Filter
+
+RE austr : Australia | melb : Melbourne | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz :
+
+Australia/Oceania
+
+PUB Australian Broadcasting Corporation
+
+Page236of286©2018Factiva,Inc.Allrightsreserved.AN Document ABCTRS0020141111eaba00006
+
+Page237of286©2018Factiva,Inc.Allrightsreserved.

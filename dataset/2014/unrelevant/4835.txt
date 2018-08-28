@@ -1,0 +1,565 @@
+Australia: Tax regulations
+
+HD Australia: Tax regulations
+WC 3,914 words
+PD 29 August 2014
+SN Economist Intelligence Unit - ViewsWire
+SC EIUCP
+ED ViewsWire
+PG 11
+LA
+CY
+LP
+
+English
+(C) 2014 The Economist Intelligence Unit Ltd.
+
+TD
+
+Corporate taxes: Overview
+The federal government levies corporate income tax on company profits at a rate of 30%. Companies that
+are wholly owned by the same parent company may file a single tax return and be taxed as a single
+entity.
+
+A company is considered a resident of Australia for tax purposes if it is incorporated or operates in
+Australia and meets either of two criteria: its central management or shareholders controlling voting power
+are in Australia, or its voting power is controlled by shareholders who are residents of Australia. Australia
+resident companies must declare all profits earned in Australia and overseas. Offsets are available for
+taxes paid on foreign-sourced income in countries with which Australia has a double-tax treaty. A
+non-resident company that receives Australian-sourced income must file an Australian tax return and pay
+tax on income earned in Australia, except for interest, unfranked dividends (paid from untaxed profits) or
+royalties subject to withholding tax. The applicable tax rates for these forms of income are 10% for interest
+and 30% for unfranked dividends and royalties. These tax rates are reduced if a double-tax treaty applies.
+No Australian tax is payable on franked dividends since the local company already has paid the full
+amount of Australian tax on its profit (see Taxes on interest and dividends).
+
+Foreign-owned companies or joint ventures with international corporations are usually treated as public
+companies for Australian tax purposes. Joint ventures can be either incorporated or unincorporated. Most
+joint ventures are incorporated; hence, a separate company conducts the business of the joint venture,
+and each joint-venture participant is a shareholder in that company. Because it is a separate company,
+any profits of the joint venture are taxed at the company level. Similarly, any losses suffered by the joint
+venture do not flow through to the shareholder participants but remain at the company level and may be
+carried forward to offset future profits. Unincorporated joint ventures are more prevalent when the
+business is not yet making profits (such as a biotech operation that focuses on research and
+development). In an unincorporated joint venture, each participant files a separate tax return.
+
+The federal government applies a 40% resource rent tax (Petroleum Resource Rent Tax-PRRT) on
+taxable profits from the recovery of petroleum products from most offshore oil-and-gas fields. As from July
+1st 2012 the PRRT extends to onshore petroleum projects, including coal-seam gas, oil-shale and
+tight-gas projects. In addition, the Minerals Resource Rent Tax (MRRT), approved in March 2012 and
+implemented on July 1st 2012, imposes a 30% tax on coal and iron-ore mining profits. The MRRT
+scheme includes an extraction allowance of 25% that offsets the tax, in effect reducing it to 22.5%. The
+MRRT applies only to yearly mining profits that exceed A$75m. A partial tax credit is available for miners
+with profits of A$75m-125m. The current administration of Tony Abbott, the prime minister, announced in
+October 2013 that it would repeal the MRRT with effect from July 1st 2014. As of August 2014 the repeal
+bill was still being reconciled in Parliament.
+
+Corporate taxes: Corporate tax rates
+The corporate tax is a flat-rate tax levied at 30% on the taxable income of a company. Basic tax rates and
+treatment are the same for all companies, including branches of foreign companies. There is no difference
+in the tax treatment of retained profits and distributed profits, and there is no excess-profits tax or
+alternative-minimum tax.
+
+Page96of405©2018Factiva,Inc.Allrightsreserved.The Labor government of Julia Gillard, the former prime minister, had tried to cut the corporate tax rate to
+28% during her administration that ended in June 2013. Since then, the Liberal-National coalition has
+pledged to cut the corporate tax rate to 28.5%, but legislation to this effect had yet to be proposed as of
+August 2014.
+Corporate taxes, 2014/15*
+The following is an example of the variation in
+tax burden for shareholders of a foreign-owned
+company in Australia, depending
+on whether dividends are franked (payable from taxed income) or unfranked
+(payable from untaxed income), and whether a tax treaty exists. Unfranked
+dividends are paid from income on which corporate tax has not been paid,
+typically because of the carry-forward of a prior year’s losses. Taxable
+income is reduced, but the income available for distribution as dividends
+remains the same.
+The table assumes that a company pays 50% of the
+income available for distribution as a dividend. Columns A and B relate to the
+payment of unfranked dividends. If the foreign shareholder resides in a
+country
+with which Australia does not have a tax treaty, withholding tax of 30%
+applies
+(Column A); if a tax treaty exists, this typically drops to 15% (Column B). If
+the dividends paid have been franked, no further tax is payable by the foreign
+shareholder (Column C).
+A
+C
+ 
+100,000 100,000 100,000
+Income
+100,000 100,000 0
+Losses carried forward
+100,000
+0
+Taxable income
+0
+30,000
+Corporate tax (30%)
+100,000 100,000 70,000
+Distributable income
+35,000
+Dividend payment
+50,000
+15,000
+Withholding tax
+0
+Tax paid by foreign shareholder 15,000
+30,000
+* July 1st–June 30th.
+Source: Australian Taxation Office.
+
+0
+0
+50,000
+7,500
+7,500
+
+B
+
+Corporate taxes: Taxable income defined
+To compute taxable income, a company calculates gross income (for a resident company, income from
+worldwide sources; for a non-resident company, income from Australian sources) and deducts any
+exempt income.
+The company then subtracts allowable expenses and deductions (including royalties, management fees
+and interest paid to non-residents if these expenses conform to commercial standards).
+Thin-capitalisation rules apply to the Australian operations of foreign companies investing in Australia and
+to Australian companies investing overseas. The rules aim to prevent the application of an excessive
+amount of debt against income that is taxable in Australia. Generally, these rules disallow tax deductions
+for interest payments on debt when a company's debt/equity ratio exceeds 3:1. When calculating their
+taxable income, companies may deduct most indirect taxes paid-such as payroll tax and fringe-benefits
+tax. Dividend payments are not deductible. Domestic losses generally may be carried forward indefinitely,
+but they may not be carried back.
+
+Wholly owned groups of companies and trusts may choose to be taxed as consolidated entities but should
+note that this option is irrevocable. Consolidation reduces impediments to group restructuring, allows for
+pooling of losses within the group and allows for tax-free movement of assets within a group without any
+formal rollover requirements. This allows a group to buy back shares without triggering a capital gain or
+loss and to liquidate a member entity without triggering deemed dividends or capital gains or losses. It also
+eliminates double taxation, where gains are taxed when realised and then taxed again on the disposal of
+equity. Grouping concessions are not available for wholly owned groups that choose not to consolidate,
+and thus a group may not transfer losses of foreign tax credits or assets between entities without
+triggering a capital gain.
+
+The tax regime aims to prevent the use of various tax-avoidance techniques, such as loss cascading
+(creating multiple tax losses where there is only one economic loss), value shifting (creating artificial
+losses where there is no actual economic loss) and tax avoidance through intra-group dealings.
+
+Page97of405©2018Factiva,Inc.Allrightsreserved.Australia taxes foreign-sourced income earned by Australian residents under an accruals-based regime. A
+comprehensive foreign-tax-credit system applies to directly earned foreign income; credits are generally
+available for the lesser of the foreign taxes paid or the Australian tax payable. Foreign tax credits may be
+carried forward for five years but may not be carried back.
+
+Most foreign income and capital gains derived by Australian companies via a permanent establishment
+overseas is exempt from Australian taxation. The exemption also applies to income earned overseas by
+Australian companies from investments in partnerships or trusts. In addition, the disposal by an Australian
+company of non-portfolio shares in a foreign company is exempt from capital-gains tax in Australia.
+Similarly, Australian investors enjoy an exemption on income from overseas investment funds if their
+holding amounts to 10% or less of the investment fund's capital.
+
+Corporate taxes: Depreciation
+
+A unified-capital-allowance system applies to the effective life depreciation of all capital investments,
+including patents and buildings. Spending on items associated with project development (such as
+feasibility studies, site preparation and environmental assessment) may be written off over the life of the
+project, whereas costs relating to establishing a business and raising equity may be written off over five
+years. Certain "black hole" expenditures that do not create or improve an asset are immediately
+deductible; these include costs such as export-market development and the cost of closing mines.
+
+Small businesses with aggregated turnover of less than A$2m have access to a range of concessions,
+including simplified depreciation and trading stock rules, simplified goods and services tax (GST)
+accounting, tax credit apportionment and payment rules, and favourable capital gains tax exemptions and
+rollovers.
+
+The Australian Taxation Office (ATO) continually reviews the effective lives of assets held by a large range
+of industries to ensure that they match with the rates at which the assets can be written off for tax
+purposes. Special depreciation rates apply for primary-producer assets, research-and-development
+expenditure and investment in Australian films. Mining companies enjoy immediate deductibility for
+expenses for removing mining overburden (that is, removing nonproducing earth before reaching the
+actual ore) and may roll over short-term hedging instruments without a taxation penalty.
+
+Corporate taxes: Capital taxes
+The federal government does not levy taxes on land. State governments levy property taxes based on the
+improved value of property holdings (buildings and land). These are used to fund local services, such as
+parks, community facilities and activities, street lighting, rubbish collection and some roads.
+
+Corporate taxes: Treatment of capital gains
+
+Companies are liable for tax on the full amount of any increase in the capital value of their assets. Net
+capital gains are calculated by deducting the purchase price of an asset (no inflation indexing is available
+for assets purchased after September 1999) from proceeds of the sale of the asset. Capital losses can be
+carried forward to offset future capital gains.
+
+Capital-gains tax (CGT) is not levied in some limited circumstances: where a fixed trust transfers all of its
+assets to a company and then ceases to exist; and where assets are transferred between a trust and a
+company as part of the process of converting the entity's structure from a trust to a company. In the latter
+case, owners must hold shares in the company in the same proportion as their interests in the trust.
+Relief from CGT is available for de-mergers-that is, the restructuring of a corporate or trust group by
+splitting it into two or more entities or groups, with the underlying owners holding one or more of those
+entities or groups directly. The relief is available where underlying ownership is maintained and the
+de-merging entity divests at least 80% of its ownership interests in the de-merged entity. This allows CGT
+relief at both shareholder and entity levels and provides an exemption from the existing dividend rules,
+subject to integrity rules.
+
+Shareholders who receive notional capital gains in a scrip-for-scrip takeover (for example, during an
+acquisition when new shares are issued to replace the shares of the company that was taken over) may
+opt not to pay CGT until the ultimate disposal of the acquired company's assets. Special rules apply to
+non-resident shareholders, and the relief is not available to a non-resident acquiring an interest in an entity
+if it does not reside in Australia.
+Holders of convertible notes pay CGT when the relevant shares are sold, not when the notes are
+converted into shares, as long as the notes were issued after May 14th 2002.
+
+Page98of405©2018Factiva,Inc.Allrightsreserved.If assets were acquired prior to September 1999, eligible superannuation (pension) funds may choose
+between the discount-method capital-gains system introduced in September 1985 and the subsequent
+indexation-method system introduced in September 1999. (Capital gains were tax exempt until September
+1985 and assets acquired before then do not pay capital-gains tax.) The discount method calculates the
+capital gain as the difference between the proceeds and the cost base; a discount of 33% for
+superannuation funds applies for assets held more than one year. The indexation method calculates the
+capital gain as the difference between proceeds and the indexed cost base, with indexation stopped at
+consumer prices in September 1999. For assets acquired after September 1999, Australian
+superannuation funds (which pay income tax at 15%) are taxed on two-thirds of the gain, yielding an
+effective CGT rate of 10%.
+
+Australian residents are liable for tax on worldwide capital gains (subject to double-tax relief).
+Non-residents are taxed on capital gains from Australian assets, including land, assets used in Australian
+business, shares or interests in Australian private companies and trusts, and holdings of 10% or more of
+the issued capital of Australian public companies. Holdings of less than 10% in Australian public
+companies are not counted as Australian assets and any capital gain realised on the holding is not
+included when CGT is assessed.
+
+Special, complex rules apply when a taxpayer changes residency. Where non-residents are residents of a
+country with which Australia has a double-tax treaty, there may be limited scope for using treaty protection
+to limit Australian CGT in certain circumstances.
+
+Some non-resident pension funds are exempt from CGT on gains from venture-capital investments in
+Australia.
+The disposal by an Australian company of non-portfolio shares in a foreign company is exempt from CGT
+in Australia.
+Since July 2003 businesses with international operations can take advantage of optional
+functional-currency provisions and alternative options for calculating foreign-currency gains and losses on
+certain foreign-currency-denominated bank accounts. For example, one optional method removes the
+need to calculate gains and losses from certain accounts with a total balance of not more than the
+equivalent of A$250,000.
+
+Corporate taxes: Taxes on interest and dividends
+Interest paid from an Australian business to an Australian resident business is not subject to withholding
+tax. However, interest paid from an Australian business to a non-resident business is generally subject to
+a 10% domestic withholding tax (less if there is a double-tax treaty).
+
+Dividends paid by Australia-resident companies that come out of profits already taxed at the corporate rate
+carry imputation credits for the tax paid. Dividends are referred to as "fully franked", "partially franked" or
+"unfranked" depending on whether they are paid from fully taxed, tax-preferred or untaxed profits. Given
+the opportunities for reducing tax liability through accelerated depreciation, loss carry-forwards and the
+like, dividends might not always be fully taxable. All unfranked distributions are taxable in the hands of the
+recipient, unless the distribution is within a wholly owned group that has elected to consolidate its
+accounts. Where the corporate tax rate exceeds the marginal tax rate of the shareholder, a tax refund is
+payable to the shareholder. Hence, Australian superannuation (pension) funds, which pay income tax at
+15%, receive refunds for imputation credits that exceed their tax liability.
+
+Australia's double-tax treaties generally allow for a withholding tax of 15% on dividends paid to
+non-resident shareholders, though a lower rate sometimes applies (for example, under a protocol to the
+Australia-US treaty, implemented in mid-2003). Australia and New Zealand agreed in early 2003 to extend
+their dividend-imputation systems to include companies residing in the other country. Otherwise, the
+withholding tax is 30% if no double-tax treaty exists (see Double-tax treaties).
+
+Corporate taxes: Taxes on royalties and fees
+
+Royalties are subject to withholding tax of 30% on the gross royalty. This is generally reduced to 15% if
+the recipient of the royalty resides in a country with which Australia has a double-tax treaty (see
+Double-tax treaties).
+Royalties are defined very broadly to include fees paid for the use or supply of certain property or rights.
+Royalties paid by Australian businesses are generally allowable as deductions against taxable income.
+The deductibility of royalties paid by an Australian business to a non-resident related party (such as a
+foreign parent company) is subject to Australia's transfer-pricing rules. States levy royalty taxes on most
+mineral and onshore oil production; these payments are deductible as expenses for income-tax purposes.
+
+Page99of405©2018Factiva,Inc.Allrightsreserved.Royalty withholding tax applies to rental payments to non-residents under arrangements in which
+cross-border leases are structured as hire-purchase arrangements. Typically, these involve using tax
+havens and round-robin financial transactions under which it is claimed that little or no interest is subject
+to interest withholding tax.
+
+Corporate taxes: Double-tax treaties
+
+Australia has tax treaties in force with 43 countries, and it has separate airline-profits agreements with
+China, France and Italy. Australia also has an airline-profits agreement with Greece, with which it has no
+double-tax treaty. It signed tax treaties in 2010 with Chile (March) and Turkey (April). The agreement with
+Chile went into force in February 2013, while the treaty with Turkey entered into force in June 2013.
+
+The treaties generally reduce withholding tax on dividends, interest and royalties paid to residents of
+signatory countries. All observe the principles that the country where income originates has a prior right to
+charge income tax and the recipient's country of residence should allow credit for taxes already paid.
+
+New double-tax arrangements with New Zealand came into force in March 2010; these cut the dividend
+withholding rate from 15% to zero on dividends where residents of either country have holdings of 80% or
+more in a company and 5% where the inter-country holdings are least 10%. The new arrangements also
+provide for lower withholding tax on interest (zero or 10%, down from a flat 10%) and royalties (5%, down
+from 10%).
+Withholding tax rates under Australia’s
+double-tax treaties (%)
+Country of recipient Dividends(%) Interest (%) Royalties (%)
+Argentina
+Austria
+Belgium
+Canada
+Chile
+China
+Czech Republic
+Denmark
+Fiji
+Finland
+France
+Germany
+Hungary
+India
+Indonesia
+Ireland
+Italy
+Japan
+Kiribati
+Malaysia
+Malta
+Mexico
+Netherlands
+New Zealand
+Norway
+Papua New Guinea
+Philippines
+Poland
+Romania
+Russia
+Singapore
+Slovakia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taipei
+Thailand
+Turkey
+
+10/15
+10
+10
+10
+5/10
+10
+10
+10
+15
+5
+5
+10
+10
+10/15/20
+10/15
+10
+10
+5
+15
+15
+10
+10
+10
+5
+5
+10
+15/25
+10
+10
+10
+10
+10
+5
+5
+10
+10
+10
+10
+12.5
+15
+10
+
+10/15
+15
+15
+5/15
+5/15
+15
+5/15
+15
+20
+0/5/15
+0/5/15
+15
+15
+15
+15
+15
+15
+0/5/10
+20
+0/15
+15
+0/15
+15
+0/5/15
+0/5/15
+15/20
+15/25
+15
+5/15
+5/15
+0/15
+15
+5/15
+5/15
+15
+15
+15
+15
+10/15
+15/20
+5/15
+
+12
+10
+10
+10
+5/10
+10
+10
+10
+10
+0/10
+0/10
+10
+10
+15
+15
+10
+0/10
+0/10
+10
+15
+15
+10/15
+10
+0/10
+0/10
+10
+15
+10
+10
+10
+10
+10
+0/10
+15
+10
+10
+0/10
+10
+10
+10/25
+0/10
+
+Page100of405©2018Factiva,Inc.Allrightsreserved.0/10
+0/10
+10
+
+5
+5
+10
+
+0/5/15
+0/5/15
+10/15
+
+United Kingdom
+United States
+Vietnam
+Applies to the
+unfranked portion of dividends only. Treaty allows for a
+15% withholding tax on interest, but Australia levies the tax at a rate of
+10%.
+Rate varies with category of royalty: 10% on rents and
+royalties for the use of industrial, commercial and scientific equipment; 15%
+on
+royalties paid by the Australian government or a public-sector body; and 20%
+for
+other royalties and fees during the first five years of an agreement (15%
+thereafter). Rate on dividends is 15% for companies and
+25% for others; 15% may apply to preferred areas of activity (not specified),
+25% for other activities. All limits apply to companies
+only; the limit on dividends—15% for industrial undertakings, 20% for
+others—applies only if the recipient company directly owns 25% or more of
+a paying company; rate on interest is 10% where the recipient is a financial
+institution, and 25% otherwise.
+Source: Australian Taxation Office.
+
+Corporate taxes: Intercompany charges
+Business expenses paid by companies operating in Australia to foreign affiliates are tax deductible,
+subject to transfer-pricing provisions in Australia's tax laws. Transfer-pricing rules authorise the Australian
+Taxation Office (ATO) to examine international agreements in order to verify that transactions are
+conducted at arm's length and apply equally to branches and subsidiaries. The ATO may order tax
+adjustments if transactions do not meet these standards.
+
+The ATO has adopted the OECD's Transfer-Pricing Guidelines for Multinational Enterprises and Tax
+Administrations. It invites multinational companies with significant international related-party dealings to
+enter into advance-pricing arrangements (APAs), which set out the transfer-pricing treatment of the
+taxpayer's future international related-party dealings. An APA must illustrate the application of an
+approved ATO methodology to support the company's contention that the prices charged are at arm's
+length.
+
+The ATO requires Australian taxpayers to provide information in their income tax returns on the nature and
+extent of cross-border transactions involving affiliated parties, to help in audit selection. Penalties for tax
+avoidance through profit shifting are usually 25% of outstanding tax, falling to 10% if the company had a
+reasonably arguable position and there was no tax avoidance.
+
+Corporate taxes: Turnover, sales and excise taxes
+
+The federal government levies a multistage, 10% goods and services tax (GST) on the value-added
+component of a broad range of goods and services, and it passes the revenue on to the states.
+Consumers do not pay GST on certain items (such as exports and "basic foods"), and the final vendor
+may claim a GST refund from the Australian Taxation Office. Other items, such as financial services and
+residential rents, are "input taxed"-that is, the consumer is not charged GST, but the vendor may not
+claim a credit for GST paid on inputs. Special equalisation taxes have been introduced to make up the
+difference between the GST and the previous wholesale sales tax, on goods including beer, luxury cars,
+spirits, tobacco and wine.
+
+Excise duty applies on some goods manufactured in Australia, mainly, alcohol, petroleum products and
+tobacco. These may be manufactured only under a government licence. Customs duty is also imposed on
+imports of these goods to ensure that they are treated consistently with locally manufactured products.
+
+Corporate taxes: Other taxes
+
+Governments in the states and territories have limited taxing powers since the Australian constitution does
+not permit them to levy taxes on income. They can impose a payroll tax (levied at up to 7% on wages and
+salaries) and a land tax. These tax payments are deductible expenses for income-tax purposes.
+
+A carbon tax, part of Australia's carbon-pricing programme approved in November 2011, came into force
+on July 1st 2012, but was repealed as of July 1st 2014.
+
+RF
+
+EIU ViewsWire 29 Aug 2014 (T14:05), Part 11 of 28
+
+Page101of405©2018Factiva,Inc.Allrightsreserved.CO autaxo : Australian Taxation Office
+NS
+
+e211 : Government Taxation/Revenue | c184 : Joint Ventures | e2111 : Direct Taxation | c1512 : Dividends
+| ccptax : Corporate Taxation | c13 : Regulation/Government Policy | gpol : Domestic Politics | c15 :
+Performance | c151 : Earnings | c18 : Ownership Changes | cactio : Corporate Actions | ccat :
+Corporate/Industrial News | e21 : Government Finance | ecat : Economic News | gcat : Political/General
+News | gpir : Politics/International Relations | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E
+Exclusion Filter | nfcpin : FC&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+IPD Regulations
+PUB The Economist Intelligence Unit, N.A., Inc.
+AN Document EIUCP00020140902ea8t0000b
+
+Page102of405©2018Factiva,Inc.Allrightsreserved.

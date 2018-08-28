@@ -1,0 +1,196 @@
+FED:Review of the week's economic data
+
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+FED:Review of the week's economic data
+
+1,055 words
+9 May 2014
+Australian Associated Press Financial News Wire
+AAPFIN
+English
+(c) 2014 Australian Associated Press Pty Ltd. All Rights Reserved
+
+DATA
+
+SYDNEY, May 9 AAP - A review of the week's Australian economic data, May 5 to May 9:
+
+*****
+
+AUSTRALIAN BUREAU OF STATISTICS (ABS) BUILDING APPROVALS
+
+Housing construction approvals have dipped in the past couple of months, but are still at 19-year highs.
+
+Home building approvals were down 3.5 per cent in March, following a 5.4 per cent fall in February,
+according to official figures released on Monday.
+
+However, there were over 188,000 home building approvals in the 12 months to March, the highest
+since 1995 and 20 per cent higher than the year before.
+
+Commonwealth Bank senior economist Michael Workman said the housing construction sector looks
+ready to be the main driver for the Australian economy when mining investment winds down.
+
+*****
+
+ANZ JOB ADVERTISEMENTS SERIES
+
+Further growth in job advertisement numbers suggests continued improvement in the labour market,
+but a tough federal budget could damage the employment outlook.
+
+Job ads rose for a fourth consecutive month in April, up 2.2 per cent, figures from ANZ show.
+
+Labour demand had strengthened in 2014, with a rise in hiring intentions suggesting the unemployment
+rate should be close to its peak at around six per cent or slightly lower, ANZ chief economist Ivan
+Colhoun said.
+
+*****
+AUSTRALIAN INDUSTRY GROUP AUSTRALIAN PERFORMANCE OF SERVICES INDEX (PSI)
+
+Australia's services industry is struggling and businesses fear a tough budget will further dampen
+activity.
+
+Only health and community services, and finance and insurance services experienced growth in April,
+while the remaining seven sub-sectors contracted, figures from the Australian Industry Group show.
+
+The Performance of Services Index fell 0.3 points to 48.6, below the 50 level that separates expansion
+from contraction.
+Ai Group chief executive Innes Willox said the sector had unwound the gains made late 2013.
+
+*****
+RESERVE BANK OF AUSTRALIA MONTHLY BOARD MEETING AND INTEREST RATE DECISION
+
+Page266of298©2018Factiva,Inc.Allrightsreserved.Australians have now enjoyed nine straight months of record low interest rates - and it doesn't look like
+changing any time soon.
+
+The Reserve Bank of Australia on Tuesday kept the cash rate at 2.5 per cent and reiterated it will stay
+unchanged for some time to come.
+
+"On present indications, the most prudent course is likely to be a period of stability in interest rates,"
+RBA governor Glenn Stevens said in a statement after the May board meeting.
+
+*****
+
+ABS INTERNATIONAL TRADE IN GOODS AND SERVICES
+Australia's exports to China have hit record levels, as it posted a fourth consecutive monthly trade
+surplus.
+Exports to China over the 12 months to March passed $100 billion, making up 37 per cent of
+Australia's total exports.
+
+The boom in investment in mines and resource projects over recent years is starting to pay off,
+CommSec economist Savanth Sebastian said.
+"Mining investment may have flattened, but the boost to the economy from Chinese purchases of our
+resources is ongoing," he said.
+
+*****
+
+DUN AND BRADSTREET BUSINESS EXPECTATIONS SURVEY
+
+Businesses have shrugged off talk of spending cuts in next week's federal budget, with their
+expectations for sales hitting a 10-year high.
+
+Forty four per cent of businesses are expecting higher sales in the September quarter, while only nine
+per cent are predicting a fall, the latest Dun and Bradstreet's Business Expectations survey shows.
+
+The sales index rose 4.9 points to 34.8, its highest level in 10 years.
+
+*****
+
+ABS RETAIL TRADE
+
+The retail sector appears to be suffering a hangover after strong spending over the Christmas period
+and is unlikely to bounce back any time soon.
+
+Economists say looming federal budget cuts and modest growth in household income are likely to be a
+roadblock to consumer confidence.
+
+Retail trade rose 0.1 per cent in March, the smallest rate of growth in 11 consecutive months of rises,
+data from the Australian Bureau of Statistics show.
+
+*****
+AUSTRALIAN INDUSTRY GROUP/HOUSING INDUSTRY ASSOCIATION PERFORMANCE OF
+CONSTRUCTION INDEX (PCI)
+
+Australia's construction industry is in decline as new mining projects dry up.
+Weakness in engineering construction is dragging on the sector, despite growth in residential house
+and apartment building, new figures show.
+The Australian Industry Group/Housing Industry Association performance of construction index fell 0.3
+points to 45.9 in April, below the 50 level that separates expansion from contraction.
+
+It is the fourth consecutive month of contraction.
+
+*****
+
+AUSTRALIAN OFFICE OF FINANCIAL MANAGEMENT TO ISSUE TREASURY BONDS
+The Australian government has sold $700 million of April 21, 2026, Treasury bonds.
+
+Page267of298©2018Factiva,Inc.Allrightsreserved.The Australian Office of Financial Management (AOFM), which conducts bond auctions on behalf of
+the government, said the bonds were sold for a weighted average yield of 4.0050 per cent.
+The sale attracted bids totalling $3.419 billion, giving a coverage ratio of 4.884.
+
+*****
+
+ABS LABOUR FORCE
+
+The jobs figures were surprisingly good for another month, raising hopes that the unemployment rate
+may have peaked for the year.
+
+The unemployment rate was steady at 5.8 per cent in April, with the total number of people with jobs
+rising by 14,200.
+
+The figures were better than the median forecast unemployment rate of 5.9 per cent and jobs growth of
+8,000.
+
+Treasury, the Reserve Bank and others have predicted the unemployment rate to peak above six per
+cent, possibly as high as 6.25 per cent.
+
+*****
+
+RBA STATEMENT ON MONETARY POLICY
+
+It will be some time before Australia's economic growth gets significantly stronger, which should keep
+the cash rate at its record low level of 2.5 per cent.
+
+Mining investment is expected to continue falling and most of the other parts of the economy are
+predicted to stay sluggish, the Reserve Bank said in its quarterly statement on monetary policy.
+
+"The outlook is uncertain." the RBA said.
+"Given that assessment, the board's view is that the current accommodative monetary policy setting is
+likely to be appropriate for some time to come."
+
+*****
+
+AUSTRALIAN OFFICE OF FINANCIAL MANAGEMENT TO ISSUE TREASURY BONDS
+The Australian government has sold $700 million of April 15, 2020, Treasury bonds.
+
+The Australian Office of Financial Management (AOFM), which conducts bond auctions on behalf of
+the government, said the bonds were sold for a weighted average yield of 3.3622 per cent.
+The sale attracted bids totalling $2.765 billion, giving a coverage ratio of 3.950.
+
+*****
+
+AAP bm/gfr
+
+CO
+NS
+RE
+
+PUB
+AN
+
+aubos : Australian Bureau of Statistics
+e1116 : Employment/Unemployment | e11 : Economic Performance/Indicators | ecat : Economic News
+austr : Australia | sydney : Sydney | apacz : Asia Pacific | ausnz : Australia/Oceania | nswals : New
+South Wales
+Australian Associated Press Pty Ltd
+Document AAPFIN0020140509ea59000jh
+
+Page268of298©2018Factiva,Inc.Allrightsreserved.

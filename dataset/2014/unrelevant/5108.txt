@@ -1,0 +1,975 @@
+Full Year 2014 Associated British Foods PLC Earnings Call - Final
+
+HD Full Year 2014 Associated British Foods PLC Earnings Call - Final
+WC 12,009 words
+PD 4 November 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+GEORGE WESTON, CHIEF EXECUTIVE, ASSOCIATED BRITISH FOODS PLC: Good morning,
+everyone. Thank you for coming along to this annual occasion, to the review of our annual results for the
+52 weeks ended September 13, 2014.
+
+The financial highlights are these, and you will have seen them already. Group revenue is GBP12.9b,
+adjusted operating profit GBP1.163b, adjusted profit before tax up 2% to GBP1.105b. Earnings per share
+up 6% to 104.1p, and the dividends are proposed to rise by 6% to 34p a share.
+Net capital investment in the Group remains high, GBP691m, which is close to GBP300m above the
+depreciation level. Despite that, net debt reduced by -- sorry, reduced to GBP446m, which is a
+consequence of very strong cash flows that John will take you through in just a moment.
+Business highlights are these. Four out of the five business segments delivered very significant profit
+growth. Profit and margin were both well ahead in groceries. There's been a strong turnaround in the year
+at ingredients, a record year in agriculture and a really amazing year of both trading success and
+expansion at Primark.
+Sugar, we've seen much lower EU and world prices, and we'll go into some detail on our sugar business
+at the moment. There's been a very strong focus on cost improvement. Great strides have been made in
+the tax -- sorry, in the cost base of our sugar business in the year, which will stand us in good stead when
+prices recover.
+
+Record cash generation for the year just gone too.
+
+John will, in a moment, take you through the financials. Included in that, he'll have a look at the
+consequences of depreciation of sterling on these Group figures. But if I can then pass over now to John
+to look at the income statement, the balance sheet, the segmental and the cash flow.
+
+JOHN BASON, FINANCE DIRECTOR, ASSOCIATED BRITISH FOODS PLC: Great. Thanks very much,
+George. So, as George has just given in that introduction, this year sterling strengthened against all of our
+major trading currencies, and particularly those in emerging markets. A table of average and yearend
+exchange rates is included, as usual, at the end of your slide pack.
+
+The impact on the income statement this year was to reduce revenue by GBP560m and operating profit by
+GBP42m, which we calculated by retranslating the 2013 results at 2014 actual exchange rates. Given the
+scale of this effect, I think it's important to understand the underlying changes in both revenue and profit,
+and so changes at a Group and at a business segment level are shown at actual and constant exchange
+rates.
+
+We adopted revised IAS19 on accounting for employee benefits with effect from the start of this financial
+year. These changes were only small, but do account for the various references to restated comparatives
+throughout this presentation. The effect on the income statement and segmental analysis, along with the
+reclassification of George Weston Foods flour milling business from grocery to ingredients is also
+summarized in your packs.
+So, coming onto these numbers, Group revenue was GBP12.9b, an increase of 1% at constant currency
+and a reduction of 3% at actual rates. A key influence on this year's underlying performance has been the
+impact on our food businesses of price deflation in some of our major commodities.
+
+Page186of247©2018Factiva,Inc.Allrightsreserved.The prices of wheat, barley and corn oil all fell during the year. World sugar prices have also fallen and, as
+George will provide in more detail later, we're in the midst of a structural change in EU sugar prices.
+
+Adjusted operating profit was GBP1.163b, up 2% at constant currency and 1% lower at actual rates.
+Acquisitions and disposals had no material effect on the results this year.
+The adjusted profit measure reflects the underlying performance of the business and excludes profits less
+losses on the disposal of non-current assets and the amortization of non-operating intangibles. This
+amortization covers those intangible assets acquired since September 2004.
+
+The charge reduced from GBP92m last year to GBP72m this year, and even including the amortization
+which we'll have from Dorset Cereals and absent any other acquisitions, this charge will fall again in 2015
+and will fall more significantly again in 2016, as most of the assets will have been fully amortized by then.
+
+Unadjusted operating profit fell by 1% to GBP1.080b. The income statement this year includes a small loss
+on the sale and closure of businesses, which compared with last year's loss of GBP128m. As a reminder,
+last year's charge arose primarily on the disposal of our US whey protein business, the closure of a sugar
+factory in north China and the discontinuance of yeast extract manufacturing in Harbin, China.
+
+Net interest expense shows a substantial reduction, so it's from GBP87m to GBP58m. This reflects another
+strong cash flow performance, the redemption in July of the British Sugar debentures and also the
+repayment of GBP194m of our private placement notes, some of which were repaid during the previous
+year.
+
+Profit before tax was 18% higher than last year, at GBP1.020b. And adjusting for the items referred to
+earlier, we delivered a 2% increase from GBP1.088b to GBP1.105b. Profit attributable to non-controlling
+interests was lower this year, largely as a result of the lower profitability of our African sugar operations.
+
+The tax charge was very similar to last year, despite the higher profit. If we come on to look at that, the
+main reason for the reduction in the reported charge from 27.6% to 23.2% is that last year's loss on the
+closure of our yeast extracts business in China attracted no tax relief. The tax credit on the amortization of
+goodwill and intangibles fell from GBP29m to GBP21m, driven by this year's lower amortization charge.
+
+The underlying tax rate was 23.3%, in line with the 23.5% used at the half year. This year's reduction from
+24.2% last year reflects a change in the country mix of profits and the further reduction in the UK
+corporation tax rate from 23% to 21% with effect from April 1, 2014.
+
+We expect next year's underlying tax rate to fall more significantly, with the combination of a benefit of a
+further 1% reduction in the UK corporation tax rate to 20% with effect from April 1, 2015 and with a further
+change in the country mix of profit.
+
+Adjusted earnings per share increased by 6% to 104.1p. Earnings per share were 30% ahead at 96.5p.
+And a final dividend of 24.3p per share has been proposed, making a total dividend for the year of 34p, a
+6% increase. Dividend cover on an adjusted basis remains at just over 3 times.
+
+Turning to the balance sheet, I really would highlight just one or two things here. Net assets were
+GBP234m higher at GBP6.8b, but would have been GBP250m higher than that but for the impact of
+sterling strength on the translation of overseas net assets.
+
+Working capital at the yearend was actually GBP164m lower than last year, reflecting the focus by each of
+our businesses, and especially Primark, on the management of working capital throughout the year and
+also the effect of lower food commodity prices. Average working capital expressed as a percentage of
+sales, which is really the management metric to look at, showed a further improvement this year.
+Strong cash generation drove net debt GBP358m lower at the yearend to GBP446m. The Group has total
+committed borrowing facilities of GBP2.2b. A new GBP1.2b revolving credit facility was negotiated during
+the year with a syndicate of 12 banks with strength in our main countries of operation. This facility matures
+in July 2019 with an option to extend it by two years, and replaces the previous facility, perhaps not
+surprisingly, on better financial terms which was -- and the previous one was due to expire in July next
+year.
+
+Net deferred tax liabilities fell from GBP158m to GBP114m, reflecting the anticipated benefit of overseas
+tax credits and some reversal of temporary differences between the tax and accounting treatment of
+depreciation of non-current assets in the year.
+
+The net pension liability increased marginally from last year's restated balance of GBP15m to GBP43m this
+year, as a result of a fall in bond yields which had an adverse effect on the valuation of pension liabilities.
+
+Page187of247©2018Factiva,Inc.Allrightsreserved.Coming on to the cash flow, as George has said, look, our cash generating ability is really very clearly
+demonstrated here. So, free cash flow of GBP639m for me was a high conversion from the EBITDA of
+some GBP1.5b, and that number was some GBP60m higher than last year.
+
+This year's depreciation charge was in line with last year. And the reduction in the caption that you see
+here, depreciation and amortization of operating intangibles, reflects the decline in amortization that I
+referred to earlier.
+
+The most notable change in the cash flow was the working capital inflow of GBP100m. That compares with
+an outflow in most years, and not least an outflow of GBP97m last year.
+
+Total capital expenditure on Primark and our food businesses was GBP83m higher than last year. I
+commented last year that GBP228m spent on Primark was an abnormally low figure. As the rate of
+Primark's expansion quickens, this year's expenditure of GBP378m is much more indicative of the likely
+level of expenditure on Primark over the next few years. We've completed a number of major projects in
+our food businesses and the decreasing capital expenditure here reflects this.
+
+The GBP30m reduction in interest paid reflects the lower interest charge in the income statement.
+
+The cash contributions to the pension scheme were much reduced this year. 2013 saw the last of five
+GBP30m annual deficit contributions to the UK defined benefit scheme. The triennial actuarial revaluation
+of the UK scheme undertaken in April this year revealed a surplus of GBP78m on our conservative funding
+basis, and as a result there's no requirement to make any further deficit payments.
+
+All of our defined benefit schemes are closed to new members. Following the implementation of
+auto-enrolment last year, we've seen a high take up of membership of the UK defined contribution scheme.
+DC contributions exceeded those made to our DB schemes for the first time this year.
+Turning to the business segment analysis now, the segmental results for 2013, as I've said, have been
+restated for the impact of adopting IAS19 revised and the reclassification of the flour milling business.
+
+Looking at revenue, the growth in retail was more than offset by revenue declines in all of our food
+businesses. At constant exchange rates, gross revenues were level and grew by 4% in ingredients. The
+key influence on revenues at constant exchange rates was the impact of price deflation in some of our
+major commodities, not least in sugar.
+
+I think it's therefore important to recognize in that context the achievements of grocery, agriculture and
+ingredients in delivering the higher margins that we see here. Grocery margins benefited by 50 basis points
+from the reclassification, but I must admit I'm pleased to say that they're now over 8%, and that's from big
+improvements in George Weston Foods in Australia and ACH in the US.
+
+Twinings Ovaltine, remember, a major part of the grocery segment, maintained its high margin, so it got
+both the top line and the operating profit growth. The increase at AB Agri reflects the rapid growth of AB
+Vista, our high-margin feed enzyme business, and the maintenance of cash margins in UK animal feeds at
+AB Connect. Ingredients is clearly achieving a strong turnaround.
+
+Primark's margin reached 13.4% this year and probably exceeded expectations. George will spend more
+time explaining the increase shortly, but the benefit -- but the margin benefited from an unusually low level
+of markdowns in the year and warehouse and distribution efficiencies. Looking forward, distribution costs in
+Primark are expected to increase with the addition of, and it has to be said much needed, further capacity
+in Continental Europe in the coming year.
+At a Group level, margin increased from 8.8% to 9% from continuing businesses, and return on capital
+employed increased from 18.3% to 18.9%.
+
+Moving on to the segmental analysis by geography, the decline in EU sugar revenues is partially offset in
+the UK and more than offset in Europe and Africa by the increases at Primark. The impact of the decline in
+profit of British Sugar is evident in the fall in UK profit and margins.
+
+Despite the decline in Spanish sugar, European margins held up well, with the benefit of Primark's
+excellent tradings, and for that matter excellent margins, in Iberia and the non-recurrence of last year's
+restructuring costs in AB Mauri Italy.
+
+The profit and margin improvements in the Americas were driven by a combination of a strong result from
+ACH and improvement in AB Mauri's trading performance in that region.
+
+And then finally, just on this page, in Asia Pacific, the move from a loss of GBP27m last year to a profit of
+GBP40m this year is the result of much improved underlying performances from our businesses in that
+
+Page188of247©2018Factiva,Inc.Allrightsreserved.region. So George Weston Foods in Australia moved into profit, and the profitability of China sugar
+improved with the benefit of a significant reduction in overhead costs. Last year's result included the
+one-time cost of GBP22m for mothballing two big sugar factories in China.
+
+Okay. At that point, I'll hand back to George.
+
+GEORGE WESTON: Thanks very much, John. We start with sugar, and within sugar I want to start first
+with a focus on the cost improvement, which is one of the characteristics of the year, before saluting the
+good operational performance, both of which lead us to have confidence that we will remain a globally
+competitive producer.
+
+But it's been a tough marketplace. World market prices are low and the structural reduction in EU prices
+underway, that adjustment brought earlier and I think more starkly by an oversupply of sugar in the
+European market, even before regime reform.
+
+The cost improvement, then. We mentioned last time the continuous improvement program across British
+Sugar. It is across -- sorry, across AB Sugar. It is across all our businesses and it covers all aspects of the
+cost base, so agriculture, sugar extraction, factory throughput and energy reduction. It is well coordinated
+across the different geographies and it is well resourced.
+If it hadn't been for the significant cost reduction in the business in the year we're reporting on, then the
+figures would have been significantly worse. The same is true of the year which we're entering. It is a really
+very major part of the operation.
+We've also had a thorough review of overheads in the business. We've reduced overheads both at head
+office and also essentially in China. And not least learning from the work done there, we've taken a
+provision for reduction in overhead costs and factory costs in the EU, and we'll see reductions in those
+costs in this year.
+
+The third part of the cost improvement is beet and cane costs, obviously a large part of our total supply
+chain costs. You'll have seen we've negotiated a 20% reduction in the UK beet price for 2015, 2016. There
+are ongoing negotiations and discussions on net beet costs in Spain at the moment, and we expect to see
+further reductions in China cane costs in 2014, 2015, the harvest that's about to start. The costs really are
+coming out of this business at a high rate.
+Looking then at the actual operations over the last 12 months, the UK performed really well. All the
+factories performed well and set numerous new records. The 1.32m tonnes of sugar produced was the
+highest production since 2006, when we had six factories.
+
+The growing conditions for this harvest which is now underway are even -- have been even better. We
+expect to see something like 1.5m tonnes of sugar produced by four factories. We haven't produced a
+figure like that for a long, long time, certainly not since the days when we had eight or even nine factories. I
+think that's testament to the improvement in capacity and capability of the British sugar factories.
+
+Vivergo, the ethanol joint venture with BP which has only ramped up production and commissioned slowly,
+is now operating much better. It's getting very close to the designed capacity and we're pleased with the
+improvements that have been made there over the last 12 months.
+
+In Illovo profit proved much more resilient, pricing was more resilient; cost reductions also benefited that
+company too. It produced 1.7m tonnes. The potable alcohol plant in Tanzania which we've mentioned
+before, I mention again for two reasons. Firstly, it's operating at above design capacity, and that's great. It
+has a stable customer base too. And also because I think it also points the way to some of the investments
+we'll see in Illovo over the next few years in co-product production.
+China also had a record campaign in the south. Something like 565,000 tonnes of sugar were produced
+there, with extraction rates and yields all really good.
+
+This is part then of the sugar pricing story. The other part, of course, is the decline of world market prices.
+At its height just two years ago or so, we saw sugar prices at $0.36 a pound. We saw them at a low point of
+just over $0.13 just a few weeks ago, now up to $0.16. That has driven most producers across the world
+into loss, and I would anticipate that those prices will reduce supply of sugar globally in the future; exactly
+when is hard to anticipate.
+
+There's been a second price cycle, though, and that's been that in the EU. You can see in 2012, when the
+EU ran short of sugar for its own reasons, the prices jumped from around EUR500 per tonne to EUR750.
+And with higher stock levels, though, building over the last couple of years, those prices have come
+clattering down. Europe has got a lot of sugar, at least going into the last two negotiation rooms had a lot of
+
+Page189of247©2018Factiva,Inc.Allrightsreserved.sugar in stock, and these price reductions I think reflect that. They also reflect to some extent anticipation
+of the quota removal in 2017.
+
+The negotiation round with customers for 2014, 2015 have been challenging. I anticipate that low prices will
+remain in Europe until the excess stock, and the EU created something like 3m tonnes of more supply over
+a two-year period, until those excess stocks have worked their way through the system. At that stage, of
+course, we'll probably be into the world beyond quotas.
+
+The good news is that with these price reductions in the year that we're reporting on and next year, much
+of the structural price change that we've been anticipating in 2017 will have been -- will be behind us.
+
+If I move then next on to agriculture, where we had a record year. We made GBP50m for the first time,
+which is a really splendid performance. The growth came really from three areas; firstly AB Vista, the
+specialist feed business we've talked about in the portfolio. We've talked about Quantum Blue in the past,
+feed enzyme, where growth has continued strongly. We've just received a registration for that product in
+Europe, so the European market now is open to Quantum Blue as well.
+Frontier, which is the trading joint venture we have with Cargill, is a business in two parts. We sold a lot
+more crop inputs into the UK market this year, and that more than compensated for reductions in grain
+trading profit. You need commodity price volatility, at least it's helpful to have it, to make money out of grain
+trading. The volatility was reduced. But taken together, Frontier was ahead for the year.
+As commodity prices came down, the task of maintaining cash margins in our commodity feed business in
+the UK was -- that task was a big one. It was -- the job was done really well by the team. Cash margins
+remained in place, percentage margins increased, as a consequence of the reduction in commodity prices,
+and I congratulate the team there for that work.
+
+If I next move on to the grocery portfolio, where we've seen a major increase in the operating profit in the
+year, major increase in profit, major increase in margin. Now, the revenues are down or at best flat. It's a
+story of two different types of grocery business there.
+
+Where we have heavy commodity exposure, so UK milling, for example, is in the grocery numbers, UK rice
+production is there and American corn oil is also in these grocery numbers, those products are
+immediately and properly affected by raw material price reductions. Where we have more branded
+portfolios, where the read across between price reductions, commodity price reductions are less
+immediate, we've actually seen good revenue growth, something like between 3% and 4% in the branded
+portfolios across the UK, Australia and the United States.
+
+Revenue and profit growth at Twinings Ovaltine is also a feature of the year, as it has been over the last 10
+years. The recovery in Australia is also well underway, and I'll spend a bit more time on that. And then we
+had an excellent performance in ACH in the United States.
+
+First to Twinings, then. Of the two brands, Twinings was particularly strong. Excellence in marketing and
+product development, and I'll show you some examples of that in a second. And a record UK market share.
+
+If you look at the development of value share in the tea category in the UK, you can see a very strong rise
+in the market share in the last two years. We are now the second largest brand by value in the UK tea
+market, which for a specialist tea market business is fantastic.
+
+Where did that growth in the UK come from? Well, we relaunched green teas and the herbal and infusions
+range during the year. This is the new packaging. Consumer insight-led segmentation, good new flavors,
+great new packaging. We're doing black teas next. In fact, I think you can see examples of the new black
+tea tea bags upstairs. Excited by all the work that's been done. We also in the year were the fastest
+growing tea brand in the United States once more.
+
+Ovaltine then trading well in developing markets, as it usually does. The Nigerian packaging line, which is
+important in that big Ovaltine market, is now fully operational and I'm delighted that that project went very
+smoothly.
+
+On to Allied Bakeries next, where revenues and profits were ahead. That's really a good -- great
+achievement in the current trading environment in the UK, but we grew revenues, we grew profits.
+
+The five-year capital investment program is essentially complete. We are commissioning the last plant in
+that series at Stevenage bakery now. We have a fantastic network of bakeries which are capable of making
+high quality bread at low costs, and very, very reliably indeed.
+
+The year wasn't just about new kit, though. We also had success with new product launches. Great White,
+which is the first white bread with as much fiber in it as wholemeal, was successfully launched, as was
+
+Page190of247©2018Factiva,Inc.Allrightsreserved.Sandwich Thins, which are made up on this bit of kit up in Glasgow bakery. Again, as we'd expect from
+Allied Bakeries, the installation of that complex piece of equipment went extremely well and the plant's now
+running to all its design parameters.
+Moving on then to Jordans Ryvita, we saw revenue and profit growth in this part of the business too.
+Particularly of note, the increased demand for Ryvita Thins during the year. We took in-house the
+manufacture of Thins, and that's great now to be making them as well as selling them.
+
+We also bought Dorset Cereals. That deal was just completed in October, although negotiated in the year
+in question.
+
+I remind you it's not many years since we bought Jordans and Dorset. We're thrilled to have the leading
+muesli -- premium muesli brand to go along with the leading premium clusters brand in Jordans. There are
+cost synergies in the acquisition too. It's a great new addition to the portfolio.
+
+World Foods and Westmill Foods; if it hadn't been for rice price deflation we would have seen revenue and
+profit growth in both World Foods and Westmill. That has been driven by good performances in Patak's,
+Blue Dragon, Lucky Boat noodles, which are the largest brand -- which is the largest brand in the Chinese
+restaurant noodle sector, and Elephant Atta flour which was a business that we bought -- chapatti flour
+business we bought from Premier Foods a couple of years ago now.
+Every great business has its dark clouds, and our UK grocery business that dark cloud was Silver Spoon,
+where we lost some important granulated sugar contracts during the year. We are committed, of course, to
+earning them back just as soon as we can.
+
+Turning then to Australia where, the consequence of the best part of three years very hard work, we are
+seeing a much improved performance. We've seen good progress in the year for the major bread brands.
+And we've now got the meat factory in Castlemaine in Victoria working well and we're beginning to fill it up,
+so higher volumes, better productivity in that important meat business.
+We've created an operation in the business we call Mauri ANZ. We've merged the yeast and bakery
+ingredients business in Australia with our flour milling business. That's why flour milling is coming out of
+the grocery segmental. There is good cost and also revenue synergy available by putting ourselves in a
+place where we are a full line supplier to the bakery market in Australia.
+
+Although it's not a mainstream part of ABF, John and I are quietly quite proud of the work that's been going
+on, on the site of our former meat factory in Western Australia, just south of Perth in Fremantle. This is 67
+acres. When we shut the meat works there, when we built the Castlemaine factory, we gave ourselves 67
+acres of prime residential real estate.
+
+Rather than selling it off for someone else to profit from the redevelopment opportunity, we have put the
+infrastructure and got the planning permissions ourselves. It's a multi-year project. We are now in the
+process of selling lots and houses are being built on it. Sadly, the profit from this project, and it is really
+quite substantial, won't go through the adjusted P&L line, but it's real money nonetheless.
+
+Let me finally, under grocery, go to ACH where profits were well ahead. We have been advertising the fact
+that corn oil possesses three times the amount of plant sterols as olive oil. Plant sterols are what give
+health benefits to olive oils. And we've seen good volume growth as well as margin protection, and in fact
+margin growth, as a consequence of that advertising campaign. We have also undoubtedly benefited from
+a declining corn oil price through the year.
+We relaunched the Mexican oil brand Capullo during the year as well, and we've seen good increases in
+market share and profitability in Mexico as a direct consequence of that work.
+I'm delighted with the progress the ingredients portfolio has made through the year. We've seen a strong
+turnaround under new management, and I think we will see much more of the same over the next few
+years.
+
+Starting with Mauri, the improvement has been very broad based and has been both geographically and
+also in terms of product. So both yeast and bakery ingredients have seen good profitable growth, and of
+course there's been no recurrence of the 2013 restructuring costs.
+
+At ABF Ingredients, the specialist ingredients part of the ingredients portfolio, we've seen growth in bakery
+enzymes and also from feed enzymes. While we were at it, we built a new extrusion factory in the Midwest
+United States, which is an important part of the AB Vista supply chain.
+
+Retail, last but not least. We've described the year just gone as being magnificent, and I think there's good
+reason for describing it as so with operating profits up 30% and revenue up 17%. Excellent trading
+
+Page191of247©2018Factiva,Inc.Allrightsreserved.performance, higher margins, major expansion in selling space. We've added more space in the year just
+gone than we possessed in total in 2000.
+
+And we also had a stunningly successful entry into the French market with the first five stores, and lots of
+excitement and anticipated glory, perhaps, around -- with our announcement of entry into the northeast of
+the US.
+
+We saw 4% like-for-like growth across the year. We saw the ranges sell extremely well across all times of
+the year, so autumn, Christmas, Easter and then summer. Christmas and Easter were particularly strong.
+And although it's invidious to pick out particular markets because they were all good, Spain achieved
+double-digit like-for-like growth. That's after nine years after entering that market for the first time, so we're
+still seeing a fantastic performance there.
+
+And then France, with the first five stores. Just to give you some indication of their success, with five stores
+we are one of the top 20 retailers by volume in the French market already.
+
+Margin improvement was driven certainly not by higher prices but by lower markdowns. The success of the
+ranges meant that we had to discount less, particularly but not only in Spain. John has mentioned the
+warehouse and distribution efficiencies. And freight rates, particularly sea freight rates out of Asia, were
+nicely lower and that helped the margin story as well.
+
+We couldn't talk about Primark without showing you some of the clothes. These are ones in the shop now
+and they're selling particularly well with the possible exception of that hat, the woolly hat.
+
+Let me go through some of them. The GBP8 formal jog leg, where do we head now, GBP18 jumper dress,
+GBP20 over-the-knee boots, the denim shirt for then GBP12, the athletic crew sweatshirt for GBP12 and
+jog leg boys also for GBP12, they're all selling well.
+
+We've taken a huge amount of momentum into the new year out of last year, despite the weather, and of
+course there's been a weather effect in our first four weeks. In that first four-week period, sales and profits
+are both up by over 10%.
+
+We are selling fewer hats but we've got, after those four weeks, still 48 weeks to go. If you look back at last
+year when we grew our profits by 30%, we had eight weeks which were clearly weather affected; we've had
+six this year. So we're not particularly concerned with what has happened so far.
+
+Moving on to the selling space expansion in the year just gone, we added a gross of 1.4m square feet. We
+opened 25 new locations. We relocated three stores and extended three others, opened five in Spain and
+Netherlands we've just about doubled the selling space there.
+
+Important stores in Alexanderplatz in Berlin; we've finally got that one open. Cologne, which is one of the
+major shopping centers in Germany, we've opened a 19,000 square foot store there and it's trading really
+well, and also Duesseldorf. The first five stores in France, of course.
+
+But we grew the space in the UK by 5%, which is perhaps more than people might have anticipated.
+Because it's a slightly poignant moment, we relocated the very first Spanish store in Plenilunio shopping
+center just outside Madrid and we had to double the size; the sales have almost doubled too on the new
+space. It's over nine years, as I say, since we opened the first store, and now we need twice the space in
+the same location.
+
+A chart with more detail on selling space. Overall, 13% growth; Continental Europe 77% growth with 13
+new stores, Iberia 18%, and then the UK, as I said, with 5%. We have more space in Iberia and Northern
+Continental Europe again than we did back -- for the whole business back in 2000.
+
+France, let me linger on one of the great glories of Primark's year. We started in Marseilles just before
+Christmas, we went north east across to Dijon, and then we opened three stores in Paris, all in shopping
+centers in the periphery of Paris.
+
+I know I've shown you footage of Primark store openings in the past, but I took the following footage
+myself, standing beside a mannequin which was swaying at me as the people came into the store. This is
+Creteil. It's a reasonably -- I don't want to call it an average shopping center, but it's 30 years old, in the
+south of Paris, and let me just show you what it looked like.
+
+(Video playing).
+
+To say that we've been well received so far in France is a bit of an understatement. John and I both very
+much hope that maybe in 18 months' time we can show you similar footage for Boston, but here's hoping.
+
+Page192of247©2018Factiva,Inc.Allrightsreserved.We've got a strong pipeline of new stores, as I think we've flagged in the past. Since the beginning of this
+financial year, we've opened five more stores. We've got an extra five to open by Christmas. That will take
+us to 0.5m square feet of new space by Christmas.
+
+We then slow down a bit. It's just in the phasing of build projects. So by the end of the financial year, we
+expect to open just a little less than 1m square feet, but then we have a very, very full program in the
+autumn of 2015, up to Christmas. There really are a lot of stores, a lot of very significant stores.
+
+Let me give you a couple of examples. Obviously, Downtown Crossing and now King of Prussia, but also
+Gran Via, which will be something like 130 -- I think it's 132,000 square feet in the center of Madrid. It will
+be -- and this is interesting for a business which is now market leader by volume in the Spanish market; it
+will be our first high street location in Spain, and it will be an absolutely magnificent store.
+
+Just giving you next an update on the north east of the US, we still expect the first openings in late 2015.
+That's calendar 2015, not financial. The location strategy is quite clear. We're going to areas in the north
+east of high urban density and in shopping malls where there is high existing customer footfall. That is
+important in getting the news of the brand out into the American market quickly.
+
+We've now got eight stores confirmed; Downtown Crossing, clearly, but seven leased from Sears. We
+announced that just about 10 days ago, including -- all in great locations. The highlight of those seven I
+think is King of Prussia, the store in the King of Prussia, which will be quite large. King of Prussia is one of
+the top five shopping malls in the United States. We'll have 0.5m square feet open by late 2016, and we will
+have leased warehousing in the region to support the business as it opens in -- begins trading in the
+States.
+
+Finally then, looking ahead, we expect to see continued progress, continued expansion in Primark. The
+momentum in the grocery business, the ingredients and agriculture is still with us, so we expect to see
+improvements in those businesses.
+
+We have flagged that there are further falls in EU sugar prices. And as the Chairman remarked in his
+outlook statement, taking all those together, there's limited opportunity for adjusted earning per share
+growth in 2015. Beyond that, though, most of the structural change in EU prices will be behind us. That
+headwind of sugar prices coming down will be done, and that leaves us confident of further good progress
+for the Group.
+
+Thank you very much for your patience, and if we can move on to taking questions from the floor, please.
+
+Questions and Answers
+
+CATHERINE FARRANT, ANALYST, JPMORGANCAZENOVE: Thank you. It's Catherine Farrant from
+JPMorgan. If I could just clarify some of the moving parts on the Primark commentary that you gave, clearly
+you have the tailwind from freight costs this year, but we've seen quite a lot of news about cotton prices
+having come down. Then you've got your distribution costs, as you said, would increase through the year.
+Can you just give a sense of how comfortable you are with that 13.6% margin in the second half of 2014,
+as we -- progressing as we go through 2015?
+
+And on the current trading, I understand the whole of the high street has been under pressure because of
+the slightly warmer weather that we have at the moment. But if you're growing yourselves at about 10%
+and you've had quite a significant amount of openings earlier in the year, is that a negative like for like at
+the moment? And within your outlook for the year, do you factor in that bouncing back quite quickly as we
+get towards the peak Christmas trading period?
+
+JOHN BASON: The first thing to state is that it's not the aim of Primark to increase the net operating profit
+margin. So I think there are a number of factors that have come into play in delivering that 13.6%, and I do
+believe that that margin will come down a little in 2015.
+We've seen a very, very low level of markdowns. Literally, the range was sold out in late July, beginning of
+August, perhaps possibly even slightly earlier than we would have liked. The other thing is there was no
+distribution space added, so these things are absolutely full to the gunnels.
+
+And so we've opened -- we've doubled the warehousing space in Northern Spain, which is now open, so
+the extra cost of that is clearly coming through. And I think we've also made the comment in the statement
+that we're adding over 50%, about 60% to Moenchengladbach of more space to come through there, so
+those extra costs will come through.
+
+So it's best, I think, to look at the 2015 year ahead to look at a reversion, if you like, of the level of
+markdown. Look, if we have a fantastic year, then that will be very evident in the sales numbers, and then
+
+Page193of247©2018Factiva,Inc.Allrightsreserved.that will come through into the margin and we'll actually see it. But I think it's best to expect that as we're
+going forward.
+
+You mentioned a couple of other factors. There's obviously exchange rates and there's also cotton, and
+how are those affecting things. I think exchange rate is actually marginally a tailwind for us, so it's a benefit
+certainly in the clothes that we're selling now. Although the dollar/euro currency pair I think is the one to
+watch, and obviously that will start to go against us, I think, in the summer of 2015.
+
+Cotton is entirely benign. Cotton, if anything, the prices are going down so we don't see cotton as a
+particular problem.
+
+So I think, net/net, and it's particularly around the markdowns, it's around the distribution costs. The other
+thing, by the way, which was in the statement but I think I've made clear is we are adding some costs,
+clearly, for the startup of the US, because the US stores will not open until the next financial year. So that's
+broadly where that is. Okay?
+
+Can I just make one comment, just on current trading? We don't -- we won't give you like for likes for these
+weeks. I've got to say, for the very reason that you get this sort of volatility, I really do believe that we
+should be looking at it over a long period of time. And I think George made it very clear that the year that's
+just gone, we had very flat like for likes at the beginning of the current year that we're reporting on, and look
+at the numbers that we're seeing at the end. So I'll not wander down the rabbit hole of talking specifically
+about like for likes in that period.
+
+Could I just clarify one thing, Cath? George said that the sales and profit in those first four weeks are
+ahead of 10%, so don't take it as 10%, okay? So I can tell you that the sales are comfortably ahead of
+10%. So, just in case you're trying to work out in your mind just why -- you're trying to validate where the
+like for likes are there. But it's to give you a feel that clearly the structural growth of Primark is very much
+intact, which you would expect.
+
+And so I think that's one of the reasons that people like the growth story of Primark. We've got this very
+high growth, and like for likes will adjust. But it's at this very high level, rather than all of your growth coming
+from like for likes, which give you much more of a sensitivity to your profit. Is that helpful?
+
+CATHERINE FARRANT: Very helpful. Thank you very much.
+
+JOHN BASON: Warren Ackerman.
+
+WARREN ACKERMAN, ANALYST, SOCIETE GENERALE: Good morning. It's Warren Ackerman, Soc
+Gen. Can you talk a little bit about the US Primark opening schedule and more about how you mitigate risk
+in the US? I'm thinking about in terms of the warehousing, in terms of sourcing, what you're thinking. And I
+know it's early days, but what do you anticipate in terms of sales densities in the US relative to Europe?
+Markdowns, which have been very low in Europe, presumably I guess would be a bit higher. Just a
+question around risk management on the US.
+
+And then just secondly, on guidance, John, you said operating profits marginally lower in 2015 compared to
+2014, because of the sugar drag, and you talked about making some of that up below the line. You told us
+about tax being lower. But are there any other features below the line on interest, associates, other things
+that we should be modeling for 2015 in terms of moving parts? Thank you.
+
+GEORGE WESTON: Let me do the Primark risk in the US and something on the opening schedule. We
+expect at this stage to have three stores open by Christmas and the other five opening through 2016. Two
+of those three will be King of Prussia and Downtown Crossing, so really important stores for the brand.
+
+We have taken, I think, a properly conservative view of the markdown percentage, of the margin and of
+footfall. So we're anticipating footfalls in the malls in particular to be lower than the European average. We
+are assuming that the markdown percentage may be significantly higher, both as we learn the specifics of
+the American ranges that we need to learn. We always do that with new markets.
+
+And thirdly -- where am I headed? So, the markdown percentage there. We will evolve the supply chain to
+be best placed to supply the US, but the evolution will be over time. And that, because of different duty
+rates from different countries, will lead also I think to, at the gross margin level, us starting with lower
+margins, marginally lower margins in the US.
+
+So I think John has made this clear in the past. We don't expect to make a lot of money in the first couple
+of years in the States. What we're desperate to do is to learn how to trade there. That's the most important
+task for us in the first couple of years.
+
+Page194of247©2018Factiva,Inc.Allrightsreserved.JOHN BASON: And then, Warren, you asked about some guidance, if you like, below the operating profit.
+So you can see the track we're on in terms of the interest. So interest will be further reduced in 2015, not
+by the same quantum that we saw 2014 over 2013, but you can certainly see a good reduction again. So
+that's a lower level of debt and also the full-year benefit of this lower cost of the term debt, and for that
+matter the facility that we've got which is lower.
+
+I think tax is important. So 23.3% underlying this year is probably going to more like 22%, I think, for next
+year. So you'll get a big quantum there.
+
+So I think that's why, in the Chairman's outlook statement, we're trying to say a bit less on the adjusted
+operating profit, but it's obviously those things that will bring back the earnings per share.
+
+Okay. Great. Shall we try -- yes, please, at the back. I can't quite see who it is.
+
+JAMES TARGETT, ANALYST, BERENBERG BANK: Hi there. It's James Targett from Berenberg. Two
+questions from me. Firstly, just on sugar and I guess the delta and forecasts, mainly actually looking at
+China. I wonder if you could clarify what the losses were for the reported year and then where you see that
+developing as we go into next year.
+
+And then secondly on grocery, as you said, it returned to pretty healthy margins there. I just wonder where
+you see margins in the grocery division heading in the next couple of years and what could be the key
+drivers of that. Thank you.
+JOHN BASON: China sugar, yes, a loss in the year which was on an underlying basis lower than the
+previous year, and that's why we're saying an improvement in profitability, so in other words the loss is
+less. So I think in the range of GBP20m to GBP30m of a loss in China -- in China sugar in the year. More
+of it in the north. The south does remain -- of the two, relatively much more profitable.
+I think as we're looking forward into this year, James, it really is dependent on where China sugar prices
+are. They are at a low level, so I don't have literally the last up to date numbers over the last week or so,
+but just a bit less than RMB4,500 a tonne, if not slightly lower. So I'd still expect a loss in China, maybe
+slightly lower than that number there, but of that order.
+GEORGE WESTON: The reduction in cane costs in China, which haven't been settled down yet, though,
+are potentially really quite significant and would be very helpful.
+
+Where are grocery margins going? Well, I think -- I hope that there is more room for improvement. Mix
+change works in our favor, and I think that there is potential. I think Australia should improve further in the
+year. ACH is coming off the back of a very good year, but I think there is potential improvement in the
+medium term in America as well. So I think there's room for growth in margins.
+
+JOHN BASON: Okay. James Grzinic. Jane, just in front.
+
+JAMES GRZINIC, ANALYST, JEFFERIES: Yes. Morning. James Grzinic from Jefferies. Going back on
+Primark, can you perhaps help understanding the makeup of the LFL in terms of how the UK is doing
+relative to that fall and how much extension was part of that?
+
+And ultimately, what do you think you're doing in terms of market share in the UK now? Is it important that
+you drive market share in the UK for Primark, or it's not (multiple speakers) you're focusing on at all?
+
+GEORGE WESTON: Volume market share is important to us. It sits right at the heart of what Primark
+attempts to do. The market share growth -- sorry, the like-for-like growth in the UK was about on the
+average of the whole. Across the rest of the piece, Iberia was fantastic and Northern Europe, with all the
+70%, 77% extra space growth, which is great in the medium term, in the short run caused (multiple
+speakers). So UK was on average.
+
+Is there a missing part of the question?
+
+JAMES GRZINIC: It was the extension side of things, how that helped the LFL in the UK, whether (multiple
+speakers).
+
+GEORGE WESTON: No, we take it -- any space that's been extended, we take it out.
+
+JOHN BASON: It's taken out. They're very, very scrupulous. So any store that's extended by however
+much, that's out of the like for likes for a year. Okay? So we don't take -- we don't have the benefit of the
+extensions.
+
+JAMES GRZINIC: Very clear. And in the round, do you think you've grown market share in the UK over the
+past year?
+
+Page195of247©2018Factiva,Inc.Allrightsreserved.JOHN BASON: Oh yes. I think there's no doubt about it. I think the Cantor data will give you very clear
+evidence over monthly, six monthly and yearly, we're seeing growth on all of those fronts.
+
+JAMES GRZINIC: Thank you.
+JOHN BASON: The one thing that George did say, and I think it is important just to recognize, I'm always
+worried talking to analysts about the word cannibalization, but it's worth just pausing for a moment on that.
+
+We are seeing for these very, very high sales densities in Germany, as we're opening up new stores that
+are close by, there is a cannibalization effect. So, if anything, that has depressed and I think will continue to
+depress what is actually those for none -- for the stores that haven't got a big new store opening nearby. So
+I think that's one of the things to look out for, and that's why like for likes in Northern Europe are lower.
+Okay?
+
+But, do you know, we've been here before, and I look particularly at Warren Ackerman. I remember your
+question, maybe it was April last year, do you remember, when like for likes since --
+
+WARREN ACKERMAN: In Spain.
+
+JOHN BASON: Do you remember it in Spain? And that's because we'd opened a lot of stores. And here we
+are, after that, we've just gone through a year where we've had like for likes 10%. It is part of the Primark
+model, I think, and the journey that even where we're immature, if you've got this very, very high sales
+densities, opening up the big stores nearby is going to have an impact on them, and I don't think we should
+be concerned about it.
+
+JAMES GRZINIC: Thank you.
+
+JOHN BASON: I think it's Rosie.
+
+ROSIE EDWARDS, ANALYST, GOLDMAN SACHS: It's Rosie Edwards from Goldman Sachs. Just one
+question, again on Primark in the US. You talk in the release about a strategy to generate interest and
+awareness of the brand. I'm just interested in how you propose doing that. And does that mean you're
+taking a different strategy from Europe, where you don't really spend a lot of money on advertising and
+such?
+
+GEORGE WESTON: I think there will be more activity around individual store openings in the US than
+there would have been -- than there has been previously in the UK. So Boston will have a lot -- sorry, in
+Europe. So Boston will have quite a lot of publicity surrounding the opening of that store.
+
+The main -- I'd go back to a point I made in my presentation. Downtown Crossing, Boston has been chosen
+for its ability to get messaging -- get the brand known very well. Boston is the right place for an Irish
+business to go first. And then Boston has a very large young out-of-town student population who we hope
+will spread the message about Primark quickly.
+
+I think King of Prussia is another example; it's just immense footfalls through King of Prussia. And in the
+end, it's people's first visit to the store which makes our reputation or breaks it. So if we can get people --
+these high density locations first, if we can get people through them, I think the brand will get known, get
+talked about very quickly. Either that or it won't work in the States. But at least by having these sorts of
+stores, that will do a bigger job for us than any marketing campaign.
+
+JOHN BASON: Shall we try Audrey at the front?
+
+AUDREY BORIUS, ANALYST, MORGAN STANLEY: Hi. I've got one on Primark and one on sugar. So,
+first on Primark, given the success that you've got in Germany and Spain in terms of like for like, are you
+satisfied or disappointed by the rate of openings? And if --
+
+GEORGE WESTON: Sorry, by the rate of --?
+
+AUDREY BORIUS: Of openings. And in terms of your ability to find space, really, what do you see there?
+
+And concerning France, we've seen the clip. What should we expect, because it looks like you're doing
+very well? So what should we expect in terms of openings, in terms of new warehouse facilities to service
+the market?
+
+And the final question is on sugar. Could you help us understand what gives you confidence that profits
+aren't going to turn negative, because clearly it looks like nobody can really call the EU sugar price, and
+obviously you're the best player in terms of cost structure. But what if things were to go way, way worse?
+Thank you.
+
+Page196of247©2018Factiva,Inc.Allrightsreserved.GEORGE WESTON: Okay. The space opening program, I think that the frustration in Spain for some years
+has been the absence -- our inability to get a high street space. It's very difficult in Spain to get high street,
+which is one of the reasons why we're so excited by Gran Via. Outside high streets in Spain, I think we
+have gone at a sensible sort of pace. We've now got 41 stores and pretty good coverage in that market.
+
+Germany, we've had a strong opening program over the last 12 months or so in the north west of Germany.
+We open Dresden, I think, later this month, on the 20th. That takes us into the east. The German market
+has perhaps taken more learning about, but I think we're comfortable with the pipeline that we've got in that
+country. I don't think we would have wanted to go much quicker in Germany than we have gone over the
+last few years.
+
+France, when we've previously gone into new markets, we've opened some stores and then we've stopped
+for a while to learn lessons. We did it in Spain, we did it in Germany and we're doing it in France too. Do I
+wish that the pipeline was fuller, given what we've seen in the first six months in France? Yes, possibly. But
+I think it's a very good discipline to open some stores and then learn about the market, rather than
+anticipate success and get ahead of yourself.
+
+The pipeline is filling up nicely, but I don't think that we will have significant store openings. I think we might
+have one over the -- in this financial year, and then the pipeline looks better in the years before -- years
+thereafter. So, no, I don't apologize for the fact that we've said we'll open five and see where we are then.
+Sorry, sugar. In the medium term, the fact that profits are squeezed for everyone will lead to supply being
+constrained and prices will go up. Quite where the bottom is I think is very hard to predict, and quite when
+the timing of the price rises will be, that's very hard to predict too. Our imperative is, if we can, to increase
+the gap in processing efficiency between ourselves and the marginal producer in Europe in particular.
+
+JOHN BASON: Robin Asquith.
+
+ROBIN ASQUITH, ANALYST, JPMORGAN: Yes. Thank you. A question about Primark again in the US,
+just about your thoughts about the general opportunity in the US. Obviously you've got the seven new
+stores from Sears, which says a lot in itself. You haven't even opened the first store and yet you are
+obtaining these new stores, and obviously we're near the process of opening the first store. So, your
+general thoughts about the opportunity, the confidence that this expansion will be a success. Thank you.
+
+GEORGE WESTON: Yes. We are entering the US market seriously and committedly. I think we've always
+said that perhaps 10 stores in the north east to begin with, to see where we are, to see how the brand is
+accepted is about right. We know we have a lot to learn about the US market, but equally we know that
+from everything we've seen on tours of the States that we will be very differentiated from existing US
+competitors. We also think that we will be very price competitive.
+
+So there's good reason to believe, and on the back of that I think 10 stores is a good number. I think the
+new news with these seven new stores is just how good that space is. I think to get the right locations,
+these high density locations, is really important, not least because I think one of the perils of entering the
+US is lower sales densities. There's a lot of sale space there, but there is also lots of very good selling
+space and I think those first eight stores are all in great locations.
+
+JOHN BASON: Just over here, Jack. Jack Gorman.
+
+JACK GORMAN, ANALYST, DAVY: Thank you. Jack Gorman from Davy. Two questions, please. Firstly,
+on sugar and switching perhaps to Illovo, in light of where world prices are currently at and in light of the
+difficulties that other operators may be experiencing and continue to experience, are there opportunities for
+Illovo to expand in Africa? I know, George, you talked about co-product investments, but perhaps thinking
+more broadly about sugar operations and sugar expansion.
+
+My second question is on grocery, and in particular Twinings, which -- maybe a hidden gem is probably the
+wrong description for it, but it certainly has been a powerhouse. Where are we at and where are you at in
+this journey as regards Twinings, as regards the category growth and as regards the opportunity? And I'm
+thinking especially in the US, where you've noted very strong growth again this year. Thanks.
+
+GEORGE WESTON: Okay. Africa remains the largest deficit market in the world for sugar. It imports
+something like 6m tonnes of sugar annually. Africa grows sugar really well, particularly Sub-Saharan Africa.
+So I think if you just take those two macro points together, you can see that there is a lot of potential in
+terms of both market and low cost production for what remains, I think, Africa's best sugar company, which
+is Illovo, to expand into.
+
+I don't think the timing is right, right now, in a world which is oversupplied with sugar, and also in a part of
+the world which is going to have to readjust, I think, in 2017 to the effective loss of one of its big export
+markets. So I don't think the timing for expansion of any scale is right, but in the long run, absolutely.
+
+Page197of247©2018Factiva,Inc.Allrightsreserved.In the meanwhile, particularly as Africa gets wealthier, the market for co-products increases, not just
+alcohol, obviously, but that's a big one, but also some cane -- downstream cane products.
+And the last one then, of course, is energy. If you look at the shape of a Brazilian sugar business, it is in
+the energy business, not only in ethanol but also in power generation. And I think there's potential for
+Illovo to improve the energy and the electricity production in a number of its sites too.
+
+So, medium term, that's what we're working on. Longer term, it's a great place to make sugar; it's a great
+place to sell sugar.
+
+The tea category, particularly the black tea category, globally is declining. The herbal and infusions
+markets in many places are increasing, and Twinings is very well placed in those growth markets. As the
+category of black tea declines, though, the premium sector of that, which is particularly led by Twinings, is
+expanding. I think we're causing our own expansion, actually, in a number of these markets, and I think
+we've got a long way to go.
+
+In the US, I mentioned outside I think there's a lot of growth in the tea category left for -- in the tea market
+for Twinings. We have been surprised, I think, at head office, if not down in Andover, by the performance of
+Twinings in the UK market over the last 12 months.
+
+JOHN BASON: Which is why we showed you those market share figures, which I think are stunning.
+
+GEORGE WESTON: Australia is still growing in a tea market -- sorry, Twinings is still growing in Australia
+in a tea market which is declining. And that's before you get to really good positions, but some nascent
+positions in China, in India. And one of the surprises, again, over the last 18 months has been the success
+of the brand in Brazil, which historically really isn't a black tea market, but where our product range in
+herbals and infusions has been very, very well received. So, lots of growth in front of us in tea.
+
+JOHN BASON: Great. Charles, at the front.
+
+CHARLES PICK, ANALYST, NUMIS: Charles Pick at Numis. Four fairly general questions. With sugar, in
+the EU, do you have any quantification or any estimates of what the excess stocks referred to amount to
+and whether or not your own customers are holding very significant excess stocks as well?
+
+With Primark in the US, is there an aim medium term to move towards owned warehousing as against
+leased?
+
+With grocery, is it possible to give an indication of the percentage of sales now coming from strongly
+branded products?
+
+And finally, with the GBP2.2b facilities that were mentioned, are you inclined at some point to move more
+onto an acquisitive tack as against growing essentially organically?
+
+GEORGE WESTON: Okay. EU sugar stocks are coming down. We don't think customers hold the stocks.
+We think sugar producers are holding stock. The crop this year is not only magnificent in the UK; it's also
+really good across northern Europe. So we think that non-quota stocks will rise into 2015. But the stocks of
+quota sugar, we are gradually munching our way through it.
+I'm not sure that we own warehouses anywhere, so to talk about leased warehouses in the States is
+perhaps to give the wrong impression. The important thing about the warehouse in the US is the break
+clauses in the lease. We don't want to -- we want a reasonably speedy exit from the market should
+everything go wrong, which of course we don't anticipate, but we have attempted to put as much flexibility
+into (multiple speakers).
+
+JOHN BASON: For a shorter break clause than you might expect.
+
+GEORGE WESTON: John, do you want to talk about the facilities and the percentage of sales -- branded
+sales for grocery?
+
+JOHN BASON: Yes. So let me come onto facilities first. The facilities are important, because it clearly
+shows that, first of all, certainly covenants are never a problem for ABF. So obviously the size of -- George,
+I think, always uses the comment about the balance sheet as a servant of the business, and I think that's
+so important. So it does give us the capability to -- if we're looking at acquisitions in grocery or ingredients
+or for that matter if there was a big move in Primark, then we have the ability to be able to do that.
+Now, I'm saying those, but I'm not giving any indication that any of those are about to happen. So please
+do not take that as an indication for that. But I think it's our responsibility, at the head of ABF, to make sure
+that we have that capability should those opportunities present themselves.
+
+Page198of247©2018Factiva,Inc.Allrightsreserved.GEORGE WESTON: What we describe as bolt-on acquisitions, and I would put Dorset Cereal into that
+camp, are as important to us as they've ever been. They're an important tool in growing the positions,
+growing the capabilities and the businesses in the Group.
+
+To John's point about the growth of Primark potentially in the US and certainly in Europe, we must have the
+financial wherewithal to take on lumps of stores should that be an attractive thing to do. So, yes, let's leave
+it at that.
+
+JOHN BASON: And sorry, the question was what percentage of the grocery portfolio is branded? Certainly
+well over 80% is (inaudible). So it's very strong there.
+
+Okay. We'll just go -- yes.
+
+JEREMY FIALKO, ANALYST, REDBURN: It's Jeremy Fialko at Redburn. Just a quick question on the UK
+grocery market. You talk about how that has been performing perhaps in more overall terms and then in
+reference to your brands. Is it something where you're seeing a little bit of increased pressure now, given
+what dire straits a number of the retailers are in, and how you can see that panning out over the course of
+the next year or so? Thanks.
+
+GEORGE WESTON: There's a renewed focus both by the consumer and also the retail customers on price
+in the UK. I think it's testament to the team, the strength of the team at Allied Bakeries that we've grown
+sales and profits in that environment in a category like bread. That's the most difficult I think of our
+categories, of our product categories, and we've done fine there, not least because of the capability of that
+new supply chain in the UK bakery market.
+
+Elsewhere, yes, there are pressures, but the nature of very distinctive brands in good categories I think has
+put us -- puts us in a fairly strong position. But I wouldn't deny for a moment that the discussions between
+ourselves and all our customers in the UK have a -- they're focused and intense.
+
+JOHN BASON: Okay. Great. Just given the time, maybe perhaps one more. Yes, please.
+
+ROBERT WALDSCHMIDT, ANALYST, LIBERUM: Hi. It's Robert Waldschmidt here from Liberum. The
+expansion in the US, with the opportunity to take store leases from Sears, I think is a good partnership for
+both of you, particularly given Sears' recent troubles. Given they're primarily a mall based situation, but
+albeit they have a national platform, is that something that you think that you can leverage for future
+expansion?
+
+And two, once you've proven the concept, hopefully, in the US, what is the plan in terms of expansion
+versus mall versus high street?
+
+GEORGE WESTON: In the US?
+
+ROBERT WALDSCHMIDT: In the US. And then a second question. Given we've seen improvements in
+capital efficiency, with working capital coming down, should we be expecting further improvement in that
+going forward? Thank you.
+
+GEORGE WESTON: Let me just knock off the working capital one first. We've seen this year the benefits
+from reducing commodity prices. We've also seen benefits from that really -- that exceptional trading year
+at Primark, where working capital has come out of the system in quite large chunks simply because goods
+weren't hanging around in warehouses for very long.
+
+There's also been structural improvements to the supply chain in Primark, which I think leads to a structural
+reduction in working capital requirements in Primark, perhaps not the sort of levels that we've seen this
+year which we have published but some.
+
+US expansion, you're asking us to cross a lot of bridges in answering your question. I think that we have
+always believed in the US that the availability of real estate, particularly in malls, would be easier in the US
+market than in the European market, because we always saw that some of the big box -- what I'd describe
+as the big box retailers were saying themselves that they were over spaced. Sears is obviously one
+example of it. Perhaps JC Penney is another example and others. So if we succeed then I think, as I say,
+we will find it easier to find good space in malls in the US.
+
+As for that mix between malls and high streets or city centers, I really don't think we have a view. And other
+than to say well, I think Downtown Crossing is a great place to start and if there are other Downtown
+Crossings, great, but they will be harder to come across than the mall space. It may look a little bit more
+like Spain. Germany has been a high street story. Spain has been a mall story. I think America, if we
+succeed, will be a hybrid, but malls will be a bigger part of the mix than they are in the UK.
+
+Page199of247©2018Factiva,Inc.Allrightsreserved.All done? Thank you.
+
+JOHN BASON: Thank you very much.
+
+GEORGE WESTON: Thank you very much indeed.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO abf : Associated British Foods PLC | wittin : Wittington Investments Ltd
+IN
+NS c151 : Earnings | c1512 : Dividends | ntra : Transcripts | c15 : Performance | cactio : Corporate Actions |
+
+i41 : Food/Beverages/Tobacco | icnp : Consumer Goods
+
+ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter
+| nfcpex : C&E Executive News Filter | nfcpin : C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | africaz : Africa | boston : Boston | uk : United Kingdom | waustr : Western Australia |
+
+apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia | eecz : European Union Countries | eurz
+: Europe | namz : North America | use : Northeast U.S. | usma : Massachusetts | usnew : New England |
+weurz : Western Europe
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020141106eab4004sa
+
+Page200of247©2018Factiva,Inc.Allrightsreserved.

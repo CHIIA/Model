@@ -1,0 +1,274 @@
+Rebuild Program Offers New Life for Older Cat 785/789s
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+PG
+VOL
+LA
+CY
+
+LP
+
+TD
+
+SUPPLIERS REPORT
+Rebuild Program Offers New Life for Older Cat 785/789s
+
+Anonymous
+2,304 words
+1 July 2014
+Engineering & Mining Journal
+EMJN
+82-85
+Volume 215; Issue 7; ISSN:00958948
+English
+Copyright (c) 2014 Engineering & Mining Journal. Provided by ProQuest Information and Learning. All
+rights Reserved.
+
+Caterpillar and Cat dealers now offer Cat Certified Rebuild Upgrade (CCRU) services for older 785 and
+789 haul trucks. Cat said its rebuild program for the original series and the B Series models of these
+trucks incorporates the technological advancements introduced with the C Series to improve operation
+and performance and reduce engine emissions.
+
+The CCRU provides a full rebuild and certified rebuild warranty along with a Cat upgrade retrofit cab and
+chassis updates. The results, according to the company, are improved fuel economy, performance and
+productivity as well as a modernized cab for operator comfort and improved engine emissions equivalent
+to U.S. Environmental Protection Agency (EPA) Tier 1 standards for sustainable operation.
+
+Cat said the 3512B EUI engine for the 785 and the 3515B EUI engine for the 789 deliver about 5% more
+power and provide the potential for fuel savings of 3%-4%. Also, recommended service intervals are
+extended from 250 to 500 hours.
+
+The upgraded cab includes VIMS 4.0 for monitoring machine health and optimizing production cycles to
+reduce cost per ton. A full size trainer seat facilitates in-cab training.
+
+The CCRU program for 785 and 789 trucks is available now in the United States, Australia, Indonesia,
+South Africa, Chile and Russia.
+
+Trimble Buys Information Management System Developer MIS
+Trimble Navigation has acquired privately held Mining Information Systems (MIS), headquartered in
+Perth. Australia. The acquisition, said Trimble, will add enterprise-level information management
+capabilities to its portfolio of mining solutions, offering the prospect of improved productivity, profitability,
+and safety by providing a more complete view of geospatial, productivity, workforce and cost data.
+Financial terms were not disclosed.
+
+MIS provides information systems for data required for enterprise-wide monitoring and management of
+mining and ore processing operations. MIS systems collect and Integrate data across functional areas
+and sources, regardless of data origin. This capability, said Trimble, when combined with its geospatial
+solutions, can provide increased mine productivity through the aggregation, analysis and presentation of
+information that enables better decision making for mining customers.
+
+"Productivity applications in functional areas such as drill and blast, haulage, and materials processing
+have improved operational efficiencies, but the value of this data has not been fully realized since it is not
+readily collected and integrated for a complete, site-wide view. MIS offers an enterprise-level system that
+unlocks data and metrics from across functional areas for a complete view of mine productivity and
+profitability for decision makers across planning, operations and finance," said Nathan Pugh, business
+area director of Trimble's Mining Division. "Trimble offers high levels of accuracy in geospatial solutions
+today, and with the enterprise-level mine information platform, we can increase the use and value of
+geospatial data and other data sources for our customers."
+
+Page87of298©2018Factiva,Inc.Allrightsreserved.MIS said its solution suite is modular with systems for mine production, processing operations, human
+resource management, and a Web-based portal for access and administration. According to the
+company, the systems are flexible, scalable and are not restricted by mining methods, commodities,
+time zones, language, currencies, units of measure, existing software, hardware and network
+infrastructure.
+Schneider and Business Partners Offer End-to-End Mining Management Solution
+Management consultant Accenture, networking systems provider Cisco Systems, and energy
+management specialist Schneider Electric recently announced the launch of a jointly developed
+Integrated Planning and Optimization platform that is claimed to provide a software solution for managing
+a mining company's entire operation from resource to market. The solution, according to the
+developers, enables users to optimize plans and schedules, identify risks and deviations, pinpoint
+inefficiency, and present the right information to the right people at the right time. The solution is claimed
+to be capable of increasing mining productivity up to 20% by helping mining companies use information
+to drive operational efficiencies.
+
+The product addresses the challenges of "siloed" data and inaccurate, untimely information. Integrated
+Planning and Optimization, according to the developers, enables data to be leveraged to model the
+supply chain-including mines, processing plants, stockpiles, transport routes and port movements-to
+predict how each entity in the value chain will operate. The solution lets companies view their supply
+chains both as discrete components and as a single system that operates according to unified objectives
+and metrics. Integrated Planning and Optimization Solution uses data analysis of contextual process
+information to improve predictive maintenance and identify and resolve bottlenecks.
+The developers noted that mining companies have been held back by the lack of standard solutions and
+realizable architectures. The implementation of an integrated planning and optimization solution resolves
+these issues. Mining companies can start by focusing on areas that could generate immediate benefit,
+including:
+
+* Lack of dynamic and optimized extraction sequencing.
+
+* Lack of optimized load in shovels and other transportation means.
+
+* Poor process performance (quality, recovery).
+
+* Costly decisions due to unreliable data (such as inventory, grade, geological structure).
+
+* Nonconformance to load-out plans.
+* Excess energy and water consumption.
+
+* High cost of inefficient transport scheduling and use.
+
+* Poor asset performance.
+
+* Maintenance and production conflicts.
+
+* Excess inventory due to an unreliable supply chain.
+Diego Areces, president of Schneider's Mining, Minerals and Metals Solution, said, "This solution is a
+game-changer for leaders in the mining industry by allowing executives to gain intelligence around
+business scenarios prior to committing to capital investments."
+Integrated Planning and Optimization Solution utilizes Schneider Electric's StruxureWare for Mining,
+Minerais, and Metals (MMM) software, a scalable platform that includes solutions for energy
+management and asset performance. This platform facilitates ease of integration for new functionalities
+as needed.
+Heavy-lift Cranes Support Work at Chilean Copper Sites
+Five Liebherr 1250 HC tower cranes are being used at two major mining projects under construction in
+Chile's Atacama Desert region. The large 40- and 50-metric-ton (mt) cranes currently in use at
+Escondida and Sierra Gorda offer lifting capacity equal or better than almost any other tower cranes
+working in Latin America, according to Liebherr.
+Two of the company's 1250 HC 40 Litronic tower cranes, mounted on foundation anchors, are being
+used at the Minera Escondidacopper mine. Both machines have a working radius of 52 m and hook
+
+Page88of298©2018Factiva,Inc.Allrightsreserved.heights of 40 m and 52 m, respectively. During the construction phase, they are expected to handle
+loads of up to 20 mt.
+
+After current construction is completed, the two Liebherr tower cranes will be used for maintenance
+purposes.
+Meanwhile, three 1250 HC tower cranes are in use at the Minera Sierra Gorda copper project. Two of
+these cranes are rated at 50-mt capacity and the third at 40 mt. The 1250 HC 40 has a hook height of
+34.9 m and a working radius of 51.9 m. The two 1250 HC 50s are configured with hook heights of 68.5
+and 69.6 m and each has a working radius of 38.8 m.
+
+During the current construction phase, the cranes are being used to assist in component handling for
+process tank assembly, lifting loads of 14 to 17 mt per component.
+
+In the future, all three cranes will be used as maintenance cranes at the mine. One 1250 HC will support
+maintenance work on the mill's flotation cells. The two others will support service and maintenance work
+on ball mills.
+
+Liebherr said the extreme geographical and climatic conditions of the two project sites not only present
+challenges to the workforce but also to the crane equipment. The extreme day/night temperature
+differential-up to 40°C variation-and dust present in the arid desert climate generate higher-than-usual
+stress on machinery.
+
+In addition, Chile is one of the most earthquake-prone countries in the world, and earthquakes up to a
+magnitude of 5 are not uncommon. This requires that the cranes must comply with Chilean standards to
+ensure they are earthquake-resistant.
+
+ABB Introduces Underground Asset Location and Tracking
+
+ABB recently announced the debut of ABB Mine Location Intelligence, powered by Mobilaris, a global
+provider of software for mobile location-based services. ABB said its Mine Location Intelligence is a
+product for location-based decision support that provides real-time positioning of vehicles, equipment
+and personnel in underground mines.
+
+ABB Mine Location Intelligence has a Web-based user interface, making it accessible from almost
+anywhere, providing a 3-D view that shows location of assets and personnel in real time. It offers
+features for spatial search, navigation support, advanced data mining and analysis, creation and
+management of geofences, and is accessible online from anywhere.
+According to the company, the service "opens a new dimension to personal safety," showing the
+nearest rescue refuge, the best emergency escape routes, and can also prevent workers from
+approaching dangerous areas by providing automated surveillance.
+
+In addition, said ABB, the service can enhance productivity by providing real-time location information for
+production control and mine automation. It can increase collaboration between personnel by integrating
+voice, message and CCTV services.
+"ABB Mine Location Intelligence will help customers to visualize their mining operations and reach a
+new level of situation awareness. This will change how mines are operated and will be an important tool
+for increased safety and production efficiency," said Patrik Westerlund, global product manager for
+integrated mine automation at ABB.
+
+Siemens Systems to Power New Grinding Mills at Toromocho
+
+Siemens' Drive Technologies Division has been awarded a contract to deliver Integrated Drive Systems
+for two new mills at the Toromocho mine in the Peruvian province of Yauli. The order was placed by
+Minera Chinalco Perú S.A., a subsidiary of Aluminum Corp. of China (Chinalco).
+Toromocho is located about 150 km from the capital city of Lima, at an altitude of approximately 4,600 m
+(15,100 ft). Siemens will provide two gearless mill drives and Sinamics cycloconverters for a new
+production line at the mine as part of an expansion project that will enable it to produce about 250,000t/y
+copper as well as molybdenum and silver.
+
+The new line's 36-ft-diameter SAG mill will be fitted with a 13.5-megawatt drive and a 22-megawatt drive
+will power the line's 28-ft-diameter ball mill. Siemens said the Sinamics cycloconverters that will be
+Installed in the new line are characterized by low switching losses and high efficiency, and the integrated
+drive and cycloconverter system will contribute to an expected equipment availability rate of more than
+99%.
+
+Page89of298©2018Factiva,Inc.Allrightsreserved.New Integrated System Simplifies Surplus Asset Sales
+
+Used heavy equipment seller Ritchie Bros, and AssetWorks, a provider of Enterprise Asset Management
+software solutions, recently announced the availability of a prepackaged integration between the Ritchie
+Bros. EquipmentOne marketplace and AssetWorks Surplus Management Software (SMS). Designed to
+allow AssetWorks' customers the ability to seamlessly post assets to EquipmentOne, the integration is
+claimed to reduce the time and effort required to identify, list and sell surplus equipment.
+AssetWorks' SMS users can identify assets for sale and post those assets along with all the required
+equipment specifications, condition descriptions and photographs directly from SMS to the
+EquipmentOne marketplace. They receive daily pricing feedback and final sale data when the sale
+completes. Automating these processes, according to the company, can improve accuracy and
+significantly reduce the time to conduct sales across a number of different asset categories.
+"Managing assets from acquisition through disposal can be difficult and our solutions have always been
+aimed at streamlining this process. With our integration to EquipmentOne, we're delivering additional
+value and really closing the loop on asset management for our customers,'' said Michael Borello, vice
+president of AssetWorks.
+Ritchie Bros. has operations in more than 25 countries, including 44 auction sites worldwide.
+AssetWorks said its software solutions help organizations improve access to shared asset data,
+promoting greater transparency across the organization, improving service delivery, maximizing asset
+availability and uptime, and reducing total cost of ownership.
+
+Metso to Handle Grinding Mill Maintenance at Two Large Codelco Plants
+
+Metso has signed an 18-month services contract with Codelco's Chuquicamata mine for grinding mill
+maintenance, encompassing changeout of components for 33 ball mills currently operating in the AO and
+A1 plants at Chuquicamata. The work will involve changing mill pinion-gear assembly and repairs to mill
+shells. Metso said it plans to repair two mills per month and maintain continuous monitoring of the status
+of the equipment. The value of the contract was not disclosed.
+
+The agreement, which covers gear disassembly, new gear assembly, pinion assembly, gear alignment
+(slow rotation) and mantle repair, was scheduled to take effect in April. The contract will create 30 new
+Metso services jobs in northern Chile.
+Metso, which has a long history of involvement In the Chuquicamata operations-it supplied three large
+MP1250 cone crushers and an automatic control system to Chuquicamata in 2012, for example-also
+noted that its 750 employees in Chile have worked more than two years without a lost-time incident. The
+Association of Major Suppliers for Mining in Chile recognized Metso for its safety results in 2013.
+FLSmidth Wins Mongolian Copper EPCM Contract
+FLSmidth has received orders worth approximately $43 million from the Mongolian company, Mongolyn
+Alt (MAK) Group, to supply engineering, procurement and site construction services for the Tsagaan
+Suvarga copper-molybdenum concentrator project. This greenfield plant, with a capacity of 40,000 mt/d
+of ore, will be located in the central part of the Oyu Tolgol South Gobi porphyry copper belt in southeast
+Mongolia.
+
+FLSmidth is currently supplying all of the main process technology for the project under a separate,
+previously awarded contract announced in 2011. MAK is the third largest company In Mongolia with
+diverse business activities, including coal and gold mining operations. The Tsagaan Suverga project
+will be the group's first copper concentrator. In February 2012, FLSmidth was awarded an order from
+MAK for supply of a greenfield cement plant.
+
+IN
+
+NS
+
+RE
+
+IPD
+
+i1 : Energy | i224 : Non-ferrous Metals | i2246 : Copper/Copper Alloys | i231 : Non-metallic Mineral
+Mining/Quarrying | i3302 : Computers/Consumer Electronics | i330202 : Software | i3302021 :
+Applications Software | iconst : Construction | iknowms : Knowledge Management Software | imet :
+Mining/Quarrying | i22 : Primary Metals | ibasicm : Basic Materials/Resources | icomp : Computing | icre :
+Real Estate/Construction | itech : Technology
+genv : Natural Environment | c22 : New Products/Services | c24 : Capacity/Facilities | c33 :
+Contracts/Orders | c41 : Management | ccat : Corporate/Industrial News | gcat : Political/General News |
+ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | chil : Chile | apacz : Asia Pacific | ausnz : Australia/Oceania | devgcoz : Emerging
+Market Countries | lamz : Latin America | samz : South America
+Scholarly Journals
+
+Page90of298©2018Factiva,Inc.Allrightsreserved.PUB Mining Media, Inc.
+AN
+
+Document EMJN000020170422ea71001tn
+
+Page91of298©2018Factiva,Inc.Allrightsreserved.

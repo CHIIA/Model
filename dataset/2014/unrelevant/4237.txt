@@ -1,0 +1,124 @@
+Skytap extends footprint with new Singapore datacentre
+
+Skytap extends footprint with new Singapore datacentre
+
+HD
+WC 826 words
+PD
+SN
+SC
+LA
+CY
+LP
+
+25 January 2014
+News Bites - Private Companies
+NBPRCO
+English
+Copyright 2014. News Bites Pty Ltd.
+
+NEWS BITES - PRIVATE COMPANIES
+[Company Release]
+
+TD
+
+Skytap, a provider of self-service application development environments in the cloud, has introduced its
+first international datacentre; located in Singapore and serving customers across the Asia Pacific region -
+including those in Australia, Hong Kong and China. In addition to two existing US-based datacentres
+(US-East and US-West), Skytap"s global footprint now reaches the APAC region.
+
+Singapore is quickly becoming one of the hottest datacentre hubs in the APAC market, with tech giants
+including Amazon Web Services, IBM and Salesforce.com adding datacentres to the region over the last
+few years. As a result of this recent growth, the country now accounts for roughly half of South East Asia"s
+datacentre capacity, according to the Singapore Economic Development Board.
+
+"Our newest datacentre location will help Skytap support the rapid growth we"re experiencing within the
+global enterprise technology market, while at the same time meeting the specific demands of our
+customers looking to develop and test their critical business applications in the APAC region," said Brian
+White, vice president of products at Skytap. "International expansion into the Singapore market supports
+software development teams with the speed and latency they need to fast-track delivery within the region,
+as well as optimize collaboration amongst their globally dispersed teams."
+
+Click here for the full original announcement
+COMPANY BACKGROUND
+
+ACTIVITIES
+BroadGroup is an Information Media Technology and Professional Services company providing a value
+chain of research, publications, consulting and conference services to fast growing niches in the IT and
+Telecoms sector with 19 events in 13 countries.
+Founded in 2002, the company aims to provide senior managers with a different perspective of new and
+emerging business niches, create new communities of interest, and inspire them with fresh insight on how
+they could be exploited profitably. Today, the company covers a portfolio of markets offering professional
+services through a value chain of bespoke consulting, market research, reports, and events.
+
+BUSINESS NEWS ROUND UP
+
+24 January 2014: Datacentres.com: Tata Communications brings 100G connectivity with Ciena"s
+GeoMesh
+[Company Release] Tata Communications and Ciena, the network specialist, have announced the launch
+of 100 gigabits per second upgrade along the TGN-Pacific submarine cable system that connects the US
+to Japan and three routes in the TGN-Intra-Asia market across Asia. With this latest in a series of
+investments, Tata Communications becomes the only private subsea cable owner that has 100G
+deployed across major routes around the world on its own infrastructure. With Ciena"s 6500 Converged
+Packet Optical platform and GeoMesh solution, Tata Communications is upgrading its TGN-P submarine
+cables - which is the longest segment in route km and believed to be the highest capacity subsea cables
+deployed in the Pacific - to 100G.
+
+Click here for the full original announcement
+
+Page235of273©2018Factiva,Inc.Allrightsreserved.23 January 2014: Datacentres.com: Infinity Slough launched with first two customers
+[Company Release] Infinity SDC, the UK datacentre operator, has launched the first phase of its flagship
+datacentre at Slough. The datacentre is Infinity"s first purpose built facility, located in the heart of the UK"s
+High Tech corridor. The site was made fully operational in December with the first two contracted
+customers already installing their equipment. The facility is also Infinity"s first modular design that employs
+scalable building blocks.
+
+Click here for the full original announcement
+23 January 2014: Equinix invests US$60 million in Melbourne datacentre
+[Company Release] Global datacentre company, Equinix, has announced it plans to invest
+approximately US$60 million to build a new datacentre in Melbourne. The new datacentre-called ME1-is
+being built to "address strong demand from customers for premium datacentre services in Melbourne, as
+data consumption and cloud services experience continued growth in the Australian and global IT
+markets." The facility is located in Port Melbourne, and will provide a capacity of 1,500 cabinets, with the
+first phase of 375 cabinets scheduled for completion in Q4 2014.
+
+Click here for the full original announcement
+
+23 January 2014: Tekhnoserv builds Tier-III datacentre for Magnit
+[Company Release] Tekhnoserv, a Russian integrator has completed the deployment of a new datacentre
+for the Magnit retail chain, Russia media reports. The datacentre, which has a capacity of 84 racks, meets
+the Tier-III standard under the classification of the Uptime Institute. Source: Company Website
+
+Click here for the full original announcement
+23 January 2014: Swedish wind energy for Google"s Finnish datacentre
+[Company Release] The Swedish wind power developer, Eolus Vind AB and search engine giant Google
+have signed a ten year agreement in which Google will buy all electricity generated by 29 wind turbines
+that Eolus establishes in four wind farms in southern Sweden. The Power Purchase Agreement (PPA),
+means that Google during ten years starting in early 2015 will buy all renewable electricity produced by
+the 29 turbines of the models Vestas V90, V100 and V112.
+
+Click here for the full original announcement
+
+CO amzcom : Amazon.com, Inc. | siedb : Singapore Economic Development Board
+IN
+
+iappsp : Cloud Computing | i8394 : Computer Services | ibcs : Business/Consumer Services | i64 :
+Retail/Wholesale | i656000301 : Etailing (B2C) | iretail : Retail
+c1521 : Analyst Comments/Recommendations | c1522 : Share Price Movement/Disruptions | npress :
+Press Releases | c15 : Performance | c152 : Earnings Projections | ccat : Corporate/Industrial News | ncat
+: Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpin : FC&E Industry News Filter
+austr : Australia | singp : Singapore | melb : Melbourne | uk : United Kingdom | victor : Victoria (Australia) |
+apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | eecz : European Union Countries | eurz :
+Europe | seasiaz : Southeast Asia | weurz : Western Europe
+
+NS
+
+RE
+
+IPD ACTIVITIES; BUSINESS NEWS ROUND UP
+PUB News Bites Pty Ltd (Europe)
+AN
+
+Document NBPRCO0020140124ea1p005ha
+
+Page236of273©2018Factiva,Inc.Allrightsreserved.

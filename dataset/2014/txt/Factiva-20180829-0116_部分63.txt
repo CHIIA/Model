@@ -1,0 +1,857 @@
+Does religion save the pain?
+
+HD Does religion save the pain?
+WC 10,295 words
+PD 28 March 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+Experiments in space reveal genetic master switches in pathogens and vaccines
+
+X-ray lasers provide the pics while avoiding radiation damage
+
+TD
+
+San Diego Zoo breeds success
+
+Last call for science writing entries
+
+Hungry Science Beast for Radio pt2
+
+Get religious to minimise the pain
+
+ 
+
+[Music: Ave Maria, from Vespers by Rachmaninoff.]
+
+Robyn Williams: If you feel pain, real pain inflicted by a curious psychologist, will it be worse if you are an
+atheist? Could that pain be reduced for Catholics if they are peering at a picture of the Madonna? That's
+what a fellow at Oxford has found. Choose Mary for pain relief. Atheists do better with David Attenborough.
+They also took yoga instruction to prisons in a series of unlikely experiments.
+
+The Science Show on RN, where we start in space. Okay, tell me this; how many people live up on the
+Space Station and what do they do? Josh Zepps wanted to find out. He presents Huff Post Live. And he
+called them up.
+Josh Zepps: This is Huff Post Live, I'm Josh Zepps. And anyone who has seen Gravity has had a tiny little
+taste of what life is like several hundred miles above the surface of the Earth. But while we were trying to
+experience it vicariously via Sandra Bullock's 3-D eyes against the green screen, a tiny handful of people
+truly know what it feels like to be in space. We are joined now incredibly by three astronauts who are
+currently on board the International Space Station. They are Koichi Wakata, Mike Hopkins and Rick
+Mastracchio. Thanks to all three of you for being with us.
+
+Richard Mastracchio: Well, thank you very much, it's great to be with you.
+
+Josh Zepps: Mike, can you just tell us, where are you guys actually located on the station? It looks like you
+are just floating around in midair. Where are you and what are you doing?
+
+Michael Hopkins: Yes, we are actually in the US laboratory, so this is where we do a lot of experiments, but
+it's also where a lot of the systems are located that help keep us alive.
+
+Josh Zepps: Rick, we've got a lot of questions coming in naturally from viewers as they watch this online.
+One of them says, 'What health studies are you currently working on?'
+
+Richard Mastracchio: We're doing quite a bit of studies related to how our bodies change in zero G. For
+example, we do ultrasounds on our eyeballs, ultrasounds on our spines, on our heart. Of course we are
+constantly doing blood draws and urine samples to see how our bodies change and are affected by the
+zero G environment.
+
+Page173of311©2018Factiva,Inc.Allrightsreserved.Josh Zepps: Is this to study the impact on your health of potentially much longer trips in space, is that the
+point?
+
+Richard Mastracchio: Exactly. You know, right now most of our missions are about six months long. Pretty
+soon we are going to have one-year missions. I believe next year we will start a one-year mission, and then
+eventually we may even go longer and longer. And this is so we can see how the body is affected by the
+weightlessness and the environment of space, and also how we can protect other crew members, how we
+can keep them healthy for these long-duration missions that it's going to take to get to Mars and beyond.
+
+Josh Zepps: How do you stay healthy in zero G  ?
+
+Koichi Wakata: Yes, we have a pretty extensive exercise program using aerobic machines, bicycle
+machines, a treadmill, as well a resistive exercise device. We exercise almost two hours every day to stay
+healthy.
+
+Josh Zepps: Did you ever imagine, Koichi, growing up in Japan that this would be something that you
+would end up doing?
+
+Koichi Wakata: Oh, flying in space has always been my dream ever since I saw the Apollo lunar landing
+when I was five years old. I thought it was impossible as a Japanese boy to reach into orbit, but here
+together with my American friends and the Russian friends here I am so happy to be part of this wonderful
+team.
+
+Josh Zepps: Mike, I've got a question coming in from one of our viewers, Jan Cummins says, 'I marvel at
+the men and women who venture into space. Can they tell us what is the most awesome sight from space?'
+
+Michael Hopkins: Oh, absolutely, there's not a day that doesn't go by when we have a chance to look out
+the windows down at the Earth that we don't see something just truly incredible. In fact the other night Rick
+and I just happened to be in the cupola and it was night and we were going down near Antarctica, and the
+northern lights were just absolutely incredible. It was a scene that we've never seen before. The whole sky
+was lit up green and you had the blues of the horizon where the Sun was just over the horizon, and then
+we had Venus come up and the Moon come up. It was just truly amazing.
+
+Josh Zepps: What does that do to your head?
+
+Michael Hopkins: Well, it kind of blows you away. You are just in awe at how beautiful the Earth is, and
+every day, again, you are just surprised at some of the sights that you see.
+
+Robyn Williams: Mike Hopkins and friends on the International Space Station, talking to Josh Zepps on
+Huff Post Live. Well done Josh.
+
+So what experiments do they do up there, and why do they go to the bother of launching bugs and
+apparatus up there into the sky? Who better to ask than Professor Cheryl Nickerson at the Arizona State
+University Biodesign Institute. First though, the movie.
+
+Have you seen the film Gravity?
+
+Cheryl Nickerson: Oh yes. I thought that the filming imagery was spectacular. There were several liberties
+taken with reality in terms of what actually happens. There are never two shuttles that are docked with the
+station in order to leave, but I thought the film itself was magnificent. I think it may have served to help
+recapture the American public's imagination in a positive way in terms of what can be done up there as
+opposed to the actual ending of the movie.
+
+Robyn Williams: And you saw the International Space Station. Did you feel any qualms when you saw the
+space station being beaten up?
+
+Cheryl Nickerson: I did, just as I felt qualms when in the Transformer movies they blew up the shuttle.
+That's inherently wrong and should not be allowed! But I thought it was incredibly well done, just
+spectacularly well done.
+
+Robyn Williams: One thing that I always found when I go to the model of the International Space Station,
+which I have done over the years and walked around, is why anyone would want to have experiments with
+tissues up there with no gravity. What difference would it make? And you can tell me the answer to that,
+can't you.
+
+Cheryl Nickerson: Well, that's a great question because that is the response I think that most people have.
+They say to me, 'Why would you think of doing experiments in microgravity? Why space flight? What
+advantage does that confer?' And if you think about life as it evolved, it's always evolved under unit gravity.
+What will it do when you take it away from that?
+
+Page174of311©2018Factiva,Inc.Allrightsreserved.And by way of an example I like to say, look, it's an extreme environment, and when have we learned more
+about how biological systems adapt and survive and respond than when we put them under extreme
+environments of temperature, of pH. When we have watched and studied how organisms respond to that,
+every single time we have not just generated fundamental new understanding of biological systems, cells
+and tissues, but we've also been able to take that knowledge and translate that into next-generation
+breakthroughs that we benefit from every day here on this planet for human health and quality of life. So in
+that regard it's the next extreme environment whose utility is just beginning to be tapped.
+
+Robyn Williams: But it would make sense for you experimentally if you are looking at ways in which to treat
+people ultimately if it resembles what's going on in our bodies. It mustn't be that alien that it doesn't count.
+
+Cheryl Nickerson: You're absolutely right. And cells being cultured in microgravity in a liquid container, they
+experience a very low fluid shear force. That's the force of fluid that cells experience as it passes over their
+surface. Well, cells in our body are vessels with fluid continually passing over our surfaces all the time, and
+we know from humans that those forces are important for our tissues to function normally. But no one had
+really paid much attention in terms of how those forces could affect the virulence or the disease causing
+potential of bacteria, and yet bacteria experience those forces all the time in our body. So that was my
+original interest in looking at that problem.
+
+Robyn Williams: So what have you been sending up to the space station experimentally?
+
+Cheryl Nickerson: We have flown three model human pathogens: the major foodborne pathogen,
+Salmonella typhimurium, which is the leading cause of bacterial foodborne illness worldwide; the
+opportunistic pathogen Pseudomonas aeruginosa which, unlike Salmonella, doesn't cause disease when
+you're healthy, it causes disease when you are immunocompromised, it's the leading cause of death of
+people with cystic fibrosis and burn wounds; and we flew a model human fungal pathogen, Candida
+albicans.
+
+We chose these pathogens for three reasons. We wanted them all to be sequenced because we wanted to
+look at their global gene expression profiles, we wanted them all to be very genetically tractable and have
+good animal models that we could study their disease in. We know that all of these organisms here on
+Earth are major causes of human morbidity and mortality and we don't have effective treatments for them
+or vaccines for them.
+
+And we were also interested from NASA's perspective, these are all organisms that either have been
+isolated from the crew or the space ship in flight and, for example, Salmonella is the leading reason why
+food that is destined for the International Space Station gets disqualified. Pseudomonas aeruginosa has
+caused a life-threatening infection in space before. And Candida albicans causes minor skin irritations and
+respiratory infections there as well.
+
+Robyn Williams: So if you're sending it up into space and you've been monitoring how they behave, are you
+comparing what they do on Earth, for example?
+
+Cheryl Nickerson: Absolutely. So good science has to have good controls, otherwise we wouldn't know
+whether or not the microgravity culture environment altered the virulence and gene expression in
+pathogenesis related characteristics of the organism. So we performed identical synchronous ground
+controls for all of those organisms at the Kennedy Space Centre. They were loaded at the same time in the
+same hardware as what flew, half of the hardware flew, half of it stayed in the ground in a special room at
+the Kennedy Space Centre called the orbital simulator room. So it is linked in real time to the shuttle and
+also now to the ISS. It maintains the same temperature, humidity et cetera that is on orbit, the only
+difference is it's not flying, so there's no microgravity.
+
+We are also linked in real time with the crew, so they would call down to us. When they started the
+experiment we were linked in with them in the room. We started the experiment at the same time. When
+they terminated it, we terminated it. Everything was kept identical, with the exception of things flying.
+
+Robyn Williams: What did you find?
+
+Cheryl Nickerson: It was very exciting what we found. We found that spaceflight increased the virulence of
+Salmonella. I should say we did this in two independent shuttle flights, and what's a very exciting is that
+usually you don't get a chance to independently validate, we have to do that at the bench because
+spaceflight is such a unique opportunity to fly, but on two independent shuttle flights we showed that
+culturing Salmonella in the space flight low fluid shear microgravity environment increased its virulence
+significantly, which means it was a more robust pathogen.
+
+It globally altered its gene expression. But what was very interesting is the genes that were being turned on
+and off weren't being turned on and off in a manner that was consistent with the organism being more
+virulent when we culture it down here on Earth. So we were able to identify a master global regulator or
+
+Page175of311©2018Factiva,Inc.Allrightsreserved.master switch that was responsible for the vast majority of regulating the genes Salmonella was turning on
+and off. We identified all the genes that were differentially regulated, and interestingly not one virulence
+gene was increased, they were all either not changed in expression or decreased in expression, which
+provides new insight in terms of how these pathogens actually causing disease in the body. We are finding
+differences as to how these pathogens can cause disease that we don't see when we culture them
+normally.
+
+Robyn Williams: So the live creatures behave differently up there. You can find things are not visible on
+Earth. And you can then change the pathogens to make them safe, and even, according to Professor
+Nickerson, use those safe germs to carry vaccines. Here's how:
+
+Cheryl Nickerson: Those differences are happening in our body down here, this is not unique to spaceflight.
+But the force of gravity down here can mask some of those responses. So when we grow these cells, these
+pathogenic cells, in microgravity and greatly remove that force of gravity, other forces can come into play
+and genes are expressed differently then.
+
+So we have been able to since show that this master response regulator that Salmonella uses to regulate
+its genes in these low fluid shear environments, other very different pathogens use that same master
+response regulator. It's evolutionarily conserved all the way up through into your cells.
+
+We've been able to show that we can actually turn off that increased virulence up there and make the bug
+not cause disease. We have also translated that to an approach for a vaccine initiative. So with the
+understanding that space flight could uniquely alter the disease causing potential, the virulence, and the
+gene expression of Salmonella, these are important properties for a live attenuated vaccine strain.
+
+And so we wanted to then ask can space flight to do the third thing that would be important for developing
+an effective vaccine? Can it alter the immunogenicity, the protective properties of a vaccine strain? So we
+paired with Roy Curtiss who is the world's leader in turning what I like to say Salmonella from a foe into a
+friend. So he has spent decades masterfully engineering Salmonella to not cause disease in the body but
+serve as a vector, a vehicle into which we can put immunogenic genes from other pathogens into
+Salmonella and then deliver that to the patient. And those immunogenetic genes confer protection against
+other deadly diseases.
+
+So he had constructed a strain that is actually in phase 1 clinical trials. It was a Salmonella strain that was
+designed to protect against streptococcal pneumonia. It was doing okay in clinical trials, but its
+immunogenicity needed to be better, it needed to be more protective. And we reasoned, can we fly that
+vaccine strain, study it, see if it's more protective, and then if it is more protective identify all the genes
+whose expression changed to make it more protective, go back in here on Earth, re-engineer that strain to
+give it those same protective properties that we hope to have observed from flight, and then translate that
+back into the clinical trials. So that's just one of the many lines of study we are pursuing.
+
+Robyn Williams: It's quite amazing, isn't it. Were people surprised to find that what you do here in the lab
+on Earth in a flat dish can be misleading?
+
+Cheryl Nickerson: I think that most scientists know that everything is a model system that we use and there
+is no model that's perfect, and we know that no one way to study things will give us 100% of all the
+answers. I think what surprised them was that the actual microgravity environment would be useful for that,
+and I think it's simply because since all cells, all life has evolved under unit gravity, no one really envisions
+if you take that away from it what will happen. And when you take that away from it amazing things happen.
+
+And I would like to stress, because I think it's very important, this isn't just for infectious disease research.
+The leading causes of human morbidity and mortality—infectious disease, immunological disorders,
+including cancer, bone and muscle wasting loss diseases, neurovestibular disorders, and muscle
+degenerative diseases—all of these disciplines have been studied in the microgravity environment. And
+each one of these studies has provided very intriguing insights, but there's no magic pillar box. I'm not
+suggesting we have (and I don't like to use the word 'cure') the answer to these things.
+
+But every single one of these disciplines has provided very intriguing and novel insight in terms of how
+these diseases may actually be developing, how cells behave from going normally to transiting to disease
+phenotypes that we don't see when we do that research down here. That also includes advances in tissue
+engineering that my team has been working on to develop more human-like models of cell-based tissues
+and organs that are in your body that we can study how they respond to pathogen infection and get a better
+understanding of how the disease is occurring in the body.
+
+So I think the potential for breakthrough using this innovative platform, and now it's a US national laboratory
+up there as well. And so we need to use it like a US national laboratory. It's fully built, it is ready to roll. In
+the past science has been conducted on the fringes of building the ISS up there but now it's open, and so I
+
+Page176of311©2018Factiva,Inc.Allrightsreserved.just hope since they've extended it for four years, the lifespan, that we can make effective utilisation of that
+globally for human   health and quality of life.
+
+Robyn Williams: Do you know, the Astronomer Royal, Martin Rees, has said that he could not see any
+scientific benefit of the International Space Station lab. I think you are in the process of proving him wrong?
+
+Cheryl Nickerson: It's not me who is in the process of proving them wrong. People are going to believe
+what people want to believe. Some of the smartest people that you know of can amazingly have on
+blinders. And science done inside a box is not the kind of paradigm-changing vision we need if we wanted
+to continue to advance the way we need to advance in biological sciences, biotechnology. You've got to
+think outside the box. Sometimes your way isn't the only way. We all just need to be more open-minded
+and make effective utilisation of these novel environmental platforms for research that we have.
+
+For example, for infectious diseases we are not doing a good job of outpacing them here on Earth at all,
+and so anything that gives us an advantage to do that, to reduce the time of 10 to 15 years to get a drug to
+market, to reduce the cost of $1 billion to do it, and to fundamentally understand these novel insights into
+cells as to whether they are behaving normally or transitioning to disease, it's absolutely worth it to use it.
+
+Robyn Williams: When's the next flight?
+
+Cheryl Nickerson: We are flying on SpaceX 5 which has currently just been pushed out, I found, to the end
+of November, so it looks like Thanksgiving we'll be back at the Kennedy Space Centre with our friends, so
+we'll have turkey there.
+
+Robyn Williams: Thank you.
+
+Cheryl Nickerson: Thank you.
+
+Robyn Williams: The irrepressible Professor Cheryl Nickerson at the Biodesign Institute, Arizona State
+University, waiting for the next space shot. One way to gain new insights, microgravity.
+
+Another way being explored by Australian physicist John Spence is micro-time. Watch reactions in
+femtosecond slices to find out what's really happening. And they've just scored $50 million to do the work.
+
+John Spence: A couple of decades ago the X-ray laser was invented, and we were lucky enough to be
+there around 2003 when the Department of Energy in the United States decided to build this thing for
+about $600 million. Of course they were looking for things to use it for, and we suggested uses in biology.
+There was a possibility of getting snapshots of molecular machines at work, and this would cover
+everything from the molecular machines that do photosynthesis in the green plants that make the oxygen
+that we breathe, to new drugs. You want to know how the atoms are moving and what they are doing.
+
+Robyn Williams: Why not just use a synchrotron?
+
+John Spence: A big problem is…if you imagine having a chest X-ray and you want to see finer and finer
+detail, then you would turn up the intensity of the X-rays. But there comes a point where the illumination of
+X-rays is so intense that it destroys the thing you are trying to look at, and particularly if you want to see
+finer and finer detail.
+
+In 1986 a scientist by the name of Solem wrote a theory paper where he suggested that if you did it with
+the shutter speed, the pulse of X-rays were brief enough, you could get a picture before the sample, as it
+were, knew what had happened to it, before it was blown up, because the radiation damage occurs later,
+and the elastic scattering that you make the image with is instantaneous. So that was the whole idea of this
+diffract-and-destroy mode, which is the main discovery this is based on.
+
+But the experiment that showed that it actually worked was by Henry Chapman who comes, like me, from
+Melbourne University, and Henry did his PhD there a few years after me.
+
+Robyn Williams: So you can actually learn something by examining the reaction as it's happening,
+something that you didn't know before.
+
+John Spence: Yes, and the way we do it is like a stroboscope. Photosynthesis is a beautiful example
+because it's driven by sunlight, and so you can have a system where we use flashes of simulated sunlight
+from a laser to start the molecule, the molecular machine doing its thing. And then a little later we hit it with
+the X-ray pulse and take a snapshot of that at a particular stage of the motion. And then we repeat that
+thousands of times for every different stage in the cycle and then put them all together to make a 3-D
+movie.
+
+Robyn Williams: And that will tell you what's going on that you didn't know before?
+
+Page177of311©2018Factiva,Inc.Allrightsreserved.John Spence: Well, it's chemistry really. There's a lot of effort now with alternative energy on artificial
+photosynthesis. So if we can understand the mechanism in plants then we can make inorganic systems
+that mimic that.
+
+Robyn Williams: You mentioned a few names of people who have been involved in something similar, and
+one name that occurred to me is Ahmed Zewail who actually got the Nobel Prize for taking snapshots of
+chemical reactions in femtoseconds, which is a million millionth of a second or something. The timespan
+you are operating in, how different are your plans from what he has done?
+
+John Spence: Well, Ahmed at Caltech did spectroscopy, and we're doing imaging, making pictures and
+then movies. The timescale is about the same, 50 femtoseconds is fast enough to outrun radiation
+damage. We use these brief snapshots to avoid damage, but of course it also gives you wonderful time
+resolution. Ahmed has more recently changed his field into fast electron diffraction which is actually my old
+field. I came here to work with John Cowley, another very famous Australian who left Melbourne University
+again in about 1970 to found the group here.
+
+Robyn Williams: All these Australians we're losing, what are we doing wrong?
+
+John Spence: Well, you might get them back because, you know, the success rate in grants here is about
+10% at NIH/NSF. This is a very serious problem, a 90% rejection rate, you would really think twice about
+sending your kid to do university research. So my friends tell me that it's just as bad in Australia, but there's
+a chance you'll get it back. Actually Robyn, I have brought with me a piece of this X-ray laser, and I should
+say it's built in a tunnel a couple of miles long near Stanford, it runs under the freeway, and it cost, as I
+said, $600 million. It's like a laser pointer but it spits out X-rays and it's much bigger. And I'm sure that if I
+just hold this a little bit closer to your microphone then your viewers will see it in much more detail, so here
+it is up close.
+
+Robyn Williams: Kaboom, yes, well. You say the grants are difficult, but you've scored with your colleagues
+$50 million with which to do this. That was a tremendous triumph.
+
+John Spence: Well, NSF does have this program of science and technology centers. So in our competition,
+which we started a couple of years ago, there was multiple levels of refereeing, so they made three
+awards, so a 1% chance of success. And one of them was MIT, one was at Harvard, and the other was us,
+so we were incredibly lucky. They run usually for 10 years, and over the 10 years it would be $50 million,
+yes.
+
+And so there are six or seven campuses involved. ASU here is the biggest group in the scientific research,
+we have six professors here, and there's a big outreach program run out of Buffalo where they have
+education and technology transfer and patents and so forth. And just last week the NSF had us all here
+together to teach us how to collaborate. That was a lot of fun, teaching professors, these prima donnas,
+how to work together. They hired a professional company to do this, so we had a few days learning to do
+the same thing which of course professors are trained not to do.
+
+Robyn Williams: And you all did hugs in the afternoon and played soccer or something?
+
+John Spence: Well, I kept saying, you know, breakthroughs are meant to surprise and surprise cannot be
+planned. But institutions have to…if they are giving you money, they have to know what's going to happen
+or think they do. So it will be a flexible plan.
+
+Robyn Williams: You mentioned photosynthesis. What other examples, if things go well, do you think you
+might produce knowledge about?
+
+John Spence: Yes, well, another big field at the moment is called GPCRs, this is a class of proteins
+involved in drug delivery. The problem with them is you can't grow big crystals of them. All our knowledge
+of how proteins work is mainly based on knowing the structure of them, and to get the structure you have to
+grow a big crystal. And that's the whole bottleneck in structural biology because it's so difficult and it's
+largely a matter of chance as to whether the crystal grows or not. What we find with this method is we can
+determine the atomic arrangement in proteins which only grow very tiny crystals, some micron in
+dimensions. And that's opened up a whole new field of proteins which we can address.
+
+Robyn Williams: Amazing apparatus, as you say, very, very long, and you are zapping big molecules and
+you are finding out something which, to the general public seems quite astounding, but is it a game-change
+that will make a huge difference?
+
+John Spence: You have to understand how important radiation damage has been in the history of
+microscopy. Since Van Leeuwenhoek in the 18th century people have been turning up the brightness so
+they can see finer detail better…
+
+Page178of311©2018Factiva,Inc.Allrightsreserved.Robyn Williams: That was 1674.
+
+John Spence: Right, absolutely. And as they turn up the intensity of the illumination they fry their samples
+and they can't see anything. This has been a real roadblock until…so to have a breakthrough where you
+suddenly understand that you can scatter as many photons as you like without damaging the sample if you
+do it quickly enough is really important. Then is it a game-changer? Well, the fact that we can study
+proteins which don't grow big crystals the biologists tell me is very important, yes.
+Robyn Williams: And now they've got $50 million to prove it's important. The new science, really taking off.
+John Spence is professor of physics at the Arizona State University, formerly of Melbourne.
+This is The Science Show on ABC Radio National, and I'm at one of the great zoos of the world which does
+research with its animals, which has huge crowds coming, as today, to look at some of the exhibits and
+some of the ways in which they are being looked after, the animals. And with me is Ron Swaisgood who is
+the head of ecology. And we are standing next to where the pandas are actually having lunch under the
+bright sun in the middle of winter. And you can hear in the background lots of people queuing up to see
+them. And you've got a baby there, have you? How old is the baby?
+
+Ron Swaisgood: Our baby is a year and a half.
+
+Robyn Williams: So it's a toddler.
+
+Ron Swaisgood: Yes, so this one, she is about ready to be weaned from the mother.
+
+Robyn Williams: What happens when it's weaned?
+
+Ron Swaisgood: Well, pandas are solitary in nature, and so mother and offspring, they go their separate
+ways as they would do naturally in the wild. And so they will be kept separately in the enclosures here as
+well.
+
+Robyn Williams: So you gradually separate them and they get used to being alone.
+Ron Swaisgood: Yes, exactly. And eventually all the offspring born here will go back to China and enter the
+breeding program there. We've actually had several go back, and we've got quite a few grandkids in China
+now that have come from our pandas here at the zoo.
+
+Robyn Williams: Talking about breeding, the pandas are famously not very good at it. What really stops
+them being so enthusiastic about sex?
+
+Ron Swaisgood: Actually I think that's a bit of a misnomer. It's not that the pandas don't do what comes
+naturally, they actually do what comes naturally quite well if given the appropriate environment and
+circumstances, that's what some of our research here at San Diego Zoo has been about over the last 15,
+20 years. We've been flying back and forth across the Pacific Ocean and we've been working with the
+Chinese. Most pandas will mate naturally given the appropriate circumstances.
+
+Robyn Williams: And what are the circumstances? Flowers, chocolate, or what?
+
+Ron Swaisgood: Well, in pandas it's really about the perfume. And so pandas do have a special gland that
+they use to mark their environment, and you remember now they are solitary, so they don't have
+opportunity for face-to-face interactions that often in the wild, in fact they avoid one another. But they keep
+tabs on one another through scent marking. And so what we found is that if you provide them with the right
+opportunities to communicate with one another through scent marking at the right time, that actually the
+aggression levels go down and the sexual motivation, libido, goes up. And you place them together at the
+right time and all will usually go well.
+
+Robyn Williams: Clearly, with that success rate. And I think his mother next door is chomping away at her
+leaves, undistracted by the crowds, she doesn't seem to bother about the crowds looking.
+
+Ron Swaisgood: No, you know, they are actually quite docile animals, and they do very well in a zoo
+environment, quite happy to eat bamboo about 14 hours a day and not be bothered at all by their admirers.
+
+Robyn Williams: It's an exciting life, isn't it.
+
+Ron Swaisgood: Yes, and the other 10 hours is mostly spent sleeping. Every once in a while they get up
+and move to a different bamboo patch.
+
+Robyn Williams: They don't do anything else?
+
+Page179of311©2018Factiva,Inc.Allrightsreserved.Ron Swaisgood: Well, then comes the mating season, and that's when everything changes. It's very
+difficult to find a panda in the wild, because they do live in a very dense bamboo habitat, but come mating
+season they are actually quite noisy. And what we'll do is we'll up on ridges and listen for the panda
+vocalisations. The males are fighting…the female, when she comes into heat, several males will aggregate
+around her, follow her for several days or a couple of weeks. A female will often climb a tree and wait for
+the males to duke it out down below. So yes, it's a time of a great deal of activity. There is often even a little
+bit of bloodshed when the males fight, so they are not always docile. Then the female will come down and
+they'll mate, and a few months later she will give birth to a cub, usually in a cave or a tree den, and raise
+the cub.
+
+Robyn Williams: Does the cub play at all?
+
+Ron Swaisgood: Of course the cubs are very playful, they play with the mother, and then they'll play with
+anything in their environment. They'll break off a piece of bamboo and roll around with it. They are very
+playful animals.
+
+Robyn Williams: I suppose y ou're not allowed to interfere and to make physical contact much?
+
+Ron Swaisgood: Yes, we have a hands-off policy in terms of direct contact, and they are not pets. But
+when they are in a zoo environment we want them to have a relationship with their keepers because it's not
+about having no relationship because then it actually can be stressful if they are having to do things that a
+keeper is asking them to do. So our keepers actually have very strong bonds with the pandas.
+Robyn Williams: You gave the example then of the return of the cubs to China, and for some years you've
+been returning animals to their native wilderness, if you like. Some examples of your successes?
+
+Ron Swaisgood: Yes, so often when people think of zoos and reintroduction programs, which is what we
+are talking about, returning animals to the wild, we think of them as coming from the zoo and back to the
+wild, and actually we have done that on some occasions, but really what we do often now is a bit more
+strategic. We have what I call demand driven re-introductions or translocations. So we are working on the
+landscape, and where the animal is missing, perhaps it's extinct in the wild, perhaps it's locally extinct, we
+try to bring them back, back to that ecosystem. So we're trying to play a role in the recovery of the whole
+ecosystem, not just individuals. And so we have programs designed to do that. In some cases we'll breed
+up dozens or hundreds of individuals and release them back. In other cases we'll do what's called
+translocation and we will capture individuals from one location where there is a surplus and relocate them
+and release them to establish a new population. And we've done that with black rhinos in Southern Africa,
+we've done it with kangaroo rats here in southern California, and a number of other species. The California
+condor being of course one of the classic examples.
+
+Robyn Williams: That was down to very few numbers, wasn't it.
+
+Ron Swaisgood: Yes, the California condor was down to 22 individuals, and all of them were brought into
+zoos for breeding, and now we are up well above 400 individuals with about half of those in the wild. And
+so we've been releasing them in California and out of the Grand Canyon. And then the zoo runs a project
+down in Baja, Mexico, where we have over 20 condors flying free in Mexico for the first time in many
+decades.
+
+Robyn Williams: What depleted their numbers in the wild?
+Ron Swaisgood: Well, a number of things led to the decline of the condor. One of the big ones was lead
+poisoning. So when hunters shoot an animal, the bullet that is left in the environment the condors would
+end up consuming, and that would kill them. And of course there's been a lot of other habitat changes in
+California. What used to be an area that had lots of large animals roaming free now pretty much has one
+large animal roaming free. And when we die we tend to bury them, so there is not much condor food.
+
+Robyn Williams: And so what was the secret of being able to breed from, well, a couple of dozen to 400?
+How did you manage that?
+Ron Swaisgood: This was done by several zoos, with San Diego being one of the lead organisations doing
+this. And yes, it's call ed aviculture, and it was a lot of learning and trial and error to learn the correct
+techniques. One of the key things that was developed early on was puppet rearing for in cases when the
+parents did not rear the chicks. We don't want them to imprint on humans because then they're going to
+think they are human and they're not going to be very good breeders back in the wild. And so they are
+reared with puppets and they are fed with a puppet that looks like the condor, and that was one of the keys
+to success as well.
+
+Robyn Williams: I see, isn't that clever! They are huge animals, aren't they, with a really vast wingspan.
+
+Page180of311©2018Factiva,Inc.Allrightsreserved.Ron Swaisgood: There's nothing more amazing than seeing a condor soar over your head in the wild. I've
+been down to our field site here in Baja, Mexico, and yes, a nine-foot wingspan. And first thing in the
+morning they are all roosting on the edge of these cliffs, and these are desert cliffs, and when the hot air
+starts to rise they'll get enough lift and they'll start soaring. And if you sit up on top of the ridge in the
+morning and wait for that thermal lift and then wait for them they'll just circle up and come right over your
+head. And there's nothing more amazing than that feeling.
+
+Robyn Williams: They're not killers, they're scavengers, aren't they?
+
+Ron Swaisgood: Yes, they are scavengers, so they find something that has already died and they are
+nature's cleaner-uppers.
+Robyn Williams: Yes, hence having to avoid the lead. Well, those success stories are really indicative of a
+new era for zoos because they used to be places where you kept animals and you can still look at them…I
+must say I'm astounded by the hundreds, thousands of people you have here. I know it's a sunny day, but
+what a turn-out. Is the public aware of the scientific part of what you do?
+
+Ron Swaisgood: Yes, absolutely. What we are trying to do at the San Diego Zoo is bring people in for them
+to enjoy the animals that we have here but we want them also to walk away with messages about what
+actions they can take to conserve and protect our resources. And part of that is learning about our
+programs, our conservation and science that we do, and how they can help to facilitate those efforts as
+well.
+
+Robyn Williams: Well, thanks very much, and good luck with the separation of these pandas. When are you
+breeding next, do you know?
+
+Ron Swaisgood: Well, the female will come into oestrus in the spring, typically April. And two years ago
+when she last produced a cub, if she had just waited to have that cub for two more days she would have
+set the world record for the oldest female to give birth. So she may be at the end of her reproductive life but
+she is in very good health, and so we're going to see how it goes this year, and if she mates then we may
+get one last cub from her. She has been a wonderful female for us and, as you know, she has brought six
+cubs into this world here at San Diego Zoo.
+
+Robyn Williams: Ron Swaisgood is director of applied animal ecology at the zoo.
+
+And this is The Science Show on RN, where Natasha Mitchell of course presents Life Matters. She was
+also an editor last year of the book Best Australian Science Writing, which we featured on this program. In
+2014 the new editor is Ashley Hay, based in Brisbane, and here she is with a last-minute reminder should
+you wish to send her an article.
+Ashley Hay: As a writer for hire, I'm used to shuffling between a range of different projects, but my two
+main jobs at the moment are editor of this year's Best Australian Science Writing anthology, to be published
+by New South this November, and owner/operator of a five-year-old child. It's interesting how the two
+occupations intersect.
+
+My five-year-old is a walking embodiment of curiosity. He asks questions, he wonders about things, he
+wants to know the how and why of what happens and where. He loves jigsaws too, turning the pieces face
+up and beginning to assemble the image. He loves the moment when the cars or dinosaurs come into
+focus. He loves the moment when the last piece clicks in, complete.
+
+His combination of curiosity and jigsaws provides a strangely apt model for editing an anthology; the
+curiosity of opening a submission for the first time, the rush of a first read that shows off its ideas and
+contours, the flickers of connection or recognition between one piece and another, and the process of
+unravelling whether these complement or cancel each other. In this way the parts of the whole can
+combine.
+
+Best Australian Science Writing provides a kind of snapshot of some stories that made it in science in the
+past year, new and wonderful dispatches from the cutting edge of somewhere, cataclysmic reports from
+different parts of our world that can take your sleep away, particularly if you are someone with an eye to the
+future.
+
+This, the anthology's fourth annual edition, gives us the chance to celebrate not only scientific research but
+also the best ways we've found of talking about the discoveries and disappointments, the characters and
+the metaphors. This will be the last edition to be supported by three years funding from the Copyright
+Agency Cultural Fund. From 2015, Best Australian Science Writing will be on the lookout for new patrons.
+
+Page181of311©2018Factiva,Inc.Allrightsreserved.As a novelist (another of my titles), I'll always argue that telling the stories matters, but stories about
+science matter in a different kind of way. They are an integral part of the work science does in expanding
+and explaining everything from the microcosmic to the macro.
+
+When I first started wondering what shape this collection might take when submissions opened last
+December, I conjured the American writer Joan Didion. She might not be someone usually associated with
+hypothesis, experiment and analysis, but one of her most quoted lines seems suddenly to make a different
+sense; 'We tell ourselves stories in order to live, she wrote in The White Album, and I saw this in terms of
+the invention and the explanation that is vital to the work of science, and vital to the way we talk about it.
+
+Perhaps this is giving the book a more literary purpose than you might expect, but it has helped draw the
+first pieces together, and the overall picture of the anthology is starting to emerge. If you have contributions
+you'd like to suggest might be part of it, you've got until 31st March to send them in.
+
+Robyn Williams: And we'll have a link on the Science Show website to help you do just that. Ashley Hay in
+Brisbane.
+
+Last week our PhD graduate was Hungry Science Beast Niraj Lal. His hungry mate is equally ravenous,
+Hamish Clarke, who does research on climate at the University of New South Wales.
+
+Hamish Clarke: Although we feel weather at local scales, it's driven by forces which are really global in
+nature. To illustrate this I'd like you to think of a sausage sizzling away on a hotplate. If you're like me you
+regularly turn the sausage, making sure it gets cooked evenly. But no matter how often we turn it, the ends
+of a sausage don't get cooked as well because they are not touching the hotplate.
+
+Okay, the Earth is a bit like that sausage, rotating once every day, getting evenly warmed by the Sun, and
+the north and south poles of the Earth are like the ends of the sausage, never really getting the full force of
+the Sun. Unlike the sausage, Earth has an atmosphere and oceans which are perfect ways for moving this
+extra heat around. And so a lot of what we know about the global climate system comes from following the
+Sun's heat as it moves through water and air, outward from the Equator to the rest of the world.
+
+Robyn Williams: And of course when the temperature goes up, especially here, the risk of fire soars, so
+Hamish is also keen to know, being a Hungry Science Beast, what really sets fires going.
+
+Hamish Clarke: When it comes to bushfire risk, what really matters? Ross Bradstock at the University of
+Wollongong has come up with a model he calls the four switches of bushfire. These are: one, the amount
+of fuel; two, the dryness of the fuel; three, the weather conditions; and four, a source of ignition. Each of
+these factors is a switch, but, unlike most appliances, just having one switch isn't enough, you need all four.
+If even one of the four switches is off, you won't get a fire.
+
+For example, in the Blue Mountains west of Sydney where I live there is plenty of fuel, several very high fire
+danger days a year, and a reasonable supply of lightning, hazard reduction burns and arson. But we don't
+get many long stretches without rain to dry the abundant fuel out. As we've seen, three switches are not
+enough to make a bushfire, and a so-called limiting switch here is fuel dryness.
+
+Let's compare this with Australia's inland; it gets very hot, it's very dry, there's plenty of lightning, the fuel
+dries out quickly, but there just isn't a lot of fuel to burn in the first place, partly because it's so dry. The
+limiting switch here is fuel amount. The key insight of the four switches is not in the discovery of any new
+factors in bushfire but in the way we look at them. So often in science it's these changes in perspective that
+can lead to new ideas.
+
+Let's think about climate change. If it leads to longer dry spells, then the four-switch model tells us that this
+matters most in places where fuel dryness is the limiting switch, like my home town. Hmm.
+
+Robyn Williams: Hmm indeed. Hamish Clarke, living in a four-point risk own. He does research with the
+New South Wales Department of Environment, and a PhD at the University of New South Wales. Another
+PhD on The Science Show next week.
+
+[Music: Ave Maria from Vespers by Rachmaninoff]
+
+How sublime. Uplifting. But perhaps also analgesic. Miguel Farias lectures in psychology at the University
+of Oxford and does some wonderfully unexpected experiments on belief, experiments you'd expect to be
+illegal, like giving pain to his subjects.
+
+How can you do an experiment that tries to find out whether those who believe in God have a different
+experience of pain from, say, atheists? How does that work?
+
+Page182of311©2018Factiva,Inc.Allrightsreserved.Miguel Farias: Yes, so what we did was to give electric shocks to participants. You just have a continuous
+painful electrical stimulus on the back of your hand, and you put them in an MRI scanner while this is
+happening and it gives subjective ratings of how painful it is. And they are either looking at an image of the
+Virgin Mary or a secular image. So you've got these subjective reports of how intense the pain is and you
+look at what's happening in their brains.
+
+Robyn Williams: And you're allowed to do that are you?
+
+Miguel Farias: You know, actually we had a problem with the ethics committee.
+Robyn Williams: I'm not surprised!
+
+Miguel Farias: Not because of the pain aspect of it but because of the religious part. We were being
+challenged on the fact that we are using an image of the Virgin Mary, so the ethics committee challenged
+us on that, they said why aren't you using an image of Christ? So we had to methodologically explain why
+we wanted to use Catholics rather than every kind of Christian.
+
+Robyn Williams: What did you find? Who could put up with the pain more? Those with a Jewish association
+or a Catholic association or what?
+
+Miguel Farias: So unfortunately we only tested Catholics and atheists, and there was a lowering of pain
+perception for Catholics only when looking at the image of the Virgin Mary.
+
+Robyn Williams: So you felt less pain if you were looking at the Virgin Mary?
+
+Miguel Farias: Yes, for Catholics. But we interviewed them afterwards to try to understand what was going
+on, and the kind of reports we got had to do with what psychologists call a reappraisal process. They were
+focusing on aspects of their faith, the role of Mary in the Gospels or praying or thinking of religious
+experiences they'd had before. So it was this which allowed to down-regulate the experience of pain.
+
+Robyn Williams: And so are you suggesting that if you do have this religious belief you are somehow
+physiologically protected.
+
+Miguel Farias: Let's say that we had a decrease of 14% in terms of pain perception, and this we think is a
+subjective reinterpretation of the pain, because when we look at the pain matrix in the brain we get exactly
+the same level of activation.
+
+Robyn Williams: I see, so the body might have felt the pain but the mind felt it was less.
+
+Miguel Farias: Yes, exactly, and there comes the whole subjective psychological and effective component
+of pain.
+
+Robyn Williams: So you had these atheists on your hands and you were inspired to take an experiment
+further. In what way?
+
+Miguel Farias: Yes. Just to give you an example, more recently we've been looking at scientists and we've
+asked them specifically…this is an experiment in which we put them in a situation where they have to give
+a speech, an impromptu speech on something which raises their levels of stress. Before that we get them
+to think about how science has been meaningful, to write about an event where you thought that science
+was meaningful in your life and tell me how you thought and felt about it.
+
+And often we got these beautiful narratives of how science has helped them to deal with stress. One
+particular scientist gave the example of how whenever he was stressed he just looked at BBC
+environmental videos, especially about animals, how are looking at animal and plant life made him feel
+much more relaxed. Another one gave the example of going through principles of physics whenever he
+was stressed, how it just suddenly made everything come into place.
+
+Robyn Williams: So it's a personal tool.
+
+Miguel Farias: Yes, exactly.
+
+Robyn Williams: It's the first time I've heard that science can be therapeutic in the same way maybe that
+going to church could be.
+
+Miguel Farias: Well, there is a twist to my interest in this because there is this huge literature, mostly
+coming from American doctors looking at these correlations between health variables and religion and
+saying that religious people have healthier lives, live longer and are happier and that sort of stuff. And I
+thought actually can we replicate this with a different sort of belief system? And when I started thinking
+about this with my colleagues, there was a team of Dutch psychologists that had been looking at John
+
+Page183of311©2018Factiva,Inc.Allrightsreserved.Gray's…you know, the guy who's at the London School of Economics who wrote Straw Dogs, the myth of
+progress, so they were looking at the myth of progress…
+
+Robyn Williams: Yes, he was a professor of European thought.
+
+Miguel Farias: Yes, exactly. He's a wonderful nihilistic atheist, very different from the Dawkins kind, almost
+Nietzschean kind of existentialist, and he's very critical of the idea of progress, that we actually believe that
+we are morally progressing, not just in terms of technology but in terms of actual moral progress. So they
+devised a series of social and psychological experiments where they show that if you put people in
+situations of uncertainty and anxiety, they believe more in moral progress.
+
+Robyn Williams: It makes sense.
+
+Miguel Farias: Yes, well…
+
+Robyn Williams: Let me take you to prison now and another example of the kind of experiments that you
+were doing, taking yoga to prisoners. How did that come to be?
+
+Miguel Farias: So I met the person who runs this small charity based in Oxford called the Prison Phoenix
+Trust who has as one of the patrons Jeremy Irons.
+
+Robyn Williams: The actor?
+
+Miguel Farias: The actor, yes. And I learned about this wonderful history of two women who had dedicated
+part of their lives to taking yoga and meditation into prisons. And it was one of those moments that as a
+psychologist I thought, wow, if this works it would be wonderful to test it and to show that actually using a
+proper experimental design it works. And I would be in a unique position because as a research
+psychologist my stuff doesn't have a practical edge or application to it. And I thought, wow, perhaps this
+would be a way of giving back something to people who are in a rather deprived and unfortunate situation,
+being in prison.
+
+So that was really what sparked the interest, in a kind of subtle ideology of the people who run this
+organisation, which is mostly run by volunteers, and it's a very hippie, new-ageish idea. Remember Timothy
+Leary in the '60s. So if you put people in the right frame of consciousness it will change them, so he was
+trying to go around giving LSD to politicians. The idea with transcendental meditation was very similar in
+the '70s, that if you just put people in the right frame of mind it will change, crime will go down. So the idea
+of most of the volunteers who run this isn't very unlike that, they believe that if you get prisoners to realise
+their true spiritual nature they will just be enlightened and don't feel the need to be criminals.
+
+Robyn Williams: Endure being locked up a bit better.
+
+Miguel Farias: Ah, I would think of that as potentially the negative side of meditation and yoga, all of these
+eastern spiritual practices, that it can actually lead you to be more passive rather than reactive.
+
+Robyn Williams: So you went in, and did the prisons allow you to do this work with no problem?
+
+Miguel Farias: Oh goodness no, no, it's a real headache getting into prisons, it took us one year to get
+ethics permission. We wanted to use cortisol and they said if you get saliva samples you could run genetic
+analyses on the prisoners that would be unethical. But I said, but we're not, we don't have the means, we
+don't have the money to do it. And then because we were being sponsored by a foundation which money
+comes from a pharmaceutical company, they said we would want to sell the data. I mean, complete
+nonsense. Anyway, they very subtly told us that we can't give you permission, however if you were to go to
+a regional governor and seek permission there, we would be fine with that, which is what we ended up
+doing.
+
+Robyn Williams: So you went to which prison?
+
+Miguel Farias: We went to the Midlands prisons.
+
+Robyn Williams: And the prisoners were welcoming to you, or did they briskly tell you to bugger off?
+
+Miguel Farias: We had two female research assistants, one of whom used to be a model, so that was
+rather successful with the male prisoners. Most of them were quite happy to try to do something. We
+randomised them into a control group or a yoga group. There's some kind of ongoing prejudice about yoga
+being a girlie activity, but most of them were happy to engage with it.
+
+Robyn Williams: And the results?
+
+Page184of311©2018Factiva,Inc.Allrightsreserved. Miguel Farias: So we got some interesting results. We had prisoners doing a ten-week yoga course, and
+we saw significant reductions in tress, increases in positive effects in general psychological well-being, and
+we also used an impulsivity task, a very simple computer task—go, no-go—where we saw that they were
+better at impulsivity, so at withholding their behavioural response, which is potentially the most promising
+thing since most of criminal behaviour has to do with an inability to withhold your impulses. So that's
+promising. I'd like to do some more research on that.
+
+Robyn Williams: When you went away, did they continue the yoga?
+
+Miguel Farias: It's rather problematic to track what happens to these prisoners because for some reason,
+which I'm not entirely clear, they get moved around prison very, very often. So we actually had to negotiate
+with the prison governors not to move these participants for 10 weeks. I don't know whether the purpose is
+not to create social bonds, I think it's a deeply alienating experience.
+
+Robyn Williams: Well, they're not supposed to have fun when they go there, are they.
+
+Miguel Farias: No, I don't think they have much fun.
+
+Robyn Williams: The overall impression one gets from your work is that you are willing to look at these
+really exciting attitudes that people have about life, how you get on with life, how you manage to keep
+yourself stable, how you enjoy, how you even resist pain. It's most unusual really in a psychologist to get
+such a wonderfully broad approach, is it not?
+
+Miguel Farias: Yes, my head of Department has told me that my research interests do not fit those of the
+Department. I just do what I enjoy, and yes, I think that most of my work is interesting for people outside of
+academic psychology. I'm trying to write a sort of popular psychology book on the yoga side of things. We
+have as a provisional title From Monster to Buddha.
+
+Robyn Williams: From Monster to Buddha, right.
+
+Miguel Farias: Well, the problem we've had so far is that the feedback we've got from publishers is because
+we are introducing a critical edge to it, it's not just 'oh yes, yoga and meditation can do all these wonderful
+things and can promote personal change', we are actually looking also at the critical aspect of it.
+
+Robyn Williams: From Monster to Buddha, a critical look at yoga. Sounds fun, doesn't it, especially if he
+can keep the crims out of jail and into 1960s tie-dyes instead. Miguel Farias is Portuguese and lectures in
+experimental psychology at Oxford.
+
+Next week The Science Show investigates how terrorists use the internet, how an Australian marine
+scientist is helping to green the port of LA, and how Marcus Chown went swimming with Stephen Hawking.
+Production by David Fisher and Mark Don. I'm Robyn Williams.
+
+IN i257 : Pharmaceuticals | i951 : Health Care/Life Sciences
+NS gsci : Sciences/Technologies | ntra : Transcripts | gcat : Political/General News | ncat : Content Types |
+nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | niwe : IWE
+Filter | grel : Religion | gcom : Society/Community/Work
+
+RE austr : Australia | brisbn : Brisbane | melb : Melbourne | victor : Victoria (Australia) | apacz : Asia Pacific |
+
+ausnz : Australia/Oceania | queensl : Queensland
+
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140331ea3s0005m
+
+Page185of311©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,914 @@
+Meet boy wonder: doing revolutionary chemistry before he leaves school!
+
+HD Meet boy wonder: doing revolutionary chemistry before he leaves school!
+WC 10,743 words
+PD 21 March 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+School student inspired by animated proteins
+
+Unravelling the mystery of silk
+
+TD
+
+Bee genome assists in development of bee-safe insecticides
+
+Hungry Science Beast for Radio
+
+The Science of Doctor Who
+
+A new approach to living in the sky
+
+Robyn Williams: Perhaps this is not the best time to ask this question but I will anyway; how thick would a
+spiderweb have to be to stop a jumbo jet in mid flight? The answer in today's Science Show. I'm Robyn
+Williams.
+
+And I see that last month jumbo jets turned 45. Well, today we'll meet Doctor Who, Australian style, look at
+tall cities, those spiderwebs, and bees, how to save them.
+
+Let's though start with proteins. You like proteins, you're made of them, and this is the 100th year of
+crystallography, so we're looking at new ways to picture proteins and see how they interact. That already
+strikes you as complicated, confess! So why on earth would this sort of research attract a school kid and
+make him want to join in, with sensational results?
+
+Meet Professor Rommie Amaro at the University of California, San Diego.
+
+So here you have these very complicated molecules, and the way they work depends on their shape. And
+you're looking at the way they move around and might take up different aspects. How?
+
+Rommie Amaro: That's right. So it turns out that we get these images of how these machines are and they
+very often are static images, but these are really dynamic moving machines.
+
+Robyn Williams: You're calling proteins a machine?
+
+Rommie Amaro: I am, yes.
+
+Robyn Williams: That's bold.
+
+Rommie Amaro: They are machines. They are the workhorses of the cell. So the function of these
+machines is really intimately tied to how they move and their dynamics.
+
+Robyn Williams: How do you study that?
+
+Rommie Amaro: So we are using just very simple physical equations where we can approximate the
+structure, the atomic structure of the molecule. And then we just integrate Newton's equation of motion
+over time essentially, and we do this on these supercomputers, these really, really large computers. We
+integrate these equations of motion millions and billions of times and then we can evolve a dynamic
+picture of how these proteins are actually moving.
+
+Robyn Williams: So you animate them?
+
+Page150of274©2018Factiva,Inc.Allrightsreserved.Rommie Amaro: Exactly.
+
+Robyn Williams: And having animated them can you see them doing different things that you hadn't
+thought of before?
+
+Rommie Amaro: Absolutely, that's the fun part. Discovering how they move and how that motion can be
+tied to function that either we know about or, for example in a lot of cases of these small molecules that we
+are now discovering, entirely new sites, new binding sites for drugs can actually reveal themselves in these
+computational simulations.
+
+Robyn Williams: How long has this kind of work been going on?
+
+Rommie Amaro: Well, the approach that we are doing is very, very new in terms of using the output of
+molecular simulation in a drug discovery program. There have been a lot of success in rational drug design
+for other targets, but to date we haven't had one that actually made it into a human yet, just because the
+timeline is so new, it's so long, and this is such a new technique. But we are pushing ahead on some very
+promising new cancer therapeutics, and so I'm hopeful that in the next 10 to 15 years hopefully we will be
+there.
+
+Robyn Williams: Ten to 15? I'll come back in 10 to 15 months.
+
+Rommie Amaro: I know, it's not fast enough, right? But it's the process, it's the process of actually getting a
+drug to market.
+
+Robyn Williams: What happened when a young man knocked on your door?
+
+Rommie Amaro: Oh, Eric, Eric Chen. Yes, so he knocked on my door and told me he was interested to do
+research. So I said okay, sure, I talked to him a little bit, he was in high school, young…
+
+Robyn Williams: A high school boy.
+
+Rommie Amaro: A high schooler, that's right.
+
+Robyn Williams: A high school boy interested in proteins.
+
+Robyn Williams: Yes, believe it or not! He's a rare one I guess. But he came and he was interested to do
+research and he seemed pretty determined. So he came to see me and I said okay, sure, send me an
+email, and he did. I probably didn't reply the first time, but he sent another one, and so I sent him a few
+papers and then he came back, and that relationship sort of took off.
+
+He went to a summer school that I have here at the university to sort of learn some of the basic techniques,
+and I actually had assigned him a project. I said okay, you're going to look at this protein and cell signalling,
+and he did. And then after those eight weeks he came into my office, he said, 'Dr Amaro, I have an idea for
+a new project.' And I said, all right, I knew things had been going pretty well. So I said, okay. And he said, 'I
+really want us to come up with a new drug for the flu.' So influenza, obviously we hear about this all the
+time, and even now there are new strains all the time, so he was really interested in coming up with some
+drugs for it.
+
+So he had identified a protein called endonuclease which when it's blocked, when its activity is blocked it
+basically stops viral replication. So it already had early indications of being a very good target. And again,
+since he is young and he's in high school I said, okay, if you're interested, go for it.
+So he went off, and he did talk with people in my group and so forth for some technical guidance, but he
+came up with a set of molecules, small molecule compounds…so what we do is we take these protein
+structures and we can screen them or develop models of them that we can then use to possibly discover
+new drugs, and so that's exactly what he did. And he came with a set of compounds. And normally I have
+to say in my lab it sort of stops there, and at that point I call up a collaborator or I email someone who
+actually does bench work and I say, okay, we have some compounds, would you like to test them? And
+they do.
+
+But Eric actually decided he wanted to run the assays too, he wanted to do the experiments. Fearless kid,
+just fearless. And so he knocked around on different labs and he was able to get into the Department of
+Pathology and run the assays, validated that these compounds actually worked. And that was kind of the
+story taking off. And then he also registered for a number of science fairs, and he used this work as a
+platform to win the Google Science Fair.
+
+Robyn Williams: He won the Google Science Fair?
+
+Rommie Amaro: He did, the grand champion, yes.
+
+Page151of274©2018Factiva,Inc.Allrightsreserved.Robyn Williams: At the age of what?
+
+Rommie Amaro: I guess he's 17.
+
+Robyn Williams: 17? You're kidding!
+
+Rommie Amaro: 16, 17, yes, he is young. It's amazing. And then a few months later he won the Siemens
+competition which is one of the most prestigious international science competitions, even bigger money
+kitty. So he is just sort of sweeping…and, I have to say, as a scientist I especially proud of…he has a first
+author publication in ACS Medicinal Chemistry Letters. So he has that also…he made it into the literature.
+
+Robyn Williams: Before leaving school.
+
+Rommie Amaro: Yes, in high school, it's really just phenomenal.
+
+Robyn Williams: I find that very interesting because most of the remarkable young people I hear about are
+young women, and having a young man with the confidence to do that is, may I say, exceptional.
+
+Rommie Amaro: It is exceptional. I mean, he is just really an incredibly…just has such initiative, and, like I
+said, he's just fearless. He will just try new things and knock on people's doors to take it all the way to the
+end. I think he has a very bright future ahead of him.
+
+Robyn Williams: And he's a swimming champion and he sings like Justin Bieber and…
+
+Rommie Amaro: Probably, probably a virtuoso, yes! I think he does fencing. Yes, a lot of skills.
+
+Robyn Williams: Well, that shows you that an academic at your level should always open the door and
+always follow up the emails because bright young people may come and make all the difference.
+
+Rommie Amaro: I think so, absolutely, that's part of our job, right?
+
+Robyn Williams: Thank you.
+
+Rommie Amaro: Thank you, this was a lot of fun, thank you.
+
+Robyn Williams: And this is aforementioned Eric. What made you knock on the door of a professor and
+want to join in?
+
+Eric Chen: I don't know, my love for science started when I was just a little kid actually, and I was really,
+really curious. And I guess I soon found that science had the answers to the questions that I had. And as I
+grew older I kind of realised science actually doesn't have all the answers, there is this entire field of
+research devoted to answering questions we haven't answered before, and that's what really got me
+interested in research. I thought it would be the coolest thing ever to be able to discover something no one
+has ever found before, and that's what really got me into it I guess.
+
+Robyn Williams: How did you know you'd be good at it?
+
+Eric Chen: I didn't! I thought it would be something I'd want to try out, and it really took off from there.
+
+Robyn Williams: May I ask you how old you are now?
+Eric Chen: Right now I'm 17 years old.
+
+Robyn Williams: You're still 17. How do you deal with the successes you've had, these prizes?
+
+Eric Chen: I don't know, I've been very honoured with what I've been able to accomplish. Of course I've
+been very surprised whenever I get one of them. But I've been very, very busy I guess, because I'm not at
+school a lot of the time to go to this outreach event or that talking event, and my teachers and mentors
+have all been very supportive of me and I'm really grateful for it.
+
+Robyn Williams: What did your fellow high school students say? Where they excited, were they dismissive?
+
+Eric Chen: They were definitely excited. A lot the students…the friends I had before, they were always very
+supportive, and even after I won these awards it didn't really change the relationship between us and I felt
+that was nice, and we still help each other out and maybe I'll say, 'Can I present this,' or, 'Can I practice this
+presentation to you,' and they'll say, 'Of course.'
+Robyn Williams: I'm assuming you'll follow it up and go to university and study science and all the rest of it,
+but, you know, the really crucial question is; when you were so young, as you said just before, what really
+
+Page152of274©2018Factiva,Inc.Allrightsreserved.made all the difference to encourage you? Was it your parents, was it your teacher, was it things you
+observed, or what?
+
+Eric Chen: Partly it was because of my parents because they are in science, and because of that I got the
+early influences where I could…I had maybe a toy microscope or this textbook lying around and I'd read
+through it. But it was also just I guess my observation, as I mentioned before. I found that a lot of these
+questions, the answers were all scientific. And because of my curiosity, that's what really deepened my
+interest for science.
+
+Robyn Williams: And what do you plan to do?
+
+Eric Chen: Oh gosh! In the future I guess I'd either like to become a college professor, I actually really love
+teaching as well and this would let me pursue both my passions for research and teaching. Or I'd like to
+become an entrepreneur because doing this research, it's really shown me the difference between
+discovering something in a lab and getting it to the market, to the consumers. And I think it would be really
+cool to bring these scientific innovations to those who need it.
+
+Robyn Williams: At the age of 17. Congratulations.
+
+Eric Chen: Thank you.
+
+Robyn Williams: Eric Chen, who last week won the $100,000 Intel science grand prize, awarded in
+Washington DC. He has also won the Google International grand prize and the Siemens Foundation
+science prize, and I'm told he has been offered a place at Harvard. And, get this; he's considering it.
+
+Before Eric you heard Professor Rommie Amaro at the University of California, San Diego, and she's also a
+star.
+
+Okay, more chemistry. If Eric's a genius, then so are spiders, making silk that can be the strongest material
+on Earth nearly. Meet Jeffery Yarger who works at spit central at Arizona State University.
+
+Professor, outside the building it says Comparative Salivary Research. What does that mean?
+
+Jeffery Yarger: Good question because I have nothing involved with that, but in fact it's even worse than
+that because the signs in the building said Spit Camp last week, so I was really worried about getting spit
+on lately. But I think these are people who we could all sit here and spit into a cup and they could compare
+our saliva and tell us I don't know what, but I'm assuming maybe what we had for breakfast or what drugs
+we'd done or something.
+
+Robyn Williams: Those aren't the glands that spiders use to make silk?
+
+Jeffery Yarger: I don't think they have anything to do with salivary glands, especially given that they are on
+the other side of the animal from its mouth.
+
+Robyn Williams: How many different sorts of spider do you have here?
+
+Jeffery Yarger: It depends on the time of the year. In winter we come down to four or five species, usually
+tarantulas and cob weaving spiders like widow spiders that we find in the desert, which is where we live
+here in Arizona. In the summer months when we get a lot of the tropical spiders from places like Australia,
+from Latin America, Florida et cetera, we often have up to 20 or 30 species in the lab.
+
+Robyn Williams: And do they all have different kinds of silk?
+
+Jeffery Yarger: Yes, they all have different types of silk, and in fact they get labelled by…some simple
+spiders like tarantulas or jumping spiders often only produce one type of silk, the dragline silk they drag
+behind or something that they lined their burrows with, to the other extreme which are orb weaving spiders
+which are the ones we think of as making webs, they usually produce 6 to 7 different types of silk within a
+single spider.
+
+Robyn Williams: Why?
+
+Jeffery Yarger: They do it for several reasons, but one is a web requires two or three different types of silk,
+some high elasticity to be able to absorb the energy when something hits the web, a high tensile strength
+one so it doesn't break, a sticky glue-like substance to make sure it doesn't come off, and then it uses a
+completely different almost like Saran-like or sheet-like silk that it wraps its prey in. It uses a different silk to
+make egg sacs with, et cetera. So they use it for a lot of different components of their life and life cycle.
+Robyn Williams: I'm going to ask you a ridiculous question; if you were to take the average web that we
+see in the garden, how much would that weigh?
+
+Page153of274©2018Factiva,Inc.Allrightsreserved.Jeffery Yarger: It would weigh about one-tenth of a milligram. So if you take it all the way down and look at
+it, it would look like just a really small on-the-end-of-your-fingertip little cotton ball that you webbed up, and
+you would barely be able to weigh it with a kitchen scale.
+
+Robyn Williams: Something so tiny and thin the spider can weave out to be a place to live and a place to
+catch. So you are studying the tensile strength of these silks, are you?
+
+Jeffery Yarger: A lot of people have looked at the mechanical properties or tensile strength and toughness
+of hundreds of different silks for the last 20, 30, 50 years maybe. And it's been known for a long time that
+spiders have had some incredible properties. For example, some of the dragline silks are some of the
+toughest materials we know of, twice as tough as Kevlar, for example. We are trying to understand at a
+molecular level why. What about the structures give it that toughness?
+
+Robyn Williams: Aren't people making artificial silk anyway already?
+
+Jeffery Yarger: Yes, in fact that's how we got into this, is that the first people 30, 40 years ago, molecular
+biologists picked up this problem and realised that silk is a really interesting material, and the problem is
+that we cannot produce enough of it naturally, so let's produce it synthetically or artificially to be able to use
+this material. The problem is that they've been doing that and they've made some great strides in actually
+making these very large complicated proteins to get the primary structure of that protein or the right amino
+acid sequence and artificially express that. The problem came is that once they artificially expressed mass
+amounts of this it didn't have the same properties as natural silk. That's when we came in and said why
+doesn't it? And it's because the ones that they are mass producing, they are not folding in the right
+molecular three-dimensional shapes that natural silk is able to do.
+
+Robyn Williams: Is it technically possible to imitate the sort of thing that the spider makes?
+
+Jeffery Yarger: We are working with a lot of the molecular biologists that have produced things like
+transgenic silkworms that produce spider silk as their cocoon instead of their own natural silk worms. So
+people who are doing it…smaller systems in E. coli bacteria, et cetera, people who are doing it in goats
+milk. A company called Nexia, now Randy Lewis at Utah State has transgenic goats that produce spider
+silk in their goats milk.
+
+Robyn Williams: You're kidding!
+Jeffery Yarger: No. Not that I'm a fan of milking goats. I think if you need some extra goat cheese, they
+have it. But a lot of different places around the world have produced large amounts of these synthetic
+versions, and we are working with them to show them the molecular structures that natural silk has to show
+them the way that spiders are actually able to produce that natural silk so that we can reverse engineer that
+process when we are working…
+
+Robyn Williams: And the payoff to get new materials would be what?
+
+Jeffery Yarger: The payoff would be to have bulk amounts of natural protein-based polymer that has
+incredibly different properties. For example, if you could reproduce the natural dragline silk out of a spider
+like a Nephila that you would find in Australia, you would have something that's twice as tough as Kevlar. If
+you are able to produce the minor ampullate silk from a black widow spider you would have a biomaterial
+that matches the exact properties of human tendons as a potential artificial tendon replacement, because
+these are just protein polymers like collagen, like elastin, that you would naturally find in your body anyway.
+
+Robyn Williams: Why not take 100,000 spiders, feed them, make them happy, and just collect what they
+produce?
+
+Jeffery Yarger: That has been done once that I know of, at Madagascar. In fact it was in the Natural History
+Museum in New York last year for a while…there was one tapestry produced from about 3 million golden
+orb weaving spiders in Madagascar. But it took three years, it took 3 million spiders a lot of effort just to
+produce this one tapestry. It's a heroic effort.
+
+Robyn Williams: Going around your lab seeing all your different spiders, it's very inspirational. Actually
+you've also got some silkworms there as well. How far have you reached?
+
+Jeffery Yarger: I would actually say we're about 95% through understanding at a molecular level what
+secondary structures cause different mechanical properties in silk. The next stage is that almost all of these
+silks are made up of two or more proteins. And so that requires tertiary or quaternary protein-protein
+interactions that must be involved as well. And that's what we are getting to next. So I think we understand
+at a secondary protein structural level what's going on, almost completely at this point, and now we are
+working on some of the higher order hierarchical structures, and then once we get those down I think in the
+
+Page154of274©2018Factiva,Inc.Allrightsreserved.next five or ten years we'll have a very complete picture from a molecular standpoint of how spiders are
+able to produce such strong materials from natural protein.
+
+Robyn Williams: What if it turns out to be too complicated to reproduce artificially?
+
+Jeffery Yarger: All indications are…because we've been studying this from an MRI perspective, they're able
+to take a 30% or 40% completely disordered protein solution, kind of like you would crack open an egg and
+have a gooey egg white, right? They are able to take that, store it in glands for weeks at a time, just an
+aqueous solution, it doesn't seem like anything special is in there, no special enzyme or extra lipids or
+anything, and at will they can pull it through a series of ducts and make this super-strong fibre.
+
+And there are several factors that go into it besides the obvious dehydration as it goes through these ducts.
+There is a change from sodium potassium pumps, there's a CO2 partial pressure that increases, there's a
+pH change. Teasing apart all those little mechanisms that happen for them to fibre engineer it is what we
+are working on now. And it seems fairly straightforward to hopefully reverse engineer this into a fairly green
+aqueous chemistry fibre pulling technology.
+
+Robyn Williams: So far it looks doable?
+
+Jeffery Yarger: So far.
+
+Robyn Williams: Another absurd question; how much spiderweb would it take to stop a jumbo jet?
+
+Jeffery Yarger: You would have to have a hell of a lot of spiders doing that. But what I always like to say is
+if you were to scale up the properties of spider silk…so the silk that they naturally make is really, really thin
+and we're all familiar with this, we don't think of it being that thin because we go out to our garden and we
+see a web, and the reason we see that is…you're not actually seeing the web, you are seeing the water
+that's on that web. And we almost always see it on a dewy a day or because of humidity.
+
+But we also have the opposite experience, which we've always walked down a corridor and we've started
+brushing our head because we run into a spiderweb that we didn't see at all, and that's because they are
+very, very thin, only a few micrometres, about 100th the size of a human hair is what the diameter of a
+natural spiderweb is, the fibre that makes that. If you scaled that up a few millimetres to a centimetre and
+you made the entire web out of something like that and it linearly scaled the toughness properties, you'd be
+able to stop a jet in flight.
+
+Robyn Williams: So there you are, a centimetre-thick spiderweb could stop a jet. Jeffery Yarger is a
+professor of chemistry and much else at the Arizona State University.
+
+And this is The Science Show on RN, where we've long been worried about bees. They too are getting
+chemical attention in New Zealand. Their bees have been fighting an attack on two sides, from mites and
+from insecticides. Professor Peter Dearden at Otago University in Dunedin may have an answer.
+
+Peter Dearden: New Zealand bees have a number of problems that are kind of unique and some which are
+imported. So the biggest problem we're having at the moment is varroa mite, which is a parasitic mite which
+eats bees. Australia at the moment doesn't have it, which I think you should be very proud of and actively
+try to keep out. The mite is problematic because it causes wild bees (or bees that aren't managed) to die.
+So in New Zealand since about 2003 and the introduction of the mite we've seen feral populations of bees
+collapse. So the bees have gone from a wild species we managed to a domestic species.
+
+They are controlled with a bunch of chemicals which allow us to kill the mites but not the bees. Those
+chemicals are reasonably good but we have resistance to almost all of those chemicals in the rest of the
+world and that resistance is appearing in New Zealand as well. So the mites stress the bees. We've got
+reduced populations of bees. And on top of that we are starting to understand that many of the agricultural
+chemicals that are used have effects on bees. I'm sure you'll have heard that in Europe and America
+people are interested in particular classes of insecticides called neonicotinoids which affect bees at a
+sublethal dose.
+
+So what you would generally say if you were interested in insecticide is at what dose of this insecticide
+does this animal die? And of course bees being a species that we like, people have tried to work out how
+much of these neonicotinoids they can use without affecting the bees. And that's a decent thing to do, and
+the neonicotinoids themselves are really great insecticides, they are wonderful for controlling pests.
+
+The problem comes about because we've forgotten that bees don't just die, they live in a society, and the
+interactions in that society and their ability to remember things is really key to everything they do. So these
+neonicotinoids seem to affect the way that bees remember things or are able to forage, and that causes the
+bee colonies to collapse to some extent, to get smaller and to start dying.
+
+Page155of274©2018Factiva,Inc.Allrightsreserved.So in New Zealand we have the problem of verroa mite which is killing our bees, we have probably very
+narrow genetics of our bees because they've been imported in very small numbers, and now we have
+agricultural chemicals which also seem to be affecting them. So it's a bit of a perfect storm for bees, and
+we need to understand ways to try and help the species.
+
+Robyn Williams: It has to be done quickly presumably to look after them.
+
+Peter Dearden: Yes, I think there are short and there are long-term solutions. Surprisingly I think genetics is
+the short-term solution, trying to breed of bees which are more tolerant of the verroa mite. But the long-term
+solutions are much more difficult. We have an enormous trade-off here between the use of insecticides and
+their effect on beneficial species. Insecticides are very important for agricultural productivity, and they say
+that a third of the food we eat requires pollination, and about a third of our stored food is eaten by insects.
+So there's a balance here. If we use insecticides then we protect our food better. If we don't use them then
+we get better pollination. So we need to be able to break that trade-off, we can't just keep manipulating it,
+we need to find some way to kill insects without affecting our beneficial species.
+
+Robyn Williams: Do you have any clues as to what might work?
+
+Peter Dearden: Well, one of the things that has been happening around the world for the last 10 years or
+so is the sequencing of insect genomes. So a lot of people around the world have been interested in how
+insects work and how they develop and how they evolve. And so we are starting to have genome
+sequences from lots of different species, and with the advent of the new sequencing technologies we've
+now got a flood of insect species genomes.
+
+By looking through those genomes what we can do is try and find things which are specific to particular
+groups. And some time ago when the bee genome was sequenced we first identified that there were a lot
+of genes that control early development in flies that are missing in the honeybee genome. As we've
+sequenced more and more species we've discovered that actually those genes are patchy, that they are in
+some species and not in others, and that they are probably evolving rapidly but there's a huge diversity in
+the way that insects control their early development. But we've also started to find genes which seem to be
+missing from the bee genome but are present in other species.
+
+Robyn Williams: So you can put them in?
+
+Peter Dearden: Well, no, at this point what we're looking at is parts of the brain talk to other parts of the
+brain to control moulting in an insect. So insects in their larval stages go through a series of critical moults
+which allow them to grow, because they have an exoskeleton. If they don't moult their exoskeleton they
+can't grow any bigger. It turns out that some of the genes which control those sorts of processes are absent
+in the honeybee.
+
+Now, honeybees moult, so they must have some work-around in their genome to deal with this, and we are
+trying to understand how they deal with these missing genes. But also it gives us the opportunity, if we can
+find a chemical which blocks the interaction between those genes than we might find something which
+affects insects other than bees and causes defects in their moulting.
+
+Robyn Williams: I see, so you go for the other insects, and the bees will be fine.
+
+Peter Dearden: That's right, yes, we wish to kill the other insects, the bees will be fine. That's the idea.
+Some of the things we found are extracellular, so ways that cells are talking to each other, and those are
+critical drug targets if you think about the pharmaceutical industry. So it gives us the opportunity to use that
+great power of medical genetics to find chemicals which block those interactions.
+
+Robyn Williams: And presumably you're talking about one or two species of bees, because there are so
+many. We've got I don't know how many wild ones in Australia. So you've got a fairly fine focus, have you?
+
+Peter Dearden: It's kind of interesting. We've just recently helped sequence the genomes of two
+bumblebees, which are probably the closest bees to the honeybee itself. We find these genes missing in
+those bumblebees as well. We don't know how far out we can go. We've looked in some wasps where the
+genomes have been sequenced and found the genes are present there. So something is odd about the
+evolution of this clade of bees. And it may be that that happened very early in their evolution and therefore
+all the bees will be missing these genes, or it may be that it's quite a late thing and just the honey bees and
+their closely related friends are missing it. We need to understand that more, but it's very difficult in
+genetics to look for things that aren't there. When you think about a genome it's a very, very big thing, and
+you're looking for a needle in a haystack, and it's hard sometimes to tell whether something is missing
+because it's really not there or something is missing because of a technical error.
+
+Robyn Williams: Do you think the work you are doing here will be of any use to the beekeepers in America
+where they really have got a huge problem?
+
+Page156of274©2018Factiva,Inc.Allrightsreserved.Peter Dearden: I think it has to be. In America there are lots of…again, there are even worse things
+happening to bees and it's not terribly clear what those are. Insecticides certainly are a key issue, and while
+New Zealand has probably had less effect of insecticides on bees, in America and in Europe in particular
+it's much more problematic. So we hope that if we can develop new chemicals which are effective against
+other pests but don't affect bees, then maybe they'll be used widely in America and Europe.
+
+Robyn Williams: Peter Dearden is professor of genetics at the University of Otago in Dunedin, and let's
+hope he's right. We need bees, and now they need us.
+
+Our PhD this week is already doctored, and not like the usual contribution we've had on this program. This
+one, from the ANU, saw Hungry Beast on ABC television way back and wondered why there's no Hungry
+Science Beast. So they've made one. Here it is.
+
+Niraj Lal and Hamish Clarke: Hungry Science Beast. Light bulbs with opera, and the brown note.
+
+20 years ago the light bulbs in our homes used to be incandescent. And if they were playing sound instead
+of light they'd sound a little bit like this:
+
+[discordant musical chord]
+
+A whole bunch of mish-mashed notes. The light that we can see is made up of lots of different colours, and
+these different colours can be thought of as notes. What incandescent globes do is play all of the notes,
+including some of the ones that we can't see, kind of like the optical equivalent of the brown note in music.
+
+We've since found out a way of doing it better and playing chords with our light bulbs instead. And if they
+were playing music, this is what they'd sound like:
+
+[musical chord]
+
+This is what fluorescent bulbs do, and you can see the light that they give from the reflection of a
+fluorescent bulb from the back of a CD grating. And we've since found out a way of doing even better and
+playing just a single note with our light bulbs, sounding a little bit like this:
+
+[sings one note]
+
+The pure note of an opera singer. By putting all of our energy into just one colour, one note, we can make
+the light brighter and save on the energy that we use to make it.
+
+So there you have it, light bulbs with opera and the brown note.
+
+Robyn Williams: Well, I don't know what a brown note is, it sounds dubious. How better to get light from
+lamps. Hungry Science Beast at the ANU. More in a minute.
+
+[Doctor Who theme music]
+
+And you're listening to The Science Show on ABC Radio National, RN. And you can hear a bit of thumping
+in the background, which is in fact WOMADelaide. So you've got a mixture of science, of chat, and music.
+With me I've got Ben from the RiAus who is involved in producing Doctor Who. How long is Doctor Who
+and the science thereof going to be on the road?
+
+Ben Lewis: Well, The Science of Doctor Who, the first dates we have are in Perth on April 26, then we go
+to Sydney, Adelaide, Brisbane and Melbourne, and we finish in Melbourne on June 13, 14, 15.
+
+Robyn Williams: And is there any science in Doctor Who?
+
+Ben Lewis: There's a surprising amount of science in Doctor Who actually. You know, it is science fiction,
+they take some liberties, but at the end of the day there is some reality in what we see, and that's what this
+show is all about. It's all about having fun with Doctor Who but exhibiting some of the science that is
+influencing that.
+
+Robyn Williams: Have you been able to work out what he's a doctor of?
+
+Ben Lewis: No.
+
+Robyn Williams: Well, there laughing along with us is Martin. Martin, are you the Doctor?
+
+Martin White: No. Many students have said this in the past because of my accent but I have definitely never
+travelled through time and I've never killed any alien races.
+
+Robyn Williams: I see, but you are a theoretical physicist at the University of Adelaide.
+
+Page157of274©2018Factiva,Inc.Allrightsreserved.Martin White: Yes, and an experimentalist on the Large Hadron Collider. So one of the things we talk about
+in the Doctor Who show is the extra-dimensional element. So the TARDIS is famously much bigger on the
+inside than it is on the outside, that's accomplished using extra space dimensions, which we are hunting for
+in the collider. We should be able to see them if they are there.
+
+Robyn Williams: How would you recognise them?
+
+Martin White: Well, when you smack protons together they could make particles which literally disappear
+into the extra dimensional and you can plot a graph on your computer which would have a series of bumps
+in it that tell you how many dimensions there are and how big they are.
+
+Robyn Williams: And Ben, do you have a cosmic or sonic screwdriver?
+
+Ben Lewis: Yes, I do. My collection is nowhere near as big as our host of the show, Rob Lloyd, who has
+every one ever made and probably multiple copies of each. He's absolutely obsessed with Doctor Who, so
+his collection does put mine somewhat to shame.
+
+Robyn Williams: Martin, does the sonic screwdriver kind of work scientifically?
+
+Martin White: Well, I think it certainly works as a plot device, although whether it's an elegant one the
+audience can decide. You could technically do everything that that thing does with sonar, but I think it
+would be difficult to miniaturise the device. A dolphin would actually be a very effective sonic screwdriver.
+
+Robyn Williams: A dolphin?
+
+Martin White: Yes, dolphins take their young to the bottom of the sea and talk to them with sonic booms.
+That's a little known fact about dolphins.
+
+Robyn Williams: Are you serious?
+Martin White: I'm absolutely serious, one might say deadly serious.
+
+Robyn Williams: And what happens when they do that?
+
+Martin White: I imagine the young ones get very annoyed.
+
+Robyn Williams: Or leave home.
+
+Martin White: Yes. It's a big home if you're a dolphin, right?
+
+Robyn Williams: So far you've got the Hadron Collider that is large and small inside and out, and you've got
+the sonic screwdriver. What else? Are you scratching the barrel to find some real science with Doctor
+Who?
+
+Martin White: Well, the biggest thing is of course time travel. So we actually early in the show introduce
+people to Einstein's relativity and whether time travel is physically possible. There are lots of other nice bits
+of science in Doctor Who like cloning. You know, human cloning has probably happened somewhere or is
+about to happen, so we kind of explore the ethics and the philosophy of that.
+
+Robyn Williams: Well, it's not a very long show in that case.
+
+Ben Lewis: We go through star formation and black holes, time travel, extra dimensions, as Martin has
+already talked about as well, parallel universes, life on other planets, cloning, teleportation. So we go
+through about ten of the most common scientific theories that you come across when you watch Doctor
+Who. So in total we're looking at a roundabout 75 or 80-minute show, really good fun. We race through it all
+and it pumps along, it's really punchy, so it pumps along at a good speed and we have a lot of fun with it.
+It's a show written by fans. We're fans of Doctor Who.
+
+Robyn Williams: Have you done it…in other words, trial runs, previews here in Adelaide?
+Ben Lewis: Yes, in 2012 we did it for Adelaide Fringe, and we did a couple of shows and they were sold
+out, a huge success. And from that we've now developed a relationship with BBC Worldwide, Australia and
+New Zealand, who are helping us out with this tour as well. So really that partnership stemming from those
+earlier shows allowed us to really take this up to a whole brand new level.
+
+Robyn Williams: One of the problems, Martin, is that Doctor Who fans and Trekkies are notoriously picky.
+Are you worried about being found out getting something wrong?
+
+Page158of274©2018Factiva,Inc.Allrightsreserved.Martin White: Well, we used to have a question and answer section in the show, and we expected
+obviously the public to ask us science questions because we spent years training in science, and all you
+ever get is, 'Well, in episode seven of Remembrance of the Daleks, is it true that this happens and this
+happens,' and we just had to refer them to our host who is such a Doctor Who fanatic. I think he knows
+more than Steven Moffat knows about Doctor Who. Steven Moffat, for those who don't know, essentially
+writes the show nowadays or leads the writing. He should be the top Who but he isn't, it's Rob Lloyd.
+
+Ben Lewis: He wows us every single day with his encyclopaedic knowledge of Doctor Who. There's only
+ever been one question which I've asked him about Doctor Who which he hasn't been able to answer, and I
+won't reveal what that question is because I like to torture Rob with it. But he has an unbelievable
+knowledge of Doctor Who, he really does live Doctor Who, and he even looks suspiciously like David
+Tennant as well, which is a bit of a bonus I think.
+
+Robyn Williams: So do you actually, if you had a shave. But talking about Steven Moffat, who wrote many
+of the Doctor Whos, he of course writes and is behind Sherlock. Now, Sherlock, there you have some
+science because that's based on a doctor in Scotland who had the kind of Dr House, you know, another
+Sherlock type, the duo is famous in literature. Were you temped perhaps to follow it up with a Science of
+Sherlock?
+
+Ben Lewis: You never know what might happen in the future or the past anyway, talking about Doctor Who.
+But you're right, there is a lot of science in a Sherlock and there's a lot of ideas that can possibly be
+produced out of that.
+
+Robyn Williams: You're going on the road, remind us, you're going to Sydney, Perth…what dates?
+
+Ben Lewis: Perth we are April 26, then we head up to Brisbane on May 10, Sydney on May 23, 24 and 25,
+Adelaide May 31, and we finish up in Melbourne June 13, 14, 15.
+
+Robyn Williams: And people can get tickets from the usual place?
+
+Ben Lewis: The best place to go to for tickets is RiAus, that's riaus.org.au/doctorwho. And it's got some
+information about the show and booking links for all the cities.
+
+Robyn Williams: It's the Royal Institution Australia, based in Adelaide, is it not?
+
+Martin White: It is indeed, in the Science Exchange Building.
+
+Robyn Williams: And one last question; you're doing work on the Hadron Collider, have you got anything
+yet?
+
+Martin White: Well, of course we saw the Higgs boson which was dramatic. It's currently resting because
+we are upgrading it to run at higher energy. It will start again probably next April, and we will be looking for
+extra dimensions and supersymmetry, for fans of those.
+
+Robyn Williams: Good luck on the road.
+
+Martin White: Thank you very much.
+
+Robyn Williams: Dr Martin White from the University of Adelaide, and Ben Lewis from RiAus, taking Doctor
+Who on the road. And another word from Hungry Science Beast, now having a shower:
+
+Niraj Lal and Hamish Clarke: Hungry Science Beast. Why shower curtains are evil.
+
+There's nothing like coming home at the end of a long day and jumping in to a nice, hot shower. Until
+[screams] the shower curtain starts to creep eerily inwards towards you, wanting to stick to you like a long
+lost lover.
+
+What's going on here? Well, the air particles on the outside the shower curtain are constantly pinging on it,
+pushing it inwards. The same with the air particles on the inside of the shower curtain, constantly pinging
+on it, pushing it outwards.
+
+Everything is usually nicely in balance, until you turn the shower on and the water droplets start moving the
+air particles around and the air particles start heating up, becoming less dense and moving upwards. And
+all of this means that there are less air particles on the inside of the shower curtain pinging on it, pushing it
+outwards, allowing it to creep eerily inwards towards you.
+
+If you have the misfortune of the shower curtain actually touching your skin, and in my mouldy share house
+this is definitely a misfortune, then the shower curtain seems to want to be able to stick all across to your
+skin.
+
+Page159of274©2018Factiva,Inc.Allrightsreserved.So what's going on here? Well, the water droplets on the shower curtain get in touch with the water
+droplets on your skin, and they'd much rather touch their water droplet friends than be in contact with the
+air on the outside. So this is why the shower curtain wants to stick to your skin.
+
+So there you have it. Nothing evil, but enough of a reason to get my housemates to help clean the shower.
+
+Robyn Williams: Well, Hungry Science Beast is at the Australian National University in Canberra. Niraj Lal
+is a post-doc fellow making better solar panels. His mate Hamish Clarke studies the impact of climate
+change.
+
+And both these ingredients, by the way, it's clear, affect the growth of cities. We can either make cities
+21st-century style and apply the best of high-tech, even using down-to-earth approaches like the barefoot
+architects featured in By Design this week. Or we could let it all just happen as we are, with possibly dire
+results.
+
+Here are the choice is put by Professor Saskia Sassen from Columbia University in New York.
+
+Saskia Sassen: So the future of cities, let me just give you a framing thought. I think that on the one hand
+we have technologies, capabilities, discoveries, powers of money literally, to develop perfect cities, but of
+course there is no such thing as a perfect city. On the other hand, we have masses of people who are
+being literally expelled from the land because the land is being bought up by foreign farms, by foreign
+governments, who of course have to go to the city. So besides the natural growth of the population in cities,
+we have people who are expelled from rural areas.
+
+A lot of these people, the first stop is a shantytown. If they are lucky it's a working shanty, a slum, right, you
+know the language that I'm using. So if I look at the future I see two urban settings, they will be…those two
+urban settings can happen in New York, in Shanghai, in Nairobi, in many places. And one of them is really
+advanced urban spaces with extraordinary technologies and capabilities. But the other one is a degraded
+space. Some of those people may be very creative, generate little businesses, have start-ups, because we
+see that in the slums, but it is a life of hardship where getting water will be tough, getting electricity will be
+tough.
+
+So the challenge is can we create more of a balance, not put so many resources in building the ultimate
+luxury urban settings, and redistribute a bit so that we really have a reasonable mode of urban living. Sure
+there will be always inequality, always elite spaces, but that most of the people have access to water, have
+access to food et cetera, and that cities can in fact generate part of their own food, part of their own energy
+et cetera. And I've been very interested in understanding how the capabilities of the biosphere in the form
+of bacteria, algae, capturing the energy that movement produces, a whole range of things, how can we
+deploy those inside cities?
+
+Robyn Williams: Well that's a sociologist's view. Professor Saskia Sassen from Columbia University in New
+York. She was at the AAAS.
+
+And this week Australia played host to Green Cities, a conference in Melbourne. Our own Janne Ryan of
+By Design was there. Back at the AAAS though, Antony Wood from the Council on Tall Buildings and
+Urban Habitat, a Brit who spent useful time at Deakin University in Geelong, shocked quite a few by citing
+Singapore as an ideal model.
+
+People are often quite rude about Singapore, for chewing gum reasons. Why do you think it's a wonderful
+place?
+
+Antony Wood: You know, in the early '90s, actually after I was in Australia I went and lived and worked in
+Bangkok, Kuala Lumpur, Jakarta, and Singapore was a place that I would avoid like the plague because
+then I was in my 20s and I found it a very restrictive environment. Now with a wife and several children I
+think that if there was one place in Asia that I would be comfortable living back there, it would be
+Singapore. I think Singapore has had a bad rap in terms of its political system and some of the perceived
+restrictions on its people, but I think actually if you go and ask most Singaporeans—most, not all—they're
+pretty happy with life. And really I think a part of their success has been the kind of benign dictator political
+situation.
+
+I mean, you look at the alternative politically. Let's look…I mean, is America functioning very well at the
+minute? Is your country functioning? It is my country functioning very well? So it's all right for us to sit in
+glass houses and throw stones saying, well, Singapore, they don't have freedom. Well, look what freedom
+has given us; we are a broken system in many ways.
+
+Robyn Williams: Glass houses!  What about tall houses? What is so special about their architecture you
+think is an example?
+
+Page160of274©2018Factiva,Inc.Allrightsreserved.Antony Wood: Well, I think that 95% of tall buildings around the world are actually pretty bad pieces of
+design. Tall buildings are essential for the future, against this backdrop of 180,000 people urbanising on the
+planet every day, us needing to build a new city of a million people every week, we've got to densify our
+cities. The horizontal city is no longer sustainable. Tall buildings are one way to get that density, not the
+only way but one way against this backdrop of what's happening in China, India, Brazil, Indonesia.
+
+So I believe tall buildings are a hugely important part of the future for our continued existence on this
+planet. What concerns me and what inspires my statement that 95% of them are terrible is that we've kind
+of seemed to have subscribed to a global architecture which is homogenising cities around the world, often
+denying thousands of years of vernacular architecture in these places. You look at China, look at India,
+look anywhere and you will see vernacular traditions in architecture. I'm not talking about, hey, these
+buildings look different. The thing with vernacular architecture is that it was a product of its locale. You
+didn't have energy to blast in air-conditioning around the space, so if you wanted ventilation you opened a
+window. And we've thrown all that out 60, 70 years ago with the modern movement, and we've created a
+homogenised architecture, and the tall building is the worst culprit.
+
+Look at Sydney, look at Melbourne, or Moscow or London or New York or Chicago, and the cities are
+becoming homogenised. Now, it upsets me in two ways. One is an aesthetic way, because I travel around
+the world because I'm interested in the difference between places. But whether you accept that or not, it
+upsets me more because in doing this we are denying the opportunity for the building to coexist in its
+environment.
+
+Robyn Williams: How could it look good so as not to disgust you?
+
+Antony Wood: Well, that's why we could come back again to Singapore. Singapore has 60-storey green
+walls. I have these 10 design principles of which future tall buildings should be based, and one of them is
+we need to embrace vegetation into the material palate. So, you know, somewhere like Singapore is pretty
+blessed in terms of a relatively static climate that you can rely on the whole year round. But if you look at
+your average tall building, the architecture, the expression has not progressed much in the last 70 years,
+it's just a glass extruded box, like Mies van der Rohe created in the 1950s. It's ridiculous. It's 70 years later,
+we live in a different challenge. The challenge is how do we continue living on this planet? Therefore the
+buildings should be permeable, they should be built out of vegetation largely, they should have a mix of
+uses, they should be naturally ventilated, they should generate energy, they should generate water, they
+should maximise the capture of water. There are hundreds of things that they should be doing and are not.
+
+Robyn Williams: Is anyone applying any of those 10 principles?
+
+Antony Wood: Yes, there are. So I come back again to Singapore. If you look at the Pinnacle housing
+scheme in Singapore, that is government-built high-rise housing…just put those words together in most
+Western countries, 'government-built high-rise housing'…
+
+Robyn Williams: And people run.
+
+Antony Wood: It spells disaster. But 80% of people in Singapore live in government-built high-rise housing.
+And this Pinnacle housing scheme is seven or eight social housing towers linked at three levels with
+significant urban habitat. So you've got parks and running tracks and all manner of stuff at 40 and 60
+storeys up in the sky, it might be 20 and 40, it doesn't really matter.
+
+But it's not just Singapore, it's happening in other places. I mean, Europe…you look at the Commerzbank
+in Frankfurt, 1997, Norman Foster architect, Commerzbank, still largely unsurpassed in terms of an
+ecological tower because every single level of that building has at least a visual, if not a direct physical
+connection with a significant sky garden. They have access to natural light and natural ventilation and
+physical communal space. Now, that is a model for a residential tower. It's a commercial tower, it's an office
+tower, but that's a model for a residential tower, because that is what is disappointing about residential
+towers, is they don't put in the infrastructure for community to develop; space, preferably green space.
+
+Robyn Williams: So you're actually picturing something that is not only a tall building but it's horizontal on
+various levels as well, so it's spreading out sideways.
+
+Antony Wood: Absolutely. You look at almost any science fiction cinematography, city of the future. From
+1929 Metropolis onwards, through Blade Runner, through Star Wars, through Sixth Sense, whatever,
+almost every city that's ever been created in the future is a multilevel city, and some of these are based on
+dystopias, not utopias, you know, social dystopias where you see social stratification, and the rich are up in
+the clouds and the poor are down at scum level down on the ground. I'm not necessarily advocating that.
+But the reason that all these cities of the future are multilevel cities is because it is totally nonsensical that
+we are going to 200, 300, 400 storeys without connecting these buildings. So is that ridiculous, or is going
+travelling down 200 storeys for a cigarette on your cigarette break ridiculous?
+
+Page161of274©2018Factiva,Inc.Allrightsreserved.Robyn Williams: Well, is it affordable? Here's a world where you've got the Chinese and others showing
+how you can stick one of these towers up, having modular bits and do it very, very quickly and presumably
+cheaply. Can you afford to have the kind of vision that you've just outlined?
+
+Antony Wood: Well, you just hit on the number one thing there. Is it affordable? The answer is yes. And it's
+affordable but it needs a completely new socio-political, economic way of thinking of our cities. So let me
+ask you this. In cities nowadays, whose responsibility are the parks, the sidewalks, the sewage
+infrastructure, the power networks, the roads, all those things? It's the city government. Whose
+responsibility are the buildings? It's the private developer. What I'm saying is that we need to take that
+two-dimensional interface of this infrastructure plus building and we need to flip it vertically so that any
+building is a public-private partnership. And the public element invests in the infrastructure in the building,
+together with the private.
+
+It's not without a challenge but it's pretty obvious that if you've got a city and you're not going to go
+horizontal because the horizontal model is unsustainable, but over the next 10 years you are going to go
+from 1 million to 10 million, which is what we are looking at in places in China and elsewhere, then we
+need to recreate aspects of the ground floor to support those extra 9 million people that are going to be
+living in the sky. And to do that we need to get the government and private industry to work together so that
+financially these buildings become a shared concern.
+
+Robyn Williams: Well, there are two buildings that I've seen which are green, and one of the most famous
+ones in North America is actually in Vancouver on the campus of the University of British Columbia,
+another one in Brisbane at the University of Queensland, the Global Change Institute, just opened. And
+they've got many of the elements that you describe, and they have said that they cost maybe 25% more
+than the standard building, but having explored ways of doing it, it will become cheaper and cheaper as
+other people follow their example. Does that make sense to you?
+
+Antony Wood: Absolutely, it's very simple, its economies of scale. I mean, the first time you do anything it's
+going to cost a hell of a lot more money, and history is littered with examples of great ideas that didn't work,
+perhaps because of their implementation or marketing that were brought back. You know, it wasn't that
+long ago, maybe 20 years ago someone actually created a tablet computer that totally flopped, and it took
+Steve Jobs to bring the development of the iPad. So it's the same with the building technology. It might be
+25% more expensive to have created that particular building in Brisbane, but once you create the second
+and the third and the fourth, and actually really the real question becomes can you afford not to.
+
+You know, at the minute, and this is going to sound melodramatic, but at the minute we are still in a period
+of choice with sustainability, a period of choice. That means we can still choose whether to turn up or down
+our air conditioning, get in our car or not, use recycled bags. We are still in an element of choice, and
+everybody is making that choice. We are rapidly moving towards a plane of survival. You've seen it in
+Brisbane, you've seen it in Christchurch, you've seen it in London now. I checked the news the other day,
+three things; bushfires in Australia, flooding in the south of England, unprecedented storms on the east
+coast of America. One morning. We are rapidly getting to where it's no longer going to be down to choice
+but survival. Then the economics change fundamentally.
+
+Robyn Williams: In the investigations you're doing, do you include how people can live in these new
+surroundings, up in the sky, going horizontally and so on? Would it be a drastic change for us to be up
+there?
+
+Antony Wood: I think it would be a drastic change. And by the way, we are not suggesting here that Sydney
+has got to pack in its suburbs all the way to the Blue Mountains and everyone has got to load up their car
+for a one-time journey into a dense city. In America we are projected at 0.9% per annum population growth,
+these people that are moving to America, partly through immigration, partly through population rate, they
+don't want to live in Detroit, they want to live in the sunbelt cities. So what we are seeing is…you know,
+Dallas is projected for a 52,000 people per year population growth for the next few years, that's a
+significant number. It ain't quite what's happening in China but it's a significant number.
+
+And so we do need to densify those cities, and in doing so I think there is a fear; oh well, we've got to pack
+up our single family home and we've got to find a whole new way of living. Well, look at Seoul, Hong Kong,
+Singapore, and many other cities in Asia where they've been living that way for 30, 40 years. And actually,
+if you look at it statistically, Singaporeans enjoy a higher standard of life than most Western nations. And if
+you meet a Singaporean, somehow they've managed to make this transition. And I think that's the thing, it's
+no longer going to be an element of choice it's going to be an element of survival, and we don't yet know
+what we need to do. If it's a matter of our continued existence on this planet, more people need to start
+living on smaller plots of land, I think we got away with it lightly.
+
+Robyn Williams: Getting away with it now, maybe not much longer without applying some real vision.
+Antony Wood is executive director at the Council on Tall Buildings and Urban Habitat. And he's also
+
+Page162of274©2018Factiva,Inc.Allrightsreserved.associate professor at the Illinois Institute of Technology. He was at the AAAS. And there's much more on
+some of these ideas like vertical gardens and agriculture coming up in Off Track. That's on Saturdays after
+this program at 1 o'clock, and on Sundays at 6:30am on RN. Off Track is presented by Ann Jones.
+
+Next week on The Science Show we go into space and do some experiments on that space station. Why is
+zero gravity important? You'll be surprised. And also visit San Diego Zoo to feed some pandas. Meanwhile,
+don't forget Gold and the Incas still astounding visitors to the National Gallery in Canberra. It's on until 21
+April.
+Production today by David Fisher and Leila Shunnar. I'm Robyn Williams.
+
+CO unotag : University of Otago
+IN
+
+itheradv : Therapeutic Devices/Equipment | i372 : Medical Equipment/Supplies | i951 : Health Care/Life
+Sciences | iphmed : Medical/Surgical Instruments/Apparatus/Devices
+
+NS gsci : Sciences/Technologies | ntra : Transcripts | gcat : Political/General News | ncat : Content Types |
+
+nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | niwe : IWE Filter |
+gedu : Education
+
+RE adelai : Adelaide | austr : Australia | brisbn : Brisbane | melb : Melbourne | saustr : South Australia | sydney
+: Sydney | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz : Australia/Oceania | nswals : New South
+Wales | queensl : Queensland
+
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140324ea3l0005o
+
+Page163of274©2018Factiva,Inc.Allrightsreserved.

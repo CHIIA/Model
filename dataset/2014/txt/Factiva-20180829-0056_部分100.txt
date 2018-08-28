@@ -1,0 +1,413 @@
+SS&C Technologies at JPMorgan Global Technology, Media and Telecom Conference - Final
+
+HD SS&C Technologies at JPMorgan Global Technology, Media and Telecom Conference - Final
+WC 5,035 words
+PD 21 May 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+STERLING AUTY, ANALYST, JPMORGAN CHASE & CO.: All right, thanks, everybody, for joining us. My
+name is Sterling Auty; I'm the software technology analyst here at J.P. Morgan . Happy to have with us Bill
+Stone , who is the Founder and CEO of SS&C .
+
+TD
+
+I'm going to turn the microphone over to Bill. Go ahead and give us a bit of a brief overview, and then I will
+start off with questions and I'll bring the audience in very quickly after that. With that, Bill?
+
+BILL STONE , CHAIRMAN AND CEO, SS&C TECHNOLOGIES HOLDINGS , INC.: Sterling, thanks, and
+thanks, everybody, on this Wednesday morning. SS&C has been around for 28 years. We just finished a
+great quarter in Q1. We offer a range of software and services around the world for investment
+organizations.
+
+We have about 4300 employees in 46 offices, and we think that we're in a market where they spend $100
+billion a year to do investment processing and investment accounting for various asset managers, be they
+hedge funds, fund to funds, private equity funds, bank-owned funds, insurance companies, pension funds,
+government funds, real estates, REITs, so forth and so on. We think we have a chance to be a major
+player and we've put a lot of money into that.
+
+In the first quarter, we spent 25% more on sales and marketing than we did in the first quarter of 2013, so
+our number went from $9.4 million to $11.8 million, and we still grew operating margins by 170 basis
+points. And I think our EBITDA margins were 41.3% in the first quarter of 2014.
+
+STERLING AUTY: So long those lines, it's been a couple of years now that you've had PORTIA and
+GlobeOp, specifically, in terms of acquisitions as part of the Company. Are all the synergies in terms of
+cost synergies done? Do you have the margins on those businesses where you expected to get them and
+is there anything left?
+
+BILL STONE : Well, there's always something left. The business at GlobeOp was doing, I think about $209
+million in revenue when we acquired them and about $60 million in EBITDA, so about a 28% margin
+when we acquired them. They are running close to 40% margins for us now and the revenue's up to over
+$240 million, so I think we're at about $100 million of EBITDA on GlobeOp.
+On PORTIA, we've ticked the revenues up to almost $25 million from $21 million when we acquired them,
+and EBITDA has gone from something around $13 million, $40 million to about $24.5 million. So we
+think those are both great businesses.
+
+We think that GlobeOp needed maybe a little more strategic direction, and we think that PORTIA just ne a
+little tender love and care. They have been on the market four years out of the past six. It's awful hard to
+keep morale up and keep people selling when everybody is asking who's your new parent going to be?
+STERLING AUTY: Let's take a step back for those that don't know the Company as well. Can you give
+investors a sense of the mix of your business in terms of -- how much of the business is kind of SaaS
+delivery, how much of it is a BPO in terms of actually doing the fund accounting, etc. on behalf of your
+customers versus what's left that's still kind of a traditional perpetual software license model?
+BILL STONE : Sure, so in the -- 2013, for instance, we had about $713 million in revenue. Our recurring
+revenue is about 92%. The SaaS part of it, which we label software-enabled services, is probably about
+30%. The BPO part, which we use all of our own software, right, so we're not doing things that are -- we
+
+Page244of250©2018Factiva,Inc.Allrightsreserved.went through accounts payable for BPO, we went through accounts receivable. We do credit default swaps
+and statistical arbitrage and stuff like that from an accounting and information delivery standpoint.
+
+That represents about 40% of our business. So those two combined are 72%, 73%. Maintenance is about
+$105 million and that's a traditional maintenance business off of licenses that we've sold over the 28 years
+of our existence. And then 4% -- about $28 million, I think, is licenses and about $30 million are
+implementation services and other consulting services.
+
+STERLING AUTY: So within that -- now let's kind of talk a little bit about the competitive landscape for
+those businesses. Who are your primary competitors?
+
+BILL STONE : Yes, you know, the great thing is we don't compete against Google ; we don't have Amazon.
+There's no monsters in what we're doing. Our major competitors when we're doing the work for people tend
+to be State Street , Bank of New York , Citco, J.P. Morgan , HSBC , [Head to Serve].
+
+In software, we generally compete against Advent, SimCorp , SunGard , Eagle -- which is part of Bank of
+New York , and State Street again. They own Princeton Financial Systems . So those are kind of the two
+major sections that we compete against.
+
+STERLING AUTY: So I think about your business in terms of the growth. It seems that you do extremely
+well in two situations. One, when assets are growing, whether that's the market and typically like -- take a
+look at last year, I think assets under management in the US across the asset classes were up like 16%. It
+seems like that's a great environment for you.
+And the second phase is when you've made a major acquisition, which you have proven time and again to
+execute on. Is that a fair characterization and if so, how would you characterize the environment that we
+are in here for 2014 in terms of being supportive of your growth?
+
+BILL STONE : I think those things are historically true. We've done a really good job with acquisitions. We
+drive a lot of synergies. I think that we are in some transformational stages. What I was saying about our
+sales force -- we have probably growing our sales force from maybe 70 to 110 over the last 18, 20 months.
+We're going to grow it from 110 to 150 over the next 2 or 3 quarters.
+
+And I think that -- I just met a very senior guy from Goldman Sachs , retired, and he brought SS&C up to
+Perry Capital, which is one of the biggest hedge funds in the country, and also to Fortress, which is another
+huge hedge fund and private equity fund.
+
+Neither one of them had heard of us. That's a problem, right. So I think -- now we need to figure out how to
+fix that problem. And if you listen to CNBC, when they come to see us, they can fix it for us. Of course, then
+our margins will go from 41% to 24%, so we're not sure we want them to fix it for us.
+
+So it's figuring out how to do it in the most cost-effective way where you get the most bang for your buck on
+your marketing dollars. SS&C has got 1000 chartered accounts and CPAs. We are a bit skeptical of
+marketing, right? Part of it is my money, and I am one of those CPAs, so we're working on it.
+
+I think we're going to get better known, and I think as we get better known, that is going to change.
+Because when we get a chance to show what we have -- our technology is better, our people are better,
+and our processes are better. Our pricing is not cheap, but we are not out of the world, either, so when we
+get a chance to show people, they say, where have you been?
+So I think -- we won Ares, which was -- when we first started talking to Ares, they were $42 billion, $43
+billion in assets. Now they are almost $70 billion. When we signed them, they were $55 billion or $56
+billion. So there's a great advantage to winning very large organizations and what that's done to the
+marketplace about where we sit.
+
+STERLING AUTY: The customers that you serve absolutely have to have something, otherwise they
+wouldn't be in business. So I would imagine that every time you go in, you are displacing something,
+whether it's in-house, third-party, etc.
+How does that impact the sales cycles, because I'm thinking as you're talking about increasing the sales
+headcount, does that have any impact in terms of would you expect as you get better known that maybe
+those sales cycles would change?
+
+BILL STONE : I don't necessarily think the sales cycles would change, but number of sales cycles that we
+are in will change. And so, just by -- right now, we have stuff coming in to the top of the funnel faster than
+we've ever had. Now what does that mean? Well, it means that some of them will close in 3 months, and
+some of them will close in 6 months, 9 months, 12 months, and so forth out to 24 months.
+
+Page245of250©2018Factiva,Inc.Allrightsreserved.But since there are so many more of them, we should have more of an uplift in our revenue, and I think it
+will start manifesting itself over the next one to two years. I think we're going to continue to invest, and
+Goldman Sachs sold their fund administration business 1 1/2 years, 2 years ago to State Street .
+
+When Goldman Sachs does one of those things, generally Morgan Stanley is just a year behind. In this
+case, they are two years behind, but they tend to be the leader and so there's a good chance that maybe
+Citi, maybe J.P. Morgan , maybe Morgan Stanley , or maybe some of the other big banks will decide --
+HSBC -- will decide to shed their fund administration businesses and SS&C would be a natural acquirer.
+
+STERLING AUTY: Outside of those fund administrators continuing to consolidate, are there other
+segments of the market that you see that are ripe for consolidation?
+
+BILL STONE : We think that the technology landscape, as well, will also consolidate. So where there's
+Princeton Financial System , and State Street , and Eagle Development at Bank of New York , and Advent
+Software out in San Francisco, and SimCorp out in Copenhagen. There won't be that many, and we again
+would be natural acquirers for any those businesses.
+
+We would get lots of synergies. We would bring lots of expertise to bear and there would be tremendous
+cross-selling opportunities. And most of those that I just mentioned, other than the big banks, but even
+inside the big banks, Eagle or Princeton is not used as an outsourcer, not used as a SaaS provider.
+
+So the big advantage SS&C has done -- since 2002, we've really restructured our business models so
+where we are a large services component with our technology. So we have numbers of clients that pay us
+in excess of $15 million a year, some that pay us up to $40 million year.
+You don't get that in software. You couldn't sell somebody a license for $40 million a year. That never
+happens. So the biggest software license I think we've ever sold is about $5 million.
+
+STERLING AUTY: So when you think about the consolidation valuation, you've always been very
+disciplined in terms of the valuations that you've paid in terms of acquisitions through the years. Obviously,
+multiples have compressed in the market, but where are the heads at in terms of some of these private
+companies and in terms of how they view their own value? Has it adjusted yet, or do they still kind of have
+hopes of sky high valuations?
+BILL STONE : I went and looked at a company in Minneapolis five or six weeks ago. Now it's $30 million
+in revenue, going to do $40 million in revenue in 2014. Really nice company. So the banker handed me a
+list of synergies -- kind of like this page of synergies. Couple, you know, four or five pages, and first page
+said in part of their business that we'd get synergies between -- over the next five years, between $395
+million and $2.6 billion.
+
+So I kind of flip through it like this and tossed it in the middle of the table and the guy said, don't you want to
+go through the synergies? And I kind of looked at him and said hey, you guys, I brought my own cocaine.
+(laughter)
+So then when they asked are you going to bid, I said, look I don't want to insult anybody, but I'm not paying
+you 15 times sales. Now if you are selling cocaine and it was legal, maybe. But for accounting software for
+the investment world, we're not getting there.
+
+And so you can only deal with people that have something that, at least in your sphere, is a rational price.
+And if it's not rational, then you are really sticking your neck out. It doesn't mean you can't make money,
+even if you pay it irrationally, but you better be perfect. And SS&C is a bunch of humans, which makes us
+not perfect.
+
+STERLING AUTY: So when you look at where the business is today from a geographic standpoint,
+GlobeOp definitely bolstered your position internationally. Where do you feel you are in terms of that build
+out and where is the opportunities to go from here?
+
+BILL STONE : We only get 2% or 3% of our revenue in Asia Pac. Over the next 3 years, we ought to move
+that up to maybe 10% or 12%, and given that we grow in the next 2 or 3 years, for, say, $1 billion maybe,
+we ought to be having $100 million. Right now it's about $15 million to $20 million.
+So we are building out Hong Kong; we've hired some people -- some senior people. We are moving some
+people from Mumbai to Hong Kong. We've got some great clients in Hong Kong and they want us to have
+a bigger presence. We also have a nice little office in Singapore that we want to make bigger, so we think
+there's opportunity there. We would like to grow in Japan, but that's been very difficult -- very difficult place
+to grow in.
+
+So we have a good office in Sydney. We have opportunities; it's just we have to execute.
+
+Page246of250©2018Factiva,Inc.Allrightsreserved.STERLING AUTY: One more question along those lines. I want to bring the audience in. When you look at
+that -- is organic investment really what's going to be necessary, especially in Asia? Or are there assets
+that could help speed the penetration in terms of acquisition?
+
+BILL STONE : Yes, there's some interesting things that you can buy. Obviously, we did GlobeOp, which
+was a publicly traded company in London, and we acquired Financial Models, which was a publicly traded
+company in Toronto. Buying a company in Australia or Japan I think will be somewhat problematic, just
+from the distance and the ability to spend enough time to get it done.
+
+I spent hundreds of hours on GlobeOp. And I don't know that that opportunity would present itself going to
+Sydney, where it takes you a day to get there, takes you a day get back, and it takes you a month to
+recover. So I don't know that our -- but organically, I think there's real opportunity for us to grow.
+
+And as we start growing organically, I think some entrepreneurs will come and want to be sold to us.
+Because a lot of times, we are able to buy their business at a pretty good price, give them a really nice
+employment contract with an equity upside, and they get two bites of the apple, and that's been very
+attractive to a number of the people that we have acquired over the last 15 years or so.
+
+STERLING AUTY: I don't know. I could see a winter in Sydney, summer in the States type of management
+style. That might work out.
+
+BILL STONE : That's right. Especially when I get my A380.
+
+Questions and Answers
+
+STERLING AUTY: Questions from the audience? Yes?
+
+UNIDENTIFIED AUDIENCE MEMBER: It seems like the biggest beef I hear amongst the financial service
+clients is all the dollars they put into compliance and what have you. Are you looking at plays in that area
+as well, too, or --
+
+STERLING AUTY: So how does compliance play into the business and the growth?
+
+BILL STONE : Sure. We created something called a regulatory solutions group a couple years ago. We just
+went through our 200th client that we've gotten, and about over 40% of them weren't using us for anything
+and now are using us for regulatory compliance. We have a tremendous amount of expertise in things like
+Form PF, FATCA, AIFMD, CPO-PQR, Solvency II, Basel III.
+
+So we have a whole group that that's all they do. And it sometimes is a little tension filled when you're with
+clients and they are saying you're making money off all this regulation. I always tell them is is that they are
+regulating you, they're not regulating me. So I'm here to help you if you want to use us to help you comply
+with the regulations, but we're not the ones being regulated.
+
+UNIDENTIFIED AUDIENCE MEMBER: Are you guys considering all the fee thing -- I use a kind word --
+that the marketplace is making them. What do you guys think of (inaudible - microphone inaccessible)?
+
+BILL STONE : Yes, so the market opportunity in compliance and regulatory solutions -- we think the market
+is probably going to spend on average an additional $1 billion dollars a year, and that's probably on top of
+the $10 billion or $15 billion they already spend.
+And we are up to pushing $20 million in revenue and we think over the next two or three or four years, we
+ought be able to double, triple that, maybe. And there's a lot of opportunity, it is just getting people
+comfortable and walking them through the process.
+
+STERLING AUTY: Other questions? Yes?
+
+UNIDENTIFIED AUDIENCE MEMBER: I think you did a great job at acquisitions. How you think about
+organic growth, both what's a reasonable target rate and what's the organic growth been the last few
+years?
+
+STERLING AUTY: So what has your organic growth been in the last couple of years and what's a
+reasonable target going forward?
+
+BILL STONE : Yes, the last couple of years we've been mid-single digits -- 5%, 6%, 7%, 8% each quarter.
+Before the financial crisis, we were running 13% to 18%. There's not much animal spirits out in the financial
+services industry right now. So you don't find a whole lot of formation.
+I think the term insurance company formation might be an oxymoron. I think that very similar on [lonely]
+asset managers or also banks. So you are not going to get the kind of lift. And then we also used to get
+
+Page247of250©2018Factiva,Inc.Allrightsreserved.some lift, because our -- most of our contracts had kickers for maintenance renewals and other renewals --
+CPI plus a few hundred, 200, 300 basis points.
+
+That used to give us 5%, 6% rate increase and now it gets us 2% or 3% rate increase. So I mean, I think a
+reasonable rate on organic growth is 5% to 10% over the near term, which I would say 2 to 3 years.
+
+If we hit the accelerants, I think we have, I think we might be able to move it to where it's 8% to 12%, but
+that's going to manifest itself on whether or not us hiring all of these new salespeople works out. We think it
+well, and we think the opportunities are there to grow faster.
+
+STERLING AUTY: Other questions? Yes?
+
+UNIDENTIFIED AUDIENCE MEMBER: Seems like one of the (technical difficulty) customer relationships
+that firms like State Street have already in place? And other places where you could be, I guess we call it
+the [nibbing] in certain places inside their opportunities or where are you focusing those (inaudible -
+microphone inaccessible)?
+
+BILL STONE : Yes, the REITs opportunity really kind of came out of winning a large mandate from Western
+Asset Management. And they moved their REIT business from State Street to us.
+
+Also, we pitch hard on internal control systems. So if State Street 's your fund administrator and your
+custodian, and they reconcile to each other, that's not too independent, right? So we push pretty hard on if
+it's your money and it's your business, why on earth wouldn't you have separation of duties? And other
+people talk about financing as being a real carrot.
+But BlueCrest is our biggest client, and they were going to move $12.5 billion in assets to HSBC from
+GlobeOp, and we were told that before we bought GlobeOp, so we were well aware. But we convinced
+them not to move it, and I think because our processes, our people, and our technology is better and there
+is a $40 million organization in London that was between us and a major multi-trillion dollar bank.
+
+And the CFO says look, we've had a 30 year relationship, I agree with you that you have better technology,
+better people, and better processes, but I'm sure if there's ever a problem in our derivatives, the bank will
+step up and use their balance sheet to solve it.
+
+So I hadn't talked to them -- I called them and that was the feedback I had gotten and I said I understand
+that you're counting on the bank to step up if you have a problem on your derivatives. I said of course, you
+are the CFO, and you will have made a decision against going with the best technology, the best people,
+and the best processes.
+
+So when there's that balance sheet being used -- which, I believe, they would use it, you won't be the CFO
+anymore. So they went with us. You've got to break these things down into practical terms. But you make
+that decision as a CFO. That's not a good decision, you know, and derivatives already have enough
+leverage in them that you don't want to take more risk in that operation; you want to take as little
+operational risk as possible.
+
+STERLING AUTY: Yes?
+
+UNIDENTIFIED AUDIENCE MEMBER: Following up to the organic question, it sounds like you're going to
+be putting a number of feet on the street in sales organizations, but you mentioned that the hedge fund
+community, kind of $8 million. How are you going to make sure that you bring these people in and they
+ramp-up productivity in an efficient manner?
+
+BILL STONE : Well, we try to hire professionals, and we pay them well, and we have high expectations.
+And when they don't meet our expectations, we get different ones. And it's not that we don't train them --
+we go through significant training in both role-playing and education on our products and -- but SS&C is not
+a place where you have 10017 in New York City. That is your ZIP Code. So we don't do it that way.
+Your territory is Earth, right. You go find a lead, it's yours. Now somebody else already has that lead, we
+track that, and we manage that. But SS&C generates probably 70%, 80% of the leads, and so we don't
+want to have our best leads, say, be in Houston, and we have maybe a really weak sales person in
+Houston.
+We wouldn't give that lead to the guy in Houston. We're going to give that lead to a guy in New York, or a
+guy in Chicago, or a gal in LA. We're not -- the best leads go to the best salespeople.
+And the only time the best salespeople don't get the next best lead is because they are already full. They
+can't manage any more. That's our whole processes and it also leaves -- the ambitious people have a
+really big hunting territory and they really like that.
+
+Page248of250©2018Factiva,Inc.Allrightsreserved.STERLING AUTY: Yes?
+
+UNIDENTIFIED AUDIENCE MEMBER: Can you talk about your balance sheet? Where you are in terms of
+leverage and your thoughts on using cash flow going forward?
+
+BILL STONE : Yes, we are at about 2.2 times levered, and when we bought GlobeOp and PORTIA, which
+we closed late June 2012, we were about 4.3 -- 4.3, 4.4, I think. So we've made more than two turns of
+leverage reduction since a little less than two years ago. We are very comfortable at the 2.2. We are
+generating free cash flow of over a couple of hundred million dollars a year.
+
+Historically, we've paid down debt. Our debt carries a 3% weighted average coupon on it. Obviously that's
+pre-tax. So after tax, that's about 2%. I think the analysts have us at about $2.30 a share for this year. I
+think on $46, that $2.30 is 5%, right? So I'm not a financial wizard, but I think buying back our stock, where
+we get 5% return, is better than paying off our debt, which we are paying off 2% net debt.
+
+So I think stock buybacks will be a larger part of what we do. And acquisitions are always going to be the
+lead, and we would lever back up if we got the right acquisition. And we levered 6.8 when we went
+private, and then we levered about 4.4 when we did PORTIA and GlobeOp.
+
+I don't think that we would go back to 6.8, unless we thought we could make a boatload of money. But if we
+thought we could make a boatload of money, then we might. But more than likely, I would say high 4s,
+maybe to 5. And then that would have to be a great acquisition for us, too.
+
+STERLING AUTY: Last question. You won some larger accounts. Can you talk to us about how they ramp,
+so how they phase in and what that does to your growth rate in the near term?
+
+BILL STONE : Yes, we -- as I said earlier, right, we sent out a press release when we won Ares. Ares is
+probably 80% on the original contract with them, but probably less than 50% on the opportunity at Ares. So
+Ares is an extremely large opportunity for us.
+And they've brought us three or four other very large private equity and hedge fund opportunities. We just
+signed Vertis; we signed several other ones that are quite large about the same time we signed Ares. The
+next quarter we signed Crescent, which is an $11 billion credit fund in LA.
+
+The ramp-up is happening. It's happening -- it never happens as fast as you want, but we are getting very
+good at it. And we've gone from zero people in Los Angeles, 18, 19 months ago, to 75 now. So we are
+investing heavily in California, which is -- it's very robust for investment organizations right now. And we
+think we will start getting lift in the second -- over the next couple to three quarters.
+I told you little bit about when we bought GlobeOp that we saved $12.5 billion from BlueCrest going to
+HSBC , but BlueCrest, pretty smart people on, they wanted the same pricing that HSBC had offered them,
+which, of course, that was about half their assets back in 2012.
+So we did that. So we gave them a couple of basis points on that $12.5 billion, so that's about $2.5 million,
+$3 million. But BlueCrest is now $40 billion and we have all that. So it's been a very good negotiation for
+us.
+
+STERLING AUTY: All right, with that, Bill, thank you so much for joining us. We appreciate it.
+
+BILL STONE : Okay, Sterling, thank you.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+
+Page249of250©2018Factiva,Inc.Allrightsreserved.COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO ssandc : SS&C Technologies Holdings Inc | crlylg : The Carlyle Group
+IN
+
+iappsp : Cloud Computing | i8394 : Computer Services | ibcs : Business/Consumer Services | i3302 :
+Computers/Consumer Electronics | i330202 : Software | i3302021 : Applications Software | icomp :
+Computing | itech : Technology | ivmsoft : Vertical Market Applications Software
+
+NS c315 : Conferences/Exhibitions | ntra : Transcripts | ccat : Corporate/Industrial News | ncat : Content Types
+| nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | niwe : IWE Filter
+RE usa : United States | houst : Houston | sydney : Sydney | apacz : Asia Pacific | ausnz : Australia/Oceania |
+
+austr : Australia | namz : North America | nswals : New South Wales | uss : Southern U.S. | ustx : Texas
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020140523ea5l005sd
+
+Page250of250©2018Factiva,Inc.Allrightsreserved.

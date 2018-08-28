@@ -1,0 +1,392 @@
+Emissions Trading Systems: A factor the mining industry cannot ignore
+
+HD Emissions Trading Systems: A factor the mining industry cannot ignore
+WC 5,793 words
+PD 29 July 2014
+SN Industrial Minerals (IM)
+SC INDMIN
+LA English
+CY © 2014 Metal Bulletin Limited. All Rights Reserved.
+LP
+
+Emissions Trading Systems [ETS] seen as cost-effective tool; Carbon taxation as alternative measure to
+reduce GHG
+
+TD
+
+<P>Vasili Nicoletopoulos*</P> <P>The predominant school of thought postulates that greenhouse gases
+[GHG] emitted by human and animal activities are warming the earth and causing changes in the global
+climate with increasingly severe human, economic and environmental impacts. Major GHG are carbon
+dioxide [CO<SUB>2</SUB>], methane, nitrous oxide [N<SUB>2</SUB>O], and fluorinated gases, but the
+common shorthand for GHG is 'Carbon', such as in 'carbon emissions', 'carbon prices', 'carbon trading' etc.
+</P> <P>A direct corollary of this belief is that, to prevent climate change from reaching the most
+dangerous proportions, the world needs to stop the growth in emissions of greenhouse gases by 2020 at
+the latest, and then reduce them sharply by at least half of 1990 levels by 2050, and more after that. </P>
+<P>The Kyoto Protocol was adopted on 11 December 1997 and put in force on 16 February 2005. It
+initiated the formulation and implementation of worldwide policies to mitigate global warming. </P>
+<P>Emissions trading systems [ETS] are being used as cost-effective tools for cutting GHG. Elsewhere,
+so-called carbon taxation is being applied. The EU and EFTA countries have been pioneers in setting up
+the major cap-and-trade market worldwide, even though less than 10% of the GHG emitted worldwide each
+year comes from within the EU. Details on the EU/EFTA ETS are given in a subsequent section of this
+article.</P> <P>Such schemes directly affect mining as well as some of its major customers in other
+energy-intensive industries like steel, aluminum, cement, graphite, glass, alloys, petrochemicals,
+magnesia, lime and refractories. All these sectors are intensive users of energy in its various forms: fuel
+and electricity are needed in the various steps of production and transport, energy is needed to convert the
+material and create the so-called 'process emissions' as in limestone or dolomite to lime and magnesite or
+magnesium hydroxide to magnesia etc. </P> <P>How much each of these sectors is financially burdened
+by the imposition of an ETS depends mostly on the price of carbon in ETS markets, but also on whether (or
+for which period and under what conditions) a sector is allowed free allocations, as in the case of the
+danger of carbon leakage due to energy intensity and exposure to international trade. </P> <P>Figure 1
+gives an estimation of GHG emissions by country.</P> <P>Figure 2 below presents total anthropogenic
+GHG emissions [Gt CO<SUB>2</SUB> eq/yr] by economic sectors. The inner circle shows direct GHG
+emission shares [in % of total anthropogenic GHG emissions] of five economic sectors in 2010. The pull-out
+shows how indirect CO<SUB>2</SUB> emission shares [in % of total anthropogenic GHG emissions] from
+electricity and heat production are attributed to sectors of final energy use. 'Other Energy' refers to all
+GHG emission sources in the energy sector. The use of 'AFOLU' includes land-based CO<SUB>2</SUB>
+emissions from forest fires, peat fires and peat decay that approximate to net CO<SUB>2</SUB> flux from
+the Forestry and Other Land Use [FOLU] sub-sector. Emissions are converted into
+CO<SUB>2</SUB>-equivalents based on GWP100 6 from the IPCC Second Assessment Report. </P>
+<P>Globally, economic and population growth are considered as the most important drivers of increases in
+CO<SUB>2</SUB> emissions from fossil fuel combustion. The contribution of population growth between
+2000 and 2010 remained roughly identical to the previous three decades, while the contribution of
+economic growth has risen sharply. Between 2000 and 2010, both drivers outpaced emission reductions
+from improvements in energy intensity. Increased use of coal relative to other energy sources has
+reversed the longstanding trend of gradual decarbonization of the world's energy supply.
+
+</P> <P>State and trends of GHG pricing internationally </P> <P>The EU's share of global emissions is
+falling as Europe reduces its own emissions, whilst those from other parts of the world, especially the major
+emerging economies, continue to grow. </P> <P>The share of GHG emissions covered by domestic GHG
+pricing initiatives increased significantly over the past year, led by the launch of six carbon markets in
+China. In May 2014, 39Ênational and 23Êsub-national jurisdictions, responsible for almost a quarter of the
+global GHG emissions, have implemented, or are scheduled to implement, carbon pricing instruments,
+including ETS and taxes, building the momentum for a bottom-up approach to climate action.</P> <P>A
+total of eight new carbon markets opened in 2013, and another launched in early 2014. With these
+
+Page58of300©2018Factiva,Inc.Allrightsreserved.additions, the world's ETS are valued at about $30bn China now houses the second largest carbon market
+in the world, covering the equivalent of 1,115m tonnes of CO<SUB>2</SUB>, after the EU ETS, with its
+2,039 tonnes CO<SUB>2</SUB>e cap in 2013.</P> <P>Carbon taxation is also gaining ground. New
+carbon taxes were introduced in Mexico and France in 2013. In North America, the states of Oregon and
+Washington are exploring carbon pricing options to join California, QuŽbec, and British Columbia in a
+concerted effort to tackle climate change.
+
+</P> <P></P> <P>
+
+Overview of ETS worldwide, 2013-2014 </P> <P>Table 1 shows existing selected Emissions Trading
+Systems or those under preparation. More recent information is provided immediately below this table and
+elsewhere in this article. </P> <P></P> <P>Linking different ETS - Current state and future
+perspectives</P> <P>As suitable instruments for reaching the obligations beyond national mitigation
+efforts, the Kyoto Protocol specifies three flexible mechanisms that can be used by the contracting states.
+</P> <P>These are [a] international emissions trading between countries or IET, [b] Clean Development
+Mechanism or CDM and [c] Joint Implementation or JI.</P> <P>The CDM allows emission-reduction
+projects in developing countries to earn certified emission reduction [CER] credits, each equivalent to one
+tonne of CO<SUB>2</SUB>. These CERs can be traded and sold and used by industrialized countries to a
+meet a part of their emission reduction targets under the Kyoto Protocol. The mechanism stimulates
+sustainable development and emission reductions, while giving industrialized countries some flexibility in
+how they meet their emission reduction limitation targets.</P> <P>For example, a mining company with
+operations in the EU can use CER credits obtained from projects in developing countries. These projects
+can include mining activities in these counties or other businesses like renewable energy projects.</P>
+<P>The CDM is the main source of income for the UNFCCC Adaptation Fund, which was established to
+finance adaptation projects and programs in developing countries party to the Kyoto Protocol that are
+particularly vulnerable to the adverse effects of climate change. The Adaptation Fund is financed by a 2%
+levy on CERs issued by the CDM. </P> <P>The central feature of the Kyoto Protocol is its requirement that
+countries limit or reduce their GHG. By setting such targets, emission reductions took on economic value.
+To help countries meet their emission targets, and to encourage the private sector and developing
+countries to contribute to emission reduction efforts, negotiators of the Protocol included three
+market-based mechanisms; emissions trading, the CDM and Joint Implementation [JI].
+
+</P> <P></P> <P>
+
+State and trends of carbon pricing</P> <P>According to the World Bank Group the current CDM and JI
+portfolio is estimated to have the potential to issue between 3,500 and 5,400 tonnes CO<SUB>2</SUB>e
+for 2014-2020, should the demand exist. This is around three to five times the expected residual demand.
+This balance is not expected to tip until 2020. The actual supply of credits will continue to head downwards
+towards demand.</P> <P>Various initiatives underway might create an additional demand for international
+credits pre-2020. A few governments recently launched tenders to purchase CERs and some domestic
+schemes, like the Chinese emissions trading scheme, allowing the use of CERs issued by CDM projects
+located in the country. The impact of these initiatives is uncertain at this stage, but it will not be enough to
+fill the ambition gap and revive the market. </P> <P>Instruments can be designed to be more cost-effective
+and flexible. Lower implementation costs could have helped maximise the cost-effectiveness of each
+instrument. The transaction costs under the CDM, including MRV (monitoring, reporting and verification)
+and legal costs, further concentrates the mechanism on low-risk investments in proven clean technologies.
+This observation may help lend support to more streamlined and simplified approaches in the future that,
+nevertheless, do not compromise integrity significantly. The instruments with market elements were not
+designed to adapt to changes in macro- economic conditions.</P> <P>This has led to an oversupply of
+carbon allowances and credits under a scenario of low demand. The EU ETS suffers from a surplus now
+because of this initial inflexibility which has consequently impacted the CDM market. Furthermore, the
+overarching lack of demand in the international context has influenced the CDM market, which has had a
+knock-on impact on the NZ ETS. </P> <P>Increasingly, as in the EU ETS, more rules are being added to
+carbon pricing instruments to create stability and certainty. The design of these rules needs to be carefully
+tuned to avoid being too complex, whilst also providing sufficient predictability in the schemes.
+
+</P> <P></P> <P>
+
+EU/EFTA ETS</P> <P>The European Union launched the EU Emissions Trading System [EU ETS] in
+2005 as the cornerstone of its strategy for cutting CO<SUB>2</SUB> emissions and other GHG. In
+contrast to traditional 'command and control' regulation, ETS aims at harnessing market forces to find the
+cheapest ways of reducing emissions. The EU ETS is now joined by EFTA countries with the exception of
+Switzerland that has its own carbon tax system. </P> <P>The EU/EFTA ETS is the world's first major
+carbon market and remains by far the biggest today. The EU/EFTA was the first international ETS to
+address greenhouse gas emissions from companies, accounting for over three-quarters of the trading
+volume of the international carbon market and functions as its engine. </P> <P>It covers more than 11,000
+power stations and industrial plants in 31 countries, as well as airlines. GHG and sectors covered include
+
+Page59of300©2018Factiva,Inc.Allrightsreserved.power and heat generation, energy-intensive industry sectors, including oil refineries, steel works and
+production of iron, aluminium, metals, cement, lime, glass, ceramics, pulp, paper, cardboard, acids and
+bulk organic chemicals, and lastly, civil aviation.</P> <P>As for perfluorocarbons and nitrous oxide, the
+system covers PFCs from aluminum production and N<SUB>2</SUB>O from production of nitric, adipic,
+glyoxal and glyoxic acids. </P> <P></P> <P>EU ETS Phases </P> <P>The EU ETS has three operational
+phases: </P> <P></P> <P>- Phase I, 1 Jan 2005 - 31 Dec 2007, was an initial learning-by-doing phase and
+is now complete.</P> <P>- Phase II, 1 Jan 2008 - 31 Dec 2012, included revised monitoring and reporting
+rules, more stringent emissions caps, additional combustion sources and is now complete. </P> <P>-
+Phase III, 1 Jan 2013 - 31 Dec 2020, brings harmonised EU allocation methodologies and covers additional
+GHG and emission sources. Phase III also allows eligible small emitters and hospitals to choose to be
+excluded from certain EU ETS obligations. </P> <P></P> <P>In 2021-2028 there will be a 4th [trading]
+period.</P> <P>As compared to the previous phases, the changes for phase III were: </P> <P></P> <P>-
+Broad definition of combustion added that captures all burning of fuel. </P> <P>- Inclusion of nitrous oxide
+[N<SUB>2</SUB>O], perfluorocarbons, aluminum production, carbon capture, transport and geological
+storage.</P> <P>- No free allocation for any electricity production except in the combustion of waste gases.
+</P> <P>- Small emitters and hospitals have the choice of being excluded. </P> <P>- Installations where
+only biomass is used are excluded and fossil fuels may be used for start-up and shut-down.</P> <P></P>
+<P>Carbon leakage</P> <P>To address the competitiveness of industries covered by the EU ETS,
+production from sectors and sub-sectors deemed to be exposed to a significant risk of 'carbon leakage' will
+receive a higher share of free allowances in the third trading period between 2013 and 2020. This is
+because they face competition from industries in developing countries which are not subject to comparable
+greenhouse gas emissions restrictions.</P> <P>In view of preparing the carbon leakage list for 2015-2019,
+the EC organised meetings in 2013 to consult stakeholders, including member states, industry, NGOs and
+academia.</P> <P>The EC made clear in its communication regarding a 2030 policy framework for climate
+and energy, that it intends to maintain the current criteria and existing assumptions in the 2015-2019 list.
+This would guarantee continuity in the composition of the list.</P> <P>The draft proposal for the new list
+was published on 5 May 2014 and July 8, 2014. The EU Climate Change Committee discussed, and
+agreed, the proposed list of sectors and subsectors which are deemed to be exposed to a significant risk of
+carbon leakage, for the period 2015 to 2019. The committee is expected to vote on the draft list before the
+summer break. Once agreed, the draft decision will go to theÊEuropean Parliament and the council for the
+compulsory three-months scrutiny. It is foreseen that the final carbon leakage list for 2015-19 will be
+adopted by the EC before the end of 2014 and applied to free allocation for the first time in 2015.</P>
+<P>On the EC's Revision of the Carbon Leakage list Euromines, the European Association of Mining
+Industries, Metal Ores & Industrial Minerals, has pointed out that the EC is also providing guidance for the
+inclusion of certain sectors into the Annexes of the EU subsidy regulation, which would allow sectors to
+receive compensation for increased electricity prices due to the ETS Directive.</P> <P></P>
+<P>Backloading, market stability reserve and linear reduction factor </P> <P>The EC is taking action to
+address a surplus of emission allowances that has built up in the EU ETS, largely as a result of the
+economic crisis and high imports of international credits. Since 2009 the EU ETS has experienced a
+growing surplus of allowances and international credits compared to emissions which has significantly
+weakened the carbon price signal. </P> <P>At the start of phase III the surplus stood at almost two billion
+allowances, double its level in early 2012, and by the end of 2013 it had grown further to over 2.1 bn. While
+the EC expects the rapid build-up to end from 2014, it does not anticipate that the overall surplus will
+decline significantly during phase III. Potentially there will be a structural surplus in most of phase III of
+around 2 billion allowances. This risk, according to the EC, undermines the orderly function of the carbon
+market. Moreover, if these imbalances are not addressed, they will profoundly affect the ability of the EU
+ETS to meet more demanding emission reduction targets in future phases in a cost-effective manner.</P>
+<P>The EC is taking action on two fronts. As a temporary measure, the EC is postponing the auctioning of
+900m allowances until 2019-2020 to allow demand to pick up. This backloading of auctions is being
+implemented through an amendment to the EU ETS Auctioning Regulation. </P> <P>Backloading does not
+reduce the overall number of allowances to be auctioned during phase III, only the distribution of auctions
+over the period. In 2014 the auction volume will be reduced by 400m allowances, in 2015 by 300m, and in
+2016 by 200m. Figure 3 presents carbon prices in correlation with backloading.</P> <P>The position of
+Euromines on backloading was that, "The proposal for the EU ETS scheme post 2013 will be another
+constraint on the competitiveness of the European industry by imposing further costs on the enterprises
+which competing producers worldwide do not have to reckon with. It is therefore crucial that
+energy-intensive industries which face fierce competition are given special allowances in this new
+scheme."</P> <P>As backloading is only a temporary measure, a sustainable solution to the imbalance
+between supply and demand requires structural changes to the EU ETS. The EC proposes to establish a
+market stability reserve at the beginning of the next trading period in 2021, hoping this reserve will both
+address the surplus of emission allowances that has built up and improve the system's resilience to major
+shocks by adjusting the supply of allowances to be auctioned. ÊIt would operate entirely according to
+pre-defined rules which would leave no discretion to the EC or Member States on its implementation.</P>
+<P>Efforts to address the market imbalance would also be helped by an increase in the annual linear
+reduction factor which determines the EU ETS cap. To achieve the target of a 40% reduction in EU
+greenhouse gas emissions below 1990 levels by 2030, set out in its 2030 framework for climate and
+
+Page60of300©2018Factiva,Inc.Allrightsreserved.energy policy, the EC proposes an increase in the linear reduction factor to 2.2% per year from 2021, from
+1.74% currently.</P> <P></P> <P>EU ETS carbon prices</P> <P>Following highs of over €30/tonne
+CO<SUB>2 </SUB>in the period before the global economic downturn, carbon prices in the last 18 months
+have been in the range between €3-7. </P> <P></P> <P>GHG Market Sentiment </P> <P>According to
+the IETA of 2014, price expectations for Phase III of the EU ETS continue their downward trend but may
+show signs of stabilising. Under current EU ETS rules, respondents expect the average EUA price during
+Phase III will be €8, down from €34 in 2008 and €10 in 2013. 63% of respondents expect the average EUA
+price for Phase III of the EU ETS will be €5-10 under current market rules, broadly in line with the €5 EUA
+price at the time of writing. 15% think it will be below €5, and 23% of respondents expect the average price
+to be above €10.</P> <P></P> <P>Carbon tariffs?</P> <P>A little-known provision in the EU ETS
+legislature is that the Union can, under certain conditions, impose duties on carbon-intensive imports from
+third world countries that have no equivalent system and, thus, create conditions for unfair competition.
+</P> <P>This could create a significant tool for the EU mining and other energy-intensive industries that
+compete internationally. However, such a move by the EU, "Could scupper the chances of striking a global
+agreement to tackle climate change next year,' Jos Delbeke, director general of the EC's climate
+department, said on July 10, 2014. </P> <P>"If we were to put a border tax on the table before Paris, it's
+the recipe that could torpedo that process," Delbeke told an online meeting of industry officials on the
+so-called carbon leakage issue in Brussels.</P> <P>EU leaders have agreed to decide by October 2014
+whether to set a 2030 goal to cut carbon emissions as the EU contribution to a global pact to tackle climate
+change, due to be signed in Paris in late 2015 and take effect from 2020. </P> <P>Last month France
+suggested measures could be taken against imported goods to ease concerns that the 2030 goals could
+threaten heavy industries competing with foreign rivals that might be subject to later environmental
+goals.</P> <P></P> <P>EU ETS Carbon Leakage Provisions Post 2020, Public Consultation</P> <P>This
+EC consultation was launched on 8 May, 2014, the aim being to canvass opinions on different options for a
+system to avoid carbon leakage after 2020. Based on a questionnaire, the online consultation complements
+three stakeholder meetings to be held in the coming months. The consultation will run until 31 July 2014,
+but earlier replies are encouraged. </P> <P>The results of the consultation will feed into further work on the
+2030 climate and energy policy framework regarding the determination of post-2020 rules on free
+allocation and carbon leakage provisions in the EU ETS. Responses to the questionnaire will also serve to
+stimulate more focused discussions during the stakeholder meetings.</P> <P>For this consultation, which
+ends on 31 July, 2014, Euromines is submitting a position paper. Among the questions that are most
+relevant to the mining sector are the following:</P> <P></P> <P>- What share of the post-2020 allowance
+budget should be dedicated to carbon leakage and competitiveness purposes?Ê Ê </P> <P>- Currently the
+EC implements the NER300 programme to provide EU ETS specific support for large-scale demonstration
+of Carbon Capture Storage [CCS] projects and innovative renewable energy. 300m allowances,
+representing ca. 2% of total phase III allowances, are dedicated for this purpose. What share of the
+post-2020 allowance budget should be dedicated to such innovation support?</P> <P>- If innovative low
+carbon technologies in the industry are to be further supported, which could be possible sources of
+funding?</P> <P>- Is there a need for additional measures beyond free allocation and EU-level innovation
+support to address the risk of carbon leakage for energy intensive sectors covered by the EU ETS,
+post-2020?</P> <P>- Currently there are two categories for sectors in terms of exposure to the risk of
+carbon leakage; sectors are either deemed to be exposed to such risk or not. Should the system continue
+with two carbon leakage exposure groups or is some further differentiation needed?</P> <P>- Currently,
+exposure of sectors to the risk of carbon leakage is primarily measured by the share of 'carbon costs' in
+their gross value added and by the intensity of trade with developing countries. What carbon leakage
+criteria should be defined for the post-2020 period?</P> <P>- Currently benchmarks are set to the average
+greenhouse gas emission performance of the 10% best performing installations in the EU for a given
+product. What adaptations of benchmarks for 2021 onwards should be considered, if any?</P> <P>-
+Should there be a harmonised EU-wide compensation scheme for indirect costs, ie. for increases in
+electricity costs resulting from the ETS?</P> <P>- Should the allowances funding low-carbon innovation
+support come from the Member States' auction budgets or from free allocation?</P> <P></P> <P>The US
+and Canada</P> <P>Regional Greenhouse Gas Initiative RGGI</P> <P>This is the first US mandatory
+market-based emissions trading program to reduce GHG and the first anywhere to use the cap-and-in-vest
+model for reducing pollution. </P> <P>When the participating states established the program in 2005, they
+envisioned it as a model for emission trading in other regions and in the US as a whole, pioneering the
+auction of emission allowances and the investment of proceeds to advance efficiency and clean energy as
+well as providing consumer benefits.</P> <P>Launched in January 2009, RGGI currently applies to 168
+electric-ity generation facilities in nine Northeast and Mid-Atlantic states [Connecticut, Delaware, Maine,
+Maryland, Massachusetts, New Hampshire, New York, Rhode Island and Vermont]. Together, these
+facilities account for approximately 95% of CO<SUB>2</SUB> emis-sions from electricity generation in the
+region. </P> <P>In creating RGGI, the participating states sought to stabilise pow-er sector
+CO<SUB>2</SUB> emissions over the first six years of the program [2009-2014] at a level roughly equal to
+2005 emissions. Subse-quently, the emissions cap was set to decline by 2.5% per year for the four years
+2015 through 2018.</P> <P>The RGGI participating states established a regional cap on
+CO<SUB>2</SUB> pollution from the power sector and require power plants to possess a tradable
+CO<SUB>2</SUB> allowance for each tonne of CO<SUB>2</SUB> emitted. Under RGGI, nearly 90% of
+
+Page61of300©2018Factiva,Inc.Allrightsreserved.emission allowances are dis-tributed through auction. </P> <P>As of September 2013, cumulative auc-tion
+proceeds totaled nearly $1.5bn. Participating states have invested approximately 80% of these auction
+proceeds in consumer benefit programs, includ-ing investments stimulating local economies and creating
+jobs through the development of greenhouse gas abatement tech-nologies, and end-use energy efficiency
+and renewable energy deployment at both state and local levels.</P> <P></P> <P>EPA clean power plan
+proposal</P> <P>On 2 June 2014 the EPA proposed the first guidelines to cut carbon pollution from
+existing power plants [clean power plan]which, "for the first time cuts carbon pollution from existing power
+plants, the single largest source of carbon pollution in the US,". President Barack Obama said the following
+day, after a meeting with Polish Prime Minister Donald Tusk.</P> <P>"The US and Europe had to lead by
+example in fighting global warmingÉThis has to be a global effort," Obama added.</P> <P></P> <P>Other
+GHG</P> <P>On 8 June 2014, in its regulatory analysis for the new carbon rule, the EPA recognised the
+methane problem, but has punted on the issue for now. "The EPA is aware that other GHGs, such as
+nitrous oxide N<SUB>2</SUB>O, and to a lesser extent methane CH<SUB>4</SUB>, may be emitted
+from fossil-fuel-fired electricity generating unitsÉThe EPA is not proposing separate N<SUB>2</SUB>O or
+CH<SUB>4</SUB> guidelines or an equivalent CO<SUB>2</SUB> emission limit because of a lack of
+available data for these affected sources," the report said.</P> <P></P> <P>Western Climate Initiative
+[WCI]</P> <P>WCI is an initiative of American state and Canadian provincial governments that aims to
+develop a joint strategy to reduce GHG via a regional cap-and-trade program. Currently, British Columbia,
+California, Manitoba, Ontario and QuŽbec are members of the initiative. California and QuŽbec
+independently established cap-and-trade systems, their first compliance periods started on 1 January 2013.
+One year later, California and QuŽbec linked their systems creating the first international cap-and-trade
+scheme consisting of sub-national jurisdictions.</P> <P></P> <P>The California cap-and-trade programme
+</P> <P>This programme started in 2012 and entered into its first compliance period from 1 January, 2013.
+According to the California air resources board's climate change scoping plan update, the programme
+remains a central part of the state's climate change plans, both stimulating emission reductions and raising
+revenues through auctions for other climate change related activities.</P> <P>Of particular interest are the
+following: Firstly, competitiveness considerations such as ongoing carbon leakage assessments that
+consider the use of border carbon adjustments in the cement sector, a detailed proposal is expected in July
+2014. Secondly, linking to other schemes, for example, with Quebec in January 2014 as mentioned earlier.
+Thirdly, collaborative initiatives that include the Pacific Coast action plan on climate and energy and a
+memorandum of understanding (MoU) with China.</P> <P>The performance of this program is shown in
+Figure 4 above.</P> <P></P> <P>The Quebec cap-and-trade system</P> <P>This system started
+operation in January 2013 and is outlined as a key element of the province's 2013-2020 climate change
+action plan, both in terms of delivering emission reductions and also as a source of revenue to fund other
+parts of the plan. Figure 5 shows recent trade volumes and prices for the Quebec scheme.</P> <P></P>
+<P>Australia</P> <P>Australia carbon pricing mechanism [CPM]</P> <P>CPM came into operation in July
+2012. It takes place in two steps, a fixed price period from 2012 to 2015 and a flexible price period planned
+to start in 2015. The change of government in Australia in 2013 has had a significant impact on these
+policies, and as a consequence, the status of the CPM is in flux. The current administration has proposed
+to abolish the CPM and, on 17 July 2014, the Australian Senate voted to scrap the country's carbon tax and
+plans for emissions trading, a major victory for the Prime Minister, Tony Abbott, leaving uncertainty about
+how the country will meet its carbon reduction goals.</P> <P>An alternative could be the Direct Action
+Plan, which, together with the renewable energy target, is intended to support Australia in meeting its
+existing minimum emission reduction target of 5% below 2000 emissions by 2020, the centerpiece of the
+Direct Action Plan being an emissions reduction fund. </P> <P>The Australian government offers financial
+incentives for low cost emission reductions through reverse auctions. The fund is set to run from July 1,
+2014 until 2020 with an initial A$2.55bn($2.3 bn). Under the emissions reduction fund, firms will be
+encouraged to reduce their emissions, equal to historical BAU emissions. A 'safeguard' mechanism will
+incentivise firms to remain below baseline emissions. A recent White Paper provides detail on the
+approach.</P> <P></P> <P>China</P> <P>A significant, and to some a rather surprising development,
+was the imposition of GHG measures in China. Major moves are summarised in Table 2 above. </P>
+<P>In more detail, the National Development and Reform Commission [NDRC] announced its plans to
+develop seven official ETS pilot programmes in Beijing, Shanghai, Tianjin, Chongqing, Guangdong, Hubei
+and Shenzhen in 2011. This plan began to deliver from 2013. By April 2014, six of the seven pilot schemes
+started trading, with the remaining one, Chongqing, due to start in 2014.</P> <P>Carbon markets are now
+officially open for business in China. The total 2013 allocations of these six pilots combined amounts to
+1,115 tonnes CO<SUB>2</SUB>e as mentioned previously, making China the second largest carbon
+market in the world, after the EU ETS. Guangdong ETS, the largest of the Chinese ETS pilots, itself covers
+388 tonnes CO<SUB>2</SUB>e in 2013, similar to the size of France's emissions in 2012.</P>
+<P>Notable progress on scheme design has been made since the start of 2013. All pilots have published
+their ETS Implementation Plans, the key document defining the specific design aspects. Some pilots have
+released carbon emission allowance allocation plans and ETS pilot management methods. However, many
+of the details remain to be further clarified or are not publicly available, and it is expected that this will take
+place during the coming year.</P> <P></P> <P>Characteristics of Chinese </P> <P>pilot plans</P>
+<P>Regarding caps, most pilots have an absolute cap, while Shenzhen has an intensity-based cap.
+Overall, the pilots have a growing cap, in line with China's 40-45% carbon intensity reduction target by
+
+Page62of300©2018Factiva,Inc.Allrightsreserved.2020.</P> <P>As for free allocation, most pilots use historical intensity or emissions-based free allocation.
+Guangdong is the first pilot to use auctioning. Dynamic allocation is included in the ETS Implementation
+Plans for Shenzhen, Tianjin and Shanghai. Allocation for the power sector is similar across pilots, based on
+benchmarks of different generation technologies and installation capacities.</P> <P>By April 2014, CCER
+methodologies based on CDM methodologies 'Use of Offsets' were published. About 200 projects have
+been approved by the NDRC.</P> <P>Shenzhen, Guangdong and Hubei have set aside reserve
+allowances to manage price fluctuations through a price stabilization mechanism.</P> <P>The national
+China ETS is expected to start during the 13th Five Year Plan [2016-2020]. Some preparation has already
+begun, with more details expected by the end of 2014.</P> <P></P> <P>Problems</P> <P>Given a
+potential threat to businesses' bottom lines, Chinese industrial firms have pushed back. In Guangdong,
+although 97% of emission allowances are given away for free, also known as "grandfathering", emitters are
+required to purchase 3 pct of allowances via auction. Media reports suggest that some firms may be
+unable to afford such an expense and may simply refuse to obey ETS requirements, choosing instead to
+pay the resulting fines.</P> <P>High price volatility has also been cited as a potential problem, although it
+has died down considerably since the early stages of the pilot ETSs. Although Shenzhen ETS allowance
+prices spiked to more than Chinese renminbi (Rmb) 120/tonne ($19/tonne) in late 2013, they have since
+dropped to about Rmb60-80/tonne ($10-13/tonne). A similar spike in Tianjin ETS allowances occurred in
+April 2014, but prices have since flattened out.</P> <P>Additionally, there have been concerns about the
+pilot programs' viability in terms of real emission reduction and market stability. Industry sources suggest
+that firms in China have been slow to grasp the concept of emission trading, in some cases even mistaking
+their allocated allowance certifications for local government awards. </P> <P>The Financial Times referred
+to China's ETSs as a 'black hole', citing low traded volumes and high price differentials across jurisdictions.
+For example, Shenzhen allowances have traded for as much as Rmb120/tonne ($19/tonne), while Hubei
+allowances have traded for as little as Rmb20/tonne ($3/tonne).</P> <P>The absence of harmonised
+standards across jurisdictions has been a major factor in the observed price differences. "It will be a while
+before you see any uniform carbon price, whether that comes from cap and trade or a carbon tax," says
+Sieren Ernst, a DC-based climate consultant who has worked in China.</P> <P>The dominant role of
+state-owned enterprises has inhibited competitive price discovery on China's ETS exchanges, which may
+also explain the price differences. Most of the ETS exchanges only permit participation by regulated firms,
+according to Larry Liu, a Chinese climate policy researcher for Warwick McKibbin of the Brookings
+Institution. Only Shenzhen, Tianjin, and Guangdong allow individual investors, such as financial institutions,
+to trade, and Liu believes there have been virtually no market-drive trades so far.</P> <P>A national
+carbon tax is the likely outcome, if the pilot ETSs do not ultimately mature to a point where they can be
+scaled up to a national level. Jiang Kejun, a researcher with the National Development and Reform
+Commission's Energy Research Institute, refers to carbon taxes as a "Plan B" in the event that serious
+problems arise in the pilot ETSs.</P> <P></P> <P>*Vasili Nicoletopoulos and his consulting company
+Natural Resources GP, www.naturalresources.gr, specialise in mining and energy. NR issues a
+subscribers-only weekly report on ETS and Carbon Leakage. </P> <P>Maria Kalaitzaki has assisted in the
+preparation of this article. </P>
+
+CO efrtro : European Free Trade Association
+IN i231 : Non-metallic Mineral Mining/Quarrying | imet : Mining/Quarrying | ibasicm : Basic
+
+Materials/Resources
+
+NS gclimt : Climate Change | reqrmm : Suggested Reading Metals/Mining | gcat : Political/General News | genv
+
+: Environmental News | gglobe : Global/World Issues | gwea : Weather | redit : Selection of Top
+Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+
+RE austr : Australia | shenzh : Shenzhen | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric :
+BRIC Countries | china : China | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | easiaz : Eastern Asia | guang : Guangdong
+
+IPD Environment
+PUB Metal Bulletin Limited
+AN Document INDMIN0020140818ea7t0000d
+
+Page63of300©2018Factiva,Inc.Allrightsreserved.

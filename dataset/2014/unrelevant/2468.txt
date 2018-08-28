@@ -1,0 +1,522 @@
+World: Commodities - EIU's monthly liquefied natural gas outlook
+
+HD World: Commodities - EIU's monthly liquefied natural gas outlook
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+4,368 words
+1 September 2014
+Economist Intelligence Unit - ViewsWire
+EIUCP
+ViewsWire
+18
+English
+(C) 2014 The Economist Intelligence Unit Ltd.
+
+Demand
+
+TD
+
+The Economist Intelligence Unit expects global imports of liquefied natural gas (LNG) to expand by 1.7%
+in 2014, slightly slower than last month, as we have cut our import forecast for China, although it will still
+grow by 20%. Although imports from the two largest buyers, Japan and South Korea, will slow relative to
+recent years in 2014, Asia will still provide the bulk of overall import growth. By contrast, imports in
+Europe will contract again, as underlying energy demand is poor and some utilities are swamped with
+excess renewables capacity and make use of cheaper coal. Several countries will open import terminals
+for the first time in 2015, with Eastern Europe, the Baltic region and Latin America among the new
+markets for the liquefied fuel. Import growth will also accelerate in 2015 as the first of the mega export
+projects from Australia starts producing.
+
+Data from the International Group of Liquefied Natural Gas Importers (GIIGNL) show that Asia remained
+the overwhelming market for LNG imports in 2013, taking over 75% of the global market. This was an
+increase from a 70.8% share in 2012 that came largely at the expense of falling imports into Europe (14%
+of the market in 2013, compared with nearly 30% in 2010). The bulk of the market remains on medium to
+long-term contracts, with spot purchases taking less than 30% of the total. As significant increases in
+export capacity come on line from 2014-20, we would expect this share to rise as a more tradable and
+liquid market in LNG emerges.
+
+Potential nuclear restart will limit Japanese demand from 2015
+
+Japan's LNG imports were up by nearly 2% year on year in the first half of the year to over 44.2m tonnes.
+This was an acceleration on the first quarter, when imports were up by just 1%. In the short term, Japan
+will continue to rely on an elevated use of natural gas for power generation while its nuclear power
+stations are offline. However, the country's Nuclear Regulation Authority said that two nuclear facilities in
+the south of the country were safe to operate (although they are now awaiting local approval). We
+maintain our forecast of import growth of slightly less than 1% in 2014 (although underlying gas demand
+is running at a slower pace, suggesting that some stocks are being built up). In 2015 it seems more likely
+that nuclear power will return to a degree, to limit gas use, and we expect LNG imports to slide marginally.
+However, Japan's overall LNG imports will remain at a structurally high level of over 80m tonnes. Not all
+nuclear capacity will return, because of safety concerns and the fact that domestic utilities have signed
+import deals with new projects, particularly in the US (where cheaper LNG should be available from
+2016). Japanese buyers are likely to transform their contracts to more short- and medium-term lengths
+rather than the long-team deals that had predominated in the past 20 years.
+
+Stockbuilding at new terminals will see South Korea's imports rise in 2015
+
+South Korea's LNG import growth will slow in 2014 owing to a high base effect from 2013, when the
+country increased its reliance on the fuel after several nuclear facilities were closed because of faked
+security certificates and maintenance. Imports were down by 4.7% in the first half of 2014, as mild
+summer temperatures limited electricity needs. We still expect some growth this year and a surge into
+2015 as some of South Korea's nuclear capacity remains offline. KOGAS, the Korean utility that is the
+world's single-largest buyer of liquefied gas, is carrying out work on two import terminals. The first, at
+Samecheok, will start operations in 2015 with import capacity of 8.4m tonnes/year (t/y), and will support
+
+Page107of186©2018Factiva,Inc.Allrightsreserved.a faster level of import growth that year; the second facility, at Boryeong, is scheduled to start importing in
+2016 with capacity of 3m t/y. South Korea is encouraging greater use of gas compared with coal,
+providing tax breaks at the retail and wholesale level for gas consumers. The prospect of a gas pipeline
+linking South Korea and Russia could displace some of the country's reliance on LNG imports, but we do
+not expect this to happen in the near term.
+China will take greater share of LNG import market
+China now accounts for around 8% of the global LNG market, up from less than 2% only five years ago.
+The country has recorded strong import growth rates, and in the first half of the year LNG inflows were up
+by 19% year on year. China's public policy is directing the country toward a greater use of natural gas in
+its power mix, at the expense of coal for environmental reasons. Pricing reforms, which would see
+wholesale gas prices rise, may also help to increase demand for LNG, as importers would face smaller
+losses when selling into the domestic market. We expect China will be one of the fastest growing of the
+large importers of LNG in 2014-15, when underlying gas consumption will rise by an average of over 11%
+a year.
+In May 2014 PetroChina, a state-owned energy company, signed a US$400bn, 30-year agreement with
+Gazprom, the Russian state-controlled gas company, to supply China with 38bn cu metres/year of gas.
+China will use the gas to meet fast-rising demand-the government expects China to consume around
+400bn cu metres/year by 2020-but it will also put pressure on LNG exporters relying on selling into China.
+The terms of the deal have not been officially disclosed but the cost of gas is estimated at US$350/1,000
+cu metres (far less than current spot prices for LNG). The cheaper pipeline-delivered gas will allow
+Chinese importers to put downward pressure on LNG exporters to match the Russian gas price.
+Liberalisation of gas prices could lead to higher LNG demand
+
+Data from the GIIGNL show that India's LNG imports fell by nearly 2% in 2013 despite additional import
+capacity being added. Expansions of existing facilities are due to boost re-gasification capacity by 13.9m
+t/y, and four new terminals, either planned or under construction, stand to add a further 18m t/y of
+capacity. In theory, India could be importing 53m t/y by 2017. Yet several obstacles stand in the way of
+India reaching its full potential as an LNG importer. One, which India is working to remove, is its
+inadequate gas pipeline infrastructure: plans call for a doubling of the size of the gas-transmission
+network by the end of the decade. Moves are also afoot to free up the rules governing the allocation of
+gas to end users. But the main obstruction is the gulf between the price that India pays for LNG on
+international markets and regulated tariffs at home. The new government seems likely to follow through
+on its predecessor's plans to double gas prices to US$8.4/mBtu, effectively narrowing the gap between
+the costlier imported LNG and domestic gas.
+
+New markets are emerging in South-east Asia
+
+South-east Asia is a small but growing LNG importing region. In 2013 both Malaysia and Singapore
+started importing LNG and both have plans to expand import capacity. Meanwhile, Indonesia is
+converting its Arun export terminal to an import facility and planning to add some floating storage and
+regasification units (FSRU). Despite its high costs, LNG still remains an attractive fuel source for many
+energy-strapped nations in Asia, particularly as existing power infra-structure is largely gas-fired. A new
+import terminal is set to be built in the Philippines, the country's first, by the end of 2015, with capacity of
+3m t/y.
+
+Europe's imports will move eastward from 2015
+Our outlook for LNG imports into Europe is poor for 2014-15. Continued weak underlying energy demand
+will combine with mild temperatures (that have helped stocks in major consumers remain at adequate
+levels) to adversely affect LNG consumption in the UK, Spain and France, all of which have been large
+consumers in the past (although the year-on-year decline in the UK's demand slowed sharply in April and
+May). Future sources of demand are likely to come from eastern Europe and the Baltics as consumers
+seek to lessen their almost complete reliance on imports of piped Russian gas. New import terminals will
+open in Poland and Lithuania and will start receiving cargoes in earnest by 2015. The company behind
+the Polish facility said in August that the project would be operational by 2015, although construction
+costs have risen. In March Finland and Estonia signed an agreement jointly to develop an LNG import
+facility. In the short term the simplest course of action to reduce reliance on Russian gas would be to
+improve the EU's internal gas networks, so that fuel landed in France or Spain is directed eastwards
+rather than to Latin American or Asian markets.
+Liquefied natural gas (LNG):
+consumption
+('
+
+Page108of186©2018Factiva,Inc.Allrightsreserved.m tonnes unless otherwise indicated)
+2015
+2011
+2014
+ 
+87.8
+79.1
+88.7
+Japan
+45.3
+35.6
+South Korea
+41.2
+China
+24.9
+13.1
+22.3
+13.4
+12.3
+India
+13.2
+11.6
+11.4
+Taiwan
+12.2
+6.8
+7.6
+17.3
+Spain
+4.7
+United Kingdom 18.4
+5.5
+4.6
+France
+10.5
+5.0
+6.7
+Mexico
+2.8
+6.3
+45.1
+39.7
+39.5
+Others
+World total
+240.8 236.3 236.9 241.0 251.1
+ % change
+9.3
+1.7
+4.2
+Imports of LNG.
+Sources: International Group of Liquefied
+Natural Gas Importers; International Gas Union; The Economist Intelligence
+Unit.
+
+2012
+2013
+88.1 88.0
+36.8 40.4
+14.7
+18.6
+13.3 13.1
+12.7 12.7
+14.5 9.1
+10.4
+6.9
+7.2
+5.9
+3.5
+5.7
+35.3 36.5
+-1.9 0.2
+
+Supply
+
+Global LNG exports will expand by 1.7% in 2014, an improvement on the pace in 2013, owing to new
+supply from Papua New Guinea and Australia coming on line. We expect further growth of around 4.2%
+in 2015 as more capacity enters the market. Over 11m tonnes of entirely new liquefaction capacity is on
+track to be completed by the end of 2014, and the full start-up of replacement trains in Algeria will bring
+the total additional capacity closer to 20m tonnes. In 2015 an even greater volume of new capacity is due
+to come on line, including the first LNG export terminal in the US and the Gorgon megaproject in
+Australia. LNG projects are routinely subject to delays caused by cost overruns or construction timelines.
+In addition, many of the firms behind proposed export terminals in the US, Canada and Australia may lack
+the capital, financial robustness and technical capabilities to bring their projects on line. Nevertheless,
+from 2015-19 we expect a significant expansion of the global LNG industry, even if only a small share of
+the proposed projects comes to fruition.
+
+Qatar's production will be steady in 2014-15
+
+Qatar will remain unchallenged as the world's largest supplier of LNG exports in the medium term, and
+output will fluctuate based on maintenance or spot cargo related developments. Qatar is investing to raise
+gas output from the offshore Barzan gasfield but offtake from the project will be used for domestic
+purposes. Qatar will continue to explore new markets in Asia for LNG, with Pakistani and Qatari officials
+continuing to discuss gas supply contracts (although pricing appears to be a stumbling block toward
+signing a long-term agreement).
+
+Output in Malaysia is still expanding, despite strong growth in 2013
+
+Malaysia's LNG exports have slowed in 2014, up by 4% in the first half of the year compared with growth
+of close to 6% for 2013 as a whole. Petronas, the state-run oil and gas company, is carrying out
+expansion work at Malaysia's existing LNG export facility at Bintulu, adding a ninth train that it expects to
+start operating by late 2015 or into 2016. Petronas is also undertaking work on developing two floating
+LNG facilities (FLNG). The Petronas FLNG vessel is due to start operations in 2015 with capacity of
+1.2m t/y; its hull was launched in April 2014 and the vessel is on track to be completed by the end of the
+year. The Rotan FLNG-which will have slightly larger capacity-is scheduled to begin producing LNG by
+2018. Malaysia's share of the global LNG market will start to fall from 2015, when greater Australian
+production enters the market and as more natural gas is consumed locally. Petronas opened Malaysia's
+first LNG import terminal in 2013 and several more are due to be commissioned between 2015 and 2017.
+Part of the fuel for these facilities is likely to be produced locally. The country's strategic location between
+the exporting Middle East and importing Pacific Basin is making it attractive as a potential host for an
+LNG trading hub, with one European logistics company investigating a storage terminal in the south of
+the peninsula, near Singapore.
+
+US government revises its LNG approval process
+
+In May the US government revised its approval process for LNG export facilities under consideration.
+Companies will now need to receive environmental approval from the Federal Energy Regulatory
+Commission (FERC) first, before the Department of Energy (DoE) authorises exports to countries with
+whom the US does not have a free-trade agreement. FERC approval is a more onerous and lengthy
+process, and the government's objective may be to identify only projects that have the substantial
+commercial backing of either buyers or companies with LNG experience. Over 280m tonnes of export
+
+Page109of186©2018Factiva,Inc.Allrightsreserved.capacity has been proposed to the DoE, and there was never any likelihood that the full amount would
+enter the market. So far only one project is under construction: Sabine Pass in Louisiana. Additional
+facilities received interim environmental approval from the FERC in May: Dominion Resource's Cove
+Point facility in Maryland and the Downeast LNG plant in Maine. However, these facilities will still need to
+receive full FERC approval before they begin construction. At present, we do not expect exports of LNG
+from the US to make a significant impact on global markets until 2016 at the earliest, with a greater effect
+towards the end of the decade.
+
+A new export terminal is scheduled to open at Arzew in Algeria
+
+Exports from Algeria were up strongly in the first quarter, according to government statistics. Production
+rose by nearly 20% year on year. We expect Algerian export growth this year at over 6%. A new 4.8m-t/y
+train at Arzew is also set to open shortly, which puts the risks to our forecast on the upside. Algeria will
+export several cargoes to gas-starved Egypt in 2014, but these are unlikely to be sold on concession, as
+previous cargoes from other Arab nations have been down since Egypt's LNG infrastructure has been
+idled.
+
+Elsewhere in the Middle East, political and economic disruptions have affected the supply of LNG from
+Egypt. Since the overthrow of the government of Hosni Mubarak in 2011, Egypt's LNG output has
+dropped off markedly and we now expect almost no contribution to global markets from Egypt in 2014-15.
+In Yemen, exports rose strongly in 2013, but maintenance on one of the country's two trains in June will
+mean lower output in 2014, before a recovery in 2015. Over the long term there is potential for additional
+LNG exports from the eastern Mediterranean, with Israel exploring the option of LNG to be fed by
+offshore gasfields and an export terminal under discussion for Cyprus.
+
+Angola LNG has been shut down until at least 2015
+Angola LNG, the only major new export facility to come on line in 2013, has suspended operations until
+at least 2015 as a result of technical issues at the facility. The plant is targeting output of 5.2m t/y and
+sells directly into the spot market. Angola has also apparently leased out its entire tanker fleet, which
+should help to ease prices in 2014. As a result of the outage, we have cut our Angola export forecast to
+flat in 2014, with a recovery expected in 2015.
+
+New projects are unlikely in Nigeria
+
+Supplies of LNG from Nigeria continue to be affected by a difficult operating environment. Output fell
+sharply in 2013, by more than 15%, and we expect continued disruptions in supply in 2014-15. Persistent
+security concerns -have hampered plans to expand Nigeria's LNG potential, and the economic rationale
+for new projects has dissipated, as the US no longer needs LNG imports in the near to medium term.
+
+Elsewhere in Africa, attention is focusing on the potential for East Africa to emerge as a new LNG
+exporting region. Both Mozambique and Tanzania have discovered large commercial reserves of gas. Eni
+(Italy) and Anadarko (US) have entered into an agreement to develop a four-train, 20m-t/y facility in
+Mozambique, which the government expects to be operational by 2018. However, substantial investment
+in infrastructure will be required to bring the project on line and we do not expect it before the end of the
+decade. East African gas also faces a risk from impending US exports, where significant energy
+infrastructure is already in place.
+Australian projects will lead to significant reshaping of global industry
+
+There are currently 61.9m tonnes of new LNG export capacity under construction in Australia. This would
+represent more than one-quarter of total global supply in 2013, and, if all were completed on schedule by
+the end of 2017, would make Australia the leading producer of LNG, ahead of Qatar. The first of the new
+large Australian LNG projects, the 8.5m-t/y Queensland Curtis LNG (QCLNG) facility, is on course to start
+production in the fourth quarter of 2014, with the first train installed in mid-July. QCLNG is the world's first
+coal-seam gas LNG project and its off-take is geared mainly towards Asian (China, Japan and
+Singapore) buyers. Plans to expand the project have now been put on hold in consideration of the
+massive capital expenditure required for LNG projects. After QCLNG, the next mega-project due to come
+on line is the 15.6m-t/y Gorgon facility, operated by Chevron. The giant plant has reportedly secured
+sales-and-purchase agreements, mainly with Asian utilities. Expansion of the project seems unlikely,
+given the already huge sums that the companies backing the project have had to invest.
+
+There are several additional projects under consideration in Australia that could bring total capacity to
+nearly 100m t/y, well above Qatar's already huge production. However, substantial cost overruns and
+competition from the development of export facilities in the US have led some firms to reconsider projects
+that have longer timeframes. LNG Limited planned to start producing 3.8m t/y by 2017 from its
+Fisherman's Landing project, but has now reported that it is struggling to secure adequate gas supplies.
+
+Page110of186©2018Factiva,Inc.Allrightsreserved.Meanwhile, the Browse project (Woodside, Shell BHP Billiton and smaller Japanese partners) is now
+being reconsidered for conversion to an FLNG vessel.
+
+PNGLNG starts ahead of schedule, meeting demand in Japan
+
+The 6.9m-t/y Papua New Guinea LNG (PNGLNG) has shipped its first LNG to Japan, ahead of schedule,
+and is now running at full capacity. Buyers for PNGLNG's gas include Tepco and Osaka Gas in Japan, as
+well as Chinese and Taiwan utilities. Elsewhere in PNG, the government has endorsed the sale of a
+majority stake in InterOil's licences covering the Elk and Antelope natural gasfields to Total. InterOil has
+plans to develop an 11m-t/y LNG facility in PNG's Gulf province, although the deal has yet to be signed,
+given a disagreement over the value of Total's stake. The timeline for the project will fall well outside our
+forecast period, as the appraisal of the Elk and Antelope fields, which would feed the facility, is set to be
+completed only by 2015. Nevertheless, the deal suggests that new developments in PNG will help to
+compensate for falling exports from other Pacific basin producers.
+
+Tangguh expansion takes a step closer in Indonesia
+
+Indonesia currently has three operating LNG export terminals, in Arun in Aceh, Bontang in East
+Kalimantan and Tangguh in Papua. Exports have been declining in recent years as domestic
+consumption of gas increases and production disruptions have cut supply. New production capabilities
+are under construction, with the 2m-t/y Donggi-Senoro project set to start operations in 2015. Meanwhile,
+a final investment decision is expected for an additional train at the Tangguh site that would bring total
+capacity there to 11.4m t/y by 2019. The government has now awarded BP, which is exploring investing
+in the Tangguh expansion, an environmental permit to carry out the project; 40% of the production will be
+destined for the domestic market. At the same time, some of Indonesia's existing capacity, 2.5m t/y at
+Arun, is due to be decommissioned in 2014-15 and the facility will start to serve as an LNG import
+terminal. The Ministry of Energy was able to renegotiate prices successfully with Chinese buyers in
+June, raising export prices from US$3.3/mBtu to US$8/mBtu (and higher if oil prices move upwards).
+
+Ukraine-related tensions are unlikely to derail Russia's LNG plans for now
+
+Russia is seeking to increase its share of the global LNG market with plans for further export facilities.
+Until now Gazprom (which is 50.1% government-controlled) had a monopoly over natural gas exports and
+shipped LNG from its 10m-t/y Sakhalin plan on the Pacific coast, operated in partnership with Shell (and
+where a preliminary agreement for a new train has been signed by the project partners). However, a law
+liberalising LNG exports from 2014 was passed in 2013. Rosneft, a majority state-owned oil producer,
+signed a huge, US$270bn energy supply deal with China, which includes providing up to 3m t/y of LNG.
+It has also signed LNG supply contracts with Vitol, an oil trader, and Japanese energy firms, to be
+supplied from a facility in eastern Russia from 2019. The most immediate transformation in Russia's LNG
+capacity will come from the Yamal LNG project, which is under development by Novatek, a Russian oil
+major. Yamal LNG will begin production in 2016 and will have capacity of 16.5m t/y. Novatek has
+arranged preliminary financing from several Chinese banks for its project. Gazprom's Vladivostok LNG,
+with expected capacity of up to 10m t/y, is expected to become operational in 2018.
+
+The political tensions between the West and Russia over Ukraine pose risks for the long-term
+development of Russia's LNG ambitions. Already, Novatek has warned that it will have to make use of
+more of its own capital rather than raising funds in Europe or the US. Meanwhile, international oil and gas
+groups may be wary about heavy investment in Russia at a time of unstable inter-national politics and
+sanctions.
+Liquefied natural gas (LNG):
+production
+('
+m tonnes unless otherwise indicated)
+2012
+2013
+ 
+76.4
+78.0
+Qatar
+23.7
+Malaysia
+25.1
+20.9
+Australia
+22.4
+18.4
+Indonesia
+19.0
+16.5
+19.6
+Nigeria
+Trinidad and Tobago 13.0 13.5
+13.7
+Algeria
+11.2
+10.8
+Russia
+10.9
+10.7
+Oman
+8.4
+8.2
+33.0
+33.1
+Others
+World total
+ % change
+-1.9
+0.2
+
+2015
+2011
+79.5
+75.4
+28.0
+24.9
+28.1
+19.5
+16.7
+21.9
+15.5
+18.9
+13.9
+12.0
+12.5
+10.1
+10.6
+8.1
+8.6
+38.8
+36.1
+240.8 236.3 236.9 241.0 251.1
+9.4
+4.2
+
+2014
+78.8
+26.1
+24.4
+17.2
+15.8
+13.8
+11.5
+9.8
+8.5
+35.0
+1.7
+
+Page111of186©2018Factiva,Inc.Allrightsreserved.Exports of LNG.
+Sources: International Group of Liquefied
+Natural Gas Importers; International Gas Union; The Economist Intelligence
+Unit.
+
+Prices
+
+LNG spot prices for delivery into North Asia have eased back sharply from the high levels in the first two
+months of 2014, when prices hit a record of over US$20/mBtu. In the normally tight summer months,
+prices have fallen to a little over US$10/mBtu, owing to weak demand in major consumers in Asia. We
+expect prices for imported LNG into Japan (an average of high prices, contracted long-term and spot
+prices) to move downwards this year to an average of around US$15.54/mBtu. Prices will continue to
+slide on average in 2015-16 as new supplies come into the market from Australia and PNG and as
+Angola resumes exports. The introduction of LNG exports from the US will add further downward
+momentum to markets. As the LNG market becomes increasingly globalised through the introduction of
+US, East African and Canadian exports in the latter parts of the decade, we expect to see the
+development of more futures and exchange-based trading, allowing consumers and producers to take
+advantage of regional changes in natural gas demand.
+Liquefied natural gas:
+prices
+ 
+Prices
+1 Qtr
+2 Qtr
+3 Qtr
+4 Qtr
+Year
+ % change 12.9 -3.6 -2.6
+Japan basis,
+US$/mBtu.
+Sources:
+World Bank; The Economist Intelligence
+Unit.
+
+2012
+2016
+ 
+ 
+16.36 16.21 16.66 15.50 15.20
+17.06 16.34 16.19 15.30 14.80
+17.56 15.58 14.45 14.80 14.20
+15.24 15.69 14.85 15.00 14.00
+16.55 15.96 15.54 15.15 14.55
+-4.0
+
+-2.5
+
+2013 2014 2015
+ 
+
+ 
+
+ 
+
+RF
+IN
+
+NS
+RE
+
+EIU ViewsWire 01 Sep 2014 (T15:10), Part 18 of 20
+i1610109 : Electric Power Generation - Nuclear | i1 : Energy | i16 : Electricity/Gas Utilities | i16101 :
+Electric Power Generation | ieutil : Electric Utilities | iutil : Utilities
+e512 : Physical Trade | e51 : Trade/External Payments | ecat : Economic News
+jap : Japan | austr : Australia | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | easiaz :
+Eastern Asia
+Economy
+
+IPD
+PUB The Economist Intelligence Unit, N.A., Inc.
+AN
+Document EIUCP00020140903ea910001o
+
+Page112of186©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,166 @@
+Datacentres.com: Digital Realty Survey finds virtualization, Big Data, and consolidation to be top drivers in APAC 02 June 2014
+
+HD Datacentres.com: Digital Realty Survey finds virtualization, Big Data, and consolidation to be top
+
+drivers in APAC 02 June 2014
+
+WC 1,410 words
+PD
+3 June 2014
+SN
+News Bites - Private Companies
+SC
+NBPRCO
+LA
+English
+CY
+Copyright 2014. News Bites Pty Ltd.
+LP
+
+TD
+
+NEWS BITES - PRIVATE COMPANIES
+[Company Release] The virtualization of critical applications, big data, and datacentre consolidation will
+drive the next wave of datacentre capacity growth in APAC, according to a commissioned survey
+conducted by Forrester Consulting on behalf of Digital Realty Trust. Digital Realty's 2014 survey of data
+centre trends in APAC canvassed datacentre decision makers in Singapore, Hong Kong, Japan, and
+Australia.
+
+The combined survey results for the four countries revealed that the top expected drivers of data centre
+capacity growth were virtualization (47%), big data (46%), and data centre consolidation (41%). The next
+tier of drivers included business growth (39%), business continuity (34%) and storage growth (32%).
+
+"This survey helps us better understand the business priorities of our APAC clients, enabling us to
+become a valued partner and trusted advisor in the development of a data centre strategy that is uniquely
+suited to our clients' needs," said Kris Kumar, Digital Realty Senior Vice President and Regional Head for
+the Asia Pacific region. "IT transformation projects such as virtualization and big data are viewed as the
+main factors driving robust development across the datacentre sector. We feel this demonstrates the
+maturing aspect of these organizations in relation to their datacentre plans and budgets."
+
+When making decisions about new APAC datacentre facility investments, the most important
+considerations for respondents were the datacentre's location and resiliency. Factors rated as "Important"
+or "Very Important" by respondents included the risk profile of the location (78%), the resiliency level and
+availability of the facility (77%), and the level of control over the facility (75%). APAC companies also
+prioritized the datacentre's network connectivity options and carrier availability and density, with 75% of
+respondents claiming this as a priority.
+
+Around 50% of respondents said their datacentre budgets will grow between 5-10% in the next 12 months,
+with nearly 60% of respondents in Australia and Singapore expecting to increase their spending between
+5-10%. An additional 11% are planning to increase their investment in datacentre facilities by more than
+10% over the next 12 months. When surveyed regarding their future plans for datacentre capacity
+planning, respondents (60%) indicated they are planning some form of expansion within the next four
+years. Respondents consider outsourcing (40%) and colocation or other data centre leasing (31%) as the
+preferred sourcing models to address their expansion plans.
+
+Click here for the full original announcement
+COMPANY BACKGROUND
+
+ACTIVITIES
+BroadGroup is an Information Media Technology and Professional Services company providing a value
+chain of research, publications, consulting and conference services to fast growing niches in the IT and
+Telecoms sector with 19 events in 13 countries.
+Founded in 2002, the company aims to provide senior managers with a different perspective of new and
+emerging business niches, create new communities of interest, and inspire them with fresh insight on how
+they could be exploited profitably. Today, the company covers a portfolio of markets offering professional
+services through a value chain of bespoke consulting, market research, reports, and events.
+
+FINANCIALS
+
+Page73of266©2018Factiva,Inc.Allrightsreserved.Canadian telecom and media company Rogers Communications has announced its unaudited
+consolidated financial and operating results for the fourth quarter ended December 31, 2013.
+
+"Our fourth quarter results largely reflect the continued impact of new customer-friendly wireless roaming
+and simplified sharing plans we put in place several quarters ago which have been dilutive to our revenue
+growth rate" said Anthony Staffieri, Executive Vice President and Chief Financial Officer. "However, we
+delivered continued top-line growth in Cable, Media and Business Solutions. Our discipline around costs
+allowed us to further expand margins and meet all of our financial guidance commitments for 2013, while
+the 5% dividend increase we announced this morning reflects our confidence in the ability to grow cash
+flows over the longer term."
+
+Amongst quarterly highlights Operating revenue in-line with 2012: Consolidated operating revenue was
+down 1% this quarter compared to the same quarter last year, reflecting a 2% decline in Wireless network
+revenue as well as lower equipment sales, offset by growth in Cable (2%), Business Solutions (11%), and
+Media (4%).
+
+Business Solutions announced it is expanding its hosting business in Western Canada through a newly
+expanded datacentre in Edmonton and a new Western Canada flagship data centre in Calgary, following
+its acquisition of Pivot Data Centres in early October 2013.
+Source: Company Website
+
+BUSINESS NEWS ROUND UP
+
+02 June 2014: Datacentres.com: Health finally takes IBM outsourcing deal to tender
+[Company Release] Australia's Department of Health has gone to market for a new IT outsourcing
+partnership for the first time in 14 years, after first signing a A$350 million, five-year agreement with
+long-running partner IBM in 2000. The federal agency has renewed its contract with IBM for the provision
+of IT infrastructure and support services six times over the last 14 years, with the last extension awarded
+in 2010 for A$109 million. In tender documents released late last week, the Health department publically
+invited offers from the industry to take over IT infrastructure and support services for the agency.
+
+Click here for the full original announcement
+
+02 June 2014: Datacentres.com: Equinix almost quadruples Australian profit
+[Company Release] The Australian arm of global data centre provider Equinix has almost quadrupled its
+profit to nearly A$8.5 million, with the 44th consecutive quarter of growth globally. Equinix Australia's
+latest annual revenue was over A$77.6 million, a 19% increase from the A$65.2 million recorded in the
+previous year.
+
+Click here for the full original announcement
+
+02 June 2014: Datacentres.com: NTT DOCOMO deploys Alcatel-Lucent's IP technology
+[Company Release] Alcatel-Lucent has announced the deployment of its IP technology by NTT DOCOMO,
+the Japanese mobile phone operator, to meet rapidly increasing demand for mobile broadband Internet
+services including videos and music streaming, and multi-player gaming. NTT DOCOMO will use
+Alcatel-Lucent's 7450 Ethernet Service Switch (ESS) as part of its system, greatly enhancing the speed
+and capacity of its backhaul network, and helping NTT DOCOMO address the significant spike in demand
+for its mobile broadband service in Japan, one of the most advanced markets globally in terms of mobile
+communications. NTT DOCOMO is using Alcatel-Lucent's ESS IP technology to address increased
+demand for broadband content and applications thanks to the widespread use of network devices such as
+smartphones and tablets. Alcatel-Lucent Japan president Nicolas Bouverot, said: "Demand for mobile
+ultra-broadband services in Japan is exploding, and this is a serious challenge for telecom carriers.
+
+Click here for the full original announcement
+02 June 2014: Datacentres.com: NextDC looks to raise A$30 million
+[Company Release] NextDC aims to raise a minimum A$30 million in the coming week to extend its
+datacentre capacity in existing colocations and fund corporate operations via a five-year senior
+unsecured notes offering. The Australian datacentre operator claims this will give it flexibility in its "current
+ramp-up phase." It said it will also diversify current funding sources and provide additional tenor to its
+existing debt maturity profile. NextDC chief executive officer, Craig Scroggie, said the move represents
+diversity of funding sources which provides further flexibility to support future growth. The fixed-rate
+medium term notes will be offered to "qualified professional and sophisticated investors' at eight per cent
+
+Page74of266©2018Factiva,Inc.Allrightsreserved.per annum, and one per cent per annum payable on redemption. The transaction is led by the National
+Australia Bank.NextDC will also replace its existing A$30 million senior secured facility with a A$30
+million senior secured debt facility from NAB. The NAB facility has a maturity in June 2016, with ongoing
+review event requirements and financial covenant testing from March 31, 2016, together with customary
+drawdown terms and conditions and ongoing obligations under the facility agreement. Source: Company
+Website
+
+Click here for the full original announcement
+
+30 May 2014: Steadfast opens new datacentre in Edison
+[Company Release] Hosting provider, Steadfast has announced the opening of a new datacentre space in
+Edison, New Jersey. Steadfast had previously acquired hosting provider The New York NOC, but the
+company's expansion plans lead to a search for a new space. Steadfast has been offering colocation
+hosting services out of the New York metro area since Q3 2009; dedicated server, colocation, and cloud
+hosting services have been available since Q1 2010.
+
+Click here for the full original announcement
+
+NS
+
+RE
+
+c1521 : Analyst Comments/Recommendations | c1522 : Share Price Movement/Disruptions | ccat :
+Corporate/Industrial News | npress : Press Releases | nsur : Surveys/Polls | c15 : Performance | c152 :
+Earnings Projections | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpin :
+FC&E Industry News Filter
+austr : Australia | jap : Japan | uk : United Kingdom | apacz : Asia Pacific | asiaz : Asia | ausnz :
+Australia/Oceania | easiaz : Eastern Asia | eecz : European Union Countries | eurz : Europe | weurz :
+Western Europe
+
+IPD ACTIVITIES; FINANCIALS; BUSINESS NEWS ROUND UP
+PUB News Bites Pty Ltd (Europe)
+AN Document NBPRCO0020140603ea63000mg
+
+Page75of266©2018Factiva,Inc.Allrightsreserved.

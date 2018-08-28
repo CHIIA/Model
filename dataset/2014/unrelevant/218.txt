@@ -1,0 +1,635 @@
+Q3 2014 TransAlta Corp Earnings Call - Final
+
+HD Q3 2014 TransAlta Corp Earnings Call - Final
+WC 7,738 words
+PD 30 October 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+OPERATOR: Thank you for standing by. This is the Chorus Call conference operator. Welcome to the
+TransAlta Corporation 2014 Third Quarter Conference Call. As a reminder, all participants are in a
+listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity
+to ask questions. (Operator Instructions)
+
+TD
+
+At this time, I'd like to turn the conference over to Brent Ward, Director, Corporate Finance and Investor
+Relations. Please go ahead, Mr. Ward.
+
+BRENT WARD, DIRECTOR, CORPORATE FINANCE AND IR, TRANSALTA CORPORATION: Thank you,
+Brock. Good afternoon and welcome everyone to TransAlta's third quarter 2014 conference call. My name
+is Brent Ward, Director of Corporate Finance and Investor Relations. And with me today are Dawn Farrell,
+President and Chief Executive Officer; Donald Tremblay, Chief Financial Officer; Brett Gellner, Chief
+Investment Officer; John Kousinioris, Chief Legal and Compliance Officer, and Todd Stack, Vice President
+and Treasurer.
+
+The call today is webcast and I invite those listening on the phone lines to view the supporting slides which
+are available on our website. A replay of the call will be available later today and the transcript will be
+posted to our website shortly thereafter. All information provided during this conference call is subject to the
+forward-looking statement qualification which is detailed in our MD&A and incorporated in full for the
+purposes of today's call.
+
+The amounts referenced are in Canadian currency unless otherwise stated. The non-IFRS terminology
+used, including comparable gross margin, comparable EBITDA, funds from operations, free cash flow and
+comparable earnings are reconciled in the MD&A.
+
+On today's call, Dawn and Donald will review our third quarter operational and financial performance,
+provide an update on recent events and activities, and then open the call up to questions
+
+But before I turn the call over, I would like to remind everyone of our Investor Day webcast planned for
+Friday, November 14th from 9:30 AM to 11:30 AM Eastern Standard Time from Stony Plain, Alberta. Dial-in
+information and a link to the live webcast are available on our website and we look forward to your
+participation.
+
+With that, I'll turn the call over to Dawn.
+
+DAWN FARRELL, PRESIDENT AND CEO, TRANSALTA CORPORATION: Thanks Brent, and welcome
+everyone. On today's call, I'll give you my perspective on our Q3 results, review our performance to date
+and discuss progress on South Hedland and our Australian pipeline project. Donald will review our Q3
+financial results and update you on our financing plans. I will end our call by giving you some insights on
+the 2014 EBITDA and FFO ranges we provide you with this morning.
+As you all know from our press release, our Q3 results are down CAD54 million in EBITDA compared to
+the same period last year. Our year-to-date EBITDA is largely tracking due to strong first-quarter results
+offsetting some of the weaknesses in the second and third quarters. Our strong availability is helping to
+offset the impacts of weaker pricing in the Alberta market. Overall, our businesses are performing mostly as
+we expected, given the changes in pricing conditions this year compared to last year.
+
+Page305of354©2018Factiva,Inc.Allrightsreserved.So let me outline my views on our performance one segment at a time. And I'll start with Hydro. Our Hydro
+business did perform close to plan for the quarter. We expected lower prices and a year-over-year shortfall
+in Q3, against last year within our business plan and was not a surprise. Year-to-date our Hydro business
+is significantly below last year and we expect that to continue into the fourth quarter as power prices in
+Alberta remain weak. There is also significant -- as you know, there is also significant optionality in the
+Hydro business if prices recover. We have the water, we need the prices.
+US coal was negatively impacted this year compared to last year by lower volumes of higher priced
+hedges and lower than planned coal delivery. We expected the roll-off of high-priced hedges in our 2014
+business plan. However, we did also receive lower coal deliveries in the quarter. As a result, we decided to
+curtail generation in the quarter to save some coal for higher prices that will be in the market -- in that
+market in Q4.
+Saving coal for higher-priced periods, which we expect to materialize in the fourth quarter, will add more
+overall value. We're working closely with the BNSF to keep deliveries higher in light of the increased traffic
+on the rail system.
+Wind and gas in both Canada and Australia were in line with the same period last year as lower prices in
+Alberta were offset by better availability and wind resource. Our Wyoming wind project also contributed
+positively during the quarter, which generation in line with our plan and what we solidly made the original
+investment.
+Gross margin from trading and marketing was CAD3 million in the quarter, which fell short of our yearly
+target of CAD10 million to CAD15 million. Despite a weaker quarter compared to last year, the team is
+tracking ahead of our yearly target and on track to deliver CAD80 million to CAD90 million in gross
+margins for the year.
+So let me finish with Canadian coal. We continue to focus on delivering the performance of our Canadian
+coal assets to a more consistent and sustainable level. And we are making progress here. Fleet availability
+for the quarter was in line with our expectations at about 89% and much higher than last year. This strong
+operating performance was offset by the impact of lower Alberta prices in August and September on our
+incentive payments. I am however, pleased to report that the team has delivered in the operations. They
+set out to make improvements and they're succeeding.
+
+You can see on slide 6 that going forward and in line with our contracting strategy, we remain highly
+contracted through 2016. We continue to maintain a small line position, which we believe is a prudent
+strategy as getting caught short in the Alberta market can be very expensive.
+
+I'll now provide an update on our near and longer term growth prospects. As you can see on slide 7, our
+two projects in Australia have made solid progress on a number of fronts this quarter. As planned, we
+applied for the permits for the construction of South Hedland in early Q3 and we expect to receive approval
+and provide the EPC contractor with final notice to proceed by year-end. The EPC construction contract
+was executed at the end of July and engineering is well advanced. IHI, our EPC contractor, is expected to
+be on site in November with earthworks continuing -- expected to commence in January. Our project teams
+are developing plans for site mobilization and IHI is advancing the procurement of major equipments.
+
+Our pipeline to bring natural gas to our Solomon facility in Western Australia is also progressing as planned
+and is on budget. Pipeline construction is underway on both the Eastern and Western routes and it's
+proceeding at an average of roughly three kilometers per day. The construction team remains on plan for
+completion of the project and we expect to generate revenues by the end of Q1 2015. We also completed
+the installation of all equipment required to burn gas at our Solomon generating station. I am pleased by
+our team's progress on both of these projects. We expect them to generate approximately CAD90 million
+in EBITDA on an annualized basis by 2017.
+
+We are in the final stages of completing our bid with our partner MidAmerican for Alberta's Fort McMurray
+West 500-kV transmission project. We're one of four consortiums bidding for the project. Today, the project
+team has completed all submission milestones with the submission of our bid in Q4 being the last
+milestone. We expect the project to be awarded by year-end. This 400-kilometer transmission project is a
+critical piece of infrastructure for the province and we would welcome the opportunity to construct the line.
+
+We also continue to advance the plan to build our 800-megawatt gas-fired generation station located at
+Sundance. Our application is in front of the Alberta Utility Commission. This project will provide low-cost
+energy to the province due to its strategic location and its size. Our marketing team is meeting with
+potential customers to enter into long-term contracts for the output of the facility. As discussed in prior calls,
+we intend to sign up -- we intend to sign long-term contracts before we start construction.
+
+I will now turn over the call to Donald who will review our Q3 financial results.
+
+Page306of354©2018Factiva,Inc.Allrightsreserved.DONALD TREMBLAY, CFO, TRAVELALTA CORPORATION: Thank you. As Dawn mentioned, we saw
+firm operational performance across the fleet during the third quarter. But lower pricing in Alberta to get all
+back to norm. EBITDA is in line over year delivering CAD91 million compared to CAD95 million for the
+same period last year. 2014 generation increased with a return to service of Sundance and Keephills 1,
+adding almost 1,000 megawatt of generation capacity compared to the same period of last year.
+It contributes a more efficient mining operation and reduce our fuel costs by CAD2 per ton year-over-year.
+These improvements however were largely offset by lower price on the generation we deliver in excess of
+the target generation on our (inaudible) as well as on our merchant generation. Despite these challenging
+market conditions, our year-to-date improvement of Canadian Coal EBITDA up CAD29 million. US coal
+delivered CAD12 million in EBITDA compared to CAD20 million for the same period last year. On a
+year-to-date basis, US coal has delivered CAD43 million in EBITDA compared to CAD52 million in the
+same period in 2013. And the performance of TransAlta is ahead of our expectations.
+
+Turning to gas and winds. Lower Alberta pricing negatively impact our Poplar Creek gas facility and
+Western Wind business during the quarter. However, this was largely offset by the (inaudible) availability in
+our gas portfolios, higher wind in Eastern Canada and the contribution from the Wyoming Wind project.
+Year-to-date, both gas and wind are tracking to our expectations with EBITDA at CAD228 million and
+CAD121 million respectively.
+
+Our hydro business was also affected by lower power price in Alberta during the quarter. These plants are
+flexible and provide us with the optionality to create significant value by being dispatched in periods our
+pipelines, essentially functioning as secret facilities.
+
+With the exception of July where we saw higher price, price in Q3 were much lower than last year and as a
+result, the opportunity to dispatch those assets and capture high price however was significantly reduced.
+Year-to-date hydro EBITDA is at CAD65 million compared to CAD127 million for the same period last
+year. Remember, year-to-date price in Alberta have only been CAD56 per megawatt hour for the first three
+quarter of the year compared to CAD91 per megawatt hour for the same period in 2013.
+FFO for the quarter was CAD145 million, down CAD29 million compared to last year, despite a larger
+decrease in EBITDA of CAD54 million. The new impact in FFO was primarily due to the benefit of a
+non-cash mark-to-market gain in EBITDA in Q3 2013. Year-to-date FFO is CAD537 million, CAD14
+million lower than last year.
+
+Dawn will close the call with comments on how we are tracking against our range for the year, now that we
+have three quarters of the year behind. But before she does that, if you move to the next slide, you will see
+that our total sustaining capital expenditure are CAD265 million year-to-date. We expect to be at the low
+end of our 2014 target range of CAD335 million to CAD365 million for the year.
+
+Now, I will update you on our funding plan. Year-to-date, we have made considerable progress to
+strengthen our balance sheet. We have reduced debt by CAD500 million including cash on hand, through
+asset sales that risk the RNW secondary offering and our recent -- share offering.
+
+S&P which simply concern our investment grade rating, demonstrating our plan is taking us to the right
+place, but we are not yet done. We also met with the other agency in the quarter and we are committed to
+right size our balance sheet to be able to sustain a low price environment. And this means lower debt levels
+over time with our existing portfolio of assets.
+
+We also have additional capital requirement over the next years as we build out our Australian platforms
+and continued to explore acquisitions that could increase EBITDA in 2015 and 2016.
+The funding capital commitments, we freed up approximately CAD100 million per year of free cash flow to
+support our growth when we resize our dividend at the beginning of the year. We also have access to
+fresher markets to fund our capital requirements.
+
+Finally, TransAlta will although remain a financing option for us. We established a vehicle last year to
+pursue and fund TransAlta's global opportunity and to provide additional financial flexibility.
+
+We can certainly use our individual lower cost of capital to support our capital [requirements] as it increase.
+Stable assets in our portfolio meets our individual investment (inaudible). We also believe there is still a
+considerable amount of liquidity available within these existing assets that have not adequately been
+recognized by the market. We will provide you with an update on our growth and funding plan at our
+upcoming Investor Day on November 14.
+
+And with that let me turn the call back over to Dawn to review our expectation for the end of 2014.
+
+Page307of354©2018Factiva,Inc.Allrightsreserved.DAWN FARRELL: Thanks Donald. Now, I do want to provide you with an update on our thoughts for the
+fourth quarter and how the year could end. On a year-to-date basis, we are tracking to the ranges that we
+outlined in February on all accounts. However, while we did account for a certain level of lower Alberta
+pricing in our 2014 guidance. The weak pricing in Alberta in August and September is worse than we
+expected and we believe this pricing environment could potentially be sustained through the end of the
+year.
+
+We are hedged where we can be at prices in line with our plan, but as you know the optionality of our hydro
+and our wind generation can't be hedged. So we believe some caution is required. We now believe that
+EBITDA will be in the range of CAD1.005 billion to CAD1.025 billion and FFO will be in the range of
+CAD735 million to CAD755 million, if prices do remain unusually low in November and December of
+2014.
+
+I will now turn the call back to Brent for questions.
+
+BRENT WARD: Thank you, Dawn. Well, we'll take questions from the analysts and the investment
+community first and then we'll open the call to the media. I would also remind you that my team and I will be
+available after the call for any follow-up questions or model-related questions that you may have. Brock,
+we'll take questions.
+
+Questions and Answers
+
+OPERATOR: Thank you. Ladies and gentlemen, we will now begin analyst question-and-answer session.
+(Operator Instructions) Linda Ezergailis, TD Securities.
+
+LINDA EZERGAILIS, ANALYST, TD SECURITIES: Thank you. I was wondering if you could maybe give us
+-- and maybe this is a question for Donald -- an update on your discussions with the debt rating agencies,
+specifically Moody's. My sense is that I don't know operationally how you're on track versus their
+expectations. And what sort of target leverage either on a debt to capital or debt to EBITDA basis are you
+aiming for right now? I don't know if there's been any change on that front. And I guess any context around
+how TransAlta renewables or any other levers you might have would fit into all of that planning.
+
+DONALD TREMBLAY: No problem, we will clearly provide more detail updates at our Investor Day in
+November, but we have like constant communication with them over last eight months. They understand
+exactly where we are. They understand our plans. We are on track to basically realize on that plan. Clearly
+like -- I don't want to say like we're -- there is still some challenging time ahead of us, but clearly we have a
+good plan. We understand where we are going. We need to deliver. We need to execute. And the reduction
+of our debt [beginning] of the year is clearly like aligned with what you're looking for.
+
+DAWN FARRELL: And Linda, I'll just add in there. I mean this is a good reason for you to come to Stony
+Plain in the middle of November in Alberta. But what we'd like to do -- what we'll do at that meeting is lay
+out for you just how we're looking at and how we're going to pull together those requirements that they're
+now just talking about and match those to those to the growth that we are doing as well on Port Hedland.
+
+DONALD TREMBLAY: And just to come through because you have the question about like renewal, fairly
+like TransAlta Renewables is part of the mix, or part of the tool that we have to help us getting where we
+need to be.
+
+LINDA EZERGAILIS: Okay. And can you maybe comment for modeling purposes how you might
+refinance? I believe you owe that CAD500 million, a US CAD500 million issue maturing this January.
+
+DONALD TREMBLAY: We basically like -- when we did the May 1 offering, we basically had CAD200
+million more that we raised at that time, which is like an additional pressure offering like in August. So that
+was like prefunding of debt maturity. And -- so that's our plan.
+
+LINDA EZERGAILIS: Okay. Thank you.
+
+OPERATOR: Ben Pham, BMO Capital Markets.
+
+BEN PHAM, ANALYST, BMO CAPITAL MARKETS: Okay. Thank you and good morning, everybody. Just
+on that credit rating question and what the Moody's negative outlook, there is some commentary about
+your collateral requirements on the fact a downgrade to non-investment grade. And I'm just wondering
+does that kick in when it's both S&P and Moody's downgrade to you or would you just need the Moody's to
+move to trigger that collateral requirement?
+
+DONALD TREMBLAY: Just one is required.
+
+Page308of354©2018Factiva,Inc.Allrightsreserved.BEN PHAM: Just one is required? Okay. And then just on your balance sheet, I had a question on that.
+And when you guys cut your dividend earlier this year, you set up a payout ratio of a range was 67% the
+high end, and I think you were at the mid-point at that time. And it looks like this year you're going to be
+above that range. So could you talk about just what Alberta power price assumptions that you had bake
+into outlook? And also just longer term, where would you like to see a payout ratio go?
+
+DONALD TREMBLAY: So we believe that the payout ratio that we set at that time is basically we be able to
+absorb the reduction in power price.
+
+BEN PHAM: Okay.
+
+DONALD TREMBLAY: (Multiple speakers) not have an impact on the dividend level.
+
+DAWN FARRELL: Yeah. And just, Ben, to your earlier question, the work that we're doing with all three --
+with the credit rating agencies is all predicated on ensuring that the balance sheet is set up to be
+investment grade, both now and in the future as we start to see our merchant prices coming into the
+business as the PPA's roll off. So that is -- when you come to Investor Day, that -- you're going to see our
+plan for that to ensure that that is the case.
+
+BEN PHAM: Okay. Thanks a lot, everyone.
+
+OPERATOR: Paul Lechem, CIBC.
+
+PAUL LECHEM, ANALYST, CIBC: Thank you. Just wanted to get a bit of sense of how we should think
+about going into next year and maybe the puts and takes versus this year in terms of your FFO and
+EBITDA. Maybe you can give us some thoughts about your price -- your better pricing assumptions. And
+what might be other puts and takes versus the guidance you've given for this year? Especially you had a
+very strong start to the year in 2014 on the energy trading side, you might not get that next year. So can
+you give us some thoughts about the parameters and how we should think about going to next year based
+off this base year 2014?
+
+DAWN FARRELL: Yeah, Paul, we're just finishing off our budget for next year. And we are looking at just
+what level of pricing to build in. I think a couple of things that you could think about is if you're trying to do
+something earlier than us that we will be giving some guidance on our ranges in our February conference
+call. And we will give you next week some of our ranges and our views on power prices.
+
+But just the market itself seems to be trading around that CAD49 to CAD50 range. So that's where we see
+prices look like they're going to be averaging next year and certainly we were seeing that kind of price
+pressure coming when we were setting our hedges last year. So that's not a bad number to look and you
+can run some scenarios around that.
+
+We will have some additional income that will come from the pipe that you'd want to build in. And I think
+you can take probably whatever happens this year on the hydro business is indicative of what the hydro
+business does in those kinds of pricing environments. So I don't think you'll see too much difference than
+that.
+The Wind business does tend to be running around that 50th percentile for wind. So that -- I think that's a
+pretty -- not a bad run rate for that. And what you see in gas is not a bad run rate.
+
+So I think we continue to see our availability kind of tracking at the same range as it has been. We don't
+see any issues on that going forward. And so I think that the big outliers are really trying to figure out what
+kind of optimization we can do in Centralia, given those prices, as you know, have been a little bit weaker.
+So we'll give you some price ranges on those as well.
+
+And I mean on average, I think next year is probably not much different than this year but for the pipe, and
+we still have a little bit of work to do to show you what the sensitivities are around the unhedged part of the
+business given where prices could be. It seems to be the shorter months that are very, very weak here in
+Alberta at this point. This is the first we've seen this -- these prices be this weak in shorter months. But we
+still have the winter to go through, so we'll have a better sense of pricing once we see what the winter looks
+like.
+BEN PHAM: Fair enough. Do you have any thoughts on the impacts of the Shepard Energy Centre, if that
+comes on line, what that might do to pricing through the winter?
+
+DAWN FARRELL: Well, I think the market is pricing that in. So I think when you look ahead at the forward
+markets right now, it is pricing more aggressive pricing for sure in November and December than what
+we've been experiencing here in September and October. So the market and the forward market has been
+pricing that in. As you know, in Alberta, it all depends on what happens in real time and a lot of it depends
+
+Page309of354©2018Factiva,Inc.Allrightsreserved.on how mild or how cold the winter is. So Shepard is being priced into the forward markets. So if you look
+at the forward market off ice for January and February and all of next year, I think you're getting a pretty
+indicative indication of what people think prices will be with Shepard.
+
+BEN PHAM: Okay, one last question if I can. On Centralia, your contract with TSC kicks in in December. Is
+that correct? And could you give us - is that at the end of December? When in December does that kick in?
+And also your -- is your guidance for contracted prices for next year in the Pacific Northwest -- does that
+include the initial contract with PSC for next year?
+
+DAWN FARRELL: Yeah. When we give you contracted price levels in the Pacific Northwest, it will include
+for 2015 -- it does include for 2015 that price and it does kick in December 1.
+
+BRENT WARD: Okay. Thanks very much.
+
+OPERATOR: Charles Fishman, Morningstar.
+
+CHARLES FISHMAN, ANALYST, MORNINGSTAR: Just -- let's see, slide 12, when you talk about the
+financial flexibility that renewables provide, I just want to make sure I understand that. There is no further
+assets dropped down into renewables, what you're talking about is an additional secondary offering. Is that
+correct?
+
+DAWN FARRELL: No. What we're talking about is there are other assets that TransAlta owns. We have
+hydro assets and contracted gas and another wind farm. So we have other assets in TransAlta that could
+be dropped down into renewables in another primary offering.
+
+CHARLES FISHMAN: Got it, okay. That was all I have. Thank you.
+
+DAWN FARRELL: Yeah. And just to be clear, we see that the levels that we will keep our ownership of
+renewables at 70%, we're at that right now. So we wouldn't have a secondary offering off existing assets.
+
+CHARLES FISHMAN: Got it and thank you.
+
+OPERATOR: Matthew Akman, Scotia Bank.
+
+MATTHEW AKMAN, ANALYST, SCOTIABANK: Hi, thank you. On Centralia, could you just go into a little
+more detail on some of the rail constraints that you had in the quarter and whether you see those persisting
+and the cause of those?
+
+DAWN FARRELL: Yeah, so I'll start with the cause. So the good news is, as you know, Matt, the U.S.
+economy is starting to grow and the rails are always the leading indicators. So the rails are not only moving
+coal, but they're moving oil. And there is a big harvest, so there is a lot of agriculture product. But more
+importantly they're starting to move goods around from China and offshore it. So there is quite a constraint
+on the rails.
+
+You probably -- I mean, you remember that we had to renegotiate the rail contract a couple of years ago to
+get some cost reductions in order to really get Centralia back in line with what the market conditions were.
+And as part of that we have to nominate a certain amount of coal every October depending on what we
+think we're going to run at. And then they will either try to meet us with greater amounts of coal if we run
+the plant more, but we don't have the same kind of guarantee to ensure that when we nominate a level that
+we'll absolutely get that amount.
+
+And so we work really closely with them. We know that they've had to cut shipments across their system
+much greater than what they've had trouble delivering to us because of the constraints that they have. And
+so they've been working hard to meet our demand. Now the good news is the trading group works very
+closely with the [client] group, so as part of the optimization, what they've been doing is buying back in low
+price dollars and then just saving coal for Q4 when they know it's going to colder and price is going to be
+higher.
+
+So we think we'll -- we've gotten more value out of Centralia this year than we thought we would given the
+high price hedges rolling off. And so having a little bit less coal has been a little bit of a setback in this
+quarter, but we see that coming back in the next quarter. For next year we nominate again our coal
+deliveries in October, and we are working with BNSF to ensure that we get what we need as we go through
+the quarters. And it's working out well.
+
+MATTHEW AKMAN: Is that also partly because you expect in a normal year to turn the plant off
+periodically in an economic dispatch? Or as this year, you didn't have as many opportunities to do that. I
+noticed production is up year-over-year.
+
+Page310of354©2018Factiva,Inc.Allrightsreserved.DAWN FARRELL: Yeah, and that's kind of the challenge because if you over nominate and they think
+you're over nominating, they're going to cut back your shipments, in the sense, trains to pick up oil.
+If you under nominate and then you run the plant more, you have a chance of not having the coal. So,
+remember, we've got coal on train, train sects and then we've got coal in the pile and then we've got
+economic dispatch. So there is a large optimization if the guys do. So if we do have more high priced
+towers in the summer time and we run more then we really have to watch how all that optimization works.
+
+MATTHEW AKMAN: Okay. And I guess talking about puts and takes, finally, to wrap up going forward.
+With only CAD43 million of EBITDA from U.S. Coal, so far this year, I would hope that you guys sort of
+see this year as sort of a bottoming out of Centralia.
+DAWN FARRELL: Yeah, I think I'm just trying to think about we are just finalizing our plans for next year
+and I think that's about right. I think that the -- there's what we can get out of the contract in market and
+what we can get out of just selling straight energy. But we seem to have some really good work to get
+done on the optimization. So it really depends on how the price curve you've set up. So if there is -- you
+know, as you know, if there is a really low Q2 and there is a high Q3, if we can tend to get a little bit more
+optimization out of that. But I think that's a fair comment.
+
+DONALD TREMBLAY: Price volatility in Pacific Northwest is always good for that time because (inaudible)
+to basically optimize the plan by buying back the power and reselling it later when prices are coming back
+up. So clearly like volatility in Q1 and Q3 and Q4 (multiple speakers).
+
+DAWN FARRELL: And certainly the PSC contract coming in is going to help quite a bit.
+
+OPERATOR: Andrew Kuske, Credit Suisse.
+
+ANDREW KUSKE, ANALYST, CREDIT SUISSE: Thank you. Good afternoon. I guess maybe a bit of a
+nitpicking question, just on the energy marketing. It's really been a rare occasion, where you've had a loss
+in that business in the quarter. So maybe just give us a bit of color on what happened in this quarter versus
+earlier. Honestly, you haven't had that many losses in our business.
+
+DAWN FARRELL: Yeah, I think there is a couple of things there. First of all, pretty low volatility. And we've
+talked about this before; we've got very tight risk management parameters around that business and we
+like them to focus more in the real-time markets, in the day-ahead markets and more on arbitrage. So if
+there is not a lot of volatility, they don't have a lot of opportunities to put a lot of strategies on. And you'll
+also see that they do some gas work for the gas business. So there is a mark-to-market gain in gas of
+about CAD3 million, that is the mark-to-market loss in the trading business that will wash itself out by the
+time we get to the end of the year, I think. I think it's the end of this year or the end of next year.
+
+So that's a bit of an unfair pressure on their business that you could add back. And as well, they have some
+additional costs this year that they don't normally have for some of the regulatory work that we're having to
+do for the MSA files. So some legal fees that would be unusual for that business. So I think when you add
+those three things together, that's why you get kind of a marginal loss there.
+
+ANDREW KUSKE: Okay, that's very helpful color. And then just thinking more on the opportunity side and
+into the future. When you look at Australia, obviously you've got a few things going on there right now. But
+if you thought about it in an unconstrained balance sheet scenario -- and obviously everyone has
+constraints. But if you thought about an unconstrained balance sheet scenario how many projects would
+really hit your hurdle rate at this stage in time in that market?
+
+DAWN FARRELL: Oh man, if I had an unconstrained balance sheet? And forget Australia. If we look at the
+projects that Brett's got on his list of things that people are both bringing to the market on the acquisition
+side but, more importantly, on the greenfield side right now, there is some great projects here in Alberta, in
+Saskatchewan, in the U.S. and in Australia. So if you have a way to get me an unconstrained balance
+sheet, you can come and have Donald's job and we're good.
+
+DONALD TREMBLAY: (inaudible).
+
+DAWN FARRELL: That's going to be in his goals for 2015. So, that is -- I mean, there's some assets
+trading at some really low returns. And we're not -- we get into the market for those and look at them and
+chase them for a while and then just like somebody else take them. But there is more Port Hedlands out
+there as well, especially on the greenfield side and even on that sort of brownfield-quasi-greenfield side,
+where it's bit of a -- you purchase something and then you update it. So, no, there is still good returns in
+our business.
+
+ANDREW KUSKE: So just on that point, then, would that really speak to stronger and an improved use of
+TransAlta Renewables as a dropdown vehicle?
+
+Page311of354©2018Factiva,Inc.Allrightsreserved.DAWN FARRELL: Yes. And we certainly -- we have said that in the past, and we'll be talking about that
+more aggressively as we get to investor day.
+
+ANDREW KUSKE: Okay. Thank you so much.
+
+DAWN FARRELL: So you should come too, Andrew. This is an advertising for you.
+
+OPERATOR: Robert Kwan, RBC Capital Markets.
+
+ROBERT KWAN, ANALYST, RBC CAPITAL MARKETS: Maybe (inaudible) asked the question that he's off
+a little bit on Andrew's question with being able to get the balance sheet in the right place, and use RNW to
+do more growth as the carrot and then the stick being the discussions that you have had with Moody's. And
+I guess it sounds like you definitely have some work to do to reduce debt levels.
+
+So, I guess what's the sense of urgency given just the state of the markets now and to try to get as much of
+this done today rather than try to work on a call it a six- to 12-month plan to get the balance sheet in the
+right shape from a Moody's perspective?
+
+DONALD TREMBLAY: I don't think there's any urgency. We had good discussion with Moody's (inaudible)
+understands our plans, and they gave us like they're trying to indicate on that plan. So there is no urgency
+to deal with this like tomorrow, but clearly like -- it's not like, like a three-year plan either. It has to be within
+the next like 12 months that we need to address this.
+
+BRENT WARD: Yes, I would say, I mean, I think it's more of a 12- to 18-month plan had to be well done
+and get the pricing at the right time to get the most value. So there is no emergency here, but we do see -- I
+mean, like I say, when you look at the growth prospects and particularly if (inaudible) can translate on this
+bid for TAMA, there are some good opportunities here.
+
+ROBERT KWAN: Okay. If I look at the guidance that you've given here, the revised guidance for the year,
+for comparable EBITDA to get to the low end of the range given what you've done to date, it's implying
+CAD270 million for the quarter. And if we look at the best quarter you've done this year, which was Q1,
+and it was CAD310 million, but CAD49 million of that was trading, you had Alberta Power that was just
+over CAD60 million, you had Mid-Columbia, in the mid '40s. I'm just -- you had a little bit more outages, I
+guess, in Q1. I'm just wondering though what are you seeing in the business given what sounds like you've
+got a modest outlook for power prices in the quarter that allows you to get even to the lower end of the
+range?
+DONALD TREMBLAY: Like, clearly Q4 is like normally a good month for the wind; like, we're entering like
+the windy season. So clearly like much more generation from wind and in other forms, so that's number
+one.
+
+Even though, like most of our positions are already pulled forward edge. So we don't have that much
+exposure in volatility. So where we have volatility is like (inaudible) and wind in Alberta. So that's where we
+have basically have volatility.
+And when we will look at like -- like you mentioned like Q1 of this year, we hit CAD300 million. But we also
+in the past had other quarters where we hit CAD300 million. So I don't think it's - like, it's feasible. It's
+clearly like the current pricing is challenging. So that's why we were cautious and we reduced our guidance,
+but we believe that like within that range we are very comfortable.
+
+DAWN FARRELL: Yeah, I think the biggest reason, you got to remember that our Q4 is when it's windy.
+And our wind -- some of our wind is priced in Alberta, but a lot of it is on fixed price contracts in Ontario
+and Quebec and in New Brunswick. Right?
+
+DONALD TREMBLAY: And remember like Q1, Q2, we had outage. Q4, there is no outage and like all the
+equipment is available.
+
+ROBERT KWAN: Okay. And if I can just ask one last question, just under the PSE contract, is it a flat
+contract throughout the year in addition to being flat on peak, off peak?
+
+DAWN FARRELL: Yes.
+
+ROBERT KWAN: Both from rice and quantity?
+
+DAWN FARRELL: Yes.
+
+ROBERT KWAN: Okay. That's great. Thank you.
+
+OPERATOR: (Operator Instructions) Mark Sonnenblick, AIG.
+
+Page312of354©2018Factiva,Inc.Allrightsreserved.MARK SONNENBLICK, ANALYST, AIG: Hi, good afternoon. So your neighbor TransCanada has got some
+activist shareholders who are pushing them to sell assets. And I guess -- and given your position in Alberta,
+could you add some of those assets in the province if they were to come up for sale?
+
+DAWN FARRELL: Well, yes, I mean if they decided to sell their co-generation assets in Northern Alberta,
+we certainly could bid on those. Part of their assets are the PPAs on some of our Sundance units. That's a
+little more problematic because of government regulations. So I don't think it's out of the question, but we
+would have to seek approvals from the government to be able to bid on those.
+
+MARK SONNENBLICK: Okay. I just want to follow up on the Moody's rating. I guess in the U.S. there are
+several merchant generators who are operating in a DD, B category. And I am wondering what's so
+different about your business that you couldn't so you had to operate in that area. And so how our part can
+Moody's actually push you to do what you need to do before you say, all right, enough is enough, and we'll
+just take the downgrade?
+
+DONALD TREMBLAY: The investment grade is important in term of like a simple but noble. But it's also
+important in term of our growth strategy, like we're dealing with like commercial, like industrial customer
+and for them having like low levels of conservative volume. So our credit rating is not just important for like
+the bond but also important for like our growth strategies. And it's a much smaller, like capital markets than
+the U.S. So low investment-grade debt like is available today. We ended the available in two years from
+now. So like in Canada it's probably like greater risk to run in that to have any -- that to have any ratings.
+So that is supporting our position that like investment grade is important for us and that's what we're
+communicating.
+
+DAWN FARRELL: Yeah, Mark, just let me put some context. So in the United States there is two groups of
+IPPs. There is merchant; merchant IPP is like (inaudible) and energy who pursue a very -- you wanted by
+very, very low cost assets to using non-investment grade debt, high leverage, and they're trying to position
+themselves for potentially higher prices as the U.S. economy improves and power prices have improve
+along with it. And many of those companies, they've gone through some rocky times and have come out
+and are pursuing these strategies.
+
+There is also a group of IPPs in the U.S. that are affiliated with utilities, where they tended to have
+concentrated on more long-term contracted assets similar to what you see us do -- have seen us do in
+Australia with Solomon and Port Hedland, what you've seen us do when we bought Canadian Hydro. So if
+you look at our strategy, it's much more akin to those IPPs and all of those are investment grade. And we
+compete in their space more than -- we don't compete really in the space of the other IPPs. When you
+compete in that space, your counterparties want you to be investment grade. It's much cheaper for us to
+run a trading shop that does asset optimization if we remain investment grade. So the business strategy of
+TransAlta isn't akin to the merchants that you're talking about.
+
+And which is why we think that it is critical that we work with the credit rating agencies to ensure that our
+strategy is finance, so that we are investment grade here in the Canadian market.
+
+MARK SONNENBLICK: Fair enough. Just to follow-up, then, so can you talk about a 12- to 18-month, I
+guess, time frame, they put you on negative back in February. So that's eight months ago. So is that eight
+months even to that 12 months to 18 months, or is it 12 months to 18 months from today that you're talking
+about to put the strategy in place?
+
+DONALD TREMBLAY: It's basically like during 2015.
+
+DAWN FARRELL: Yes.
+
+MARK SONNENBLICK: What was that again?
+
+DONALD TREMBLAY: We're looking at 2015.
+
+DONALD TREMBLAY: If we can get everything done in 2015, we will. But I think the reason we are saying
+18 months is we're not going to -- we want to take our time and get all the value we can out of the strategy.
+
+BRENT WARD: Okay, thanks.
+
+OPERATOR: This concludes the analyst Q&A portion of today's call. We will now take questions from
+members of the media. (Operator Instructions) There appears to be no questions from the members of the
+media today. I can hand the call back over to Brent Ward for any closing comments.
+
+BRENT WARD: Okay, great. Thanks, Brock. I appreciate everybody dialing in for the call. And if anyone
+has any follow-up questions, you can feel free to contact [Johnson] or myself. We are available. Thank you.
+
+Page313of354©2018Factiva,Inc.Allrightsreserved.OPERATOR: This concludes today's conference call. You may now disconnect your lines. Thank you for
+participating and have a pleasant day.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+i16 : Electricity/Gas Utilities | iutil : Utilities
+
+CO trnsan : TransAlta Corp
+IN
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | waustr : Western Australia | apacz : Asia Pacific | ausnz : Australia/Oceania | austr :
+
+Australia | namz : North America
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020141102eaau001ry
+
+Page314of354©2018Factiva,Inc.Allrightsreserved.

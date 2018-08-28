@@ -1,0 +1,167 @@
+Rio trades drivers for boffins
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Companies and Markets
+Rio trades drivers for boffins
+
+Matthew Stevens
+1,463 words
+14 March 2014
+The Australian Financial Review
+AFNR
+First
+28
+English
+Copyright 2014. Fairfax Media Management Pty Limited.
+
+Matthew Stevens
+
+Every week a taxi fleet of Rio Tinto light vehicles dashes about 50,000 kilometres, taking locomotive
+drivers into the distant Pilbara to deliver them to stopped iron ore trains.
+
+These trains are routinely more than two kilometres long. Stopping and starting them is an artful
+exercise in timing and stress management. And generally the reason they stop in the middle of
+nowhere is that a 12-hour shift has ended and drivers who started a voyage need to be replaced.
+
+Ending this wasteful and potentially hazardous dash around the boondocks is just one of a wealth of
+discrete financial logics that sit at the heart of Rio Tinto's embrace of technology as a path to
+productivity improvement. Everywhere we turned on Thursday there was a Rio eminence, present or
+past, talking up the need to tackle the challenges of the third phase of the resources boom that has so
+far shaped Australia's economy in the new century.
+
+In Melbourne, we had former chief executive and incumbent Qantas chairman, Leigh Clifford,telling us
+that government had already squandered the financial bounty of the opening phases of the boom.
+
+Reaping the winds of the coming production boom will require hard decisions. He urged deregulation
+of the labour market to recover flexibility with a focus on the enterprise level.Mine of the Future
+program
+
+In Brisbane we had Rio's current boss, Sam Walsh, reminding everyone that Rio is what has always
+been a technology play in mining while promising that the company's trademarked Mine of the Future
+program would cut costs as it improved efficiency, safety and environmental footprint.
+And in Sydney, Rio's new man of iron ore, Andrew Harding, was reassuring investors that Rio's
+internal modelling accounted for pretty much all of the forces driving the current market volatility and
+the supply-side shifts that currently cloud the longer term outlook.
+Harding's pitch to senior owners was that they should share Rio's confidence in China's
+misunderstood demand outlook and that Rio's ability to entrench its place as the lowest-cost Pilbara
+producer left it well placed to sustain sector-leading margins whichever way the price actually goes.
+
+One cornerstone of that pledge was the already proven focus on the most intimate details on operating
+costs that saw Rio remove $US3.3 billion, or 9 per cent, from its company-wide cost base over 2012.
+
+The other was the promise of the efficiency and productivity gains that will be wrought from the
+maturation of Rio's new, and still proprietary, embrace of mining automation.
+
+Which brings me back to Rio's railway and the simple fact that the effective introduction of automated,
+driverless trains represents the final critical piece of the operational puzzle allowing Harding to dig up
+
+Page138of289©2018Factiva,Inc.Allrightsreserved.and deliver 360 million tonnes a year of iron ore without adding two new super-mines to his existing
+15-mine fleet.Perth operations centre
+Rio already runs Pilbara ore crushers and dumpers from a operations centre in Perth along with a
+fleet of 67 robot trucks that could yet grow to maybe 150 over the next few years (there are 340 or so
+trucks in its entire fleet).
+
+But the biggest wins automation will bring come from running a train fleet as free as possible from the
+constraints of human engagement. The scheduling advantages of having trains that don't require shift
+breaks means that Rio can hit its 360 target without the need for an additional eight train consists. That
+is maybe $500 million saved before you start.
+
+Rio had planned to have its robot trains running around the Pilbara by the end of Q1 2015. The word is
+it might happen just a bit earlier. The big uncertainty over timing is that this technology, at least in its
+application, is so new, international and local regulators are still trying to get their heads around it. To
+some degree, Rio and the regulators need to re-write the procedural rule books as they go. As it is, a
+host of critical safety and operational approvals are in the baking.
+
+As it is, the computer algorithms have been written and the machines are already telling the drivers
+what to do. The next step will be to remove drivers from all trains that do the long-hauling from mine to
+rail yards that sit between land and port. Between yard and port, the robots can no longer cope with
+the logistical complexities. So Rio's yard drivers will steer the trains to the car dumpers and back
+again.
+
+Which announces the point that this is not so much about Rio getting rid of people as it is chasing
+productivity. By the time automation is complete Rio will probably have halved the number of train
+drivers it needs. But it will have a whole lot more people manning the screens at its Perth facility and a
+new breed of boffins running around the Pilbara making sure the trains run on time.
+
+The PNG government's way of doing business continues to amaze, amuse and frighten us in almost
+equal measure.
+This week a government under firm control of its self-proclaimed nation building Prime Minister, Peter
+O'Neill, lost a Treasurer in attempting to secure internal consensus within its National Executive
+Council over the arrangements for the $1.225 billion of debt needed to finish the acquisition of 10 per
+cent of Oil Search.
+
+NEC decision 79 authorises the Treasurer to execute the documentation needed to borrow
+$1.239 billion from UBS in two tranches: first a $335 million bridge loan then a $904 million collar
+facility, and then authorise UBS to place a sovereign bond issue to replace that bridge loan. That cash
+will then pay for 149,390,244 Oil Search shares.
+
+Now it has been reported that Treasurer Don Polye was "de-commissioned" after he refused to sign off
+on these arrangements because of his concerns the funding under construction is being raised without
+formal Parliament approval.
+
+Those with a better knowledge of these things than me say section 209 of the Constitution delivers
+Parliament clear responsibility over public spending and requires its specific authorisation for the
+raising of loans.
+Interestingly the government documentation delivered to us names the National Petroleum Company
+of PNG as the entity that will pay the fees earned in manufacturing the transaction and the long-term
+cost of the debt that is raised.
+
+The agreement signed by the PM and distributed to a cabal of his cabinet carries no information about
+the interest rate or about the level of fees that will be charged.A lot of sense
+
+Getting NPCP to finance the deal makes a whole lot of sense. NPCP is, after all, the vehicle that owns
+the state's 16 per cent of the Exxon LNG project that sits at the heart of the decision to buy 10 per cent
+of Oil Search. Dividends will begin flowing from the Kutubu project next year. So Oil Search's project
+will end up paying for shares in Oil Search.
+
+But, rather oddly, the documents name state-owned Petromin as the eventual subscriber and nominee
+for the transaction. So the shares will be paid for by one arm of PNG's state-owned commercial
+estate and owned by another. This structure seems to allow the Oil Search debt to be kept off the
+government's balance sheet and thus avoid the need for parliamentary approval.
+
+Page139of289©2018Factiva,Inc.Allrightsreserved.The other structural uncertainty here is that O'Neill has plans to put PNG's mining and petroleum
+investments into a new ownership structure that has a thing called the Kumul Trust floating over the
+top of it.
+Kumul Mining Holdings will own Ok Tedi and the state's interest in Bougainville Copper and the Ramu
+Nickel project. Kumul Petroleum will hold PNG's 16.575 per cent in PNGLNG and, presumably,
+Petromin's 10 per cent of Oil Search.
+
+Presumably too, the Kumul Trust will own the income generated by those assets. But the governance
+of this trust is uncertain. It rather looks like the sitting PM would hold a super voting share while all of
+PNG's past PMs would hold individual voting shares. How that is going to work given the stand-off
+between O'Neill and Sir Mekere Morauta over the theft of 62 per cent of Ok Tedi and the attempted
+kidnapping of the $US1.4 billion ($1.56 billion) being held in a community trust fund chaired by the
+former PM, is anyone's guess.
+Either way, if I'mUBS, I might want to be very sure how this will work before I show anyone the money.
+
+CO
+IN
+NS
+
+RE
+PUB
+AN
+
+craaus : Rio Tinto Ltd | rtz : Rio Tinto PLC | rtzcra : Rio Tinto Group
+i211 : Metal Ore Mining | imet : Mining/Quarrying | ibasicm : Basic Materials/Resources
+ccat : Corporate/Industrial News | reqrmm : Suggested Reading Metals/Mining | redit : Selection of Top
+Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+austr : Australia | waustr : Western Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+Fairfax Media Management Pty Limited
+Document AFNR000020140313ea3e0000c
+
+Page140of289©2018Factiva,Inc.Allrightsreserved.

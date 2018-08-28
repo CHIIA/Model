@@ -1,0 +1,392 @@
+Australia: Licensing and intellectual property
+
+Australia: Licensing and intellectual property
+
+HD
+WC 3,899 words
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+29 August 2014
+Economist Intelligence Unit - ViewsWire
+EIUCP
+ViewsWire
+9
+English
+(C) 2014 The Economist Intelligence Unit Ltd.
+
+TD
+
+Intellectual property and e-commerce: IPR overview
+Australia recognises various forms of intellectual property, such as copyrighted works, patents,
+trademarks, designs, plant varieties, circuit layouts, confidential information, business names and trading
+styles.
+
+Since regulations on inward foreign investment pose virtually no barriers to multinational companies
+establishing businesses in Australia, foreign companies can set up a branch, subsidiary or joint venture
+with relative ease, rather than licensing proprietary technology to a local company. A foreign company
+can minimise its investment and ongoing capital via licensing technology, but it would then have to share
+returns with the licensee and possibly lose control over trade secrets. Nevertheless, foreign companies do
+use licensing in many sectors, such as information technology-particularly for computer software, which is
+protected by copyright law and can be safely licensed rather than sold. Licensing is also commonly used
+in biotechnology and pharmaceuticals.
+
+Franchising is used to establish businesses ranging from car sales and bookstores to fast-food
+chains-such as McDonald's, Wendy's and Subway-all US companies. A foreign franchiser usually licenses
+the business concept, system and trademark to a "master franchiser" for the whole country, which in turn
+finds subfranchisees for various territories. Most franchising in Australia occurs in the small-business
+sector.
+
+The Australian Competition and Consumer Commission, a consumer-protection watchdog and the
+governmental body implementing competition policy, has regulated the franchise industry since 1998. The
+Franchising Code of Conduct, outlined by the Trade Practices (Industry Codes-Franchising) Regulations
+1998, forms the regulatory framework.
+Intellectual property and e-commerce: Protection of intellectual property
+Most intellectual-property (IP) law in Australia is based on statute, similar to regimes in other former
+British colonies in the Asia and Pacific region, such as Hong Kong, India, Malaysia, New Zealand and
+Singapore. Individuals or corporate bodies of any nationality may acquire IP protection in Australia,
+subject to applicable requirements.
+Intellectual-property disputes are usually litigated in the Federal Court of Australia, which has original and
+appellate jurisdiction in IP matters. The standard of judicial ability, and of the legal profession in the field,
+is high. Settlement of disputes by negotiation and other alternative means is encouraged. Many IP
+disputes are resolved by negotiation between legally represented parties by either ceasing the infringing
+conduct or taking a licence on commercial terms. There is a high degree of enforceability of licences in
+Australian courts, subject to challenges such as abuse of monopoly power.
+
+The Australia-US Free-Trade Agreement (AUSFTA) aligns Australia's IP laws closely with those of the
+US. Australia's IP laws provide more protection than multilateral agreements such as the World Trade
+Organisation's agreement on Trade-Related Aspects of Intellectual Property (TRIPs) and World
+Intellectual Property Organisation (WIPO) treaties.
+
+Page103of405©2018Factiva,Inc.Allrightsreserved.Australian law recognises various forms of intellectual property, including business names, circuit
+layouts, confidential information, copyrights, designs, patents, plant varieties, trademarks and trading
+styles.
+
+Copyright law. Australia's copyright law is detailed in the Copyright Act 1968 and in decisions of the
+courts. The Copyright Legislation Amendment Act 2004 embodied changes to copyright laws flowing from
+the AUSFTA, under which copyright is assigned for the life of the creator plus 70 years (previously 50
+years). Tight criminal-law penalties have strengthened the enforcement of IP laws.
+
+The Supreme Court hears copyright offences in the relevant state or territory. The Federal Court hears
+these cases less frequently. Arbitration hearings can take place in the Copyright Tribunal, an independent
+body administered by the Federal Court. An applicant to the tribunal may seek a determination of royalties
+payable for the public performance and broadcasting of musical works, or remuneration for the copying of
+works by educational institutions.
+
+Patent law. A patent gives its owner a statutory monopoly-that is, the exclusive right to exploit the claimed
+invention. The Innovation Patent Act 2000 provides for an innovation patent, which must be new, useful
+and involve an "innovative" step, rather than "inventive" step (as for a standard patent).
+
+Applicants for patents are allowed a grace period during which an invention may still be protected, in
+certain circumstances, even if it is made public. The commissioner of patents may still grant a valid patent
+for such an invention if the applicant files a complete application within 12 months of the disclosure. The
+grace period may, for instance, protect an inventor who discusses an invention with a contractor without a
+confidentiality agreement.
+
+The patentee or exclusive licensee may pursue court action to enforce a patent. A patent's validity may be
+challenged on various grounds, including absence of novelty or inventiveness. Remedies for infringement
+include injunction (restraining order), damages, declaration or an account of profits and delivery for
+destruction.
+The Intellectual Property Laws Amendment (Raising the Bar) Act of 2012 entered into force on April 15th
+2013. Among its major provisions, the law allows Australian researchers to conduct experiments on
+subject matter related to patented inventions without infringing the patents; prohibits the revision of patent
+applications, aside from the correction of clerical errors; broadens the definition of "prior art" for
+inventive-step considerations; and eliminates so-called omnibus claims, such as those that refer to
+descriptions or drawings without detailing technical processes. These changes apply to patent
+applications filed after April 15th 2013, as well as to applications filed prior to that date for which a request
+for an examination has not yet been submitted. The legislation aims to align Australian IP rights more
+closely with international standards.
+
+A review of IP law led to the introduction of the IP Laws Amendment Bill in May 2013. The bill, should it be
+ratified, would clarify Crown use of patents, implement the TRIPs Protocol and expand plant-breeders'
+rights. It would also pave the way towards a single patent application and examination process for
+Australia and New Zealand. As of August 2014 the bill remained pending discussion in Parliament.
+
+Trademark law. Trademarks are protected by the common-law action on passing-off, by provisions in the
+Competition and Consumer Act 2010 that prohibit misleading and deceptive conduct, and by registration
+under the Trade Marks Act 1995. The act extended trademark protection to colours, scents, sounds and
+aspects of packaging. Trademarks not in use may be registered if there is an intention to use them.
+
+The registration threshold is "whether the mark is capable of distinguishing", though even marks lacking
+the inherent capacity to distinguish can meet the standard with distinctiveness acquired through use.
+Unregistered or unregistrable marks may still be protected by a passing-off action or against misleading
+conduct under the Competition and Consumer Act 2010 (formerly the Trade Practices Act 1974) and by
+state-based consumer-protection legislation.
+
+Australia follows the international classification system of 42 classes of goods and services. The Trade
+Marks Act 1995 allows multiclass applications covering one mark for a range of goods and services over a
+number of classes. Once a trademark is registered, rights are retroactive to the date of application.
+
+Interests (such as a security interest) in a registered trademark may be recorded in the trademark register,
+but this is rarely done. A trademark may be transferred with or without the goodwill of the business
+connected with the relevant goods and/or services. Partial assignment of a trademark is possible so that
+the assignment applies to only some of the trademarked goods and/or services, but geographically limited
+assignments (such as Sydney metropolitan area) are not permitted.
+
+Page104of405©2018Factiva,Inc.Allrightsreserved.Australia is a signatory to the Madrid Agreement on the International Registration of Marks (as amended
+in 1979). This lets an Australian trademark owner file a single application in English and pay a single fee
+to seek protection of a mark in all or any of the other 50 countries that are parties to the treaty.
+The Intellectual Property Laws Amendment (Raising the Bar) Act raises the maximum imprisonment
+penalty for trademark violations to five years from two years. The law also enables customs officials to
+provide information on importers of counterfeit goods to trademark owners. These changes came into
+force on April 15th 2013.
+
+Confidential information and know-how, such as trade secrets, are protected through common law that
+prevents disclosure of confidential information when imparted, subject to confidentiality and use
+restrictions. A confidentiality agreement is often used to stop employees from revealing secrets or
+proprietary knowledge during and after their employment or association with a business.
+
+Design law. The Designs Act 2003, in force since June 2004, supersedes earlier legislation (Designs Act
+1906) for the protection of new and original designs. The legislation introduced a streamlined registration
+process, better enforcement mechanisms and dispute-resolutions procedures, stricter eligibility and
+infringement tests, and clearer definitions.
+
+Plant varieties are protected by the Plant Breeder's Rights Act 1994. The act offers protection for distinct,
+uniform and stable plant varieties that have not been for sale for more than 12 months in Australia, or 4-6
+years overseas, prior to application. The IP Laws Amendment Bill, which stood before Parliament in
+August 2014, would expand plant breeders' rights by strengthening their ability to take action against
+alleged infringement violations in the Federal Circuit Court.
+
+Semiconductor-chip topographies are protected by the Circuit Layouts Act 1989. The owner and exclusive
+licensee may sue for infringement. A court can grant an injunction in addition to damages or an account of
+profits.
+Conventions. Paris Union for the Protection of Intellectual Property, 1883; Bern Convention, 1886; The
+Hague Agreement, 1925; Universal Copyright Convention, 1952; European Convention, 1954; Rome
+Convention, 1961; World Intellectual Property Organisation (WIPO), 1967; Geneva Convention, 1971;
+Strasbourg Agreement, 1971; exchange of notes between Australia and China concerning registration of
+trademarks, 1974; Budapest Treaty, 1977; Nice Agreement, 1977; Patent Co-operation Treaty, 1978;
+International Union for the Protection of New Varieties of Plants Convention, 1978; GATT Trade-Related
+Aspects of Intellectual Property (TRIPs) agreement, 1994, and World Trade Organisation TRIPs Protocol,
+2005; WIPO Copyright Treaty, 1996; and WIPO Performances and Phonograms Treaty, 1996.
+
+Basic laws. Designs Act 1906; Copyright Act 1968; Designs Regulations 1982; Circuit Layouts Act 1989;
+Patents Act 1990; Patents Regulations 1991; Plant Breeder's Rights Act 1994; Trade Marks Act 1995;
+Trade Marks Regulations 1995; Innovation Patent Act 2000; Designs Act 2003; Copyright Legislation
+Amendment Act 2004; Competition and Consumer Act 2010 (formerly the Trade Practices Act 1974); and
+Intellectual Property Laws Amendment (Raising the Bar) Act 2012.
+
+Patents
+
+Types and duration. Standard patents have a 20-year term (up to 25 years for pharmaceuticals);
+innovation patents have an 8-year term.
+
+Novelty. Standard patents: No prior documentary publication anywhere in the world and no other prior
+publication in Australia. Innovation patents: No prior publication in Australia, subject to grace period during
+which, in certain circumstances, patent may be protected even if made public.
+
+Unpatentable. Inventions contrary to law; human beings and the biological processes for their generation;
+inventions that were subject to secret use in the patent area prior to the priority date; and processes of
+production for food and medicine when merely a mixture of known substances.
+
+Fees. Standard patents: Filing with complete specification: A$470 in paper form, A$370 online. Request
+for examination: A$490. Acceptance of application: A$250. Continuation fees for standard patents: start at
+the 4th anniversary at A$300, increase to A$500 at the 10th anniversary, A$1,120 at the 15th anniversary
+and A$2,300 at the 20th anniversary. Preliminary search and opinion: A$2,200. Innovation patents: Filing
+a request: A$280 in paper form, A$180 online. Request for an examination: A$500. If a third party
+requests examination, both the applicant and third party pay A$250. Renewal fees: start at A$110 on the
+second anniversary and increase to A$220 on the fifth anniversary. Fees noted are as of August 2014.
+
+Registered designs
+
+Page105of405©2018Factiva,Inc.Allrightsreserved.Types and duration. Registered design for shape, configuration, ornamentation or pattern applied to an
+article. Initial period is 12 months, extendible for three consecutive five-year periods to a maximum of 16
+years.
+
+Legal effect. Design holders are granted the right to apply the design to an article for which it is registered.
+
+Fees. Application: A$350 in paper form, A$250 online. Examination: A$420. Renewal (for a further five
+years after the first five years, if done online): A$320. Fees noted are as of August 2014.
+
+Trademarks
+
+Types and duration. Trade and service marks, certification marks, defensive marks, collective trademarks.
+Registered initially for ten years; renewals indefinitely for periods of ten years.
+
+Legal effect. A registered trademark confers monopoly rights to exclusive use and to obtain relief for
+infringement, subject to various defences. A user of the trademark whose use preceded a registrant's use
+and registration also may obtain registration. Trademarks may be struck from the register after a period of
+non-use in the country.
+
+Not registrable. An application to register a trademark will be rejected for marks with specified excluded
+words like "Royal" and "Olympic", for marks that cannot be represented graphically, for scandalous or
+deceptive marks, and for marks substantially identical or deceptively similar to ones previously registered
+for similar goods/services.
+
+Fees. Application to register a single class: A$220 in paper form, A$120 online. Application to register a
+series of trademarks: A$370 on paper, A$270 online. Registration: A$300. Renewal: A$350 on paper,
+A$300 online. Higher fees apply for the online filing of trademarks that do not use the so-called Goods
+and Services Pick List, which automatically classifies goods and services. Fees noted are as of August
+2014.
+
+Plant varieties
+
+Types and duration. Plants, up to 20 years; trees and vines, up to 25 years.
+
+Legal effect. Monopoly marketing rights in Australia.
+
+Fees. Application: A$445 in paper form; A$345 online; A$1,610 for examination or A$1,380 for each
+variety in a multiple application; A$920 for a variety in a centralised testing centre; A$345 for a certificate.
+Renewal: A$345 online, A$395 on paper. Fees noted are as of August 2014.
+
+Copyrights
+
+Types and duration. Copyright may apply to literary, dramatic, musical and artistic works; computer
+programs; sound recordings; cinematographic films; television and sound broadcasts; and published
+editions of works. Copyright comes into effect automatically; no registration is required. For most literary,
+dramatic, musical and artistic works, copyright duration is for the life of the author plus 70 years after the
+end of the year in which the author died.
+
+Legal effect. Exclusive right to do, or to authorise the doing of, a number of different acts in relation to that
+particular work or subject matter.
+Intellectual property and e-commerce: Registering property
+A company conducting business in Australia must be registered under the Corporations Act 2001.
+Business names that differ from a company's registered name must be separately registered under local,
+state or territory business-name laws. Mere registration of a company or business name provides no
+exclusive-use rights and is always subject to others' trademark rights.
+IP Australia, the federal agency that grants intellectual-property rights, has sub-offices in the capital cities
+of each state. According to the latest data available, in 2013 it received 29,717 patent applications,
+177,213 trademark applications, 6,889 design applications and 330 plant-varieties-rights applications.
+
+Patents. Applications for patents of invention must be filed with the Commissioner of Patents at IP
+Australia or with a receiving office for the Patent Co-operation Treaty outside Australia. An application
+must include a complete specification or provisional specification (followed by a complete specification
+within 12 months). Each application must relate to only one invention and, with documents filed, must fully
+disclose the invention.
+
+Page106of405©2018Factiva,Inc.Allrightsreserved.IP Australia examines each patent application for compliance with formal requirements. These include the
+manner of the new manufacture, its novelty, inventiveness and utility, and its compliance with internal
+requirements (fair basing, absence of ambiguity). The examiner then issues a report to the applicant. If
+the examiner has objections, the applicant may amend the patent application or contest the objections.
+The applicant also has a right to a hearing before the commissioner to determine any outstanding issues.
+
+Where the same item has already been patented in a foreign country, the foreign applicant may
+sometimes request a less-rigorous modified examination. This may be based on patents granted in the
+US, Canada, New Zealand or the European Patent Office, as long as the patent is in English. Under the
+provisions of the Patent Co-operation Treaty of 1978, companies may file an international patent
+application, which has the effect of a national patent application in all nominated signatory countries.
+
+When an application is accepted, a notice of acceptance is published in the Australian Official Journal of
+Patents. Publication begins during the three-month period within which a notice of opposition may be filed.
+It can take up to five years to obtain a standard patent.
+The Intellectual Property Laws Amendment (Raising the Bar) Act, which entered into force on April 15th
+2013, aims to raise the standards of patents by expanding the definition of "prior art" for inventive-step
+considerations beyond what is "ascertained, understood and regarded as relevant" by a skilled person as
+described under existing law. In addition, the modification or deferral of a patent examination is no longer
+possible.
+
+Trademarks. An application is filed with the Registrar of Trademarks at IP Australia. It must include the
+name and address of the applicant; a list of goods and services for which the trademark is used, or
+proposed; and the relevant class number, as well as a representation of the trademark.
+
+After a delay of about four months, the application is examined for formal and other matters relating to
+registration. Expedited examination is available without an additional fee if there are reasons to justify
+granting it (for instance, if urgent litigation is pending). An applicant has up to 15 months from the date of
+the first examiner's report to overcome any objections. Once the applicant overcomes these objections,
+the application is accepted and advertised for opposition purposes. If no opposition is filed within three
+months, the application is registered on payment of a fee. Decisions may be appealed to a prescribed
+court.
+
+IP Australia also operates TM Headstart, a programme offering a fast, low-cost, preliminary assessment
+of a proposed trademark. Forms are completed online and assessed within five working days. The cost is
+A$120 per class.
+
+Designs. Applications to register designs are filed with the Registrar of Designs at IP Australia. They must
+be in writing and signed by the applicant. The application is examined for formal matters and design
+novelty. The registrar searches prior art, which is usually confined to previously registered designs,
+published designs, and a limited number of trade journals and catalogues. On registration, the applicant
+receives a certificate. Registration takes about six months from the filing date.
+
+Plants. Applications to register a plant variety are filed with IP Australia. If the application is successful,
+the applicant is notified within 30 days. Details of the application, a description of the variety, notice of
+grant and any variations to the application are published in the Plant Varieties Journal. Anyone may file a
+formal objection to the application within six months of publication of the description of the variety.
+
+Copyrights. Copyright protection for the original expression of ideas (not for the ideas themselves) is free,
+and it automatically safeguards original works of art, broadcasts, computer programs, films, literature and
+music from copying and certain other uses. Protection applies from the time the material is first drawn,
+filmed painted, taped or written down. It also may enjoy reciprocal protection under the laws of other
+countries that are signatories to the Universal Copyright Convention.
+
+Australia's Copyright Act 1968 gives exclusive rights to license others to copy a work, perform it in public,
+broadcast it, publish it or make an adaptation of it. Rights vary with the nature of the work. Although a
+copyright notice with the owner's name and date is not necessary in Australia, it can help prove copyright
+ownership, and it is necessary to establish a copyright overseas. It can also deter potential infringement.
+The federal attorney-general's department administers the legislation for automatic rights to copyright.
+Intellectual property and e-commerce: Recent licensing agreements
+MMRGlobal, a US-based secure records-storage firm, signed a licensing agreement with Australian
+health information technology provider Claydata in July 2014. Under the agreement, Claydata will license
+MMRGlobal's portfolio of personal health-record patents in Australia and New Zealand and offer
+MMRGlobal's proprietary MyMedicalRecords features to its customers. In exchange, MMRGlobal will
+receive licensing fees based on a percentage of Claydata's sales.
+
+Page107of405©2018Factiva,Inc.Allrightsreserved.Cancer Research Technology (CRT), a cancer research commercialisation firm based in the United
+Kingdom, entered a licensing agreement with Australian drug development firm Alchemia. The March
+2014 deal allows Alchemia to license two early-stage anticancer drugs from CRT's portfolio and evaluate
+their potential for formal development. The agreement includes licensing fees and royalty payments,
+although specific monetary amounts were not disclosed.
+
+Aspen Pharmacare, a South African pharmaceutical multinational, signed a licensing deal with Australian
+pharmaceutical firmQRxPharma in September 2013. The agreement allows Aspen to commercialise
+QRxPharma's pain-treatment drug in Australia, New Zealand and Oceania. The deal was valued at
+A$1.25m, not including royalties.
+Intellectual property and e-commerce: Negotiating a licence
+
+Local organisations that can help identify suitable partners are the Australian Trade Commission (a
+federal agency within the Department of Foreign Affairs and Trade), the chambers of commerce in major
+cities, merchant bankers and other sources of capital.
+
+The Franchise Council of Australia, a trade and industry association, represents mainly companies that
+license entire business formats, especially in retail. The Licensing Executives Society of Australia and
+New Zealand, a member of the Licensing Executives Society International, is a professional association of
+business executives, patent attorneys and lawyers active in the field.
+
+All terms and conditions are negotiable for licensing agreements with Australian companies. In practice,
+these tend to follow business patterns in Western Europe and North America. Details of individual deals
+generally are treated as strictly confidential.
+
+Royalties are usually calculated as a percentage of the licensee's net selling price. They can range from
+0.1% for the use of a mining technique for a high-value, high-volume commodity to 60% for computer
+software that is easy to market but expensive to develop. For a general mechanical invention with wide
+application, royalties can be 3-10% but typically average 5%.
+Intellectual property and e-commerce: Administrative restrictions
+
+Australian law imposes virtually no official requirements for approval or registration on licence or
+technical-assistance agreements.
+
+Most licence terms are freely negotiated between the parties. Common-law doctrines (like restraint of
+trade) impose some minor restrictions; for instance, a clause that restricts a licensee from supplying
+competing goods or services might not be enforceable. Moreover, the Competition and Consumer Act
+2010 (formerly the Trade Practices Act 1974) prohibits certain anticompetitive clauses and practices, such
+as terms requiring the licensee to buy ingredients or parts from a particular third person (third-line
+forcing). There are similar provisions in the Patents Act 1990.
+Granting a franchise may constitute interest in a company, requiring disclosure of certain details in a
+prospectus under the Corporations Law 2001.
+
+EIU ViewsWire 29 Aug 2014 (T14:05), Part 9 of 28
+
+RF
+CO alcema : Alchemia Ltd | wipror : World Intellectual Property Organization
+IN
+
+iecom : E-commerce | iint : Internet/Online | itech : Technology | i2569 : Biotechnology | i257 :
+Pharmaceuticals | i951 : Health Care/Life Sciences | ibioph : Biopharmaceuticals | idrugty :
+Drugs/Medication
+c134 : Copyright | c133 : Patents | cgymtr : Intellectual Property | ccat : Corporate/Industrial News | cinprp
+: Industrial Property Rights (Patents/Trademarks)
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+NS
+
+RE
+IPD Regulations
+PUB The Economist Intelligence Unit, N.A., Inc.
+AN
+Document EIUCP00020140902ea8t00009
+
+Page108of405©2018Factiva,Inc.Allrightsreserved.

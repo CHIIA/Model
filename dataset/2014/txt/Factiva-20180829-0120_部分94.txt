@@ -1,0 +1,189 @@
+Data: this century's oil boom
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Supplement - Special Report
+Data: this century's oil boom
+
+Technology Mark Eggleton
+1,351 words
+18 March 2014
+The Australian Financial Review
+AFNR
+First
+3
+English
+Copyright 2014. Fairfax Media Management Pty Limited.
+
+Big data is the current relatively amorphous buzz concept that has grabbed the attention of business
+over the last couple of years.
+
+Yet while we suffer occasional bouts of paranoia concerning the data collection techniques of
+governments, Google, Facebook or Twitter, one man really led them all.
+
+Amazon's Jeff Bezos, who exhorts employees with the phrase "This is still day one", understood that
+data was in many ways the oil of the 21st century.
+
+Andreas Weigend, a former Amazon chief scientist and current lecturer at Stanford University and
+the Cheung Kong Graduate School of Business in China, the big challenge for business is figuring
+out who refines the oil (data) and how it will be refined.
+
+Mr Weigend who has consulted to businesses and groups as diverse as Goldman Sachs, AT&T,
+Alibaba and the World Economic Forum will be presenting at Sydney's World Business Forum.
+
+He says today's successful companies are able to make sense of their data because they are able to
+"quantify their model of customer delight."
+
+"Data gives you all the answers so the challenge for business is to ask the right questions. The
+problem for many businesses is they don't know which questions to ask."
+Though each company model differs, a fruitful starting point is to express strategic goals as
+concrete equations.
+
+"It's a bit like a recipe where you have to weigh the ingredients like the flour and the sugar. It's
+relatively easy to find the right weight of ingredients as opposed to sitting and trying to agree what
+needs to be done."Better or worse
+
+One of the first things Mr Weigend asks companies when he's consulting is whether the product gets
+better with data or worse.
+
+He says companies need to engineer their systems so they get better with data because ultimately it
+is all about helping people make better decisions.
+"It's about regret minimisation because we want you to buy stuff you believe in."
+It's the secret of Amazon, which markets itself as Earth's most customer-centric company – as it
+records every keystroke and page you click through in a bid to improve the user experience on your
+next visit by customising you. Interestingly, being treated as an individual is more back to the future
+than a new-fangled idea.
+
+Page298of315©2018Factiva,Inc.Allrightsreserved.Wind back the clock just over a century and a visit to the local grocery store to buy bread and milk or
+sugar and flour saw you treated as an individual.
+The shopkeeper knew regular customers individually and would remember favoured purchases.
+
+It was in the immediate aftermath of the industrial revolution and the advent of mass production that
+created the mass consumer.
+
+The first Fords off the production line were built for the masses – in any colour as long it was black.
+
+The only market segmentation was in the different levels of retail catalogues posted out to
+consumers.
+
+Segmenting the market was expensive because everything had to be manually recorded and all the
+marketing collateral had to be sent by mail.
+
+Data means those expensive constraints are no longer there. Individuality is king
+
+For example, American Express employs a team of statisticians in the US who figure out what offers
+to show each individual based on their transactions over the last month.
+"The market is no longer about segmentation by group but coming up with offers for individuals –
+from catalogue segments to individual segments once a month," Mr Weigend says.
+
+"With mobile's shareability we can break up data further from a segment size of one to a segment
+size of one tenth.
+
+"We can tell how far you have walked today, whether you're passing the shop and running late or
+early for work, which tells us you might be in the market for a cappuccino."
+
+It's this level of tracking which does tend to make consumers (especially in Western nations) a little
+skittish.
+
+In the wake of Edward Snowden's revelations many people are worried about the amount of
+personal data they're sharing.
+
+Mr Weigend agrees we need to have a debate on the level of data being retained but he says we do
+tend to worry more about the rare downside risk than we do the long-term benefits.
+
+"There is no black and white answer it's all very grey.
+
+"We have to ask ourselves what sort of society do we want to engineer and what are the potential
+downside risks of someone sharing our data," he says.
+
+"I want to help consumers make decisions in an informed way because it is very tricky.
+
+"We need to ask what are the role of secrets and which level of granularity we want – do we want to
+be seen as an individual or as just another citizen?
+
+"Do we want to be seen as a person who sits next to another guy in the office who bought the same
+book or would you rather order anonymously as an individual?" Thinking has changed
+
+A key point for Mr Weigend is data has always been available; it's just the economics of data and
+surveillance that have changed.
+
+For example, a century ago your every move could have been tracked, by a team of private eyes,
+but it was prohibitively expensive. Nowadays, every time your mobile rings it's providing data of your
+exact location to your phone company. And it costs virtually nothing.
+
+In some ways, the level of data available does virtually render government census obsolete.
+Mr Weigend cites the examples of Tencent's Wechat service and Alibaba in China, both of whom
+probably know more block-by-block about Chinese consumers than the government.
+
+"In the UK, Tesco has better data than the census."
+
+Yet while business and consumers do have a lot of questions to ask about data collection and its
+use there are plenty of examples where better data collection does lead to a better customer
+experience.
+
+Page299of315©2018Factiva,Inc.Allrightsreserved.Mr Weigend believes Amazon is a great example, because Jeff Bezos understands the constraints
+of the past no longer apply.
+Hotel booking site Agoda uses data constructively rather than just pushing rooms to consumers.
+"Hotel inventory is extremely perishable and it makes short-term sense to just push excess inventory
+but we found that we're better off really trying to show people what they're looking for because user
+acquisition costs are high.
+
+"It's easy to optimise things short-term and screw up on the long-term. Good and bad
+
+"We also started to differentiate between good clicks and bad clicks. Traditionally, if people click that
+is a good thing but if it was a short click we were clearly not giving consumers what they wanted
+while a long click meant they were engaging with a property," he said.
+
+Weigend already sees plenty of simple examples of how sharing data works.
+
+"I recently saw an offering in San Francisco where as you drive to the airport you can organise to
+rent your car while you're away. So simple.
+"The company knows when you'll be back and they can match your car to someone who has just
+arrived.
+
+"They know when you're back and they can make sure your car is there when you return.
+
+"Suddenly, what used to be a cost is a potential money maker.
+
+"I could see a car rental business like Hertz or Avis offering car-sharing where you let your car to
+them as a management company and they just ensure your car or a replacement is there on return.
+
+"It would save on their fleet costs and it's matching data with needs."
+Weigend mentions US finance start-up SigFig (see related report) as another company shaking up
+an industry through better use of data.
+
+As for advice to business, Weigend says some companies and organisations use big data to not
+make decisions.
+
+Business needs to make decisions and act rather than wait for more data.
+
+"There should be no analysis paralysis." he concluded.
+
+amzcom : Amazon.com, Inc.
+i64 : Retail/Wholesale | i656000301 : Etailing (B2C) | iretail : Retail
+ccat : Corporate/Industrial News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+Fairfax Media Management Pty Limited
+Document AFNR000020140317ea3i00013
+
+CO
+IN
+NS
+RE
+PUB
+AN
+
+Page300of315©2018Factiva,Inc.Allrightsreserved.

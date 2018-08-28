@@ -1,0 +1,166 @@
+Yen easing offers scant relief to shares
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Companies and Markets
+Yen easing offers scant relief to shares
+
+Equities Sally Rose
+804 words
+4 November 2014
+The Australian Financial Review
+AFNR
+First
+20
+English
+Copyright 2014. Fairfax Media Management Pty Limited.
+
+Another record profit from Australia's second-largest bank and more monetary easing by the Bank of
+Japan were not enough to buoy the local sharemarket, as Woolworths disappointed investors with its
+worst quarterly sales update in more than four years.
+
+The benchmark S&P/ASX 200 Index and the broader All Ordinaries Index each fell 0.4 per cent, on
+Monday to 5506.9 points and 5485 points respectively. Woolworths led the bourse lower following a
+disappointing sales update, along with Westpac Banking Corporation which fell after it delivered a
+full-year profit result in line with forecasts.
+
+Local shares declined despite a strong lead from offshore. Equity markets in the US and around
+Europe posted strong gains on Friday night after the Bank of Japan shocked markets with a move to
+increase the pace of its quantitative easing to ¥80 trillion ($809 million) per annum, compared to
+previous guidance for a maximum of ¥70 trillion. Japanese markets were closed on Monday, but
+Nikkei futures were pointing to further strong gains after the benchmark index shot up 4.8 per cent on
+Friday.
+
+"The BoJ's decision will increase global liquidity at a time when QE in the US is ending and should be
+supportive of global markets, including the ASX," Contango Asset Management portfolio manager
+Shawn Burns said.
+But some lacklustre company news and disappointing domestic and Chinese economic data meant
+the local market got little benefit from the positive sentiment about Japan's expansionary monetary
+policy on Monday. Australian Bureau of Statistics data showed building approvals dived 11 per cent in
+September, against expectations for a 1 per cent fall.
+
+"A drop of 11 per cent in September is clearly a concern, however month to month data is extremely
+volatile," Asenna Wealth Solutions senior trader Assad Tannous said.
+
+The Reserve Bank of Australia is expected to keep rates on hold at their record-low 2.5 per cent when
+the board meets on Tuesday. A swag of private economic surveys  indicated house price growth is
+moderating, the labour market is strengthening and inflation is edging up.Not great for banksWestpac
+Banking Corporation dropped 0.7 per cent to $34.55 as it reported a 8 per cent jump in net profit for
+the 12 months to September 30 to $7.6 billion.
+
+Westpac lifted its full-year dividend from 88¢ to 92¢ per share, fully franked. Credit Suisse analysts
+called the result "marginally disappointing".
+
+ANZ Banking Group and National Australia Bank both delivered annual results in line with forecasts
+last week. On Monday ANZ added 0.2 per cent to $33.58, while NAB fell 0.3 per cent to $34.89.
+Commonwealth Bank of Australia edged up 0.1 per cent to $80.52. CBA boss Ian Narev has
+volunteered to testify at a Senate Inquiry into the bank's financial advice scandal.
+
+Page245of247©2018Factiva,Inc.Allrightsreserved.Woolworths dropped 4.9 per cent to $34.24 after the retailer showed September quarter sales rose by
+just 3 per cent, the slowest quarterly rate in more than four years.
+
+Main rival Wesfarmers, owner of Bunnings and Coles, edged up 1¢ to $44.15. Telstra Corporation
+lifted 0.7 per cent to $5.67. Brambles rose 0.7 per cent to $9.60 as the logistics group reported a 6 per
+cent rise in sales for the September quarter and raised its full-year earnings guidance.
+In China, National Bureau of Statistics data showed the non-manufacturing purchasing managers'
+index (PMI) fell 1.2 per cent in October to a nine-month low at 53.8 points.
+China's official manufacturing PMI for October released over the weekend came in at 50.8 points,
+missing median forecasts for a reading of 51.2 points. The final HSBC/Markit China Manufacturing
+PMI, released on Monday, edged up to 50.4 in October, unchanged from a preliminary reading.
+The spot price for iron ore, landed in China, was down 0.3 per cent to $US79.59 a tonne, with futures
+trading pointing to another fall overnight.
+
+Resources giant BHP Billiton lost 0.7 per cent to $33.71, while main rival Rio Tinto dropped 1 per cent
+to $59.78.
+Gold producer Newcrest Mining lost 7.6 per cent to $8.61, after the price of bullion plunged more than
+2 per cent to a new four-year low on Friday.
+"Gold stocks fell heavily after the spot price broke though major technical support on Friday night and
+pushing into new five-year lows, Mr Tannous said. When the ASX closed gold was fetching
+$US1169.17 per ounce.
+
+Liquified Natural Gas was the best-performing stock in the ASX 200, climbing 5.4 per cent to $3.92, as
+it upped production targets.
+
+wolwth : Woolworths Limited
+i81402 : Commercial Banking | ibnk : Banking/Credit | i814 : Banking | ifinal : Financial Services | i64 :
+Retail/Wholesale | i641 : Food Retailing | i6411 : Supermarkets/Grocery Stores | i654 : Specialty
+Stores | iretail : Retail
+c1522 : Share Price Movement/Disruptions | epmi : Purchasing Managers Index | reqrbc : Suggested
+Reading Banking/Credit | c15 : Performance | ccat : Corporate/Industrial News | e11 : Economic
+Performance/Indicators | e1111 : Industrial Production | ecat : Economic News | ncat : Content Types |
+nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpin : C&E Industry News Filter | redit : Selection
+of Top Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+austr : Australia | jap : Japan | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | easiaz :
+Eastern Asia
+Fairfax Media Management Pty Limited
+Document AFNR000020141103eab40002c
+
+CO
+IN
+
+NS
+
+RE
+
+PUB
+AN
+
+Search Summary
+
+Text
+
+Date
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entitys) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+01/09/2014 to 31/12/2014
+
+Page246of247©2018Factiva,Inc.Allrightsreserved.Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+2,847
+28 August 2018 23:14
+
+Page247of247©2018Factiva,Inc.Allrightsreserved.

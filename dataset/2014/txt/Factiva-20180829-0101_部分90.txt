@@ -1,0 +1,506 @@
+5 May 2014
+
+HD 5 May 2014
+WC 5,518 words
+PD 5 May 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+Norman Swan: Hello, and welcome to the Health Report with me, Norman Swan.
+
+Today, does stress affect the onset or severity of breast cancer? Fascinating findings which suggest that
+doctors can't be quite so dismissive as in the past.
+
+TD
+
+And another thing doctors used to be dismissive about: psychotherapy in psychosis. Even Freud thought it
+was a waste of time and he treated almost anything. Well, it turns out there is a role for talking therapies in
+conditions like schizophrenia.
+
+That's all later, after what's becoming a typical good news bad news dilemma. New treatments are coming
+on stream for hepatitis C infection which can cure almost everyone carrying the virus. They come as pills
+and have few side effects, apart from their cost that is.
+
+One of Australia's leading authorities on hep C is Professor Greg Dore who's head of the viral hepatitis
+research program at the University of New South Wales.
+
+Greg Dore: Hepatitis C is a chronic viral infection that affects the liver and causes a progressive scarring
+process that can lead to cirrhosis and complications, including liver cancer.
+
+Norman Swan: And how do you catch it?
+
+Greg Dore: In Australia the predominant means of infection is injecting drug use, so people who share
+contaminated injecting equipment. On a global scale however the most common means of infection is
+actually contaminated injections within the healthcare setting.
+
+Norman Swan: There used to be this cascading notion that of 100 people who got hepatitis C, so many got
+liver disease and so many ended up with liver failure and a liver transplant or dying. What's that story?
+
+Greg Dore: So those that become infected, three-quarters go on to develop a chronic infection. And of
+those people we think about 20% to 30% will progress to cirrhosis.
+Norman Swan: And is there any sexual acquisition of hepatitis C?
+
+Greg Dore: Minimal. I mean, in the context of men who have sex with men, particularly HIV-infected men,
+there seems to be an emerging sexually transmitted epidemic. But in the heterosexual setting we very
+rarely see cases of sexually acquired infection.
+
+Norman Swan: And living in the same home as somebody with hepatitis C?
+
+Greg Dore: Almost never seen.
+
+Norman Swan: How many Australians have chronic hepatitis C infection?
+
+Greg Dore: Around 230,000.
+
+Norman Swan: So it's a lot.
+
+Page200of231©2018Factiva,Inc.Allrightsreserved.Greg Dore: And it's increasing in terms of the burden of disease. So a lot of people have been infected now
+for 20, 30 years. People who became infected through injecting drug use in the '70s, '80s and '90s, and
+that's producing more and more advanced liver disease.
+
+Norman Swan: And it's almost universal on exit from Australian prisons.
+
+Greg Dore: It is very high prevalence. So around a third of inmates would have hepatitis C, so it's a big
+problem in prisons across the country.
+
+Norman Swan: So things have changed. It used to be untouchable, incurable, we only barely had a test for
+it.
+
+Greg Dore: Enormously. I remember giving a presentation at a conference in the late 1990s and I said back
+then that no one should be treated for hepatitis C because the results were so poor and the success rate
+was only 5% to 10% and there were significant side-effects. But it looks like in the near future we will be
+curing more than 90% of people who commence therapy, if we can get access to these new regimens that
+have been recently developed.
+
+Norman Swan: So what's changed?
+
+Greg Dore: A couple of key things. Treatment has been Interferon based for the last two decades.
+
+Norman Swan: Interferon is a drug that has some antiviral effects but also influences the immune system.
+
+Greg Dore: Exactly, and it's given subcutaneously, so injections once a week in combination with tablets,
+and the main tablet being ribavirin.
+
+Norman Swan: Which is like an antibiotic for viruses.
+
+Greg Dore: Yes, exactly. So that sort of combination has cured around about half the people we treat. But
+it's had significant side effects, it’s required at least six months, often 12 months of therapy.
+
+Norman Swan: And what's new?
+
+Greg Dore: This amazing turnaround. We've moved from that era to an era where we look like we are going
+to completely remove Interferon from the treatment regimen.
+
+Norman Swan: Because that's the cause of a lot of the side effects.
+
+Greg Dore: Absolutely. And we will have regimens that will be all oral, will require generally only 12 weeks
+of therapy, will have very limited if any side-effects, and provide cure rates above 90%.
+
+Norman Swan: And what the technology that's done that?
+
+Greg Dore: There are classes of drugs now that directly inhibit the key enzymes that are involved in
+replication of the virus. Unlocking the way that the virus replicates has enabled people to develop
+therapies, as I said, that directly inhibit these enzymes. So combining a couple of those inhibitors together
+provides a very potent effect on the virus.
+
+Norman Swan: Now, I should have a declaration of interest here; I have spoken at symposia sponsored by
+the drug company that produces the latest drug. Have you got any conflicts of interest you'd like to declare
+before we go on with this?
+Greg Dore: I'm an advisor for several pharmaceutical companies that are developing different regimens.
+
+Norman Swan: And having said that I was at a symposium sponsored by this, they're charging an
+outrageous price. They are charging…what is it, $100,000 for a treatment, just extraordinary sums which
+are hard to explain.
+
+Greg Dore: So the first key direct acting anti-viral that I think will be part of the main treatment armoury over
+the next decade or so is a drug called Sofosbuvir, and it's listed…it's just been approved in the United
+States…listed at a price of $84,000 for a 12-week course. There is another agent, a protease inhibitor
+called Simeprevir, $66,000 for a 12-week course. And a lot of clinicians in the United States, now that those
+two drugs are approved, are in fact combining those two drugs, which is a very effective regimen, but that's
+$150,000 for a curative course of therapy.
+Norman Swan: And of course the drug company will say, well, I've saved somebody from liver failure and
+liver cancer and saved their lives and how much do you value that, therefore it's cheap at the price. But it's
+a lot of money.
+
+Page201of231©2018Factiva,Inc.Allrightsreserved.Greg Dore: It is a lot of money if you want to treat a lot of people.
+
+Norman Swan: So you're saying you've got 230,000 people with chronic hep C, when do they qualify for
+this drug if it was approved?
+
+Greg Dore: I think that's the key difference. To date we've only been treating 1% to 2% of that chronic
+infection pool per year, so only a few thousand people in Australia per year have been able to be treated,
+and part of the reason why the treatment numbers are so low is because of the toxicity of therapy and the
+difficult course of therapy. So now that we’re going to transfer from that paradigm to an incredible paradigm
+potentially with limited side-effects, high cure rates, and therefore we expect a huge demand of those
+people coming forward to access that therapy. I think the government is going to be very concerned about
+that potential wave of the new demand and the high cost of therapy. So the next year or so in terms of
+evaluation of these regimens as they move through by the Pharmaceutical Benefits Advisory Committee
+will be obviously crucial in terms of the broad strategy.
+
+Norman Swan: It's going to be very hard for them because it's going to be a vast amount of money in a
+shrinking budgetary environment. What I don't get is why don't doctors, specialists like you, rise up in
+arms? This is what happened at Memorial Sloan-Kettering a couple of years ago, a new cancer drug
+comes on, the cancer specialists there thought it was completely outrageous, the price, and hard to justify,
+and they just said, 'Sorry, we can't afford to buy it and we're not going to buy it.' And because they were the
+key opinion leaders in the United States in terms of this drug, the drug company immediately or relatively
+soon dropped their price quite dramatically. Why don't specialists get together and say to the drug
+company, 'Jack off and reduce your price, because we are not going to prescribe it. It's unfair.' You're not
+going to be able to afford the drugs for your HIV patients.
+
+Greg Dore: I think it's an important point. What is happening at the moment is that there are some good
+partnerships across the sector between the community-based organisations, the key peak bodies in terms
+of clinicians, to try and come together to develop an advocacy strategy around this. We all want the best
+possible therapy for people affected by hepatitis C, there's no doubt about that.
+
+I think Australia at least has a reasonable system in terms of pricing. So we won't pay those premium
+prices that are paid for in the United States. We always pay significantly less than that, but it still will be a
+sizeable amount of money. And if the bucket is not able to be enlarged in terms of the total spent on
+hepatitis C, we'll still be restricted in terms of the total number of people we'll be able to treat. And those
+restrictions will probably be based on either people with more advanced liver disease or what we call a cap
+on the total numbers of people who can be treated per year. So you're right in the sense that if we could
+help to negotiate a considerably lower price, clearly the number of people able to be treated would be
+expanded significantly.
+
+Norman Swan: But it's hard to justify. I mean, I think that somebody did what the cost of, including
+amortising the cost of development, and it's in tens of dollars, not thousands or tens of thousands of
+dollars.
+
+Greg Dore: Absolutely, there's been some really nice work recently done coming out of the UK that has
+stated that the production price for a 12-week course of highly curative therapy is maybe $100 to $200.
+
+Norman Swan: They deserve to be reimbursed for their research and development.
+
+Greg Dore: Sure, that will be the pharmaceutical industry argument, that there needs to be return on
+investment. It's a huge investment to bring these agents right through to licensure. But what is happening I
+think globally is a range of advocacy movements to try and sort out how we can improve access, and
+access in different settings, so access in low and middle income countries. The interesting thing about
+hepatitis C is that the majority of people actually live in middle income countries such as India and China in
+terms of the global burden of disease, but also access in high income countries like Australia. We have a
+constrained fiscal environment, as you pointed out, so we need to develop a strategy that will give us the
+best potential access and the best solution for people affected by hepatitis C.
+
+Norman Swan: Of course another argument from the pharmaceutical industry I presume is, well, you know,
+12 weeks and they're cured and then we don't have further use for this drug. Are there likely to be other
+uses of drugs such as these? Are they only active in hepatitis C or are they useful in HIV and other viral
+infections?
+
+Greg Dore: They are really only active in hepatitis C in terms of their activity. I think one of the other
+arguments they use is that treatment for hepatitis C over the last decade or so has been expensive. So
+Interferon, the monitoring of that therapy, the management of the toxicity of that therapy, the length of that
+therapy is equal to a fairly large spend. But as I said before, the total spend has been constrained by the…
+
+Norman Swan: Narrowness of the base.
+
+Page202of231©2018Factiva,Inc.Allrightsreserved.Greg Dore: Exactly. So now in terms of a public health approach, if you really want to impact on this rising
+burden of advanced liver disease, we have to treat three, four, five-fold the number of people we've been
+treating over recent years, that's what we want to achieve at a population level. So we are only going to do
+that if we can get the government to increase their investment several-fold in hepatitis C or, as you say, get
+a much cheaper price and enable expansion in terms of the numbers that we treat.
+
+But I think part of the solution is there in the fact that we have several companies that have what I think will
+be very competitive successful regimens moving through towards licensure. If it was only one or two
+companies it would be problematic, but if we have five or six companies that have very effective regimens,
+there will be competitive pricing, there will be no doubt about that.
+
+Norman Swan: In a sense there is a big stigma around hepatitis C, that you think it's just…I shouldn't have
+used the word 'just'…but you think it's just people who are out on the streets mainlining heroin or cocaine or
+what have you, but it is much broader than that in the population.
+
+Greg Dore: Yes, I think that's a really important point, there's enormous stigma around hepatitis C and that
+clearly is related to the alignment of hepatitis C with the main mode of infection being injecting drug use.
+But the reality of people with hepatitis C is that they are an incredibly diverse population. I see people in
+different clinical settings. And sure, I see people who are still injecting and have significant social and
+health issues related to that injecting, but I see many, many people who might have injected for a very
+short period of time and are what you would call…
+
+Norman Swan: Lawyers, doctors…
+
+Greg Dore: Exactly, like us! Very much part of…
+
+Norman Swan: Are you about to tell me something, Professor Dore?
+
+Greg Dore: No. Very much part of mainstream middle class Australia. And they are a very, as I said,
+diverse, interesting population of people, and it's a real privilege to be part of the care for those people.
+
+Norman Swan: Greg Dore, thank you very much for joining us on the Health Report.
+
+Greg Dore: A pleasure, Norman
+
+Norman Swan: Professor Greg Dore who's head of the viral hepatitis research program at the Kirby
+Institute at the University of New South Wales.
+
+You're listening to the Health Report here on RN with me, Norman Swan. Still to come, is breast cancer
+made worse or even caused by chronic stress? That's later.
+
+A group of psychologists and researchers at the University of Technology Sydney has published what they
+call a manual designed for both mental health professionals and consumers about an area which until only
+relatively recently was frowned upon as useless and a waste of time and resources: psychotherapy for
+people with psychosis.
+
+Psychosis is a loss of contact with reality involving, among other things, delusional thinking and even
+hallucinations. It can be chaotic and certainly scary for the person experiencing an episode and the people
+around him or her. Freud reckoned that psychosis was too hard for talking therapies to crack. But there's
+growing evidence some of them can help.
+
+Tony Kidman leads the group which produced the manual and has been practising and researching
+cognitive behavioural therapy—one of the best studied forms of psychotherapy—for many years.
+
+Tony Kidman: The work that's been done over the last 20 years now, particularly in the UK but also in the
+US, saying that the use of psychotherapy in conjunction with medication can be very helpful, and
+sometimes with medication-resistant psychosis.
+
+Norman Swan: And you've had a particular interest in cognitive behavioural therapy. So just remind us
+what cognitive behavioural therapy is.
+
+Tony Kidman: Right, yes I have. Essentially the core principles are that we can think about our thinking. So
+if we have negative thought about our health, our future, job or whatever, that is not necessarily a complete
+fact. There may be elements of it that aren't quite as bad as you think, and being able to challenge it and
+talk back to yourself, that can be a very helpful strategy. It is only one of many strategies, but that concept
+of being able to think about your thinking, challenge it, dispute it, can have a profound influence on your
+mood and on your actions.
+
+Page203of231©2018Factiva,Inc.Allrightsreserved.Norman Swan: Now, that's hard enough to do when somebody is depressed and they think, 'I'm worthless,
+nobody likes me, and I have no future in the world,' and you challenge their thinking, saying, 'Well, you're
+not worthless, look at the world you've got around you, you're a successful person,' et cetera. And you start
+reframing your thinking in that sense.
+
+Tony Kidman: That's correct.
+
+Norman Swan: But the reason that people say that's impossible in psychosis is that, if you like, psychosis is
+much further down the track in terms of unrealistic thinking because in fact what you're dealing with are
+delusions.
+Tony Kidman: You are, and hallucinations. I'm not suggesting that that can be applied in the middle of a
+frank episode, but psychosis and schizophrenia (which can follow) are episodic, and the evidence is that if
+people receiving medication can be engaged in therapy then slowly but surely these techniques not only of
+challenging negative thinking but other behavioural techniques, distraction techniques and a whole lot of
+other things, they can realise that when they are heading up for an episode (and they often realise it) these
+techniques can help. They are also very useful for compliance.
+
+Norman Swan: Sticking to treatment.
+
+Tony Kidman: With medication, people coming off, because they don't like some of the side-effects. So
+there's a whole range of benefits.
+
+Norman Swan: So what do you do? Do you confront somebody, say, if you're starting to believe that the
+world is against you and people are talking about you, for example, recognise that…
+
+Tony Kidman: Well, we do, but of course we don't challenge necessarily the fact that they say, 'people are
+trying to kill me', or 'there's people from the CIA or ASIO across the road in a car sending me messages'.
+The therapeutic approach is to say, well, 'what does that really mean', or 'just elaborate on how you feel
+about that', without saying 'that's a load of nonsense'. But not accepting it either.
+
+I was talking to somebody the other day who I've been seeing for many years. She was telling me that the
+people who had been hounding her for the past 20 years have started to come back. But in the end she
+allowed those thoughts, which I said, 'I'm sorry to hear that they're there…' or I don't know whether I used
+that phrase but let's just see what you can do as you normally do when those sort of people or voices start
+to come back to you again. So at the end of the conversation she agreed that those voices could sort of
+drift to the back of her head, and she was better than when she started.
+
+Norman Swan: So have there been randomised trials of cognitive behavioural therapy?
+
+Tony Kidman: Oh yes.
+
+Norman Swan: And what do they show?
+
+Tony Kidman: Good. I mean, it's not magic, but the evidence is certainly accumulating that CBT…I mean,
+there are other therapeutic models as well that can be used, but the evidence is that it has benefits. Of
+course the problem is that schizophrenia and psychosis has had a bad brand. Depression and anxiety, a lot
+of people come forward, celebrities and others, but not many people come forward and say they suffer from
+schizophrenia. There's a tremendous stigma because the press attributes are many violent crimes to
+people suffering from schizophrenia.
+
+Norman Swan: Does it lower the relapse rate?
+
+Tony Kidman: Yes, it does, and the intensity of the episode.
+
+Norman Swan: So one of the problems in schizophrenia which hampers rehabilitation is that drugs, albeit
+that they have side-effects, are quite good at controlling what they call the positive symptoms, which are
+delusions, hallucinations, the things that we've been talking about. But what stops somebody really getting
+better, back to work and so on, are what are called the negative symptoms, which is that you lose social
+skills, you become apathetic, you find it difficult to motivate yourself. There's no drugs that affect that. Does
+CBT help that?
+
+Tony Kidman: It most certainly does. And in our study that was one of the main things that we focused on,
+and treating them in that way, using all the repertoire of skills from cognitive behavioural therapy, social
+skills, distraction techniques, scheduling activities, pushing oneself, you know, when you feel demotivated
+and so on. But again, that requires engagement and trust between the therapist and the client.
+
+Norman Swan: And you've had experience yourself with schizophrenia in your family.
+
+Page204of231©2018Factiva,Inc.Allrightsreserved.Tony Kidman: I have, Norman. My brother, who was two and a half years younger than me, was diagnosed
+in the late '50s with schizophrenia. He'd been down training to become a religious in the Jesuit order and
+unfortunately that didn't work out and he was sent back, came back, and he started to hear voices and so
+on.
+It was a very, very difficult time, and I'm not suggesting that that's been dramatically improved for family
+members, because when a family member gets diagnosed with this there's tremendous stigma, there's
+fear, a whole range of negative emotions arise and it can throw the family into a very, very difficult situation.
+It did in my case, in our case, and my mother in particular had a very, very difficult time over many years in
+which he was in and out of hospitals. And of course the treatment then was very basic, and he had a great
+deal of electric shock and so on, and drugs that were not particularly effective.
+
+So I had an experience of that. And seeing people in the unit…my colleagues of course are doing all the
+work these days and I try and just keep the show on the road, and they wrote this manual and papers that
+are emerging from it, they are the authors, have come up with suggestions in that, particularly the manual,
+even though it's written for professionals, for family members to take some hope about how they can help
+manage their son, daughter, relative suffering from schizophrenia and from an initial episode of psychosis.
+So I'd like to think there are some good tools available, and also there's a lot more help available than there
+was. Not enough, by any means, not enough. And I'd just like to think and hope that anyone listening to this
+program can get some benefit from that.
+
+Norman Swan: So if somebody is listening to this and they want this kind of care, they need to talk to their
+GP about getting referred to a psychologist…?
+
+Tony Kidman: Yes, that's exactly right.
+
+Norman Swan: …who does cognitive behavioural therapy. And if they want your manual we'll give some
+details on our website of how to get it.
+
+Tony Kidman: Yes, we're happy to do that. Of course the Australian Psychological Society has a telephone
+number and people can be contacted there to find out clinical psychologists that they could seek help from.
+But the GP-psychology symbiosis is very good.
+
+Norman Swan: Tony Kidman, thanks for joining us on the Health Report.
+
+Tony Kidman: Good to see you and talk to you again Norman, thank you.
+
+Norman Swan: Tony Kidman is director of the Health Psychology Research and Treatment Unit at the
+University of Technology Sydney.
+
+Now to stress and breast cancer.
+
+Women who develop breast cancer are often to be heard claiming stress had something to do with it
+because of disruptions in their lives prior to being diagnosed. And while cancer specialists are sometimes
+sympathetic, they generally have rejected the idea of a link.
+
+But research from the laboratory of Professor Suzanne Conzen at the University of Chicago should make
+the experts think again.
+
+Suzanne Conzen: Well, it is an interesting story. My laboratory was studying a type of breast cancer which
+does not depend on the oestrogen signal for its growth. And we decided that we wanted to look at a
+number of different compounds to see if they affected the growth of this type of breast cancer. It's known as
+triple negative breast cancer.
+
+Norman Swan: So just to explain here, you can typify breast cancer in lots of different ways: by the genes,
+but also by whether or not they've got a lock and key mechanism for hormones. And so one is oestrogen,
+one is progesterone, and I forget what the third one is.
+
+Suzanne Conzen: The HER2, or human epidermal growth factor receptor 2.
+
+Norman Swan: If you're positive for some of these then there are drugs which can treat you relatively
+easily. But if you're negative to them all, the prognosis can be quite poor.
+
+Suzanne Conzen: That's exactly correct. And I was interested in receptor negative breast cancer because
+we tend to see that type of breast cancer here on the Southside of Chicago. There is an association, for
+reasons we do not understand, with this triple negative breast cancer and young African American
+ancestry.
+
+Page205of231©2018Factiva,Inc.Allrightsreserved.Norman Swan: And we should just explain, we're sitting here at the University of Chicago, it's on the south
+side of Chicago which is really the poorest part of Chicago.
+
+Suzanne Conzen: That's correct. And so I was seeing a lot of young women with this type of breast cancer,
+which tends to be very aggressive.
+
+Norman Swan: And while these women's breast cancers were negative for those three hormones, the
+women who relapsed and did badly tended to have breast tumours which carried receptors, lock and key
+mechanisms if you like, for a stress hormone called cortisol, part of the glucocorticoid family.
+Glucocorticoids are associated with long-term chronic stress of the kind experienced by people who feel
+they've lost control of their lives. So Suzanne Conzen and a collaborator created experiments which
+induced chronic stress in female rats and mice from around puberty.
+
+Suzanne Conzen: And these rats she worked with first become very anxious and one can measure that
+objectively, and they stop grooming themselves and eventually they become quite ill. And in one of those
+cases of scientific serendipity she found that socially isolated female rats developed mammary gland
+tumours, or breast cancers, earlier than group housed female rats. And we actually did find that their
+glucocorticoid levels were very, very high in response to a superimposed stressor, and they did not return
+to normal after the removal of the superimposed stressor for a very long time. So their total exposure to
+glucocorticoid was quite high.
+
+Norman Swan: And on the tumour?
+
+Suzanne Conzen: And on the tumour they were larger tumours and they did express the glucocorticoid
+receptor. But we hypothesised that it is responding to this stress hormone. And we also found that they
+developed earlier and larger tumours when they were socially isolated, and we were able to show that
+some of the gene expression changes within the mammary gland happened very early on, even before the
+tumours were actually detectable.
+
+Norman Swan: What Suzanne Conzen thinks is that first comes the stress, then the stress hormone, then
+the receptors, then quite profound changes in the way the breast functions. And the breast cells which
+seemed to be the first responders to stress are the fat cells, which may, in a woman with a genetic
+predisposition to breast cancer send signals which induce malignant change in the breast ducts, the lining
+tissue where cancers arise. But not everything that happens in a mouse or a rat happens in a human.
+
+Suzanne Conzen: There are some interesting clues. There are other groups and they have looked at fat
+and other cells outside of the ducts in women who have either oestrogen receptor positive tumours or
+oestrogen receptor negative tumours in the other breast, the non-affected breast. And what they found is
+that there are very different characteristics to the fat tissue in these two types of patients. And so there are
+some clues that fat is actually an important thermostat of what's going on in the body
+
+Norman Swan: Of course women have said anecdotally for many years that they're convinced that they
+had this episode of stress: somebody died, their husband left them, they lost their job, and they got breast
+cancer a year later. And traditionally cancer specialists have said it's just a coincidence. It might actually
+not be a coincidence.
+
+Suzanne Conzen: I think for certain types of breast cancer it's something that deserves a lot more
+investigation. Many of my patients have asked me if stress contributed to their breast cancer without me
+ever asking and I always of course previously said no, of course not. I think as we learn more about the
+sub-types of breast cancer and understand the biology better, we'll be able to put these two pieces of the
+body together.
+
+Norman Swan: So the question then is whether intervening in some way by reducing the stress, giving a
+single woman more support with her three kids, whether that's going to change the outcome or whether it's
+too late at that point because she's already got the cancer.
+
+Suzanne Conzen: Yes, I think that our mouse models at least suggest that the intervention should be early,
+and that the stress in the younger woman is very important because that's when the mammary glands are
+finishing their development. But I do believe that there is evidence, and some of it is conflicting, that even
+after a woman has breast cancer that there is a role for social support.
+
+For example, there is work from Ohio State which has randomised women with breast cancer to social
+support or no social support and found a benefit in breast cancer outcome, and it was particularly
+significant among the women with oestrogen receptor negative breast cancer. So there are some
+tantalising pieces of information.
+
+Page206of231©2018Factiva,Inc.Allrightsreserved.The other possibility of course is actually blocking this receptor pharmacologically in either patients who
+have breast cancer or are at risk of getting breast cancer. Right now we have glucocorticoid receptor
+blockers and we are studying them in more advanced breast cancer here at the University of Chicago.
+
+Norman Swan: Have you got any sense at all of whether this story's true for women who might be
+oestrogen receptor positive, progesterone receptor positive or even HER2 positive?
+
+Suzanne Conzen: It's…
+
+Norman Swan: You're going to tell me it's complicated.
+Suzanne Conzen: No, I'm going to try and explain it, because I should be able to. So what's really
+interesting about this observation about the high glucocorticoid receptor expressing breast cancers is that
+when we looked at oestrogen receptor positive tumours that were high glucocorticoid receptor expressing,
+we actually saw the flip side. We saw that those tumours tended to not recur as quickly. And we believe
+(and this illustrates how complicated breast cancer is) that that is because the oestrogen receptor and the
+glucocorticoid receptor can speak to one another.
+
+One way of looking at it is if you walk into a room and there is the oestrogen receptor there, the
+glucocorticoid receptor might behave quite well. But if you walk into a room and the oestrogen receptor is
+absent, the glucocorticoid receptor does not behave nicely and causes a lot of changes in the cell that it
+wouldn't if the oestrogen receptor was present.
+
+So we think there's actually a big difference between the two types of breast cancer and how the
+glucocorticoid receptor is acting.
+
+Norman Swan: Suzanne Conzen is professor of medicine and cancer biology at the University of Chicago.
+
+CO unswau : The University of New South Wales
+NS ghepat : Hepatitis | c23 : Research/Development | gbreac : Breast Cancer | gcancr : Cancer | ntra :
+Transcripts | ccat : Corporate/Industrial News | gcat : Political/General News | ghea : Health | gmed :
+Medical Conditions | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex :
+FC&E Executive News Filter | niwe : IWE Filter
+
+RE austr : Australia | usa : United States | apacz : Asia Pacific | ausnz : Australia/Oceania | namz : North
+
+America
+
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140506ea5500031
+
+Page207of231©2018Factiva,Inc.Allrightsreserved.

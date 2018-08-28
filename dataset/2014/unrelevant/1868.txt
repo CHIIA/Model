@@ -1,0 +1,1677 @@
+Varian Medical Systems Inc Investor Meeting @ ASTRO in San Francisco - Final
+
+HD Varian Medical Systems Inc Investor Meeting @ ASTRO in San Francisco - Final
+WC 21,492 words
+PD 16 September 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+DOW WILSON, PRESIDENT & CEO, VARIAN MEDICAL SYSTEMS, INC.: I would like to welcome you to
+our ASTRO investor conference. We are grateful to have you all here. Sorry for the kind of long, skinny
+room. We are glad to have you here. We have got some great speakers for you today and I think it will be a
+very enjoyable and productive morning.
+
+Before we get started I would like to introduce a few people. We've got a few members of our Board here
+and I would just like to introduce them to you. Tim, if you can do stand out for a second, Tim Guertin is our
+Vice Chairman of the Board with us this morning. Mark Laret is here, Mark is our governance committee
+chair. And Sue Bostrom is here who is our comp committee chair of our Board. So we are grateful to have
+three members of our Board here today.
+
+Just want to remind everybody, forward-looking statements. We are in the -- toward the end of our quarter
+and in the middle of our quite period. Of course it would be -- I think as a result of that we are going to
+spend the day really talking about the clinical advances, what is happening in radiation oncology. I think
+this will be a lot of fun for you today, give you a really good sense of what is happening in the industry at a
+clinical level.
+
+So I will turn the time over in just a second to Kolleen. She will give you a brief overview of the oncology
+business and a booth tour. By the way, we are at the booth. We are not doing a formal tour today, but
+Spencer and Neil and I will be on the booth from starting at 10 o'clock. For anybody who wants to come by
+the booth we would certainly welcome you there.
+
+And then we have Dr. Dee Khuntia, he is our Vice President of Oncology Systems Medical Affairs, and Dee
+will be taking you through clinical advances in radiation medicine. Dr. John Fiveash from the University of
+Alabama Birmingham and Corey Zankowski, our Vice President of Product Development, will take you
+through some of the advances in stereotactic radiosurgery. Really some exciting work that is going on
+there with one of our great clinical partners.
+
+Lots of things happening in the software space and we have got Mr. Andre Dekker, a medical physicist
+from Maastricht here to talk to you about that along with Sukhveer Singh, our Vice President of Oncology
+Continuum Solutions. And they will be talking about Big Data and kind of the future of radiation medicine
+and how these software tools all come to play to drive better quality and better efficiency in radiation
+therapy.
+
+And then we will finish up with a presentation on the road ahead in proton therapy. I will talk a little bit about
+business and markets and then we are excited to have Dr. Carl Rossi and Dr. Lei Dong, our clinicians
+down at Scripps' proton center, talk to us about what is happening there and give you a little overview of
+the clinical aspects of proton therapy.
+
+And then if there is any time left we will have time for one question. So we tried to kind of pack it in here
+this morning, but with a little luck we will have 15 or 20 minutes left for questions. And with that I will turn it
+over to Kolleen.
+
+KOLLEEN KENNEDY, SVP & PRESIDENT OF ONCOLOGY SYSTEMS, VARIAN MEDICAL SYSTEMS,
+INC.: Thank you, Dow, good morning, everyone. I'm very excited to talk to you today to kind of provide just
+a brief overview on Varian Oncology Systems and, as Dow said, we will turn it over to the really interesting
+clinical application and technology innovation discussion from there.
+
+Page182of274©2018Factiva,Inc.Allrightsreserved.Just a reminder, summary overview of Oncology Systems. We are in fact the global leader in radiotherapy.
+We do see a continuing need and long-term increasing demand for radiotherapy systems and services on
+a global basis.
+
+We watch very closely the healthcare megatrends that drive and inform our portfolio decisions and how we
+manage our business around the world. And we also expect these healthcare megatrends to inform us in
+terms of market expansion and what we're doing to address that particular opportunity.
+
+Finally, I am going to talk to you a little bit today about an evolution in our organizational structure to
+position us better for future growth, especially to look at emerging and frontier markets.
+
+A reminder of who we are in Oncology Systems. We have a little over 4,800 employees today around the
+world. We're about 50% domestic and about 50% outside the US. And as we see our business grow,
+which right now is about 57% outside the US, we will expect to see that number -- that ratio changing to
+support that business growth outside of North America.
+In FY13 we did a little bit of -- a little over $2.5 billion in orders and about $2.3 billion in revenues in
+Oncology Systems. We have about 60% of the global installed base of medical linear accelerators with
+approximately 7,400 systems installed around the world. We have approximately 3,700 software systems
+installed and that is a combination of Eclipse, our treatment planning system; ARIA, our oncology
+information system; and Velocity, our recent acquisition image management system.
+
+We have about six education centers; we have numerous sites where we have education centers with our
+customers where we are really looking at clinical technologies, new treatment protocol adoptions and how
+we can expedite bringing these new capabilities to a clinical site around the globe. But we have six formal
+education centers for Varian.
+We do see the global cancer burden continuing to rise. The forecast is that there will be 21.4 million new
+cases of cancer by 2030. Unfortunately along with that increasing burden comes a mortality rate of about
+63%. We believe that by continuing to partner with the oncology community around the world we'll be able
+to address that very high burden of mortality.
+
+Clearly that change is based on where you are in the world because of technology adoption and also
+based on disease site. But we -- again, we think that building on our strong legacy of co-innovation over the
+years with the global community we'll be able to address those numbers in a positive way.
+
+I wanted to take a minute today and really focus in on emerging and frontier markets and what the access
+to radiation therapy looks like. So what you are seeing here is a chart of Linac density versus total health
+care spending across emerging and frontier markets. On the Y axis is the Linacs per million population.
+Let me put this into a frame of reference for you.
+In developed markets we average somewhere between 6 and 10 linear accelerators per million
+population. You will see that this goes to a total of two. So as we are looking at emerging and frontier
+markets the need for additional radiation therapy equipment is quite significant. Across the X axis is
+healthcare spending per capita. So let's just take a look at BRIC for example starting with Brazil, which is
+on the right-hand side, your right-hand side of the chart.
+Brazil spends about $143 billion annually on total healthcare spends for each individual, that is a little bit
+less than $800 of total healthcare spend. And they have about 1.4 linear accelerators per million
+population. Clearly even with the large MOH tender win we had last year, an additional 80 linear
+accelerators going in is nowhere near going to address their needs in Brazil for radiation therapy.
+Moving to the left we look at Russia where they have $68 billion total healthcare spend annually. It's a very
+small number actually. When you look at their population, they're spending about $500 annually on
+healthcare for their population. And they have about 0.8 linear accelerators per million people.
+We look at China, the largest overall total healthcare spend, which is what you would expect based on
+population alone. About $255 billion and yet they only have 0.8 linear accelerators per million population.
+Truly reflecting the 16% RT treatment for their cancer patients in China. Lots of runway there in terms of
+driving radiation therapy growth.
+
+And then India, almost at the 0.0 point, less than $100 spent per individual in India on an annual basis for
+healthcare, 0.2 linear accelerators per million population.
+
+So if we take a step back and look at emerging and frontier markets, the access to care is very, very low,
+the need is very high and we want to continue to position ourselves appropriately to go after this
+opportunity successfully.
+
+Page183of274©2018Factiva,Inc.Allrightsreserved.There was a terrific paper that was published just recently in June, the International Journal of Radiation
+Oncology, a retrospective analysis done by some Swiss institutions looking at the global can data. And
+what they determined was that today in the emerging markets only there are about 4,100 linear
+accelerators installed, and of course with all the associated software and services that go along with those
+systems.
+
+Just based on today's demographics, they need -- they felt the need was for 10,735. If you project that out
+to 2020 based on increasing cancer incidence changing demographics on a global basis the number is
+13,307. So to address the known and forecasted cancer burden an additional 9,100 machines are needed.
+
+Now you have heard us talk over the last few years an additional 10,000 machines are needed. So let me
+just be really clear, this number is for emerging markets only. So the 10,000 number we've been talking to
+you about has actually been a little bit of an underestimate of the need to address the need -- global cancer
+burden as being projected.
+
+So as we look at our portfolio we want to make sure that we have the right systems and services on a
+global basis to address this value segment. Making sure that we have the right price points and yet
+delivering products that operate at the same level of quality that we have for all of our Varian systems with
+a high level of reliability in environments that are very challenging to get the right level of electricity, for
+example, the right temperature to run the systems effectively.
+
+So we are looking for quality, reliability and performance that Varian is known for at the right price point on
+a software and services perspective.
+
+Turning to our organizational change. Effective October 1 we will be implementing a geo-based structure to
+enable a more nimble customer response. We're going to be building and market development team to
+expedite emerging and frontier market growth.
+
+We're going to be integrating our regional sales and service teams to align across a total cost of ownership
+program to expedite our profitability and to enhance our profitability. And we're going to be consolidating
+our global operations to really ensure that we can drive overall productivity in the organization.
+
+So what does this really mean? It means starting October 1 we will have three major geo leads that will
+have sales, service, applications training and marketing in each of their regions reporting directly to them.
+
+So if we look at the Americas for example, Chris Toth will now be our leader in the Americas. Each of those
+functions, those customer facing functions will report directly to him. The objective here is to allow us to be
+more responsive and more nimble in addressing customer concerns and issues in their time zone of their
+location.
+
+In EMEA, which for us is Europe, Middle East, India and Africa, Roger Leibundgut will be the new leader in
+that region. And then in Asia Pac we are bringing on a strong leader from outside who has tremendous
+experience and depth of knowledge in the Asia-Pacific region. He will be starting shortly and will continue
+to grow that bench strength as we look at the Asia Pac market being very important to us moving forward.
+Each of these new leaders will report directly to me.
+
+Turning to ASTRO. As Dow said, we've had a very exciting show here the last few days. I was thrilled to
+see we had over 1,000 attendees at our users meeting on Saturday. And to put that into context for you, it
+was a beautiful day in San Francisco, one of the most exciting cities in the world. And we had over 1,000
+people who came in at 8 AM and they stayed with us all day long through some amazing breakout
+sessions.
+
+We also had a really exciting panel -- healthcare reform panel where we had some clinical practitioners,
+operations managers talking about what they are seeing around the globe in terms of health care reform
+and what are the issues of most importance to them and making sure that as a partnership vendor we were
+doing everything we could to position them for success.
+
+The concept and the theme behind the year's ASTRO is linking minds. And for us we want to continue to
+build on our 66-year-long legacy of co-innovation with the global oncology community. We're continuously
+asking ourselves what if.
+
+What if Varian could build a knowledge learning system that would connect and link practitioners on a
+global basis so that they could adopt best practices and disseminate those best practices globally,
+especially as we are seeing radiation therapy be adopted into those emerging and frontier markets where
+they may in fact not have the skilled resources that we do in developed markets to implement the
+technology as quickly as we would like? We want to address that global cancer burden successfully and
+have those tools.
+
+Page184of274©2018Factiva,Inc.Allrightsreserved.What if we could implement and onco informatics system that allowed us to be able to extract the data that
+has been in our information system for all these years, be able to analyze that data, liberate it in a way and
+turn it back into actionable information to really improve clinical practice management and operations.
+
+And this is some of the really exciting items and new launches that we've got in our booth. I encourage you
+all to go over there. As Dow said, we will have people there to answer your questions. But I would like to
+direct you especially in addition to looking of course at the Edge and our TrueBeam system, over to our
+knowledge network pavilion.
+
+We will be having demonstrations there about RapidPlan, our lunch last year. We're getting tremendous
+adoption of that out in the field as people are seeing the value that it brings to them clinically in terms of
+expediting, the efficiencies of treatment planning which historically has always been the bottleneck in the
+treatment delivery process. And making sure that the quality of that standard of care continues to improve.
+Velocity Imaging Informatics, this is an acquisition that we did earlier this year and it rounds out our
+portfolio of information solutions. Imaging is so important to oncology, whether it is in the diagnosis, the
+treatment planning, motion management, looking at tumor response and assessment and then follow up.
+
+We saw a gap in our portfolio, we went out and acquired the best organization out there to help us
+determine and put in place the solution around onco imaging informatics moving forward. We have a new
+solution around reporting with ARIA, we are calling it AURA.
+
+Tremendous feedback from our customers because it gives them a really interactive opportunity to
+customize their reports in ways that they never had before and to make them sticky. So even as we
+upgrade their systems their reports stay in place and give them the analytical information they need to
+move forward.
+
+Now I cannot probably emphasize enough the excitement in the booth around our new launch of onco
+informatics, an analytics tool called InSightive. We actually have people knee deep waiting to get a demo
+on this. It is very exciting.
+
+We encourage you to go take a look at it because it is a tool -- and Sukhveer will be talking about this more
+as well as Andre -- it is a tool that is really positioning us to enable our customers to access their data
+real-time, create dashboards that are customized that help them to run their businesses more optimally,
+more productively, and to advance their care. Because they're able to look at their outcomes for example
+around breast cancer and determine how in fact they're performing relative to their peers, relative to their
+own internal programs.
+
+And finally, Qumulate Cloud QA, lots of interest from our physics community there. It is a QA tool for linear
+accelerators up in the cloud so that we can help them track the performance of their systems both within
+their own hospitals and across the global community.
+
+So lots of excitement in our knowledge network pavilion, encourage you all to go over there and take a
+look. And just a reminder once again, what is driving our business, it's healthcare megatrends, it is looking
+at emerging and frontier markets for growth, driving our productivity and profitability over time and making
+sure that we have the right organizational structure to position ourselves for future success.
+So thank you, everyone, and with that I'm going to turn it over to Dee Khuntia, our VP of Medical Affairs.
+
+DEE KHUNTIA, VP OF ONCOLOGY SYSTEMS MEDICAL AFFAIRS, VARIAN MEDICAL SYSTEMS,
+INC.: Thanks, Kolleen, and thanks, everyone, for joining us this morning. I really look forward to the
+opportunities to talk to this audience. I get to really show excitement about some of the things that are
+happening whereas in many of the other talks I have to tone it down a little bit.
+
+But this is my third time I've been able to speak with you and probably the time I have been most excited to
+do so. This is my -- I was telling our team of about 300 employees on Friday that this is my 14th
+consecutive ASTRO and I have never been more excited. Not just because of the products and technology
+that Varian has been debuting at this particular meeting, but also from what the medical community is
+bringing to the meeting itself.
+
+We have almost 3,000 papers that are being presented over the next day or two as well as yesterday and
+Sunday. And some of these are practice changing, meaning I'm going to be in clinic this Friday, I still
+practice medicine, and I'm going to do things differently because of some work that happened yesterday,
+for example. And that is exciting to me, whenever I can go to a meeting and actually change the way I
+practice that is wonderful.
+
+Well, one of the most exciting papers to come out at ASTRO was presented at our plenary session
+yesterday. And this involves an idea called the abscopal effect. We've known about the abscopal effect for
+
+Page185of274©2018Factiva,Inc.Allrightsreserved.a while. But this is where if we are to offer radiotherapy to a primary site such as a lung cancer, but that
+lung cancer has spread elsewhere, we can actually cause the other lesions to disappear.
+
+So a study was done in the mouse model with breast cancer and melanoma patients. And, for example,
+how this would work is we've identified multiple lesions. And we end up giving targeted high-dose
+radiotherapy, stereotactic treatment in a single fraction or a few fractions. And that causes the body's
+immune system to basically supercharge itself. That original lesion disappears and the body's immune
+system is primed and the immune system gets rid of the other tumors.
+
+This can be revolutionary. This disease entity, metastases, affects almost 500,000 people a year. When
+you think about the number of patients that have cancer every year, about 1 million. So many people are
+living with metastases. This is a big deal, you're going to see a lot more of this happening over the next few
+years.
+
+Let's talk about another landmark study that was presented by Dr. Slotman from VUMC and it involves
+small cell lung cancer. Small cell lung cancer affects between 10% and 20% of all patients with lung
+cancer. That may not seem like a lot, but when you're talking about 200,000 Americans a year with lung
+cancer that percentage is pretty high.
+
+Now small cell lung cancer is notorious for being one that is metastatic at presentation. About 80% of
+patients have disease outside of the chest when they're diagnosed with small cell lung cancer. And the
+standard of care is to treat with chemotherapy. What Dr. Slotman showed is that he can offer radiotherapy
+after the chemotherapy and increase survival by about 10%.
+
+Dow has challenged us to work very hard and diligent to use radiotherapy to increase survival in lung
+cancer. We've only been successful at about a rate of 1% per decade. This study alone will probably give
+us almost 1% if we do the math. So it is exciting, radiotherapy is going to increase survival in this disease
+entity and a new standard of care is established.
+
+Let's talk about another disease that is being presented here, this is a little less common, it involves
+sarcomas. Sarcomas are tumors of the muscle and soft tissue. And these tumors are potentially curable
+even if they have spread to the lungs, not too often that you see that. And the way we would treat these
+would be with something called a metastasectomy.
+
+A metastasectomy involves oftentimes a thoracotomy which is a fairly invasive procedure. You get the
+chest spreaders out and you end up essentially carving out the lesion. What this study showed is that
+instead of going through that invasive procedure you can offer stereotactic treatments.
+
+You can eradicate the disease and have equivalent outcomes in terms of efficacy using SBRT as opposed
+to a surgical resection. Just the quality of life benefits from something like this in itself is a major advance.
+And so we are starting to see more and more signs that metastatic disease can be addressed in a more
+noninvasive fashion.
+
+What about pancreatic cancer. This is a disease that traditionally for patients that had localized pancreatic
+cancer we would operate, but in many cases we are not able to get all of the tumor out. We would then
+offer radiotherapy to a large field within the upper abdomen, similar to what is depicted in this cartoon.
+
+Well, data has been presented showing that we can actually offer SBRT to patients where the surgeon
+wasn't able to get it all out or the margins were very tight and we have improvements in local control of the
+disease with fewer side effects. Again, an example of how SBRT is making its way into prime time in
+diseases outside of the brain.
+
+Here is another paper that was presented from some folks from Stanford and British Columbia. This is
+really exciting. And what they have done is they have come up with a new radiation technique called 4Pi; it
+was actually pioneered by some physicists at UCLA. And they were able to uncover a methodology that
+would allow us to get substantially improved conformity to our target.
+
+So if we look at a more traditional type of treatment of the breast we have a fairly wide spreading of dose.
+With this 4Pi technique they were able to bring the dose lines in considerably. This technique, however,
+can only be made possible using a TrueBeam. And I'm going to show you a quick video here of what's
+actually happening.
+
+And in this technique we have multiple things moving at the same time. We have the gantry of the machine
+here moving. We have collimators moving. We have the MLCs in the head of the machine. We have the
+couch moving. We are able to come up with many, many non-coplanar beams where no one beam is
+actually carrying much radiation. But when they all add together you get a very high dose in the middle with
+very little in the surrounding tissues.
+
+Page186of274©2018Factiva,Inc.Allrightsreserved.We still have some work to validate some of these dosimetric plans, but if this is truly the case, which we
+are expecting, this can be as disruptive as DMAT was to the field of radiation oncology. And we are very
+excited to see more and more work done in this.
+
+UCLA presented a paper on 4Pi as well and in this case they used brain as the model. GBM, which is the
+most common brain tumor, affects about 7,000 or 8,000 Americans a year. And typically we give 60 Gray
+over six weeks as a standard treatment. They were able to use a 4Pi technique to get all the way up to 100
+Gray with the same dose to the normal structures that they would get was 60 Gray.
+
+So essentially you're getting almost a doubling of dose for free. This could make a big difference in a
+disease that we don't do very well in. And hopefully we can translate this to other diseases. Or maybe we
+can start reducing the dose to the normal structures and keep the mean dose of the tumors the same. So
+we are going to impact either quality-of-life or efficacy when this becomes a more standard procedure.
+
+Let's talk about RapidPlan. So last year we were pleased to announce the technology of RapidPlan to the
+world and we now have some early user experience. This is some work that was presented last week in
+Australia at their version of ASTRO. It actually was a combined scientific meeting of their radiology society
+and their radiation oncology society, they do it once every four years roughly.
+
+And what they found is that when they use RapidPlan in their model and they compared it to what the
+doctor did without RapidPlan, not a single one of these plans did the doctor do better than RapidPlan. And
+in 20 of the 30 the software actually did better than the physician. So this is proof of concept that RapidPlan
+does make a difference and it can impact the way a physician practices.
+
+You know, I often argue if this truly is the case would it be wrong not to use a product like this? So that is
+just food for thought. That is what goes through my mind when I see data that is compelling.
+
+Here is some more work using MLC tracking. This work initially started at Stanford by a physicist at the
+University of Sydney named Paul Keall who was doing a sabbatical there. Paul has since gone back to
+Sydney and has the first human experience using MLC tracking. He is doing this on a study of
+approximately 30 patients with prostate cancer.
+
+And what he showed is that normally the prostate will move and we just treat a margin around it. These
+metal lines are actually the leafs, but he can have the leafs now move at the same time as the prostate is
+moving and basically track almost like a guided missile. And what ends up happening is that you end up, in
+his situation, reducing the amount of radiation that the normal structures have had and getting all of the
+dose in the prostate.
+
+He actually modeled what the dose would have been had he not used the tracking and he would've under
+dosed the prostate. So this under dosing is what may be happening routinely in practice right now. MLC
+tracking allows us an opportunity to potentially reduce that under dosing.
+
+So, at this point I would like to conclude my section and I would like to introduce to you, Dr. John Fiveash.
+Dr. John Fiveash is a radiation oncologist at the University of Alabama.
+
+The University of Alabama is a very unique environment. They are a multi-vendor platform in terms of their
+radiosurgery capabilities. But more and more they have been showing substantially increased value with
+our Varian TrueBeam line. And we're going to have John share us a little bit about what he has been doing
+in the radiosurgery world. So, John, thank you very much.
+JOHN FIVEASH, RADIATION ONCOLOGIST, UNIVERSITY OF ALABAMA: Thank you, Dee, I'm excited
+to be here today to share some of the work of our team at University of Alabama in Birmingham. I'm going
+to focus on some of the developments that we've done pre-clinically over time and then move those into
+the clinic and give you a little bit of a background about how these have been implemented in general. To
+do that I need to give you some context of who we are at UAB and then look forward in the future to where
+we plan to be.
+
+If you haven't been to Birmingham, the University dominates the economy and the landscape. The picture I
+show you here is a view from Red Mountain. And the bottom two-thirds of this picture are the University --
+is the University. And this is all biomedical research facilities. So all hospital research and the rest of this is
+undergraduate.
+
+So what you are looking at is the largest employer in the state of Alabama and the largest entity in that city
+is the University. It is a biomedical research area that is unrivaled in the region.
+
+We think of ourselves as a large academic medical center associated with a 1,200 bed hospital. We also
+think of ourselves as one of the first comprehensive cancer centers in the United States, we were one of
+the first seven and have held that grant for more than 40 years. That means we are not just doing good
+
+Page187of274©2018Factiva,Inc.Allrightsreserved.radiation oncology but we are doing discovery of new treatments for cancer, the biology and we have to fit
+all of this together.
+
+In the future we're going to be thinking about ourselves not just as a big academic medical center but as a
+health system that is serving a diverse patient population not just in the types of patients that we treat, the
+problems that we face, but also the region that we serve.
+
+One example of this is the proposed regional care organizations. And associated with our partners it is
+currently proposed that we're going to be caring for almost 500,000 Medicaid patients on a capitated rate.
+To do this and to do it right we have to provide value. So how are we going to define value?
+
+Value is going to be high-quality care for a low-cost. But as an academic medical center it is our role to
+society to disseminate knowledge. And so we're going to work with our partners like Varian to create
+knowledge but also move that into the community. And some of the things you are going to hear about like
+the knowledge-based planning are going to be the tools that we use for that.
+
+One example of how we have explored the biology of cancer radiation enhancement is the cetuximab
+monoclonal antibody. And UAB was the epicenter of the early phase clinical trials for this for head and neck
+cancer. We did the Phase 1 trial at UAB combining radiation for head and neck cancer with this antibody.
+This is the Martha Stewart antibody in ImClone if you're not familiar with it.
+
+Dr. Bonner later led the Phase 3 trial and this was the first FDA approved biologic agent to be used in
+combination with radiation. This is a big deal. You heard Dee talk earlier about the anti-PD1 antibodies in
+the plenary session enhancing immune response. That is the same type of theme. So all these things have
+to be put in context of how we're going to implement them in the clinic.
+
+Throughout my career, I have been at UAB for 16 years, I have seen many technologies. And the things
+that you see here are the cornerstones of how we are implementing radiosurgery in the clinic and how we
+are moving from a dedicated, GammaKnife device more towards Edge and TrueBeam systems for our
+patients. And I will show you some of the examples of the quality and efficiency that we're achieving now.
+
+But UAB was an early adopter of IMRT, CT-based image guidance. We were one of the first centers in the
+world to do RapidArc. And our expansion on our TrueBeam in the high-intensity mode has been very
+favorable. We've treated over 600 patients with high-intensity mode now. And we are one of the first
+centers in the world to do triggered imaging on the TrueBeam. 2014 we hope to implement the Calypso, an
+optical surface monitoring, to extend our radiosurgery program.
+
+The technology that is enabled on the Varian platform has been further enhanced with co-development of
+other technologies. So here you see a triggered image, the fiducial has been placed in the patient and we
+are tracking it every time the patient breathes to know that the treatment is being accurately administered.
+We don't have to stop the procedure, we continue with treatment and continuously monitor the position of
+the tumor.
+
+The placement of these markers used to result in 20% to 30% of patients developing a pneumothorax, an
+unacceptable complication. Now we have navigation bronchoscopy that allows to safely place these
+markers out in the periphery of the lung.
+
+This is basically a virtual bronchoscopy, basically computer imaging three-dimensional construction of the
+airways enable you to navigate the lung even though you don't have a camera to see where you are going,
+you are doing it all virtually. So this is basically a videogame in the bronchoscopy suite.
+
+We have over six or seven years of preclinical development in radiosurgery planning with RapidArc. This
+has resulted in quality of treatment that rivals any other platform, but efficiency that absolutely blows
+anything else away.
+
+The best example of this is the multiple target single isocenter radiosurgery for the treatment of multiple
+brain metastasis. Increasingly clear that getting all patients whole brain radiotherapy probably is not the
+best choice for patients and that we need to individually treat a larger number of tumors. Using nested
+control structures and multiple arcs we're able to do this efficiently, safely and high patient satisfaction.
+
+There's one example a very recent publication and it is online accepted in May, it is creating quite a buzz.
+We get almost a phone call every week of somebody asking us about this publication. It is not even fully in
+the written neurosurgery journal yet.
+Evan Thomas, who is an MD PhD student worked with our physics group and myself on this project where
+we took 28 GammaKnife clinical plans with multiple metastases and asked the question, can we implement
+single isocenter radiosurgery for these patients? Can we get a plan that is as good as what we treated?
+That was our goal.
+
+Page188of274©2018Factiva,Inc.Allrightsreserved.And we were able to do a plan that was more conformal and had the same mean brain does, but we could
+implement it in a fraction of the amount of time. To treat these patients with multiple brain mets on a
+GammaKnife clinically took us about 2.5 hours. So that is this graph on the right here. The actual beam
+time was about an hour going in and out of the room making adjustments.
+
+The RapidArc plans are so efficient you almost can't even read it on this graph. So, so quick, just a few
+minutes, 2 to 3 minutes depending on the number of arcs that are selected. Overall treatment time fits in a
+conventional time slot. So this enables the patient to be more comfortable and perhaps get a frameless
+treatment more often. Neurosurgeons really like this, by the way.
+
+As we have implemented these technologies in our clinic our comfort of treating very small targets has
+increased. If you look at the first three years of our program on the TrueBeam, we had about a third of our
+patients with tumors that are less than 2 centimeters, now we're up at about two-thirds of our patients have
+tumors treated that are less than 2 centimeters. So smaller targets, as small as you can see on an MRI we
+can treat with this technique.
+
+Other preclinical development has really impacted our lung SBRT program. This is just one example where
+the RapidArc has really enabled things to move quickly and efficiently. It has really been in combination
+with the high-intensity mode.
+
+This is a preclinical study looking at the absolute time savings based on combinations of different beam
+energies where the flattening filter [pre] has been removed and where the RapidArc has been utilized
+compared to other technologies. Significant time-saving in the clinic has enabled these procedures to be
+done. We typically schedule these in a 20- to 30-minute time slot and it is easily obtained in that time.
+
+What are we looking for in the future? Here we have our physician team, Dr. Bonner, Dr. Jacob and Dr.
+[Dubay], one of our liver surgeons. We have a liver surgeon doing liver radiosurgery with us. And here is
+our patient getting ready to be treated.
+
+The patient wants to be comfortable when he comes and. And we don't want to have to have invasive
+setups that hold the patient in position. Perhaps they're not comfortable for some patients who may be in
+pain. Shorter treatment is going to be better. We've seen that in our radiosurgery program in the brain and
+they want to come to clinic fewer times.
+
+The therapist wants a simple setup. They don't want to have some complex thing they have to do in the
+room. They want to be able to find the right place to treat and then monitor the patient during treatment. We
+want to know where the patient is in the room, where the linear accelerator is and that will enable us to do
+automation so you don't have to go in the room as many times. All these things are going to benefit the
+therapist.
+
+The physician wants to see improvement in plan quality over time. We've done incremental improvement.
+You've heard about the RapidPlan, we're excited to implement that in our clinic. Use more intelligent
+planning tools. We will tell you is your plan good or is a better one possible, you need to continue to work.
+
+And we want the best tools for motion management to manage where the patient is in real-time and know
+that we don't have to interrupt treatment to ask the question are we still doing what we thought we were?
+
+So in the future we're going to have lots of people on our team that are helping to implement these
+technologies. And we are going to have Corey come up next to tell us a little bit more about where Varian
+is on these things.
+
+COREY ZANKOWSKI, VP OF ONCOLOGY SYSTEMS PRODUCT DEVELOPMENT, VARIAN MEDICAL
+SYSTEMS, INC.: Thank you very much, Dr. Fiveash. I want to start just by acknowledging the fact that the
+University of Alabama in Birmingham is truly a pioneer in the field of radiotherapy and radiosurgery.
+
+And it is a privilege for Varian to work with institutions like yours who constantly push our technology to the
+edge and really push us to innovate and expand and develop our technology to support your pioneering
+activities. And it is with collaborations like we have with the University of Alabama that have encouraged us
+to release the Edge radiosurgery system in 2012.
+
+Now the Edge is Varian's very first all Varian fully integrated treatment device completely dedicated to
+radiosurgery. And it is -- it incorporates a variety of different elements from treatment planning all the way
+through to treatment delivery and patient monitoring to ensure that we deliver the highest amount of
+precision possible to give our clinical partners the confidence to use this device for the most challenging
+cases.
+
+Page189of274©2018Factiva,Inc.Allrightsreserved.And again, we design it for full efficiency so that we can help our partners treat more patients with this
+life-saving technology. And I think the Edge is a great example of what can happen when we collaborate
+closely with our clinical partners and build something that they are demanding.
+And you can see from the numbers with over $135 million in Edge and related radiosurgery product orders
+since its launch in 2012, as of the fiscal year Q2 in 2014 that this product has been very successful and
+well received in the marketplace. And it is very important for us to be successful in this market because the
+radiosurgery market is growing at a phenomenal rate.
+A recent study by a group called Sg2 predicts that the number of patients treated with radiosurgery
+techniques in the brain and in the body is expected to double over the next decade. And so, for Varian this
+is an important growth trajectory and we are committed to continuing to collaborate with our partners to
+continue to evolve our solutions so that more patients can benefit from our technology for years to come.
+
+Now how do you do this? I think the hypothesis we had when we designed TrueBeam was to make sure
+that it has the level of precision necessary to -- as I said, to give confidence to our clinical partners so that
+they would treat more patients with it. For us we were able to design mechanical accuracy of well within a
+millimeter of tolerance.
+
+But you want to deliver treatments that are truly accurate to within a millimeter, you have to look at the
+entire treatment process from treatment planning all the way through to treatment delivery.
+
+And so, the Edge is integrated with state-of-the-art advanced treatment planning systems with very, very
+highly accurate dose calculation algorithms all the way through to cone beam CT for positioning the patient
+accurately every day. As well as patient monitoring solutions such as the Calypso system that will ensure
+that the patient remains in place throughout the duration of the treatment and that, if they do move, that the
+beam can be gated off and the patient can be repositioned to within that submillimeter accuracy.
+
+And so, it is this level of detail and focus on all of the detail, sorry, in the overall process that has enabled
+us to achieve extremely high degrees of accuracy and precision with the Edge. And we know from prior
+experience that is sufficient but not enough to drive true practice change. And as Dee mentioned, if we
+really want to change people's practices we have to deliver on multiple dimensions of a solution.
+
+And so treatment efficiency has always been at the top of mind for Varian. And as Dr. Fiveash presented,
+one of our collaborators at UAB has done a study using Linac based radiosurgery to compare, plan and
+treat -- plan quality and treatment efficiency against the gold standard, GammaKnife and found that Linac
+based radiosurgery can deliver equivalent dosimetric results as the GammaKnife in 3 to 15 times faster
+timeslots than the gold standard.
+
+This is particularly impactful from the perspective of the patient. Many patients cannot tolerate, simply
+cannot tolerate being on a couch immobilized for two hours to receive their treatment. But many of those
+same patients can tolerate a treatment that lasts only 20 minutes. So they become accessible for such
+kinds of treatments.
+
+So we are very excited to work in this area to bring our technologies to a broader patient population. And
+when we designed the Edge we did think that by achieving the high degrees of precision, and also
+increasing efficiency with the device, we would see our clinical partners treat a higher volume of
+challenging cases.
+
+And so we collected data, we have been collecting all of the treatment data for patients treated on the
+Edge. And the evidence does show, in fact, a higher concentration of clinical cases in the area of lung,
+liver, pancreas, places that are very challenging to treat typically. These are areas where people are using
+the Edge to treat patients.
+
+So if you compare this with just demographic data, incidence data from around the world you can see that
+there is a prevalence or a higher concentration, 20% versus 13% on lung in 12% of patients treated with
+Edge versus 8% of incidents for liver and pancreatic -- pancreas cancer. And obviously you see very fewer
+breast patients treated on Edge because those machines -- those patients may be treated on other Varian
+devices.
+
+And you can see from the quote from Dr. Carlo -- or Professor Carlo Greco that with the Edge we're able to
+treat even the most difficult cases and treat them efficiently.
+And so it is that Varian formed the Edge Advisory Board to help us to navigate through this new world of
+radiosurgery treatments and help us to formulate our long-term strategy of where we need to take our
+radiosurgery platform and where we'd have the greatest opportunities.
+
+Page190of274©2018Factiva,Inc.Allrightsreserved.The Edge Advisory Board consists of surgeons from neurosurgery, from thoracic surgery and their
+radiation oncology partners. We challenged the Advisory Board to reimagine radiosurgery altogether and
+to help us find new applications for radiosurgery so we can expand this market further and bring our
+solutions to an even broader patient population.
+
+And I can tell you that just having these people, these high-powered people in the same room has really
+gone a long way in expanding the base of our clinical knowledge with respect to radiosurgery, surgery both
+in the head and in the body. And we think that by continuing to work with these partners we will continue to
+drive and expand this knowledge and we will generate advocates for radiosurgery that will carry the torch
+even further.
+
+But we are not resting there. At Varian we have opened up the TrueBeam and Edge platforms with
+something called Developer Mode, and that allows clinicians, clinical researchers to write special scripts
+and develop new techniques for image guidance and treatment in a safe, nonclinical manner and perfect
+these techniques to help us then quickly translate those new techniques into clinical practice.
+
+And so we are essentially using our own network of clinical collaborators to create a community that will
+drive innovation in radiotherapy and radiosurgery and it's already starting to pay dividends. And I am proud
+to say that UAB is a among our clinical collaborators in this space.
+
+And they have been working with us to develop advanced treatment planning techniques through our
+Eclipse API, developing techniques that you saw from Dr. Thomas, very, very sophisticated, complex
+trajectory treatments. And they are working with us to enable these complex treatments to allow us to
+select safe beam angles that will reduce the amount of doses delivered to organs at risk without putting
+patients at additional risk for collisions in the room, for instance.
+
+And Dr. Thomas and the University of Alabama staff are also working with us to take that wonderful
+technique that they have built over there and to build RapidPlan models that will allow this technique to be
+successful in clinics around the world.
+
+And also to answer Dr. Fiveash's question about is this plan good enough for someone who is not quite as
+experienced as the University of Alabama? They will have an answer, they will be able to compare their
+results against what you were able to accomplish, and give themselves the confidence to treat patients with
+that technology.
+
+And so, with all of this and our strong network of collaborators I believe that Varian is well-positioned to
+explore new indications for use for the Edge radiosurgery device and to continue to grow our market and
+our leadership position in this area.
+
+With that I would like to transfer over and introduce Andre Dekker, a PhD Physicist from Maastricht
+University Medical Center. He has been involved in very, very groundbreaking informatics research that is
+changing practice and we are happy to have -- include Dr. Andre Dekker as part of our network of
+collaborators.
+
+ANDRE DEKKER, MEDICAL PHYSICIST, MAASTRICHT UNIVERSITY MEDICAL CENTER: So this is
+quite exciting for me as well, I have never had one of these investor relations meetings. And probably the
+best thing is that the Varian staff is much more nervous than usually and it's great to see. So I will talk
+about something we started at MAASTRO about eight years ago and in research and hopefully show you
+some results and why it is now ready to go big. It will be about Big Data.
+
+We did this very simple study at that time. We gave our physicians 3D charts of lung cancer patients and
+we said to them, can you please put these in order of survival for us, please. So they knew everything
+about the patients, the diagnosis, they knew what treatment was going to be given.
+
+And they had to put a patient that they think would be dead at two years on the left-hand side and a patient
+that would be alive for two years on the right-hand side. And the patient that they weren't sure about in the
+middle. So it's called an [ordering] experiment. And if you have a perfect prediction then it would be like the
+top 100% accurate and the bottom flipping a coin and 0.72% is about in the middle.
+
+Now usually in these kinds of talks I ask the audience where do you think our physicians are when we try to
+have them predict overall survival in lung cancer patients. And I won't do it now because I only have 10
+minutes. But the answer is they are not very good at this. They are not significantly different from tossing or
+flipping a coin.
+
+So if you go into MAASTRO as a lung cancer patient you ask your doctor, Doctor, will I be alive at two
+years? The answer you get is really bad, it is not very accurate at all. And this is a problem because we
+don't -- if we don't know which patient will be alive or is at risk of dying we don't know which patient needs
+all this technology that you heard just now. How can you decide?
+
+Page191of274©2018Factiva,Inc.Allrightsreserved.The answer is you can't. And that is the issue we are working on. So how can we -- and it is a strategic
+choice at MAASTRO to make all our decisions data-driven and to have decisions support systems in our
+clinic for every single decision we take. Because humans cannot do that, even doctors.
+
+So why is that? Well, you hear a lot about the benefits of Big Data but it is really a problem, it is not a
+benefit at all in the moment. Doctors see -- and this is a chart. They see exponentially amounts of facts on
+a patient and this is exponential skill as well as a double exponential. They don't -- they cannot process
+that. A person can only process five things in his mind.
+
+If you go to an ER and you look at the wall there you will see a flowchart which has chest pain. The reason
+there is a flowchart on the wall is because you can't, especially in a stress situation, make a decision
+because there is more than five things to consider when you make that decision.
+
+And so we are asking basically our physicians an inhumane task and they are not very good at it. They are
+overwhelmed. So we need to do something. And we think we can leverage some of that and I have been
+into -- invited to many debates now trying to make radiotherapy think differently about evidence and how
+we should collect that and how we should analyze that.
+
+And we feel that the whole prospective preclinical trial thing, which is very successful in medical oncology
+and they get a lot of funding and a lot of approvals there, but it doesn't work for technology. So technology
+is really a bad set up to do these prospective trials.
+
+We don't have a lot of evidence at all from clinical trials in relation as a whole, so the doctors can't even
+read -- there may be 3,000 papers in ASTRO. But to give all the decisions to every combination of an
+individual patient and individual technology isn't possible. So we don't have the tools for that.
+
+And so, we're trying to shift that into a situation where we're going to use Big Data to help doctors make the
+decisions and patients as well obviously.
+
+This is quite a wide accepted field now. If the Zimbabwe Star sites your work then you know you have gone
+a long way. And it is true, the models that we have, they are about 0.75% accurate -- 75% accurate. So
+they are much better than physicians, they are not perfect yet, but they are much better than physicians.
+
+And I will try to show you at the end a real result which probably would impact survival of lung cancer
+patients way more than any of new technology we can figure out. So what is the problem then? Why isn't
+this solved? Well, the problem is if you want to build models you need a lot of data. And a lot of diverse
+data because you can only learn from differences.
+
+And so you have to get thousands and thousands of patients to throw at your machine learning application
+of data mining or whatever you want to call it, AI. The problem is that the data will not come out of a
+hospital.
+
+If you think about a global scale you have to learn from every single patient in the world, which is what we
+want, there is only one solution and it is to not share the data. To have the data inside hospitals because
+people don't want to share data because it might hurt them, right. If you get data from Memorial and we see
+that they are treating the prostate cancer badly, the whole of New York will go to New York Presbyterian
+and it would lose a lot of business, that is a real concern.
+
+And for us we will never share lung cancer data at MAASTRO because we have 10 PhD students working
+on the lung cancer data and want to have first crack. There is a lot of reasons not to share data. And there
+is ethical of course, that is privacy. And if we think about Europe, we have quite a struggle now in the EU to
+get Parliament to not basically make research in Europe impossible because of privacy regulation. So there
+is also that to consider.
+
+So the best way, and experts agree, is keep the data inside your hospital. But if you can't bring the data to
+a central location to learn you have to bring the learning application to the data. It is Mohammed and
+mountain thing, right. And that is what we are working on with Varian.
+
+How can you make a system, a global system, and we have already 17 partners in such a network -- it is
+not a dream, it is actually happening -- where data stays inside your hospital and we can send learning
+applications around the world to learn from that data without a single patient leaving the hospital. That is to
+goal.
+
+So a real clinical case. We went to -- in MAASTRO we learned a model from our lung cancer data. This is
+the model that had the area or the accuracy of 75%. But this is learned in MAASTRO, right, we are a
+western centered treating only white people basically with only concurrent chemo radiation, because that is
+our guideline (inaudible). So that is a curated set.
+
+Page192of274©2018Factiva,Inc.Allrightsreserved.And the question we had is can we now take that [decision] support system to send it to Australia and can
+we commission that? Is it correct in Australian patients? So the answer what you see here is, yes, it does
+work. So you can learn in one center, send it to another center, commission it, validate it, commission it in
+their data and it works.
+
+It doesn't take too much time, it doesn't take any curation of the data, we just grab whatever it is that they
+have and try it out and it works immediately. And what you see here in this graph is that we're able to see
+about three groups, a good, a medium and a poor prognosis group. And you see the different survivals
+and the colored curve is MAASTRO and the black curve is just Sydney.
+
+This doesn't really mean anything for patients yet, it just means that the work we do actually validates and
+generalizes to other centers. And we are doing now the same in Rome, in Shanghai, in Philadelphia, in
+South Africa where patients are different and we need to show that you can generalize this.
+
+But more importantly, Sydney does things different than Maastricht. In Sydney they treat about half of their
+nonmetastatic patients or half of their stage one to three (inaudible) lung cancer they treat with palliative
+radiation. We are not allowed to do that in Holland because we have a [guideline] and everyone should get
+high-dose concurrent chemo radiation, so we don't have those patients. But they do.
+In half the doctor decides I'm going to give palliative radiotherapy. So what does that mean? It means
+those patients, especially patients in the good prognosis group, they have a survival of 18% in Australia.
+Whereas if they would have been treated with [curative] care their survival would probably be 65% at two
+years.
+
+So the doctors in Australia looked at this and said, hmmm, we have to make some changes here. So now
+when they decide to choose palliative therapy in a patient they will use the model and check this is a good
+prognosis patient. And if it is a good prognosis patient they will put all the resources, they will put in their
+RapidArc, their 40 CT pats, they will replan, they would spend hours on getting the best plan out there to
+get the dosing.
+
+So they will focus their resources on these patients that really benefit from curative radiotherapy. But
+MAASTRO maybe learned even more because look at the bottom in the black curve is MAASTRO survival
+in poor prognosis patient. In Sydney they treat these patients with palliative care and we treat them with six
+weeks of concurrent chemo radiation. The survival benefit of concurrent chemo radiation in these poor
+prognosis patients is zero.
+
+So we are suggesting at MAASTRO people to six weeks of -- well, I won't call it help, it is not going to be
+very pleasant -- where you probably are not seeing any survival benefit. So we learned also a lot from this
+kind of work. And this is the keep message, you share data, it is not about blaming if somebody does it
+wrong or right, you learn from each other, you learn from differences and it was valuable for both. So we
+can capitalize on data and we can make everyone's treatments better by learning from each other.
+
+So why do we need Varian? Well, we have 17 partners, this is all research funding. But of course we need
+to go to, what was it, 7,000 (inaudible) or whatever. So it will be less centers but we need to go to the
+whole world because we need diversity, we need more patients, we need more outcomes, we need more
+data to do this properly to make better decisions.
+
+We need to work on getting better data quality in. So that is another strategy that we are following. How do
+you make doctors note something correctly? How do you get that data out? And in the end we need to
+prove ourselves. This sounds good, but we still have to do a prospective trial on decision-support system
+which is up next. Thank you for your attention.
+
+SUKHVEER SINGH, VP ONCOLOGY SYSTEMS, ONCOLOGY CONTINUUM SOLUTIONS, VARIAN
+MEDICAL SYSTEMS, INC.: Good morning and thank you, Andre, and that is a very impactful illustration of
+the power of Big Data. And I wanted to take some time to share with you how, in terms of what Dr. Dekker
+described, how do we leverage this power of Big Data and take it out of research setting to thousands of
+our customers? How do we make this power of data accessible to all customers across the globe. So that
+is the focus of our informatics strategy.
+
+But before we get into the solutions that we're working on I wanted to take a few minutes to illustrate what
+is the problem of big data. As Dr. Andre highlighted, the problem of Big Data is that in the last 10, 15, 20
+years there has been an explosion of data in healthcare community. Now you have EMR systems, you
+have helped IT systems.
+
+There is tons and tons of data that is being brought to bear. The challenge lies, as we saw earlier, it is in
+our cognitive ability to deal with data. The more data we have the more it decreases our ability to process
+as data.
+
+Page193of274©2018Factiva,Inc.Allrightsreserved.So as we see at any time we are presented with data, which we are not able to process as human beings
+within a limited time it becomes a Big Data problem. And that problem extends all the way from being able
+to analyze population data for trends and all the way down to a single clinic or maybe a single radiation
+treatment site where they are seeing hundreds of patients and they want to know are they treating those
+patients effectively. Are they running their operations efficiently?
+So this is the problem we want to solve. So as a Company we have committed now to creating informatics
+solutions which will help our customers solve these problems.
+
+Now a solution to these problems also is a continuum, it is not about one single silver bullet, the problems
+-- these problems will need to be solved at the level of having better reporting, being able to see what is
+happening in the clinic and being able to see what are the trends, what are my patient wait times? How
+much is it costing me to treat patients? What is the toxicities for my patients I'm treating?
+
+Going from that all the way to being predictive, not only looking back but looking forward. For example,
+when I am treating a patient is this the best therapy for this patient? What would be the outcome? What
+would be the survivorship?
+
+And as you will see actually we are really excited that already we are starting to offer solutions with solved
+problems across the data continuum. And as we solve these problems we do realize that we will need to
+increase our technological capacity. We will need to be more capable in terms of technologies and talent
+that we have to have within Varian to be able to solve these problems.
+
+Of course part of it is also working with our customers collaboratively to create these solutions. So as we
+focus our solutions we will also focus on acquiring technologies. And Kolleen earlier gave an example of
+Velocity, that is a great illustration of kind of competencies we want to bring to bear to be able to bring
+these solutions to our customers faster.
+
+In the next few minutes I just wanted to share with you some of the products we are showcasing at this
+conference that we are bringing to our customers to be able to leverage the power of Big Data.
+
+Let's start with one of the simplest problems to solve but still it is a pretty complex problem out there, that is
+just being able to report on what is happening in the clinic. And EMRs have become pretty prevalent and
+more and more clinical information is being put into electronic systems. Unfortunately still it has been very
+difficult to get that information back to get insights onto what is happening in the community.
+We are showcasing now a brand-new reporting solution which exposes all the data which is in our ARIA
+information system to our customers so that they are able to create reports, they are able to distribute it,
+they are able to see what is happening within their clinic.
+
+I think what we are most excited about is the next product, InSightive. This takes reporting to the whole
+new level. Reporting is a view in the rearview and it is a static view, it tells you what happened in the clinic.
+InSightive takes it to the next level it allows you to -- our customers to interact with the data, be able to see
+not only what happened but why it happened.
+
+For example, they might be looking at a dashboard which shows them the referent pattern from different
+clinics or from different referring physicians to their clinic. They will be able to see by ZIP Code, they will be
+able to seat by who the referring doctor is, why there has been a change in refer patterns and be able to
+make decisions around that.
+
+And similarly they will be able to see what are the toxicities associated with a particular diagnostic space?
+Has there been a change in there? Have we changed our practice in a certain way which is leading to that?
+The response to this tool at the booth has been just absolutely phenomenal. It is almost like it is great to
+see our customers as kids in a candy store when they see this data come live in front of them and they are
+like, oh, was that data, that insight already in my information system?
+
+We are really excited about this product and I think this will bring a really great benefit to our customers in
+terms of liberating the data, as Kolleen pointed out earlier.
+
+Velocity, another great example of bringing disparate unconnected imaging data and converting that into
+knowledge which clinicians can use to make better decisions, whether it is better decisions for kind of
+treatment which should be chosen. It is a letter decision for what kind of treatment plan should be chosen,
+whether it should be radiosurgery or conventional IMRT.
+
+And not only that to being able to track how is the treatment proceeding. Does the dose need to be
+changed? Do we need to replan? This is again a very powerful tool that has been out there in the
+community and now it is part of our portfolio. And as we look into the future we will integrate the power of
+image-based knowledge more and more into our products.
+
+Page194of274©2018Factiva,Inc.Allrightsreserved.Now Qumulate QA, again Kolleen mentioned it earlier. This is linear accelerator performance management
+tool. It will allow customers to visualize the performance of their machine in a very interactive way. And I
+think the most important piece of Qumulate is not only would they be able to see the performance of their
+own machine, they would be able to compare that data to their peers in the community.
+
+And this is a great example of kind of applications we are working on in the future -- cloud-based,
+extremely interactive visualization, powerful insight. And not only that, but leveraging data across the
+community to create knowledge and benchmarking which will lead to better decision support.
+
+RapidPlan, we have been sharing with you information about RapidPlan launch and how it is impacting
+clinical practice. RapidPlan takes Big Data solutions to the whole new level.
+
+RapidPlan is not only about seeing what is happening in the clinic and being able to work with the data, but
+it is actually about really about [quantifying] some of the expert knowledge, some of the decision making
+which is done by experts in the community and being able to convert that into a tool which can be
+leveraged across the community to increase the standard of care overall.
+
+It is an extremely powerful tool. As Dee highlighted, it can have real impact in terms of clinical outcomes in
+terms of making sure that our users are able to pick the best plan that has been validated by experts
+across the community. So it's really bringing that collective knowledge of the community into a tool which
+can be used across the globe.
+
+As I mentioned, in addition to the exciting tools we also want to make sure that we build our capabilities to
+build many more of these tools. Part of those capabilities is also for example working with Dr. Dekker and
+many users like that, one of the leading edge of Big Data solutions.
+
+At the same time we're also looking to bring some of the technologies in-house. For example, we have
+licensed the underlying machine learning technology which powers some of the work which is done by --
+being done by Dr. Dekker and his team.
+
+We mentioned InSightive, InSightive is a result of the technology we licensed from a leading data
+visualization Company called Tableau. Tableau is one of the exciting new companies, they have been
+around for some time but they are the masters in terms of being able to take the data, visualize it
+interactively and allow our customers to create very powerful insight.
+
+Yesterday we did a press release about our partnership with Infor. Infor is a market leader in healthcare
+data exchange. And that is extremely critical to the strategy we are following. It is not only about liberating
+the data which lies in our own information system, but it is also about bringing the data which doesn't lie in
+our information system to point of care.
+
+For example, genomics data. For example, data from hospital information systems, labs, pathology so that
+we can allow our customers to make decisions based on their comprehensive knowledge about the patient.
+
+So where do we go from here? I think this is the most exciting part. While it is -- sometimes there are many
+tools out there which can create knowledge and insights, but the power lies in being able to bring those
+tools to the point of care. The example I would give in in the audience I see many of you are wearing these
+activity tracker bands.
+
+Imagine if your tracker band, only thing it did was at the end of the month it showed you how you did during
+the previous month. That is insightful but that is not [actually valuable] insight. I imagining some of these
+bands, actually they do that every 30 minutes if you have been sitting without doing any activity they alert
+you. They ask you to take an action.
+
+So that is really sort of a simplified analogy of how we want to approach these tools. It is not only about
+creating dashboards, it is not only about creating these insights, but we want to bring those insights back to
+when a decision is being made so that a better decision can be made at that point.
+
+So we like you to come to the booth and see some of these exciting tools like InSightive, RapidPlan,
+Qumulate. And we look forward to being able to share with you many new innovations in this area. Thank
+you for your time. Now we will have the proton team come up.
+
+DOW WILSON: Thanks, Sukhveer. We will go from software to the biggest hardware we make, how is that
+for transition? Just wanted to give you a little update on what we're seeing in the market and then I will turn
+it over to Dr.'s Rossi and Dong.
+We do see the proton market accelerating. It was about $300 million in 2010. We think it's going to be
+about $700 million this year. Our share is growing rapidly, I will show you some details on that in a minute.
+
+Page195of274©2018Factiva,Inc.Allrightsreserved.Our North American market share, the last 24 months we have won 18 rooms and we think we are
+outdistancing the competition.
+
+We do have all five rooms in clinical operation in Scripps and you will get an update on that from the
+Scripps team in just a minute. And a growing market preference for our proton technology with the scan
+beam capability that we have with our technology and the ability to do intensity modulated proton therapy
+gives us very much a competitive advantage in the proton business.
+
+We do have 10 sites and our backlog. So you can see the sights here, Scripps Proton Centers of course up
+and going; King Fahd in Riyadh; St. Petersburg, Russia; Cincinnati Children's; Paul Scherrer Institute --
+they have a cyclotron from us, they just ordered a gantry to complement the existing clinical capability that
+they have to expand their center; University of Maryland in Baltimore; Georgia Proton Center at Emory; UT
+Southwest in Dallas; also with our partner APT; National Taiwan University Hospital in Taipei as well as the
+installation that already exists, the Rinecker Proton Center in Munich.
+
+you can see how our share has changed. We are the dark blue slice right here. So we had 10 proton
+rooms operational between 1995 and 2014, you can see rooms sold, how it has changed. And we are very
+satisfied that we are growing our market position and reputation in the proton space, especially since the
+clinical demonstration of what we can do in San Diego.
+
+We are launching here at ASTRO our ProBeam Contact system, fits in a space a little smaller than a tennis
+court, clearly optimized for cost. Beam line is much shorter. Cyclotron and gantry are modular with what we
+have today and the benefit for our customers as they don't have to make any trade offs in the clinical
+quality of their proton therapy, something that others have had to do as they bring their compact products
+to market.
+
+So it is fully capable IMPT and we are very pleased to be launching that here at ASTRO. With that I will get
+out of the way and turn it over to Dr.' Rossi and Dong to tell you about their experience in San Diego.
+
+CARL ROSSI, MEDICAL DIRECTOR, SCRIPPS PROTON THERAPY CENTER: Thanks, Dow, and thanks
+for the opportunity to talk about what we are doing down there now. And it is a lot of fun being able to treat
+patients that started in February.
+
+Give you a little view of the facility there which I happen to like because it is actually above ground having
+spent 20 plus years working two stories underground with different technology. Having a window is a luxury
+that a lot of radiation oncologists just don't get. I'm not in any hurry to give mine up. Anyway.
+
+The usual disclosures. I am very happy that we have a research agreement, certainly with Varian because
+there are a lot of things that we're going to be able to do in the future that we are just watching the surface
+of.
+
+But the first iteration of IMPT, I can tell you based on my 20 plus years experience with passive scatter
+proton therapy, it is a huge difference. But it is just the beginning. There are many, many, many more
+things that can be done with this and will be done with this technology in the years to come.
+
+So to give you a little bit of a briefing on where we are right now. We treated our first two patients on
+February 12 of this year, I started out with a grand total of two. We are now treating approximately 50
+patients a day, we have been above that now, a little bit below that, but that is purely steady load.
+
+And it is not just one tumor site, now it always -- because I have spent a lot of time treating prostate cancer.
+Needless to say it pains me when people -- when we have what I think are non-sensible debates at
+ASTRO about it. But I want to make the point that even though I am going to be showing you some cases
+here in a second that are of relatively unique situations, that is just one of the things that we can do.
+
+I picked those cases because I think they are very illustrative of the differences between protons and
+x-rays. But certainly one of my goals is to make sure that protons are moved into the mainstream as they
+have been. A lot of that has been technology Limited when you could only treat like I could only treat a 17
+centimeter field in the past, you're limited to what you could actually radiate.
+
+That isn't the case anymore. Effectively I can treat with this equipment the same field sizes as a Linac. So if
+you look at the case mix that we have already experienced at Scripps it is pretty eclectic for -- and I will
+submit that for a facility that has been open for six months and change we have ramped up faster and got
+into a greater variety of cases than any other proton center has when they have come online.
+
+So, yes, lung, breast, lymphoma, head and neck. We just completed our first pediatric anesthesia case -- a
+pediatric cranial spinal that we did with one of our clinical partners, Reedy Children's Hospital. So we are
+moving into a lot of areas very quickly in part because with the IMPT system you can treat larger areas to
+take advantage of the fact that you are using a beam that actually stops.
+
+Page196of274©2018Factiva,Inc.Allrightsreserved.Now just to be clear what the differences are, the original proton systems and the majority, the vast
+majority of existing systems use what we call passive scatter proton technology, which was invented in the
+early 1950s. So it has the same vintage really as cobalt. And you start out this nice little pencil beam of
+protons and then you start modifying it with physical devices to make it do what you want to do.
+
+So you have to spread the beam out, you have to shape it in X and Y and you have to shape it in Z to get it
+to do what you want it to do. And obviously that works but there are compromises involved. You have taken
+a very clean beam and you are putting material in it to where you get some neutrons produced.
+
+You're also having to manufacture for each patient physical devices that specifically shape the beam for
+that patient. So your -- believe me after a while your treatment rooms look like machine shops. You have
+these blocks, it's not just one set of blocks per patient, it's one set per beam.
+
+So you have stacks and stacks, literally stacks of [cerebin], [brass], tissue equivalent wax, whatever, all
+over the place to get the beam to stop at the distal edge of your target. And that is what you are really
+limited to, you can set it to stop at one point, you always pick the distal edge.
+
+Now with an IMPT system of course you start with the same nice little pencil beam, in our case it is a little
+over 4 millimeters in size. And instead of using physical devices to modulate that beam to get it to do what
+you want it to do you primarily use electromagnets to shape it.
+
+Now this picture is a bit deceptive, it looks like I am taking a shotgun and blowing a bunch of pallets into a
+target. I am not doing that. We are taking this little spot and we are using it to deposit dose within the target
+with exquisite precision. So for any one thing that I treat I'm actually breaking that into hundreds if not
+thousands of sub targets and specifying the appropriate energy for that dose or that layer.
+
+One of the tricks you can do with this besides now being able to treat very large tumors is you don't have to
+limit your dose to the distal edge. You can do what we do in the modern x-ray therapy world, differential
+dosing, simultaneous integrative boost, we do all that. The physical analogy is that IMPT is like a 3D
+printer, you build the dose layer by layer by layer.
+
+Another point is that you do not have to manufacture devices for each patient. If you need to replan
+somebody, which we often do, because tumors shrink, anatomy changes, you can do that very quickly
+because you're generating a new data file and not a new set of blocks that have to make the beam do what
+you want it to do.
+
+Give you an example of the difference in normal tissue dose between these two types of proton treatment.
+On the left we see PSPT, that is passive scatter, the right of courses IMPT. what you are looking at is a
+lung cancer patient. The tumor is this box shaped area down in the corner. It is somewhat irregular shape
+actually the green line around it.
+
+With passive scatter protons, yes, you can cover it and you do a fairly good job of being relatively
+conformal to it. But you are still treating a lot of normal tissue, less than in other situations. But you are still
+treating lung that you would otherwise not want to treat.
+
+If you look on the right you can just eyeball that and say, gosh, that is much more conformal dose, I am
+treating significantly less normal tissue which is always the name of the game in radiation therapy,
+especially when these patients as many are now receiving combined modality treatment. And we are able
+to do this because of the unique properties of the intensity modulated proton beam.
+
+Many of you have probably seen this video which I am going to hopefully get to run here in a second if I
+know how to do it. But I'm not sure if I can actually get it to run. If anybody knows how, I mean, Spencer, if
+you could give me a hand with that, that would be great. Thank you.
+
+So this is a pretty darn good representation of our treatment room. The gantry room. So you have the
+patient on the robotic couch. The first thing of course we have to do is check position and that requires we
+now use (inaudible) x-rays with cone beam of course in development. You acquire your image relatively
+quickly, you then use this information to move the patient at necessary. Again, this is identical in concept if
+not in practice to what you do an x-ray therapy.
+
+Retract the image, capture screens and then in a second here will be the magic of animation, you are going
+to see the proton beam coming on. And again, think of this as painting dose like you are building a solid
+object with a 3D printer.
+
+So it will come on, we have got our target. It is irregular shape, tumors are never -- are rarely perfectly
+spherical. They don't read the textbook, they don't do what they are supposed to do. But you can see the
+dose being deposited here literally layer by layer by layer. You can be very creative, you can be very
+
+Page197of274©2018Factiva,Inc.Allrightsreserved.specific. You don't have to radiate tissue proximal to the target that we have to do in passive scatter
+protons.
+
+And you can really cover large complex irregular shapes without a lot of difficulty, which are things that I
+could not do in the past. And that is a huge advantage clinically in opening the number of sites that I can
+potentially address.
+
+And I am not going to make you look at every single layer, I think you get the point. But it is a very effective
+way of delivering precision treatment. Now let me give you some brief examples of cases that I have
+already treated, one of which is under treatment at Scripps.
+Again, these are unique. But remember, we use this with the routine stuff, the bread-and-butter as well as
+the unique. This first is a woman in her early 60s, she has a history of Crohn's disease which has an
+absolute contraindication to abdominal radiation because you are going to affect the Crohn's in a bad way.
+
+She started having some abdominal pain in the last year, she got a CT scan for that. They couldn't figure
+out why she was having abdominal pain, it was probably her Crohn's flaring up. But they found a mass in
+her left kidney, biopsied it and found that that is what we call a diffuse large B cell lymphoma, a very rare
+bird, a non-Hodgkin lymphoma of the kidney of all things. The rest of her metastatic workup absolutely
+negative.
+
+The standard of care for this type of situation is multi-agent chemotherapy followed by consolidative
+radiation because you want to be short you kill the bulk disease. The trouble here is the Crohn's. She was
+able to get three of the planned six cycles of chemotherapy but even by the time she had the third cycle,
+because she was not in the best of shape, she was having trouble tolerating the chemo.
+
+The medical oncologist at Scripps said I really can't give you any more without having to reduce the dose
+which just reduces your punch on the cancer. You need radiation but there was no way to deliver it safely
+with x-rays because there was no way to treat her with x-rays -- any technology without having a beam
+going through the small bowel and contralateral kidney.
+
+Well, we were able to with a very simple straightforward single field intensely modulated proton plan
+successfully irradiate her. We brought in the beam posteriorly and we contorted around this residual
+disease. She did very well. She had absolutely zero gastrointestinal issues during her treatment. She is
+four months out now, she has not had any issues post treatment. And her first pet scan post-radiotherapy
+shows that there is no longer any activity in that area.
+
+So obviously a series of one, too soon to know the ultimate outcome, but the fact that she was able to get
+through a course of treatment after being really beat up by the chemo with zero side effect from our
+treatment is certainly telling and compelling because you are not having to hit that normal tissue.
+
+The second case was a young man who actually lived up here in the Bay Area. He was born with a
+congenital bladder problem which eventually led to him losing his kidneys in his teens, so he has a renal
+transplant courtesy of his father. Despite that he's finished college down at the University of San Diego.
+
+But last year about September he noticed a mass in his left testicle, was worked up, found it was testicular
+cancer, had surgery. We often do adjuvant therapy, either radiotherapy or chemo after surgery in these
+cases because we know in about 20% of the cases they will recur. Because of the immunosuppression
+they didn't want to do this up at Stanford, they said let's go up [and observe you] and they did. That is also
+appropriate.
+
+Several months later, May of 2014, they find he has a recurrence in the abdomen, they biopsy, they prove
+it is recurrent. Now what do you do? His medical oncologist says well, we could give you lots of chemo
+because now that is what you have -- that is one option, we are going to give you multi agent chemo.
+
+But you are already immunosuppressed, you already are at risk for infection because your bladder, he still
+has a bladder, it is colonized with bacteria because he has to self cath every day. And it is not a good
+situation. Plus he is athletic, he didn't want to receive one of the chemo drugs which could lead to a
+decrease in pulmonary function.
+
+So he went and saw Steven Hancock who is a radiation oncologist at Stanford. And Steve said, maybe
+protons would be a good idea and we don't have them here but let me call US San Diego which is one of
+our clinical partners and see what they think. He spoke with Dr. [Munt], Dr. Munt spoke with me and we got
+the gentleman in.
+
+So this is his scan before he had treatment, that little black dot here is the recurrence in the upper
+abdomen, you can see it on the transverse scan. And what we did was again a very simple two field proton
+
+Page198of274©2018Factiva,Inc.Allrightsreserved.plan where we were able to bring the beam in from the back, and just off of midline at an angle and stop
+the beam immediately beyond the target.
+
+Another issue in seminoma, we cure most of these patients, we worry about second cancers, they typically
+are gastric cancers, stomach cancers. So I wanted to keep the stomach and small bowel dose down to
+zero.
+
+If you look on the transverse slice, you can see that that dose is stopping before it hits the small intestine,
+before it hits the stomach. And it was very nicely carved out around his transplanted kidney. That is another
+-- would've been another issue it would have been difficult to manage with x-ray therapy.
+
+Lastly, we tend to get a lot of other challenging cases like retreatment, a gentleman who had had prior
+radiation for nasopharynx cancer, he has now recurred, what do you do? There are no good chemotherapy
+options, there are no good surgical options. [Re-irradiation] which there are published data on protons as a
+rule here. The problem is trying to spare normal tissue.
+
+You've got to worry about brainstem, optic nerve, etc. He is currently under treatment at Scripps. We are
+using a multi-field technique to cover this area of recurrence here in the nasopharynx and right pharyngeal
+space. And if you look on the (inaudible) you can see that we are able to spare the optic nerves, the
+chiasm which is sitting here and we are able to get a very, very low dose of radiation to his brainstem.
+
+So we are giving him a fighting chance in effect because we are not having -- we have more room to be
+cavalier with our treatment because we are not as worried about dosed normal tissue.
+
+So I feel that IMPT is emerging as what I think will be the standard in proton therapy. I see no reason to go
+back. And I think it is analogous to we've had Cobalt, we had 3D conformal, we have IMRT. The IMPT is to
+protons as IMRT was to 3D conformal even Cobalt. So that is good.
+
+We need to collect more data, we always need to collect more data. We're in the process of doing that. We
+have all of our patients are now being offered participation in a multi-institution registry and we have other
+clinical trials coming down the line.
+
+I would like to turn this over now to Dr. Lei Dong who is our Chief of Medical Physics and another
+gentleman who is -- besides being an absolute delight to work with, has vast experience in the fields of
+proton therapy. Thanks.
+
+LEI DONG, CHIEF PHYSICIST, SCRIPPS PROTON THERAPY CENTER: Thank you, Carl, and I want to
+continue with what Carl said regarding the proton therapy versus the traditional radiation therapy. As you
+know, an MRT especially provides an extremely high conformal dose to the target. What we usually talk
+about is the high dose [conformality].
+
+And the proton is actually quite unique, it provides a low dose [conformality]. Typically we don't usually
+lower down the dose line. We don't look at it at zero grade line. I saw it at some of the previous slides in the
+(inaudible) and for proton therapy we always add scale that goes down to zero dose, you know like a
+(inaudible) shot.
+
+So it looks like we are not at conforming, but in fact the low dose part, it was quite significant. This is an
+illustration, I don't have a small, maybe I have one, the lower part is a proton therapy compared with the
+traditional x-ray therapy. If you lower the dose level you can see there are lots of low dose penetration
+caused by aggregate.
+
+So that is one of the advantages. For a younger patient for example, you really don't want a dose anywhere
+outside of the targeted region. For some of their retreatment like Dr. Rossi mentioned, clinical dose may be
+already exceeded. So you want to use the advantage of the proton therapy. I don't see the proton therapy
+as a competitor for photon therapy, it is really complementary because not every patient will need to have a
+spare in the low dose.
+
+This is another example for proton therapy for prostate cancer. And if you calculate the body dose using
+the photon therapy compared with the proton therapy, about twice more dose is given in the x-ray. So with
+a pencil beam intensity modulation with the proton therapy you actually get at the high-dose region very
+conformal. That is one of the reasons the proton therapy is really, really emerging as a newer technology
+that can handle very complicated cases.
+
+Another thing we are experimenting a lot of the new treatment techniques. For example, breast cancer in
+this (inaudible) there is a precedent symposium on the breast cancer. One of the things that were
+mentioned was the cardiac effect by radiation therapy. It was such a big problem especially for young
+women living long, long time, cardiac toxicity is really a concern.
+
+Page199of274©2018Factiva,Inc.Allrightsreserved.For proton therapy this is really a very unique situation. You know the target is very superficial. The
+(inaudible) uncertainty is less. So you will be able to use (inaudible) beam instead of a tangential beam and
+create a dose that is not only more uniform than the traditional x-ray therapy, but also give a near no dose
+to the heart. It depends on where the target is located relative to the heart. So is really taking advantage of
+some of the characteristics of the proton therapy.
+
+I am very excited, you know Varian has this proven system integrated as part of the family, because I have
+been working with other vendors, the proton system was a third-party. There are lots of pieces of
+technology was not integrated. So we found -- we still need to have lots of information system, treatment
+planning system, the treatment plan has to be able to download it to the machine. So this integrated
+system makes workflow much easier.
+
+Yes, I just want to summarize some of the key themes for intensely modulated proton therapy. I think Dr.
+Rossi mentioned there are a few neutrons because really there is no (inaudible) of the beam. So there is
+no neutron generated. There is no physical compensator, the workflow is much easier because it can start
+patient very quickly.
+
+And also, there is an added advantage because a scan beam you actually can treat a larger field. Many
+situations, especially for radiation therapy, the large tumors is actually more difficult to treat not only
+because the area is larger, the toxicity is also higher because of the penetration of x-ray. So this larger field
+creates lots of unique advantage, you don't need to worry about where is your isocenter relative to that
+volume, the setup is easier.
+
+Another thing Varian has a unique advantage which I color out is the dose delivery. Varian has the most
+efficient dose delivery system for the proton beam. If you look at low energy usually the beam efficiency
+generated by the accelerator will be lower. But Varian still maintain that high-dose rate at the low energy,
+superficial target, which is advantage of the super conducting cyclotron.
+
+Another thing I want to mention is that in addition to new hardware, Varian beam can match -- we have
+demonstrated in (inaudible) we make the dosing metric in the machine at a different treatment the beam is
+perfectly matched. Which means if a patient comes in, they don't need to be selective to one of the
+treatment rooms, they just go into the next available slot.
+
+Or in case we have a machine problem as you imagine when we first come up there are always some
+issues with the machine. You can actually channel the patient to a next treatment room. So effectively
+downtime is much lower for the patient. That is an advantage. I believe Varian is exploring the technique so
+that the beam can be matched at the different facilities, that will really speed up the commissioning.
+
+And commissioning is another advantage because the pencil beam commission you don't require a lot of
+hardware to -- for beam management. You really can speed up. We literally only spend less than six weeks
+for doing the commissioning. I think that next facility when they are familiar with the system, they can be
+even shorter.
+
+So that is a huge advantage and is a big investment. You want to start treating the patient as soon as
+possible. There is some other advantage for proton therapy, I really think we are at the very beginning to
+explore how we can best use this new technology. Thank you very much.
+
+DOW WILSON: Thank you. Maybe before we open it up just a couple things in conclusion. First of all, how
+about a round of applause for our guests, really terrific. I would like to thank Dr. Fiveash, Dr. Rossi and Dr.
+Dong for their presentations.
+
+Also a reminder that the presentations and the entire webcast will be available on our webpage. So I saw
+some of you taking pictures, if you want higher quality you can go to our webpage and get them there.
+
+Just in conclusion I think four takeaways, number one is the field remains a very robust. As you heard from
+our team today, radiation therapy remains a terrific therapy for cancer, has great impact and is highly
+efficient and is growing in its applications. That would be number one.
+
+Number two, stereotactic radiosurgery, stereotactic radiation body -- SBRT, stereotactic body radiation
+therapy, is growing in importance in the field and our position couldn't be better. We really feel very strongly
+that our position in SRS and SBRT is outstanding. And growing in the marketplace and getting that kind of
+the recognition as you saw in particular from Dr. Fiveash's presentation.
+
+Third, Big Data. Big Data, big schmata, we all see the Big Data things in the newspapers. What I like is that
+we have got five products that are doing Big Data kinds of things, Sukhveer talked about them as well as
+Dee Khuntia.
+
+Page200of274©2018Factiva,Inc.Allrightsreserved.First of all RapidPlan, which we launched last year. The reception of RapidPlan remains outstanding,
+starting to see some of the clinical evidence of the impact it can have and the way it can help people not
+only be more efficient but actually deliver better care. And that is very, very exciting.
+
+I think we are just in the first few minutes of that game. We have got a long way to go as we develop
+techniques for each disease site. It is moving very, very fast, our collaboration partners are very excited to
+be part of RapidPlan. And that remains very exciting.
+Sukhveer told you about InSightive, new technique for really mining the data that is in the center. We knew
+that this was going to be exciting. Frankly we have been here at the show really pleased with the customer
+response on these tools. And again, how do you take information and turn it into something actionable not
+just after-the-fact but as part of the therapy processes.
+
+Velocity is doing the same things with imaging. Imaging data exists in very disparate places in the hospital,
+often in a radiology PACs system. Our customers want to use that data to monitor, diagnosis and progress
+during therapy more and to be able to pull those -- that information and to make it much more part of the
+clinical process is a great demonstration of the ability to pull things out of distant databases and make them
+part of the clinical flow.
+
+Qumulate is kind of an operational thing, but a cloud-based capability for monitoring QA, quality assurance
+in the clinic to make sure that our products are working as they are always supposed to work and delivering
+the safest radiation therapy possible.
+
+And last of all, full-scale product, which is virtualizing and taking to the cloud on a hosted basis for our
+customers their clinic continues to grow in importance and scale in the market. So kind of very excited
+about our initiatives here in the IT space and what it will mean for our business.
+
+And then last of all, proton. As you know, this has been a daunting investment for us. We thought that it
+would make an impact. But as you can see from Dr.'s Rossi and Lei Dong's presentation, we are really
+proving out the clinical impact that protons can have and are very excited about its future. And think more
+than ever that it is going to have a really significant place in radiation therapy and that it will be a growing
+part of how we treat cancer with radiation.
+
+And with that I think what I will do is I will kind of monitor the questions and dish them out to the panel as it
+goes.
+
+Questions and Answers
+
+DOW WILSON: Please.
+
+JEFF JOHNSON, ANALYST, ROBERT W. BAIRD: Jeff Johnson, Robert W Baird. Just a couple questions
+here on the software stuff. Obviously we look at this, it is really cool stuff. But how do you monetize it,
+number one? Can you put maybe some ASP ranges around some of these products at all?
+Do you expect hospitals-- some of your hospitals to buy one or two of these products, four or five of these
+products? And then as we think about the recurring revenue stream as part of your oncology business
+today, I think it is around a 40% or so of your oncology revenue. Does this help get that to 45%, 50% over
+the next three to five years, just how to think about that.
+DOW WILSON: Yes, I would say in general terms the software business is about a $300 million
+business today for us. We think that will double over the next three years, that is probably the best way to
+characterize it. Price points really are a function of what they buy, how big their department is. I mean it is
+difficult to get into each of the price points here on how it is deployed because each one is so different.
+Kolleen, you want to fix any of that?
+
+KOLLEEN KENNEDY: (Inaudible) software support agreements -- with our software support agreements
+we do in fact offer the opportunity to roll some of the new licenses into their services contract so that they
+can access the technology sooner rather than having to wait for our CapEx purchasing cycle. And that
+seems to be a nice way that our customers are looking to bring on board new capabilities sooner rather
+than later.
+
+DOW WILSON: And some of these still have a license component. But, for example, Qumulate is entirely a
+SaaS model and paid over time by the customer on a cloud-based implementation as well.
+
+JEFF JOHNSON: Understood.
+
+KOLLEEN KENNEDY: (Inaudible - microphone inaccessible).
+
+Page201of274©2018Factiva,Inc.Allrightsreserved.DOW WILSON: Yes, and I think it is going to help us grow share as well in our oncology information
+system business.
+
+JEFF JOHNSON: And just one quick follow-up there. Is there any ability to tie in -- your old machines won't
+work on some of the software, the software won't work on some of your old machines, so it almost forces
+an upgrade. Is there anything that works there? Thanks.
+
+KOLLEEN KENNEDY: Yes, no. Great question. And on the Qumulate QA, actually that was designed with
+both our Clinac family as well as our TrueBeam family in mind. So I think that that particular quality
+assurance tool operates on all of our systems. And on the InSightive Analytics, that really is through our
+ARIA system, so it just accesses everything that is in the database already.
+
+DOW WILSON: Jason.
+
+JASON WITTES, ANALYST, BREAN CAPITAL: Hi, thanks. Just one quick follow up on software then a
+second question. In terms of the rollout, should we assume that all of the cloud-based programs in the Big
+Data are ready to go now or there is sort of an evolution over the next year?
+
+DOW WILSON: All of these are going to grow, but RapidPlan is available today, InSightive is available
+today, Velocity is available today, Qumulate is available today, FullScale is available today. Did I miss any
+of that?
+
+JASON WITTES: That is perfectly clear, thank you.
+
+DOW WILSON: In the catalog and selling. All these are going to grow significantly. RapidPlan, let's see,
+Corey, last year which models did we have? Prostate -- yes last year we just had prostate on RapidPlan,
+now we have --.
+
+COREY ZANKOWSKI: We are about to roll out prostate, prostate with nodes, head and neck and lung.
+
+DOW WILSON: So each of these are going to grow a lot in capability over time.
+
+JASON WITTES: Great, fair enough. And then second on proton for the single room center. Just an idea of
+what the price point is there. And also if you look at the market it does appear from your slides it has
+improved this year. What type of configuration do you think customers are looking for and if you could
+compare and contrast the US with outside the US, it would be helpful.
+DOW WILSON: Yes, sure. I think our -- price point first. I would say $30 million to $35 million. So still a
+little bit higher than maybe some of the other guys. But again, no compromise in quality or throughput of
+the machine. So one of the things that we have looked at is we think that price point is equal to some of the
+lesser capability. You would actually have to buy two rooms to get the kind of throughput that we could get
+with one.
+
+And then the second part of the question was kind of market and how we see it segmenting. Most of our
+market has been larger centers, we have not taken a -- we just introduced the Compact we haven't taken a
+Compact order yet. I would say the average is around three with a trend. I would say our first few orders
+were four and five room systems and we are seeing a trend more towards two and three.
+RAJ DENHOY, ANALYST, JEFFERIES & COMPANY: Raj Denhoy, Jefferies. Maybe I will start with proton
+maybe for the gentleman from Scripps. They talked about having five rooms up and running, but 50
+patients a day I guess. And I am curious if that is an appropriate throughput, that you can increase that,
+what is gating your throughput at this point?
+
+DOW WILSON: Carl?
+
+CARL ROSSI: It is primarily -- I think the throughput for our current operation is fine. We are just starting to
+use the two fixed two beam rooms. So we have been treating 50 patients a day on our three gantries and
+that is in an eight hour day.
+And you saw from the clinical mix that it is a big mix. It is a lot of stuff which is bread-and-butter, but a lot
+of stuff which is complex. And to be able to get that case mix through on three machines from 8:00 to 4:30
+is pretty good.
+
+Certainly want to expand that. And there are a lot of pieces that are moving toward that goal. We are
+getting -- starting to see more patients referred from our clinical partners, from UC San Diego and from
+Reedy Children's Hospital. That is going to bring that up somewhat.
+
+Page202of274©2018Factiva,Inc.Allrightsreserved.We are beginning to do more marketing to try to get a greater patient catch mitt. So it is a good start.
+Again, I think that I don't think anybody has reached that milestone that quickly. But it is not where I want to
+be. It is good for now, I want to get up higher than that.
+
+RAJ DENHOY: But do you have a sense of where you can take that with the technology you have? I mean
+if it is three gantries you can do 50, what do you think you can do with three if everything is running
+properly?
+
+CARL ROSSI: Well, with three gantries in two fixed beam rooms and if you're operating in a 16-hour day,
+which is what has become the standard in most proton centers, you could very easily be up well over 100
+patients per day, very easily.
+
+RAJ DENHOY: Okay, and then, Dow, just one follow-up in terms of some of the other questions. The US
+market we have all been expecting this upgrade in the replacement cycle at some point to kick in. You
+even put the slide up on the aging of the Linac installed base. But orders have been remarkably kind of
+tough to track.
+And I'm curious if any of what you are launching now or anything you can perceive over the next couple
+years in terms of data will finally open up that big replacement and upgrade cycle we are expecting.
+
+DOW WILSON: I mean I think we are pushing very, very hard. I will say if you had told me at the beginning
+of the year we would do 5%, which year to date we are 5% in the US, I would have taken it. I think that is
+really pretty good in the US.
+
+Our challenge this year has been our international growth is not that good. We have had -- we are down
+about a third in Japan, we had a slow first half in China, Q3 in China we saw it come back, we had a huge
+order in the UK last year, it is given us a bit of a comparable year-over-year issue. But frankly our growth
+issue on the year has not been about the US market, it has been about OUS market.
+
+So I think as we look long-term that is going to come back, that is going to come back. Now where is US
+market going to be and can we get a little extra juice, clearly all these products are global products and
+they are going to benefit our most experienced customers and our newest customers. So we are pushing
+the US market very, very hard.
+
+I think one of the questions that is embedded in there, why don't we just take right now, is where do we
+think reimbursement is going to go? We've got Andy Whitman here who is our Vice President of
+Government Affairs in Washington. I'm going to give the mic to Andy. And Andy, why don't you just update
+everybody on kind of what we see in reimbursement.
+
+ANDY WHITMAN, VP OF GOVERNMENT AFFAIRS, VARIAN MEDICAL SYSTEMS, INC.: Sure, thanks,
+Dow. So in terms of, as we know, the proposed rule came out in the US. There were some cuts to the
+freestanding centers proposed related to the bulk being considered by CMS as an indirect expense where
+it has normally been treated as a direct expense.
+
+I think that there has been a big push in the community to turn that back. And there has been a lot of
+activity on Capitol Hill as well. In terms of as we know that there are some new codes that are being
+introduced and that will affect freestanding hospital setting.
+
+I think what is important to note is that in a hospital setting that reimbursement, because it is a cost per
+report based system that reimbursement will probably stay the same I mean as the proposed rule went up
+2.2%, probably stay the same for another few years. So we are really unsure what the final code values will
+be.
+
+Same thing for the freestanding we are unsure of what the code values will be until the final rule and there
+is even some possibility that there may be a delay on that. So there is a little bit of uncertainty there, those
+proposals were done back in late August and so there is not a clarity around that.
+
+But that is kind of what we are seeing both in the freestanding and the hospital. I think the hospital is fairly
+stable and we won't be seeing any movement, even though the codes will be there, because it is a cost per
+report system. You won't see any movement in the hospital setting at least for a few years until it catches
+up.
+
+DOW WILSON: Any other questions on US reimbursement before we move on? Why don't we take that
+one real quick?
+
+RAJ DENHOY: Just a quick question on SRS reimbursement in the hospital setting. I would like to mention
+that they are seeing record orders for GammaKnives and that is being spurred along by the shift in the
+
+Page203of274©2018Factiva,Inc.Allrightsreserved.technical component in the hospital setting for SRS surgery. Are you seeing the same benefit with Edge?
+Thanks.
+
+DOW WILSON: I think our short version is we are very satisfied that reimbursement for the two products is
+the same now, that was our objective all along. Our Edge product remains very, very good. I think Elekta's
+made some good moves with perfection and now their cone beam CT offering on the GammaKnife.
+
+However, having said that, just at the risk of repeating it, what we are seeing is for new systems people are
+very interested in Edge because of what Dr. Fiveash talked about. And that is, if I can find it here, I guess it
+was way back at the beginning.
+
+What is interesting is cone beam CT is going to help them go frameless. Now just pinch yourself, that is
+what we have been talking about for years is going about frameless. And so that is what they are trying to
+do on the GammaKnife is get to frameless. So it validates Linac based radiosurgery on one hand. So we
+are thrilled about that.
+
+But this -- here we go, getting close here. This time difference that Dr. Fiveash talked about is not about
+cone beam CT. It is about the source. And so to really do fast SRS you need an Edge. Cone beam CT is
+going to eliminate the frame, that is great. But you are still going to have the efficiency problem of
+delivering high dose, high doses very, very quickly.
+
+And so, the clinical benefit of that is huge and so as we look at new sites customers are more and more
+interested in the Edge product because of its overall efficiency in getting high dose in in a very highly
+precise way, very, very quickly. And that doesn't change with that product.
+
+So from an upgrade point of view it is a pretty smart play, by Elekta, I think it gives them offerings to sell to
+their installed base. But at least what we are seeing for new sites, we've got a very good competitive
+advantage with more and more clinical demonstration of those advantages in the literature and we are
+starting to win some share here. Steve.
+
+STEVE BEUCHAW, ANALYST, MORGAN STANLEY: Steve Beuchaw, Morgan Stanley. I will start with a
+clinical question specifically on the 4Pi functionality and on the motion adaptive MLC, Dow, it would be
+great to hear from you and maybe from Deepak.
+
+It seems like these might position you a bit better for treatment specifically on cranial and on the lung.
+These are areas where a couple of your competitors have historically had a nice position. Can you talk
+about the timelines for rolling those out more aggressively on the commercial side and whether or not this
+is a part of an effort to make more of a push into those areas again commercially?
+
+DOW WILSON: Kolleen or Dee?
+
+DEE KHUNTIA: So in terms of the clinical piece, we are now just getting dosimetric information. We are not
+actually able to treat patients with the 4Pi modality. However, on the DMLC tracking, the MLC tracking
+program, currently there is only one trial that is being done under a research protocol at the University of
+Sydney, they have treated 18 of 30 patients for that trial as of last week.
+
+It is exciting, but it is not in a commercial ready mode yet. It is still being done under research. And maybe I
+can pass it to Corey Zankowski who manages all of our products and he can talk a little bit about the
+development strategy.
+
+COREY ZANKOWSKI: Sure, thanks for the question, it's a good question. We have been on a trajectory for
+developing MLC tracking type technology for several years now. We've talked about it for several years.
+But the piece that we were lacking for so long was something that accurately followed the tumor motions so
+that we can respond to that.
+And with the acquisition of Calypso a few years ago we brought that technology in-house and are able to
+study how well we kid actually monitor the tumor motion and respond to it. And I think your question you
+asked about the timelines for commercialization of the technology, the TrueBeam already has the capacity
+to do DMLC tracking in the developer mode which is that nonclinical side of it.
+
+We do have a lot of sponsored research exercising this capability. So it is part of our long-term
+development strategy. We did -- I would say we did a little bit of a pause when we started to look at the
+data that we were collecting on Calypso and realized that perhaps some simpler approaches were needed
+to guarantee geometric that we missed -- that we didn't achieve a geometric miss because some of the
+CTVs, the expansions around the tumor that are meant to account for human motion, some of the data was
+suggesting that those typical expansions might not be adequate in some clinics.
+
+Page204of274©2018Factiva,Inc.Allrightsreserved.So we're looking at that problem before we start pushing the technology too hard. But we are constantly
+doing the research and development in this area. So I don't want to -- I'm going to be purposefully a little
+hazy on the timeline there.
+
+In terms of the 4Pi question, as Deepak alluded to, we do have a significant amount of research and
+collaborations in exploring new avenues of how to select the appropriate beam angles to achieve better
+dose distributions. So we are working right now in the dosimetry space.
+
+But simultaneously we are working with collaborators like UAD to develop collision avoidance, collision
+detection systems so that when we do go non-coplanar we can increase our confidence in doing that safely
+and effectively. Again, I'm being purposefully vague on timelines, but we are working aggressively with our
+collaborators to bring this kind of treatment technology to the market.
+
+STEVE BEUCHAW: Thanks for that. And then one on the distribution strategy change. Well I suppose,
+two. First, is there a cost savings for Varian as a function of this restructuring? And second, what is your
+customer going to see that is different? Is it a different pricing strategy, is it a different group of personnel,
+does it give you a different opportunity to bundle, different contract terms? Can you help us understand
+what it means out in the field? Thanks.
+
+DOW WILSON: Kolleen?
+
+KOLLEEN KENNEDY: No, it is a great question. What I would say that this organizational transformation, I
+would not call it a restructuring. It is actually an investment by Varian because what we're doing is putting
+leadership in the regions in a more embedded way so that we can respond to our customers in a more
+nimble and flexible way.
+
+We had some voice of the customer work going on, lots of feedback in that regard. That being said, by
+having customer facing teams more fully aligned, reporting into a single leader in each of the geo's we
+believe that there have been opportunities that we haven't been successfully capitalizing on as a result of
+some of our slowness of response that will help drive future business growth for us.
+
+DOW WILSON: Yes, the idea is nothing has to go to Palo Alto. Make the decisions in the field then get
+closer to the customer. So we are thrilled about this new structure.
+
+PATRICK DONNELLY, ANALYST, JPMORGAN SECURITIES: Patrick Donnelly, JPMorgan. Just another
+one on reimbursement, sorry about getting it in late. Can you just maybe give thoughts on kind of this
+bundling initiative ASTRO spoke about on Sunday? Also kind of the cut cost for simpler cases including
+prostate and breast and how that could impact you guys next year and what chances that goes through?
+
+DOW WILSON: Go ahead, Andy.
+
+ANDY WHITMAN: Yes, I mean I think -- I think that that the bundling initiative by ASTRO -- that is really a
+restructuring of the codes. So I don't know that it is a true -- when you are hearing policymakers talk about
+bundled payments for a single payment for an episode of care I don't think that is necessarily what they
+were talking about per se.
+
+As it relates to the new code structure, again, the rates aren't set yet, we don't know what the rates are
+going to be. I mean as I mentioned previously, they went through a process, they submitted the data to
+CMS, we may or may not see this in the final rule, we expect to see it in the final rule.
+
+The immediate impact will probably be on the freestanding setting. But as I said before, it is not on a
+hospital setting for at least several years. So that is kind of what we expect to see, we don't know what the
+values are yet. But we'll say probably we're not seeing in a few months.
+
+UNIDENTIFIED AUDIENCE MEMBER: Maybe just a question for Dr. Khuntia and Dr. Fiveash on
+immunotherapies. The pharmaceutical world has been making a lot of noise on PD-1 agents. There has
+been an approval recently in melanoma. Here at ASTRO you have spoken about the abscopal effect.
+
+Can you give us a sense over the next three to five years where immunotherapy will settle in cancer care?
+And is it -- does that displace radiotherapy or does it advance radiotherapy as it relates to a conjunction
+therapy effort that we could see over time? Thanks.
+
+DEE KHUNTIA: So I know Dr. Fiveash has some comments on this too, I will give you my perspective first.
+So this is a -- I want to just go over the mechanism of how we think this works first of all. So what basically
+is happening and it tends to only happen, at least in the way that we are seeing this data, when you use
+very high dose radiation therapy. So not the standard radiation that we are used to thinking about. So this
+would be SBRT SRS, okay.
+
+Page205of274©2018Factiva,Inc.Allrightsreserved.And what ends up happening is when you treat that tumor with a very high dose it triggers the immune
+system to be hyperactive. And that immune system then goes in -- it attacks basically that primary tumor
+site but then you now have basically these T cells that will go after the rest of the body's tumor that it can
+now recognize.
+
+The drug, the immunotherapy component of it is to -- it's sort of like a steroid for the immune system,
+supercharge them so they can be more effective killers. So we look at this as something that is going to
+increase the use of radiotherapy and specifically radiosurgery.
+
+And I will point out that all the data that we showed in terms of trends of the doubling over the next decade
+of radiosurgery that did not include this whole concept of immunotherapy and radiosurgery together. And it
+also did not include data from, for example, the lung screening information that we are hearing about.
+
+So these are really underestimating what the use of radiosurgery will be. And so this is part of the reason
+why we actually have a -- sort of an incubator called GTC within Varian that looks at how biology is going to
+be integrating with our radiotherapy. And so I look at it from my perspective as something that is going to
+dramatically enhance the use of SBRT.
+
+JOHN FIVEASH: I think you said the same thing that I've seen in my practice. I was going to give you an
+example of Yervoy which is the most common immunotherapy for melanoma right now.
+
+And our practice changed where patients were just getting Yervoy, the New England Journal of Medicine
+article came out one patient showing the abscopal effect and we started getting referrals for body
+radiosurgery at different sites for patients that were failing Yervoy, can we extend how long Yervoy is going
+to work by just radiating and using very short courses of radiation.
+
+The anti-PD-1 antibodies are going to be more active than Yervoy in this. So I think you're actually going to
+see more radiosurgery in hyper fractionated treatments.
+
+DOW WILSON: Good, I think with that we have reached 10 o'clock. Please feel free to join us out on the
+show floor and thank you very much for joining us today.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO varas : Varian Medical Systems Inc
+IN
+
+iappsp : Cloud Computing | iphddd : Drug Discovery/Development | i2569 : Biotechnology | i257 :
+Pharmaceuticals | i8394 : Computer Services | i951 : Health Care/Life Sciences | ibcs :
+Business/Consumer Services | i372 : Medical Equipment/Supplies
+
+NS gbreac : Breast Cancer | ntra : Transcripts | gcancr : Cancer | gcat : Political/General News | ghea : Health |
+
+gmed : Medical Conditions | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter |
+nfcpex : FC&E Executive News Filter | niwe : IWE Filter
+
+RE usa : United States | sydney : Sydney | apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia |
+
+namz : North America | nswals : New South Wales
+
+PUB CQ-Roll Call, Inc.
+
+Page206of274©2018Factiva,Inc.Allrightsreserved.AN Document FNDW000020140918ea9g0038q
+
+Page207of274©2018Factiva,Inc.Allrightsreserved.

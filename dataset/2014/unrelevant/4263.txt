@@ -1,0 +1,141 @@
+Additional item: Competition from TPG threatens to economically derail A$40bn NBN project for Australia's Abbott government: Part 1
+
+HD Additional item: Competition from TPG threatens to economically derail A$40bn NBN project for
+
+Australia's Abbott government: Part 1
+
+WC 1,654 words
+PD 22 May 2014
+SN Optical Networks Daily
+SC OBSERV
+LA
+CY
+
+English
+(c) 2014 Electronics International Disclaimer: Whilst every effort has been taken to ensure the accuracy of
+the information contained in this report, neither Electronics International nor its agents or sources can be
+held responsible for any inaccuracy.
+
+LP
+
+TD
+
+[Editorial comment: Update on Australia's NBN project] [The NBN Co organisation publishes quarterly
+accounts detailing its achievements and as of March 31st, when it published accounts for the third quarter
+of 2013/14, its achievements included:] [1. A cumulative life-to-date A$4.9 billion spent on capex and
+A$2.4 billion on opex.] [2. Completion of 113 of its 121 points of interconnect for the NBN's 'core' network
+and 80% of the transit network.] [3. The passing of 512,659 fixed line and fixed wireless premises, an
+increase of nearly 96,000 over the previous quarter, for an average run rate over the quarter of 6,000
+combined brownfield and greenfield premises per week and around 1,000 fixed wireless premises per
+week.] [4. Cumulative implementation of 166,642 premises with an active NBN service at the end of
+March, including 35,428 premises signed up during the quarter, with a total of 111,035 fibre customers
+(brown and Greenfield), including 31,154, signed up during the quarter.] [5.
+
+Construction during the third quarter of a satellite ground station at Roma and a telemetry, tracking and
+control centre at Alice Springs.] [As far as the fixed wireless program is concerned, the company reached
+860 sites in total, including 92 sites acquired during the quarter, with 316 sites integrated to date (46
+during the quarter), and 200 basestations built and were ready to be activated.] [Background] [On
+December 12, 2013 a 132 page strategic review, ordered by the incoming coalition government, of the
+cost and status and re-planning of the giant NBN project had concluded that even though the nominal cost
+of the project had been scaled down in pre-election proposals by the then opposition right-wing coalition to
+A$29.5 billion, a realistic costing for the NBN was now believed to be $11.5 billion more, i.e. A$41 billion.
+The review also concluded that the target dates for implementation would not be met and in fact would
+now be three years later than the coalition's pre-election promises.] [Latest NBN Co weekly report] [For the
+week ending May 18th, NBN Co reported that a total of 7,050 additional lots/premises were
+passed/covered by the network during the week, of which 3,522 were in brownfield and 1,696 in greenfield
+areas. It also said fixed wireless coverage increased by 1,832 premises during the week. Overall an
+additional 3,681 premises had services activated on the network, including 3,255 on fixed line services
+and 426 using satellite and fixed wireless technologies.] [Despite NBN Co having spent A$7.3 billion to
+the end of the last quarter, or over 18% of a notional A$41 billion budgeted for the whole project, only
+around 6.5% of Australia's 8.18 million homes seem to have been passed and only around 2% have
+signed up for the service. Counting industrial premises as well those figures would be even lower.] [To a
+large extent this is inevitable - plans had to be drawn up, a huge amount of political and commercial
+negotiation had to take place (culminating in the Telstra A$11 million deal, which now has to be
+renegotiated due to a shift of policy by the new Tony Abbott-led administration which took office in
+September 2013), thousands of operational people have had to be trained and core infrastructure had to
+be laid down before significant marketing could take place and retail signings for the high speed
+broadband services achieve any momentum.] [Nonetheless, it may be difficult to persuade some
+Australian citizens of that, particularly the very substantial number of those wedded to the idea that in a
+region where most South Koreans, Japanese and inhabitants of Hong Kong already enjoy the benefits of
+full FTTH network, ordinary Australians are entitled to the best possible solution. However, with Australia's
+very short parliamentary term this project was always going to be a political football.] [The operational
+situation] [Implementation of the NBN in Tasmania and the mainland has been distributed between around
+ten major and many smaller infrastructure installers, including companies such as Service Stream,
+Visionstream, Aurora Energy (Tasmania), John Holland, BSA, Transfield Services. Lend Lease, Downer
+EDI, and Universal Communications Group. In what is a completely new situation for most of these, there
+have been and continue to be problems, particularly since on top of the core difficulty of connecting up the
+sixth largest country in the world (which also ranks a lowly 235th out of 241 for population density) they
+
+Page173of250©2018Factiva,Inc.Allrightsreserved.have had to meet tougher and tougher targets whilst moving away from the simplicity of pure FTTH for
+most locations to a mixed-technology approach that is supposed to save money. However, that is yet to be
+proven and revised budgets are already being exceeded.] [Service Stream signs contract extension]
+[Meanwhile, on May 19th Service Stream of Melbourne, an A$81 million capitalised, 3,000-employee ASX
+quoted supplier of network services covering access, design, build, installation and maintenance for fixed
+communications, mobile communications, and energy and water systems and currently led by MD Terry
+Sinclair, announced that it had signed a contract extension worth a potential A$140 million. Of the total
+A$140 million, A$70 million is for the first two years of the contract, with a further $70 million arising
+from two one-year extension options. The contract involves the design and build of the NBN in new
+greenfield housing estates in New South Wales, Western Australia, South Australia and the Northern
+Territory, and the company can also tender for work in other regions outside those states.] [On May 21st
+the Northern Territory News reported that NBN Co and Service Stream were in negotiations for Service
+Stream to increase its subcontracted workers by 60% from 50 to 80 individuals. NT News also noted that
+the Territory (with a population of 239,000, 1.0% of the national total) remained the slowest rollout area
+around the country, as well as showing some of the poorest take-up by homes and businesses. It also
+quoted Australia's Financial Review as saying that more than 55% of Canberrans and 35% of NSW
+premises take on a service, but just 6.5% of Northern Territorians had so far signed up for high-speed
+broadband.] [Visionstream gets extension, but Tasmania to have FTTN] [Also on May 19th Leighton's
+construction company Visionstream announced it would continue rolling out fibre to new houses across
+Victoria, Queensland and Tasmania in a two-year contract extension worth A$90 million. The company
+was originally paid A$102 million to undertake greenfield fibre design and construction work in Victoria
+and Queensland in 2012 and is responsible for overall fibre network construction in Tasmania.] [Under the
+new deal Visionstream continue the design and construction of FTTP in new estates, as well as the
+commissioning of pit and pipe infrastructure and the establishment of temporary transit fibre networks to
+those new estates. (NB: Visionstream has faced criticism from the Coalition government over its handling
+of the NBN rollout in Tasmania, with the company seeking additional funding to complete the rollout of
+fibre to 190,000 premises in that state, and the request means NBN Co is likely to switch the rollout in the
+state to FTTN.)] [NBN designer Ferris downgraded to advisory position] [On April 22nd a number of
+Australian technical sources reported that Peter Ferris, executive GM of planning and design at NBN Co
+and responsible for the overall network design of the emerging NBN (including NBN Co’s original FTTP
+rollout as envisioned by Kevin Rudd's Labor government back in 2009), had been stripped of his
+responsibilities. During an organisational review, Ferris was moved into an advisory position supporting
+newly-appointed NBN Co COO Greg Adcock. The general view is that this was a purely political decision
+as Ferris was widely regarded as highly competent.] [First FTTN node implemented on NSW Central
+Coast] [Although the incoming coalition government had made the political decision that NBN Co should
+adopt a cheaper broadband implementation policy based on a broader mix of technologies that made
+better use of existing copper, NBN Co initially focused on FTTP and had little experience of such
+technologies. In particular it had it had little experience of mass implementation and the use of an existing
+copper network which many people had previously claimed as reaching the end of its useful life.] [On April
+21st NBN Co announced that a trial at Umina Beach on the Woy Woy Peninsula in New South Wales that
+had involved the installation of a VDSL modem in a shop front connected to the existing copper telephone
+line and a Telstra node in the street 100 metres away had delivered raw download speeds of 105 Mbit/s
+and upload speeds of 45 Mbit/s.] [While NBN Co CEO Bill Morrow said the results demonstrated the
+viability of using copper to deliver high-speed broadband in Australia, COO Greg Adcock was more
+cautious and merely described the results as encouraging. Moreover, an Australian newspaper report
+noted that the speeds achieved in this trial represented the straight down speed taken off a quick test and
+there would be substantial traffic class management overhead implemented before it got to retail service
+providers.] [(Editorial note: this Foreword should be read as an update to the three-part series published in
+February 2014.)]
+
+For further information go to http://www.opticalkeyhole.com
+
+Whilst every effort has been taken to ensure the accuracy of the information contained in this report,
+neither Optical Keyhole nor its agents or sources can be held responsible for any inaccuracies or result
+thereof. No item shall be taken as a recommendation to buy or sell any form of equity.
+
+CO nbnaus : NBN Co Limited
+IN
+
+i3302 : Computers/Electronics | i3303 : Networking | i7902 : Telecommunications | ibrdbi : Broadband
+Infrastructure | icomp : Computing | itech : Technology
+gpol : Domestic Politics | gcat : Political/General News | gpir : Politics/International Relations
+austr : Australia | tasman : Tasmania | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz :
+Australia/Oceania
+
+NS
+RE
+
+PUB Electronics International
+
+Page174of250©2018Factiva,Inc.Allrightsreserved.AN Document OBSERV0020140522ea5m0000c
+
+Page175of250©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,790 @@
+Gravity waves – or not?
+
+HD Gravity waves – or not?
+WC 9,900 words
+PD 25 July 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+Gravitational waves detected?
+
+New Technology Centre rises from ashes of Mt Stromlo
+
+TD
+
+Celebrating 400 years of the logarithm
+Second chance for the Lord Howe Island Stick Insect
+
+Curious link between swarming locusts and agriculture
+
+The key role of fungi in forest ecology
+
+Sharks packed to the gills with highly tuned sensors
+
+Robyn Williams: Well, it's not the Higgs, but finding gravity waves would have been close. So, what went
+wrong? You may recall a fuss a few weeks ago, hailed as a message from the beginning of time. So, what
+was it?
+
+Today's Science Show also brings you a giant stick insect, sharks, and the 400th birthday of your favourite
+bit of maths, or it should be; the logarithm. Bang. That was 13.8 billion years ago, and measuring the
+aftermath of the Bang seemed to have produced results. So, what went wrong, and what are gravity
+waves? Paul Davies:
+
+Paul Davies: They said they'd found gravitational waves emanating from the Big Bang itself. I should
+mention that gravitational waves are ripples in the curvature of space-time, so they are not waves of stuff,
+they're waves of space-time itself, and they are caused when large masses slosh around. Typically think of
+a star imploding to form a black hole or a pair of stars orbiting each other. But the granddaddy of all
+sources of gravitational waves is the Big Bang, a lot of stuff sloshing around there. But there's a subtlety
+which, if these results hold up, makes this a very, very significant discovery, and that subtlety has to do with
+quantum mechanics. So down at the level of atoms and molecules one of the key things that's going on is
+uncertainty, Heisenberg's famous uncertainty principle which, with a bit of handwaving, you can read as
+fluctuations; where is an atom, is it here, is it there, is it everywhere? It's jiggling around all over the place in
+a fundamentally uncertain manner. The same thing with space-time.
+
+Now, we believe that just after the Big Bang there was a period called inflation, which is that the universe
+doubled in size in a tiny fraction of a second, a trillion trillion trillionth of a second, roughly. And if this was
+the case, then quantum fluctuations in that expansion would have led to the spontaneous production from
+quantum mechanics of gravitational waves at that time. And an echo of that production could be seen today
+in the pattern of radiation, heat radiation left over from the Big Bang. The claim is they found it.
+
+Robyn Williams: Well, if you want to look at that explanation again, you can see it in the cover story of
+Cosmos magazine written by Paul Davies in last month's addition. Einstein is on the cover.
+
+Well, they said they found it. Before we ask what really convinced them they'd found it, I would have
+thought that gravity waves, being so fundamental, so huge, should be quite easily visible.
+
+Paul Davies: The problem is that gravity is such a weak force, so we can think of electromagnetic waves as
+a good analogue, that's how our listeners are hearing us now, ripples in the electromagnetic field. But
+electromagnetism is a roughly 40 powers of tens stronger than gravitation. So although gravitational waves
+
+Page262of300©2018Factiva,Inc.Allrightsreserved.are certainly going right through us as we sit here and are shuddering us and the room and the building, we
+don't notice this because gravity is so weak as a force. So to detect gravitational waves you need very, very
+sensitive equipment. And for decades physicists have been building equipment to directly detect
+gravitational waves arriving on Earth. Haven't succeeded yet, but there is indirect evidence that they really
+exist because there's an object called the binary pulsar which is a pair of neutron stars that are spiralling in
+together because they are emitting gravitational waves and losing energy. So we are convinced they are
+out there, the question is have they been detected from the Big Bang itself.
+
+Robyn Williams: You said equipment to detect them. Now, this equipment was near the South Pole. Why
+wasn't it in Boston, Massachusetts? Far more convenient!
+
+Paul Davies: They need to be at the South Pole because they are looking at the heat radiation left over
+from the Big Bang. That's radiation that hails from about 400 thousand years after the Big Bang but would
+still carry an imprint of that much earlier gravitational wave activity. And so the question is how do you
+observe this stuff. And there are two ways of doing it. One is from the ground or maybe a balloon, and the
+other is from a satellite. Much cheaper to do it from the ground but you can only stare at one patch of sky.
+And a good place to do it is Antarctica because it's daylight for six months of the year and night for six
+months of the year. And so it's generally a good place to do this type of astronomy.
+
+Robyn Williams: Well, they made the claim a few weeks ago and they did so even before they'd published,
+and now there is doubt. Could you tell us what the doubt might be?
+
+Paul Davies: It's always hard in astronomy and cosmology to make sure that what you are looking at from
+the proverbial edges of the universe isn't mimicked by something much closer to home. And the team that
+produced these results were well aware that there is a mimicking effect of just dust in the Milky Way,
+because what they are looking at is a pattern of polarisation. I think we are all familiar with the idea that
+light and heat is the same thing, can be polarised, people wear polarised sunglasses for example, and light
+and heat becomes polarised if it scatters off anything. It could just be electrons, it could be dust, it could be
+a window, it acquires polarisation.
+
+So when this heat radiation from the Big Bang passes through the Milky Way, of course it picks up some
+polarisation. So it's all down to the pattern. You've got to look quite precisely at the pattern. Now,
+gravitational waves twist the pattern of polarisation in a very distinctive manner, but so does this foreground
+dust, or at least it can mimic that twisting effect. And now there is some uncertainty as to whether they
+really took into account this foreground dust well enough.
+
+Robyn Williams: Princeton says that Harvard is wrong.
+
+Paul Davies: Well, what we have to wait for is the definitive confirmation or disconfirmation. And fortunately
+there is another way of doing this, there's a satellite called Planck, a European space agency satellite. It's
+been up there in space for a while, beavering away, collecting very rich data about this cosmic microwave
+background heat radiation. And they should have the capability of saying yes or no for this particular claim.
+And they've got it for the whole sky, not just a patch above the South Pole. So very soon I think we are
+going to hear an announcement along the lines of 'we got it wrong' or 'we got it right' or 'we need more
+money for more work'. Probably the last of those!
+
+Robyn Williams: I've never heard that before! And if they do discover gravity waves, one way or the other, it
+will be a really big deal, won't it.
+
+Paul Davies: There is no doubt whatsoever that first of all discovering a prediction made by Einstein—and I
+think it was 1917, 1918, way, way back—is finally confirmed…that's one thing. But the other is that here
+suddenly we have a probe of the Big Bang, not just at 400,000 years like the heat radiation, nor even at
+one second which you can get from the cosmic abundances of the various elements, but going back to a
+trillion trillion trillionth of a second, this is the very threshold of creation, in one great leap, going back to a
+relic or a probe of that very, very earliest moment, just after the universe came into existence. That would
+be really exciting.
+
+Robyn Williams: Well, on Tuesday, Paul Davies, you're talking at the University of New South Wales about
+six very big questions. Is that one of them?
+
+Paul Davies: It is indeed. One of the questions, indeed the first, as is appropriate, is what happened before
+the Big Bang, because we keep using this term 'Big Bang', and at dinner parties I'm always berated; 'Well,
+what happened before the Big Bang? You cosmologists think you are so clever, tell us what happened
+before,' as if that would stump us, but of course we've thought about it, and there are two answers to that.
+One is nothing. In other words, that the Big Bang might just have been the ultimate origin of space-time,
+matter and energy, all physical things just popped into existence then. And the other is, well, there was
+something there before, but of course that's just pushes the problem of 'why does the universe exist, how
+did it come to exist' back into an earlier phase.
+
+Page263of300©2018Factiva,Inc.Allrightsreserved.It may be that there was never an ultimate beginning, that we might live in a multiverse with lots of bangs
+scattered throughout space and time and we are just one of them. Our universe is only a microcosm in this
+limitless sea of universes. Maybe that's it. Maybe that's not it. We don't know the answer to that, that's why
+it's a big question and not a big answer. And that's the first. But it's tied very much with the second of the
+questions which is, okay, whether there's one universe or many, we still have the problem about the
+mechanism that brings it into being. It's all very well to say, oh, it just began, wave your hands, forget about
+it.
+
+But everything that we do when we study these sorts of problems relies on the laws of physics. We sort of
+assume those laws are given to us, they are there, we use them as if they are just sort of lying around, but
+where do they come from? What is the origin of these laws? Did the laws just pop into existence with the
+universe in a sort of package of miracles that just happens to be? Well, scientists don't like miracles. So we
+think what is the explanation of those laws?
+
+And at that point, if you're sitting around having a discussion over coffee, say, at a physics department,
+everyone starts shouting and arguing with everyone else because there is no really agreed approach to
+what do we do about the laws. The job of the physicists is to take the laws and apply them, but asking
+'where do the laws come from' seems like dangerous territory. But when you're talking about the ultimate
+origin of things, you can't ignore that one. So that's problem number two.
+
+Robyn Williams: Without giving the whole story away, what about just a headline of the last four?
+Paul Davies: Yes, then I'm going to come onto life, how did life begin, which connects with are we alone in
+the universe? Is ET out there somewhere waving? And then I want to talk about cancer. You might think,
+well, why is cancer a big question? It's a big problem of course for everybody on the planet, but actually it
+turns out it's a very fundamental phenomenon. I think cancer is a window on the past, and it ties in with the
+origin of multicellularity. That's one of the really big questions in biology. And the last is what I think is the
+toughest question of all, which is the origin of consciousness. What is consciousness, why does it happen,
+and will we one day be able to produce it in an artificial system?
+
+Robyn Williams: Talking about consciousness, and my final question; how do you maintain in your brain,
+which I can see in front of me is pretty huge, but nonetheless, all of that astrophysics and all of that cancer
+and biology at the same time?
+
+Paul Davies: It doesn't seem all that hard. The main problem in cancer biology is learning all those long
+words because at the end of the day if you are a physicist working on fundamental problems you go right
+back to basics, you ask the basic big questions that underpin things and leave it to others to get the
+answers to the little technical details.
+
+Robyn Williams: Well, the lecture is on 29th July at the University of New South Wales in the evening.
+Thank you very much, Paul Davies.
+
+Paul Davies: My pleasure, thank you.
+
+Robyn Williams: And Paul Davies talks about the six big questions at the University of New South Wales at
+6pm on Tuesday.
+
+And this week, still thinking about the cosmos, a rebirth after the holocaust in Canberra. Carl Smith was
+there.
+
+Carl Smith: The 2003 Canberra bushfires destroyed hundreds of homes as they blazed through the fringes
+of the nation's capital. One of Australia's most important sites for astronomy research, the Mount Stromlo
+Observatory, was lost. 11 years on, the ANU's director of astronomy and astrophysics Professor Matthew
+Collis says the observatory's buildings have been completely restored.
+
+Matthew Collis: It took out our telescopes, it took out our workshops and it was devastating in fact for the
+community as a whole. But it recovered remarkably quickly. Although we no longer have telescopes up
+here on Mount Stromlo, our telescopes have been built up at our other site, at Siding Spring Observatory,
+and here on this mountain we concentrated on rebuilding all our technology capabilities.
+
+Carl Smith: The opening of the Advanced Instrumentation and Technology Centre today marks both the
+end of restoring the observatory site and a revitalisation of Australia's space industry.
+
+Matthew Collis: We're well beyond where we were before. We have better facilities in every respect. We
+have bigger and better telescopes.
+
+Carl Smith: The centre is the first of its kind in the country and it will allow Australians to autonomously build
+world-class space technology, including satellites.
+
+Page264of300©2018Factiva,Inc.Allrightsreserved.Matthew Collis: With the facilities in this building we can do everything from designing through to launch
+testing of satellites. This will allow Australia to get more directly involved in the space industry, and that's a
+big deal.
+
+Carl Smith: Ian Macfarlane, the Federal government's Industry Minister, says Australia's growing space
+industry could be one of the country's big exporters.
+Ian Macfarlane: Well, billions, literally tens of billions of dollars. It would rate up there with the exports of
+pharmaceuticals, with the value of the automotive industry. $4-$5 billion, but with the potential to grow to
+10 times that amount over the next 20 years. So it is an incredibly important industry, one of which is the
+quiet achiever in Australia yet it's one all Australians should be proud of because we are world excellence
+leaders in this area.
+
+Carl Smith: Professor Collis says Australia needed a space industry hub like the new centre to help
+coordinate research and commercialisation projects.
+
+Matthew Collis: Everything from the analysis of geophysical data for the minerals industry through to
+weather forecasting through to insurance, people looking at fire patterns on the ground. It's a very diverse
+industry, but it's incredibly important and it's only going to grow in importance in coming years.
+
+Carl Smith: Alongside the reopening, two new initiatives were announced.
+Matthew Collis: So the Minister has announced two major new projects, one a $5 million instrument for the
+Giant Magellan Telescope, and the other a $6 million satellite laser ranging facility for the Koreans. These
+are our launch pad for this centre. They will allow us on the one hand to do imaging that's 10 times sharper
+than the Hubble space telescope on the Giant Magellan Telescope, and for the Koreans it will allow us to
+track small pieces of space junk that could damage the satellites and the International Space Station.
+
+Carl Smith: The scars of the 2003 Canberra fires are still visible at Mount Stromlo. But researchers and
+scientists working there are looking onward and upward.
+
+Robyn Williams: And that was Carl Smith, ABC news Canberra, who is always looking upwards. As are we,
+The Science Show on RN. We also look backwards to anniversaries, and this one is of the log. Makes
+sense to me, but what about you? Let's ask a young person.
+
+Stephanie Pradier: Guess what I did last month? Learned to use a slide rule. A slide what? A slide rule.
+Why? Because the logarithm turned 400 this year. My name is Stephanie Pradier and I was born in
+Melbourne in 1985. On the one hand, I was lucky. I missed out on perms, mullets, legwarmers and double
+denim. And on the other hand I was even luckier; I grew up with a pocket calculator, touch typing lessons,
+and now an app for just about anything I can dream off. Ha! The software on my laptop that checks my
+spelling didn't even quibble about the use of the word 'app'.
+
+So when invited to help celebrate this momentous anniversary, my research was done the old-fashioned
+way; I googled. It turns out the logarithm is not just a button on a calculator with electronics and silicon
+behind it, it is a super handy tool to perform division, multiplication and various trigonometric calculations.
+And there is a whole culinary tradition behind the logarithm. It has a chef (the Scot John Napier), utensils
+(bones and slide rules), and a recipe book (log tables). These utensils were used by students the world
+over until very recently. In fact one of the last forced to use a slide rule in his HSC exams gave me mine.
+Sitting down with it initially was perplexing, but mastering it was so much fun. Novel, a little frustrating, but
+fun.
+
+For those listeners not familiar with the slide rule, I shall explain. It's a manual pocket calculator that works
+because of the logarithm. There are no buttons, you don't press it, you slide it. Historically the log brought
+me first to John Napier and his bones. It was then I discovered the magic of this story. The magic, for a
+child born when I was born, has been completely lost. And got me thinking; perhaps if we taught kids the
+romance of mathematics, the stories of the people behind the numbers, their interest would be sparked,
+they would learn better and retain the concerts with greater vigour and aptitude.
+
+So what on earth does that button with the letters LOG on it actually do? Currently I can perform
+multifaceted and complex calculations in nanoseconds, correct to umpteen decimal places without training
+or straining my brain. However, 401 years ago, before Napier's marvellous invention, these same
+calculations were lengthy, laborious, and nowhere near as accurate or precise.
+
+Logarithms let us perform calculations that would have been practically impossible without a calculator. And
+when we think about it, the calculator itself would have been impossible without the logarithm. Take two
+large numbers, say bigger than 1,000. Have you got them? 401 years ago you would have to multiply them
+out by hand, or worse still, perform long division. Imagine all those lines, carrying the remainders,
+multiplying by the devisors, subtracting, bringing numbers down. All those steps would take all day. Then,
+
+Page265of300©2018Factiva,Inc.Allrightsreserved.following Napier's invention, it became simple. Now you could sift your way through the log tables, find the
+logarithm of the two numbers and simply add or subtract them. Then use the same table backwards to find
+the product or the quotient. Yep, that's what he did. With his miraculous tables of logarithms, Napier
+transformed days of error-prone calculations. He offered simple elegant solutions which enabled
+astronomers, physicists and anyone doing mathematics to double their lives, as the mathematician Laplace
+put it.
+
+The significance of Napier's book and his bones has been lost on today's youth, myself included. To me it's
+sad. We grew up with the pocket calculator, not slide rules, bones and log tables. And now with our pockets
+full of silicon chips, we perform millions of calculations per second as a matter of course. The slide rule,
+my nifty new friend, breathes life into these calculations. Okay, I'm a little bit into numbers. But by sliding
+different sections it lets us find the products and quotients of numbers between the base 10 mile posts. And
+accompanied with log tables we can manipulate these numbers in useful ways, easily.
+
+Doing the calculations in this way might be more time-consuming than punching or touching numbers on a
+machine, but if we were taught the history of how this and other functions like it came into being, if we got
+to play with slide rules and log tables in our formative years, I reckon we would fall for numbers, fall for the
+romance and the magic that is clearly there, just below the silicon chip. Having learnt about Napier's
+contribution and having taught myself how to use the slide rule, it is obvious to me that these stories and
+hands-on calculations are essential.
+
+What we have here is a catch-22. The logarithm has driven developments in science and engineering for
+centuries, so if it were not for Napier's time-saving invention we most likely wouldn't have our pocket
+calculators. But precisely because of our pocket calculators, Napier's recipe has been forgotten, along with
+the log tables, slide rules and those god-awful hairdos.
+
+So in a time when we do not celebrate our mathematical heroes, join me in saying happy 400th logarithm.
+Let's use this anniversary to raise the appreciation of mathematics across the general population, and to
+breathe new life into Napier's bones.
+
+Robyn Williams: Stephanie Pradier, who fosters interest in maths in Melbourne and has just got a brilliant
+degree in physics.
+
+And Melbourne is also the place to look for stick insects. Just ask Matt Smith. I know you're dead keen on
+stick insects, as you should be, and the story of this one is amazing.
+Rohan Cleave: Come in, into the world of the Lord Howe Island Stick Insect.
+
+Matt Smith: I should have expected humidity.
+I'm at Melbourne Zoo in one of a number of glasshouses dedicated to a single species of animal, the Lord
+Howe Island Stick Insect. The humidity is set at a balmy 80%, because that's how it is at Lord Howe Island
+and that's how the stick insect likes it.
+
+Rohan Cleave: This is the young ones when they first hatch, a few hours old.
+
+Matt Smith: Okay, so those are tiny, a couple of centimetres long.
+
+Rohan Cleave: They are the little ones. And these are the adults.
+Matt Smith: I'm being introduced to the animals by entomologist Rohan Cleave. He opens one box to show
+me about 30 dark-brown giant stick insects, all huddled together in the dark.
+
+Wow!
+
+Rohan Cleave: There's a massive change from when they first hatch out of the egg. They are very bright
+green, around two centimetres, and then they grow into this very impressive stick insect. This is a female,
+and they go very, very black, and at this point they will only come out at night to feed, search, and to mate
+and things like that.
+
+These are a very heavy stick insect species, about 25 grams they will get up to when they are fully grown,
+and around 15 centimetres for the females. The males are a little bit smaller than the females, but what the
+males have is really, really big spines on their hind legs.
+Matt Smith: The Lord Howe Island Stick Insect is a big deal, and to understand why you need to know its
+back story. We'll start it with a message from Dame Jane Goodall, which was recently played at the launch
+of a book called Return of the Phasmid, the book is by Rick Wilkinson and covers the story of this insect.
+Here's Jane Goodall:
+
+Page266of300©2018Factiva,Inc.Allrightsreserved.Jane Goodall: I first heard about the Lord Howe giant stick insect from Nicholas Carlile back in 2007.
+Originally it lived in the lush tropical vegetation of Lord Howe Island, but then rats were introduced and they
+soon discovered that the huge phasmid made a tasty meal. And as the rats multiplied, the stick insects
+gradually vanished, until it seemed that the Lord Howe phasmid was totally extinct.
+And then, during a dangerous midnight climb, Nicholas found a small group of the insects surviving in a
+small patch of vegetation on Ball's Pyramid. Anything less like the original habitat would be hard to imagine;
+a rugged spire of mostly bare rock rising out of the ocean, 23 miles away from their original home.
+
+Nicholas Carlile: It was considered that it may be on Ball's Pyramid, but no live animals had been found.
+
+Matt Smith: And this is Nicholas Carlile. He is a senior research scientist at the Office of Environment and
+Heritage in New South Wales, and back in 2001, along with David Priddel, he was one of the discoverers of
+the living specimens of the Lord Howe Island Stick Insect on Ball's Pyramid.
+
+Nicholas Carlile: My role in the expedition was to manage getting onto the Pyramid, which is 23 kilometres
+from the main island, you are dealing with vertical cliff faces that you have to pretty well jump onto and
+then clamber up to a rock platform, and hopefully only stay there for 24 hours, but at worst three days,
+because your window of opportunity out in the open ocean (we are 500km from the mainland) is very small.
+
+Matt Smith: Is it a logistically complicated hunk of rock to get onto?
+
+Nicholas Carlile: It is very complicated. It's a kilometre long, half a kilometre wide, and 550 metres high.
+Most of it is totally inaccessible. You jump onto the rock when the boat was at the highest point of a wave
+before it drew away from the cliff face, and you'd clamber up, and once we got everybody up we then had
+the gear tossed up to us. And there was some 15 containers of water and food and bed rolls. That was the
+easy bit.
+
+The hard bit was actually going to look for something that nobody had ever found living on the Pyramid. So
+about 9 o'clock that night we started to climb back up the Pyramid. We just had a head torch. This is pre
+digital days, so I had a little instamatic camera which only had three shots left on it. And we were going up
+vertical faces, which is quite difficult in the dark with a head torch because you've got the light right on your
+face, it effects your night vision, it's really hard to pick your foot and handholds, because we were going up
+some very steep faces.
+
+And when we got close to the ledge where this bush was and we could see a big cricket sitting out on the
+edge chewing on something, and I went, 'Oh bugger, look at that, it's going to be a cricket!' And then we got
+a little bit closer and there on the outside of the melaleuca was this shiny black insect, the biggest thing I'd
+ever seen in my life, because we are not used to really big invertebrates in Australia. I mean, there are
+much bigger stick insects elsewhere in the world, but for me it was just amazing. And we were just totally
+gobsmacked. And Dean is a little bit more reserved than me, but I was swearing my head off, I was so
+excited at what we were seeing. Because basically if you want to see invertebrates that size, you've got to
+go back to when invertebrates ruled the world. You know, these are large insects that can't fly which, if
+there are rats and mice around they're an immediate meal. So you just don't find them, particularly on the
+Australian mainland.
+
+And we searched around and there was a big female up on the bush and there was one really low to the
+ground, she had dust on her, so she had obviously been walking on the ground. And I went to pick her up,
+and I wasn't sure if these things could bite, because I'm used to living in Sydney and there are cockroaches
+that can give you a good bite, and it started to turn its head around and I dropped it and it started scurrying
+away…that was the other thing, we expected them to move really slowly, and these things moved really
+fast, like a cockroach, very quickly. And Dean slammed his foot down just in front of it, and it came up to
+the shoe and stopped, and we took a photo. So that was one of the three photos that we had, was Dean's
+sandshoe and this stick insect. As an iconic species for Lord Howe you can't go past this stick insect, it's
+pretty good.
+Matt Smith: A few years later in 2003, permission is finally granted to remove four Lord Howe Island Stick
+Insects from Ball's Pyramid and attempt to breed them into captivity. Two were sent to Sydney where they
+died within a week, and the other two were sent to Melbourne Zoo. They were named Adam and Eve, and
+now, 11 years later, there is a population of more than 700. Rohan Cleave talks about the success of the
+breeding program and the research that they've been doing.
+
+Rohan Cleave: You have to imagine a species that you find in the wild that there is no recorded
+information. So we didn't really know too much about them. One of our staff members actually changed his
+working life to work completely nights for the first month. We knew a particular species of plant that they
+may have fed on, which is the Melaleuca howeana which is on Ball's Pyramid, but that's pretty much it. We
+started with two, we are now in 2014 and we've had over 11,000 nymphs hatch out here at Melbourne Zoo.
+This is our 11th generation and we are breeding really, really well.
+
+Page267of300©2018Factiva,Inc.Allrightsreserved.Matt Smith: You said that you've been experimenting with a few trees along the way. Did you find that there
+was something that worked better with what they had on Lord Howe Island?
+
+Rohan Cleave: Absolutely. So the primary plant was Melaleuca howeana. The other plant that we use a lot
+that propagates and grows really, really quickly is tree lucerne, they go really well on that. And the other
+plant we've introduced recently is ficus. When we do experiments we start with the young. We run an
+individual through on one particular plant until they get adult, and those adults lay eggs, and then if those
+eggs hatch then we deem that as a successful trial. At the zoo we've trialled over 70-odd plants already,
+different species. A lot of those haven't worked. But again, it comes down to our best guess on what might
+equate diet-wise to this particular species.
+
+Matt Smith: As far as I understand it, every insect that you see here is descended from Adam and Eve, the
+bug Adam and Eve, not the biblical. What do you do with genetic diversity then? Is that an issue?
+
+Rohan Cleave: Not so much with invertebrates. Invertebrate DNA and genetics is slightly different to what
+you would see in mammals. That was something that we thought may come into play early, and there are
+times when we've felt genetics may be a bit of an issue, but we are now in our 11th generation and we are
+still seeing beautiful animals hatch, go all the way through, have no issues with any deformities…and that's
+the thing we don't see with invertebrates, you don't see deformities with regards to genetics.
+
+We also have run other different trials on parthenogenesis or female-only populations; could they survive in
+theory without introduction of males? And yes, they can, which is quite common in other stick insect
+species as well, but all offspring will be female, and that's how certain populations survive with a
+female-only population.
+
+Matt Smith: Is there the intention at any point to release them back to the natural habitat, to Lord Howe
+Island?
+
+Rohan Cleave: That's the hope. There are a few things that have to happen before then. So now we
+concentrate on the captive breeding side of things, and then if that all comes together then yes, one day we
+do hope to see this species back on Lord Howe Island.
+
+Matt Smith: It's an amazing achievement that you've got here, and it's a great example of a success story.
+
+Rohan Cleave: This is such a positive conservation story. It's great for invertebrate conservation. We've
+gone along and done our thing knowing that hopefully down the track this could be seen as a model
+conservation program.
+
+Robyn Williams: Rohan Cleave at Melbourne Zoo, with Matt Smith. And, as you heard, it's very important to
+know what insects eat, especially if they are locusts, then perhaps you can work out how to stop clouds of
+millions of them stripping every leaf or blade from your farm. That's what James Elser and Arianne Cease
+are doing at the Arizona State University, with help from Sydney. So, how did they begin?
+
+James Elser: Well, we are following up on some exciting work that my colleague and former PhD student
+did where she showed something quite surprising which is that low-nitrogen diets, low-protein diets seem to
+be favoured and preferred by and maximise the performance of locusts in inner Mongolia, China. And then
+furthermore she showed that these low-protein, low-nitrogen diets, grasses, are favoured when grasslands
+are over-grazed by livestock, and so it connects livestock management practices possibly to locust
+outbreaks by an unexpected mechanism. And so now we want to dig deeper into this and see how it works.
+
+Robyn Williams: Well, rumour had it that of course the locusts would go for the highest richness of food
+available.
+
+James Elser: That's what we thought, but that's not what they say when you ask them. So if you ask the
+locusts politely with the right experimental design they tend to tell you that they like to eat the plant that has
+the lowest protein content and they tend to like grass that's from a field that has not been fertilised with
+nitrogen, and that if you force them to eat the food that has the high protein, they don't do very well, they
+don't grow so fast. And so personally I'd rather listen to the locusts than to you about how you feel about
+this.
+
+Robyn Williams: Well, indeed, talk to the locusts. The first thing is to define a locust. What is a locust?
+
+Arianne Cease: One way to think about it is all locusts are grasshoppers but not all grasshoppers are
+locusts. So locusts are types of grasshoppers that when exposed to specific environmental cues as
+juveniles will develop into animals that are grouping together and develop into migratory swarms.
+
+Robyn Williams: And how many different kinds of grasshoppers are there?
+
+Page268of300©2018Factiva,Inc.Allrightsreserved.Arianne Cease: There's about 10,000 species of grasshoppers worldwide.
+
+Robyn Williams: That's extraordinary, I had no idea it was that many.
+
+Arianne Cease: Yes, they're found in virtually every ecosystem around the globe and on every continent
+outside of Antarctica.
+
+Robyn Williams: And how many of those different species actually do the kind of swarming that you
+described?
+
+Arianne Cease: Usually there's about 15 to 20 species on that list.
+
+Robyn Williams: Okay, so they can be grasshoppers when they are solitary and something comes over
+them and they swarm and they descend on fields and they look, as Jim just said, for the less nutritious
+lunch.
+
+Arianne Cease: What our question was was what causes build-up of locust populations, and so what are
+the early triggers that lead to development of migratory swarms, before we get these massive swarms that
+are seeking outcrops and anything green left in the area. What's happening at the early stages? And
+specifically we are interested in how humans are affecting the environments and how that may in turn
+influence whether or not we get these population outbreaks. And so in doing research in inner Mongolia,
+locusts were most prevalent in these heavily grazed pastures. So heavily grazed by sheep in the case of
+inner Mongolia. So that's where we went to go collect the locusts.
+
+And it was a bit puzzling to me because the field where we were collecting the locusts was over-grazed, it
+seemed degraded, there was not as much grass there compared to a field that was right next to there that
+had been protected for about 30 years. So there was ample grass and to us it looked like a lush and
+nutrient-rich environment, but the locusts we were working with, the specific species wouldn't cross the
+fence.
+
+And so we started to think about different hypotheses for why that might be. So things like different
+temperature, maybe they like the open habitat. And while some of those factors may be at play, the one
+that we found that was very consistent was they were eating the plants that were in the heavily grazed
+areas and they almost refused to eat plants collected from un-grazed areas. And going further using
+artificial diets we found that it was really the ratio of protein to carbohydrate that they wanted to optimise, so
+they were looking for these really low-protein, high-carbohydrate diets. So we found that that was a strong
+link in inner Mongolia.
+
+And so our next step was firstly to test this mechanism in other regions around the world. We've been
+working with Steve Simpson and the Australian plague locusts in Australia, and then we are working in
+Senegal in West Africa where I was a Peace Corps volunteer. And so we are studying these closely related
+locusts and similar types of habitats that have a similar pattern, as we found in China, to see if the same
+mechanism might be at play.
+
+And then in addition to that we are adding in a whole other side of the research which we are really excited
+about, so we are working with economists and social scientists to understand how grazing decisions are
+made, how livestock markets might be connected and how locust outbreaks might influence all of these,
+and vice versa.
+
+Robyn Williams: Yes, because the picture we have is of a cornfield or something like that, and the locusts
+come pouring down and there's nothing left. That's the cliché, if you like. And that's not true?
+
+Arianne Cease: That could be true. If there's nothing left, locusts, once you have a swarm, they are really
+difficult to deal with, and they will eat anything so that they don't starve. North Americans in the early
+frontier days, there's reports of the Rocky Mountain locusts eating clothes off the clothesline, but that's not
+their preferred diet. So once you get these massive numbers of hungry locusts they will descend on crops
+and eat whatever they can, but what we are interested in is initially what causes, what allows the build-up of
+these populations. And of course if we have clotheslines everywhere and we are feeding locusts clothes we
+are not going to see the build-up of populations, we are not going to get the swarms. So we want to start at
+the beginning and then try and understand what allows them to initiate outbreaks and development of
+swarms.
+
+Robyn Williams: Jim, the excitement of working with social scientists and economists…I haven't heard
+many scientists actually say things like that, but what will they give you?
+
+James Elser: In general…I mean, this is generally what we now realise about the environment, is that all
+kinds of things in the environment are driven by human action, and so you really ultimately have to get in
+and find out what it is that drives human decision-making. And one possibility of course is that
+
+Page269of300©2018Factiva,Inc.Allrightsreserved.decision-making about livestock and other things are just completely disconnected from the environment
+where things are playing out. Market forces are operating globally. What happens with sheep in China or
+sheep in Australia is driven by demand for meat in North America or New York City or someplace. And so
+those disconnections could drive things, could go completely haywire.
+
+But on the other hand, if there's local forces being felt regionally in the areas where environmental impacts
+are playing out, then regulators or agencies or other entities in those areas, like in Australia, could decide,
+well, we don't care about the fact that lamb is really high priced now, we have to sort of have a different
+approach to how we allow that feedback to operate and how many sheep can be put on the land.
+
+Robyn Williams: Because if you are doing something that causes locusts to swarm, then you want to stop
+that and do it quickly.
+
+James Elser: Right, but also the problem is that the people who suffer the negative impacts of the locusts
+swarm are not necessarily the same people who are benefiting from the livestock rearing and the sheep
+grazing et cetera. So it's very complicated. The feedback loops are not necessarily present. And one thing
+we want to study is what is the structure of the feedback loops in the existing system in different
+governmental contexts and different countries. If those feedback systems are lacking, what kind of
+institutions or changes in the structure of markets or of regulation might need to be put in place so that
+costs of livestock over-grazing, the feedback is established in such a way that you end up in a place with a
+more reasonable level of sustainable grazing in any given place.
+
+Robyn Williams: That was an interesting clue that you talked about before, about the balance between the
+protein and the carbohydrate, because if you think of the Atkins diet, which Steve Simpson, your mentor in
+many ways, a professor at the University of Sydney, talked about many times, you get the feeling of being
+full by eating protein. That's for us and presumably for the locusts as well. And what you want is the nice
+balance of the ingredients so that you can eat enough to satisfy yourself, so you get topped up on the
+protein you need as well as some of the others. Is that right?
+
+Arianne Cease: That's right. And one way that we can understand how locusts balance their diet is similar
+to how we might look at it in humans. So we can give ourselves a selection of food and then choose among
+that to come up with a balance of nutrients. Locusts are actually pretty smart, as are most organisms, if we
+are given the choice the locusts are going to eat a diet that is best for promoting growth and survival and
+reproduction. And so we can ask the locusts what their preferred ratio of protein and carbohydrate they
+need to think about balancing.
+
+So we can give them a choice of two diets, one that is low in protein and high in carbohydrate, and the
+other that's the converse. And then we can take that information and we can go back to the field and we
+can say, okay, what kinds of plants are these locusts targeting? And then we can determine what nutrients
+the grasshoppers or the locusts are able to get out of these grasses and see if that matches what their
+optimal balance of these nutrients is. And of course Steve Simpson and many others have been using this
+framework in organisms from slime moulds to humans, really powerful nutritional framework.
+
+Robyn Williams: And with any luck and some help from the professors you can avoid planting the menu
+that will change a few grasshoppers into a cloud of rampaging monsters. Professor James Elser and
+Arianne Cease at the Arizona State University in Phoenix.
+
+Our PhD this week is Stephanie Suter, who is also involved with nutrition, but a fungi in the mountains.
+Here's why:
+Stephanie Suter: The secret life of a fungi. Toadstools, mushrooms, camembert, mouldy bread, or an itchy
+foot problem, these are the images often conjured up by the word 'fungi'. But when I talk about fungi I like to
+talk about waterborne fungi, the focus of my PhD, specifically aquatic hyphomycetes.
+Aquatic hyphomycetes are biological group of fungi that are unique in terms of their life-cycle. They have
+no terrestrial stage and their entire life cycle occurs in water. In freshwater environments across the globe,
+hyphomycetes are essential for the decomposition of organic material, particularly plant and leaf litter. In
+terms of biology we know that their spores attach to the leaf surface, they penetrate the leaf tissue with
+hyphal extensions and they chemically break down the leaf, extracting nutrients while increasing their own
+biomass. This softening of leaf tissues allows water bugs to consume the leaf material, taking advantage of
+the fungal enzymes to access nutrients. The fungi themselves can also act as a food source, with their own
+biomass replacing that of the leaf tissue and increasing the protein content.
+
+For my PhD project I was interested in how this seemingly simple process occurred, not only in Australian
+streams with the eucalypt-dominated leaf input, but also in alpine streams over a full seasonal cycle. I was
+interested in the physical and chemical changes occurring within snow gum leaves. I wanted to see how
+seasonal variation affected the fungal community and the roll-on effect this has on leaf litter decomposition.
+
+Page270of300©2018Factiva,Inc.Allrightsreserved.To do this I conducted a series of field experiments in streams in the Australian Alps on the Bogong High
+Plains in Victoria. These extremes are harsh environments for organisms to survive in, given their exposure
+to extreme seasonal weather variation and a lack of available nutrients from the water column itself.
+
+The summer and autumn communities showed the greatest activity, with warm stream temperatures
+promoting high reproductive outputs and decomposition activity. In contrast, not surprisingly, the winter
+samples showed an almost dormant community, with initial colonisation occurring but a relatively
+unchanging biomass within the leaves. So it would appear that the fungi are successfully attaching and
+colonising, maintaining their biomass within the leaf with seemingly no activity occurring after this point.
+
+Having determined the physical changes taking place during snow gum decomposition, I wanted to know
+more about the chemical changes happening within the leaf tissues. Through collaboration with staff on the
+infrared beamline at the Australian synchrotron, I was lucky enough to view the chemical changes occurring
+within the leaves as they are broken down. In the past these changes have been inferred using
+laboratory-based extractions and measurements.
+
+By using the infrared light source at the Australian synchrotron I was able to build a chemical map of the
+inside of the leaf. I could actually see where the fungal hyphae were located in relation to leaf tissues, as
+the synchrotron provided a kind of chemical heat map for selected areas, showing me where
+carbohydrates, protein and lignin are rich and where they are found within the leaf's internal structure. By
+doing this I was able to find that when it comes to fungal decomposition, all roads lead to the
+carbohydrate-rich xylem fibres in the mid-vein area of the leaf.
+
+In terms of stream food webs, these leaves could potentially represent a food source for stream
+macroinvertebrates, with leaf accumulations representing a form of larder or an immediate food resource
+come spring.
+
+By doing this I hope to increase the knowledge and understanding of fungal ecology and eucalypt
+decomposition in Australia and Australian alpine streams. By understanding the processes that are present
+in our unique stream environments, hopefully it will make us more adept at managing and protecting our
+important water resources.
+
+Robyn Williams: Stephanie Suter, who did her PhD at La Trobe's Albury-Wodonga campus, and is now
+watching water supplies at the Corangamite Catchment Management Authority.
+
+[Music: Jaws theme]
+
+Well, you can stop that right now, because sharks are not just scary monsters, they are also biological
+wonders, as Shaun Collin has been showing in the west. But how do you first find your shark?
+
+Shaun Collin: Yes, well, that's a very good question. Firstly you have to attract the sharks to where you are
+and this is generally done using an olfactory cue, some sort of bait. And so once the sharks are actually
+nearby, if we are testing some of our sensory deterrents, for instance, they will interact with our rigs which
+are suspended within the water column, and their behaviour around these rigs is recorded on stereo
+cameras. And using sophisticated software we can actually analyse a lot of the data that shows how close
+they get, how much time they spend within the region.
+
+Robyn Williams: Now, you might think that sharks are, by definition, primitive fish. I know 'primitive' is a very
+explosive term because these creatures have been around for an awful long time. They are very
+sophisticated, and just because they are made of cartilage doesn't necessarily mean that they are in any
+way inferior to the bony ones. But when it comes to the brains, I haven't actually heard terribly much about
+whether they are sophisticated or not. What's the answer?
+
+Shaun Collin: Well, the answer is that they are not primitive, they in fact have sensors that bony fish don't
+have and of course we don't have. A couple of those sensors include the lateral line, which is a sense for
+measuring small changes in hydrodynamic disturbance around the animal, but also another sense called
+electroreception. And so the brain and the peripheral sense organs, the electrode receptors, are actually
+able to detect extremely weak electric fields in the water which are emanating from live prey within the
+water column. And the levels of sensitivity are extreme. They can detect weak electric fields down to the
+nanovolt range.
+
+Robyn Williams: So very sophisticated in that sense. Clearly wonderfully adapted to their environment. Tell
+me, there's one thing that really intrigues me watching lots of films or even sometimes in safe areas like the
+Galapagos or even Lord Howe Island where you swim with reef sharks, they don't seem to be hunting all
+the time, they are just drifting around, benign, and you think; when are you going to go off and eat a fish? It
+seems hardly ever to happen.
+
+Page271of300©2018Factiva,Inc.Allrightsreserved.Shaun Collin: Actually you're right. Generally when we are interacting with the ocean, you don't often see
+them feeding. That might be a by-product of your presence there which might disturb them, which is fair
+enough. But they are not always probing their environment for food. They actually have the ability to
+interact socially. In fact we've made some discoveries recently that the electroreceptive sense may in fact
+play a role in this social communication where we've found a sexual dimorphism with the input of the
+electroreceptors into the brain of females versus males. And so the signal that they give off and their ability
+to detect that signal is actually different in male and female cartilaginous fishes.
+
+And so these type of interactions will be taken place all the time. They may be searching for food, but this
+may in fact draw them for a long distance. The sense of olfaction is a very ancient sense but it's also a very
+sensitive sense where they can actually travel hundreds of metres, maybe even kilometres in search of
+food. And these odour plumes can bring them very long distances in search of their prey.
+
+Robyn Williams: Also of course the other fish seem not to be at all worried. Everyone is kind of drifting
+around very quietly.
+
+Shaun Collin: Well, that's true. I mean, the sharks are a very important part of our ecosystem. They are a
+natural part. They clean up the environment in the way that would predate on sick or dying fish, and make
+sure the genetic pool is fresh at all times. But no, they generally live in harmony with their environment, and
+all the interactions that I've had with sharks while diving or swimming have all actually been very positive.
+
+Robyn Williams: You've got legs, you've got arms!
+
+Shaun Collin: Absolutely, and we quite routinely interact with sharks in the wild, and most of the time we in
+fact would like to get close to actually observe their natural behaviours since there is still a lot we don't
+know about these amazing species.
+
+Robyn Williams: You haven't lost a student in years.
+
+Shaun Collin: No, not at all, in fact they are the first ones into the water.
+
+Robyn Williams: A final question, you said right at the beginning that you had experiments with various
+sensations that might repel sharks. What are they?
+
+Shaun Collin: Yes, we've actually tried to use a lot of basic knowledge that we are collecting on the profile
+of different species, you know, how they in fact find prey using their range of senses. And we've been able
+to bring some of this knowledge to bear on the development of deterrents. So this is an ability to use
+evidence-based work to understand what signals these animals are actually using to find prey and, in some
+cases, even mistake a human for prey, and test a whole range of novel deterrents that we are in the midst
+of developing, and even testing existing repellent devices that have been on the market for some time, both
+to provide some confidence if the public is going to buy these devices, and secondly try to improve on
+those by giving the public more choice and potentially even look into a multisensory approach in deterring
+sharks from coming to close to humans.
+
+Robyn Williams: I think they are deterred by film crews!
+
+Shaun Collin: It could be! In fact we've had some trouble in finding sharks to interact with our rigs, but we
+are quite buoyed by the results so far.
+
+Robyn Williams: Perfecting shark deterrents in Perth. Shaun Collin is a distinguished fellow and Winthrop
+Professor at the University of Western Australia.
+Celebrating sharks. And as for that culling of sharks, hear Barbara Block in California on what's at stake.
+
+Barbara Block: Our lab is a lab that actually has expertise in large pelagic fish, tunas, white sharks and
+salmon sharks as well as makos.
+
+Robyn Williams: Where do you study the white sharks?
+
+Barbara Block: We study the white sharks off our California coast. Right outside my window is the Monterey
+Bay. We have in a region from Monterey up to the Farallon Islands one of the higher density of white
+sharks.
+
+Robyn Williams: Were you surprised by the uproar coming from Australia this year about white sharks and
+the possible killing thereof to save human surfers from possible dangers?
+
+Barbara Block: Well, because in our area we have similar issues of beach interactions and concerns about
+white sharks, I was surprised. I believe that white shark populations around the globe are not that large in
+number, that all great predators have yet to be really quantified in terms of their numbers across the planet,
+
+Page272of300©2018Factiva,Inc.Allrightsreserved.in terms of large pelagic fishes. So to actually remove the white sharks from the ocean at a time when we
+really don't know how many there are seems to me to be premature.
+
+Robyn Williams: And unwise?
+
+Barbara Block: No comment.
+
+Robyn Williams: Indeed. Are there easy to catch?
+
+Barbara Block: In our location what we do is we attract the white shark to our research vessel, we are able
+to bring the white sharks in close and then take photographic pictures of their fins, and in doing so we've
+built up a catalogue of photo IDs through the year, and with the mathematical techniques we estimate in
+our backyard there are about 220 adult and sub-adult white sharks.
+
+I think for Australia a similar research is ongoing, and as you develop a plan in Australia for the nation, it
+should take into account the diversity of the white shark genetically across both sides of the country to be
+sure that we have assessment numbers that are accurate. And then before taking out members of the
+population we need to really understand more about the biology of the white shark.
+
+Robyn Williams: We get big stories every time a white shark takes a surfer or a swimmer, but is there
+evidence about how much white sharks actually like eating human beings?
+
+Barbara Block: What I will say is that as a whole or what we know in California is white sharks prefer
+marine mammals such as sea lions and elephant seals. Most of the interactions that we've described and
+heard about here on the California coast tend to be mistaken identity. So I think that we as American
+swimmers don't go in to regions that are areas of pupping grounds or areas where there is large
+concentrations of marine mammals.
+
+We have to remember that oceans are wild places, and ecosystems that are healthy are rare and that
+some of the protections around Australia are the most remarkable forms of conservation that we see
+anywhere on the planet, such as the Great Barrier Reef, the MPAs. And at a time when Australia is a
+country that's leading how we protect oceans, it certainly needs to invest in understanding how many white
+sharks there are, building research programs around their shark populations before potentially removing
+the sharks from the planet.
+
+Robyn Williams: That was Professor Barbara Block at the Monterey Bay Aquarium, and she knows
+Australia very well.
+
+Next week The Science Show goes to Germany to meet more Nobel Prize winners than you can count.
+The Science Show is produced by David Fisher and Timothy Nicastri. I'm Robyn Williams.
+
+NS gsci : Sciences/Technologies | ntra : Transcripts | gcat : Political/General News | ncat : Content Types |
+nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | niwe : IWE
+Filter
+
+RE austr : Australia | melb : Melbourne | sydney : Sydney | victor : Victoria (Australia) | apacz : Asia Pacific |
+
+ausnz : Australia/Oceania | nswals : New South Wales
+
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140728ea7p00034
+
+Page273of300©2018Factiva,Inc.Allrightsreserved.

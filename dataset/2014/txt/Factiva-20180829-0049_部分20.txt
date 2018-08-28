@@ -1,0 +1,366 @@
+Container shipping
+
+HD Container shipping
+WC 4,800 words
+PD 18 June 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+TD
+
+The invention of the container turned the shipping industry inside out. Rear Vision looks at the winners and
+losers.
+Keri Phillips: Hello and welcome to Rear Vision. I'm Keri Phillips and today the story of the big box that
+changed the world.
+
+Journalist [archival]: No justification for a 4% increase in freight rates for Australian wool bound for Europe.
+Mr Ian Sinclair, the minister for shipping and transport, was commenting in Sydney today on the agreement
+reached in Paris between shipping companies and representatives of the wool industry. He told Harold
+Abrams:
+
+Ian Sinclair [archival]: By the end of this year there will be 13 of the UK Europe container vessels operating,
+and it is claimed and it has been demonstrated that container vessels have some economies. We believe
+those economies should be shared between the ship owners and the shippers.
+
+Keri Phillips: Australia's minister for shipping and transport speaking about the savings to be made by first
+packing goods into big reusable steel boxes before loading them onto ships. But in 1970, the dawn of the
+container era, the minister couldn't have imagined how things would turn out.
+
+Before the arrival of the shipping container, although some goods were carried boxed or palletised, much
+was carried as bulk, just loaded directly into a ship's hold. It was labour intensive and took a long time,
+sometimes up to three weeks, during which time the ship's crew would be idle.
+In the mid-1950s, an American trucking company owner was casting about to find a cheaper and more
+reliable way of transporting his goods from New York to New Orleans than by road. Malcolm McLean
+bought an old oil tanker and began experimenting, packing goods in containers and loading them onto the
+ship. He wasn't the only one to think of adapting an idea that goes back thousands of years to the
+amphora, and by the late 1960s specifications were in place for a standard box. Professor Brian Slack of
+Concordia University in Canada is an expert on the story of container shipping.
+
+Brian Slack: In the early days different lines or different experimenters in container shipping were using
+boxes of different dimensions. They had their own system, they built their own ships, they had their cranes
+which were suited to that particular type of box. But fortunately the International Standards Organisation,
+which is still today the most important agency that tries to standardise dimensions and features, came to
+conclusions that imposed on the rest of the world a standard box. And the box was identified as being
+eight-foot high, eight-foot wide and 20-foot long. And this is the unit of measurement today, we still call it
+the 20-foot equivalent unit, because in fact the ISO also allowed and considered the extension of the size in
+length to the 40-foot box. So you had boxes of 40 feet by eight by eight, and you had boxes of 20 feet by
+eight by eight. And that was the standard that all the companies who wanted to get involved in
+containerisation around the world have had to adopt.
+
+And in terms of containerisation, which became a global phenomenon, it would have had great difficulty in
+doing that were it not for the fact that the boxes that everybody adopted where of a fixed dimensions. And
+the key to that is that you could design a ship to fit exclusively those dimensions of boxes. In other words,
+you would have various slots built into the wide open holds of ships, so you could slide the containers,
+either the 20-foot or the 40-foot boxes, down the slot into the hold of the ship. Similarly you could design
+and develop cranes on land, on the dock side, that could lift and move the containers of that dimension.
+This was one of the great impetuses that led to the success of containerisation.
+
+Page46of238©2018Factiva,Inc.Allrightsreserved.Keri Phillips: It also meant that shipping companies had to build new ships.
+
+Brian Slack: Definitely. It was evident from the first experiments of Malcolm McLean that you could not
+convert an existing ship. Some companies tried it but it was uneconomic. The carrying capacity of the ships
+where you were simply trying to squeeze or put boxes into the existing holds was not competitive with the
+ships that were designed to handle containers. And so the first vessels that were designed which were fully
+container vessels were developed in the 1960s, and they would have a capacity of about 1,000 or 1,500
+what are called TEUs, 20-foot equivalent units. And that was far in excess of the capacity of simply
+converting an existing cargo vessel.
+
+And so this was a big capital investment required for many of the companies, and this was quite a shock to
+shipping lines because of course for the last 50, 100 years they'd had basically the same design of vessel
+to carry the general cargo. Now they had to invest in new types of ships that could not carry general cargo
+or any other type of cargo, they were specifically designed for containers. And this represented quite a
+challenge to some of the existing shipping lines, and many of the traditional shipping companies ultimately
+decided not to pursue containerisation, simply because it was going to be too expensive for them to
+compete in. And furthermore, in the early days they were not convinced that the container would be
+successful.
+
+Keri Phillips: Containerisation would also completely transform ports and the nature of dock work.
+
+Journalist [archival]: Containerisation is seen as a quick and lasting remedy for this; old, dirty, congested
+wharves serving equally old-fashioned vessels equipped with slow and cumbersome cargo handling gear.
+In 1966 the sight of muscle-powered hand barrows to move cargo from ship to shore is a straight reflection
+of waterfront methods and conditions of over 30 years ago. While this remains, turnaround time for shipping
+in some of our ports will continue to be among the world's slowest.
+
+Jean-Paul Rodrigue: Traditionally a port used to have a relatively small imprint. That is, you had docks, you
+have a few warehouses, and immediately adjacent to those warehouses you could have factories or even a
+residential district.
+
+Keri Phillips: Dr Jean-Paul Rodrigue is a scholar of transportation geography at Hofstra University in New
+York. I spoke to him by Skype.
+
+Jean-Paul Rodrigue: In many older ports the residential district where dock workers were living were right
+next to or adjacent to the port facility. So when containerisation arrived you suddenly needed a lot of
+spaces to stack all those containers. So the old port sites were no longer judged to be suitable in the great
+majority of the cases, so you have to redesign them, you have to build new facilities further away. So that
+was, in a sense, the major impact that containers had on port facilities, it forced them to move towards new
+sites. So I can give you an example. The port of New York, which used to be around Manhattan or in
+Brooklyn in the past, let's say up to the 1950s and '60s, is now almost entirely in New Jersey.
+
+Brian Slack: The typical old port design, what you had to do because a ship was in port for a long period of
+time, it meant you had to have lots of berths, and the only way you could accommodate large numbers of
+ships, because they were there for weeks at a time, was to have a series of finger piers usually, jetties that
+were put out into the ocean or out into the rivers, to enable a large number of berths to be made available.
+And because you were loading and unloading goods from the ship and because land transportation was
+very limited, the result was that you had to have the storage sheds immediately on the dock side.
+
+And so a typical feature of the port of the 1940s and '50s was storage sheds, finger piers, lots of berthing
+space. But when you get to containerisation you don't need the storage space because the goods are in a
+container, they are not exposed to the weather, and it needs…because a ship is coming in, it's carrying
+now, in the early days anyway, 1,000, 1,500 containers, you had to have a lot of space on the dock to store
+those containers.
+
+And so one of the very big impacts of containerisation was not the cost that the shipping lines had to face, it
+was the cost the ports had to face. And they had to completely rethink their operations. And many started to
+convert existing docks, knocking down sheds as much as they could, but these proved not to be as efficient
+as developing new terminals on new sites to accommodate the container vessels that were coming in. And
+ports began to move out of their traditional locations in the heart of cities, the old dock sides of cities, and
+were moving into what are called greenfield sites where new port facilities were built.
+
+Seatrain Lines ad [archival]: At the Edgewater New Jersey terminal of Seatrain Lines, railroad, highway and
+ocean transportation is blended. In addition to carrying conventional railroad cars of all kinds and its own
+40-foot long containers, Seatrain has arrangements with several railroads whereby container vans and
+trailers are handled on its vessels. All the benefits of rail shipment and containerisation, including
+door-to-door delivery of sealed vans are enjoyed by shippers who are dispatching cargo to ports served by
+Seatrain.
+
+Page47of238©2018Factiva,Inc.Allrightsreserved.Keri Phillips: There were winners and losers as the shipping industry was turned inside out. Some ports
+struggled with the financial costs of adjusting to containerisation, while others found themselves in the
+wrong place.
+
+Brian Slack: So for example, in Britain the old port cities of Liverpool and Bristol, which are on the west side
+of Britain, found themselves on the wrong side of the country. Britain was getting many of its containers
+from Rotterdam. Rotterdam was becoming Europe's main…they like to call themselves the main port of
+Europe, and they were investing very heavily in container facilities right from the very beginning. But that
+meant that to go to Liverpool or Bristol or Glasgow, that was an enormous detour, it was a time cost factor,
+and therefore if they were to serve the British market they would want to serve ports either on the south
+coast, Southampton, or on the east coast, London, but in particular a totally new port that was created and
+that was Felixstowe. And Felixstowe was a sleepy resort until that time and it was developed initially as a
+container facility. And although it is 100 kilometres from London it was within access of the metropolitan
+region by road and by train. And so there was a total dislocation in Britain in terms of container handling.
+
+The same thing was true in the Mediterranean. The Mediterranean, which had been an important place of
+shipping, found itself now a backwater because the container ships coming from Asia were not willing to
+call at them, and they went straight through the Suez Canal, through the Strait of Gibraltar, to Rotterdam.
+All through the world we see ports having some success and other ports failing. One example of this was in
+the United States when, with the growth of Asian trade, the east coast ports like New York and Baltimore
+and Philadelphia found themselves on the wrong side of the United States. And so, yes, there were winners
+and losers in ports.
+
+The other very big loser, and people don't really talk about this but on the other hand it was probably the
+most serious effect of containerisation, was to reduce the amount of manpower in the ports. Whereas
+before, gangs of labourers working long hours in the port on long shifts resulted in a very large labour force
+being required, but with containers, manpower was supplanted by cranes and other kinds of dockside
+equipment. And the result was a significant, I mean a very large reduction in the need for manpower. I
+mean, there were gainers on this, that some of the dock workers were able to stay on and gain higher
+salaries with the mechanisation that was going on. The crane drivers, for example, received very generous
+salaries. But the demand for labour that once existed in port cities has diminished very, very significantly,
+and I think that is probably the biggest change and dislocation that has occurred as a result of
+containerisation.
+
+Keri Phillips: This is Rear Vision with Keri Phillips on RN, online, on mobile and by podcast. Today we're
+hearing the story of container shipping and how it changed the world. The workers on these new kinds of
+ships also found that their lives had been transformed, and not in a good way. Journalist Rose George
+travelled by container ship from the British port Felixstowe to Singapore for her book Ninety Percent of
+Everything.
+
+Rose George: Well, is it a hard life? All the Filipino crew said to me when I asked them if they enjoyed their
+job, they said it's dollar for homesickness. Seafarers often joke (except they are not really joking) that their
+job is prison with a salary. So it can be good money with a good company, with a good manning agency it
+can be good money, and that is why they are at sea, after all, they are there to earn money. For a Filipino,
+for example, a decent job on a…even as an AB, an able seaman on a ship can be a wage that is three
+times that of a government employee in Manila. So that's why they are at sea. But they have all very, very
+carefully calculated how long they are going to be there. They've figured out that it's 12 years or 15 years
+and then they can go home. They are not at sea for the love of being at sea, at least no one I met was.
+
+Now, my captain was a very different matter because he had been at sea for 42 years, so he had seen a
+different shipping world when he grew up. He had these ships that had all the break bulk cargoes, so all the
+mixture of items, not these containers, and what that meant was that it took longer to unload and load up a
+ship. So a ship was longer in port. Whereas today, because containerisation has made shipping so
+incredibly efficient, even a ship like the one I was on, which was carrying nearly 7,000 containers, even that
+could be fully discharged and charged in less than 24 hours. And we were never in port for more than 24
+hours. And that means that the people on board have often, on average, no more than two hours ashore,
+which means they often don't leave the dock area, they can't go into town, they don't get any proper R&R
+when they are ashore. It's not like it used to be. It is a much harder rhythm of life at sea, and it is hard work.
+
+So even at sea a ship needs to be constantly cared for because it rusts, things break, there are all these
+massive metal objects, it's a very harsh environment and it has to be maintained constantly. And of course
+if you are a watch officer then you have to be on the bridge, you have to be there, you have to watch. So
+they are basically tired a lot of the time and then they don't get enough relaxation ashore. So fatigue is a
+really big problem in the industry.
+
+Keri Phillips: Are container ships particularly dangerous environments?
+
+Page48of238©2018Factiva,Inc.Allrightsreserved.Rose George: Yes, they are, because you are surrounded by heavy machinery on the ship, you're
+surrounded by huge metal boxes that can fall, and most importantly you're surrounded by weather and
+you're surrounded by an ocean which is the most dangerous element on the planet. As much as there are
+countless regulations, safety regulations governing ships, but two ships a week still sink.
+
+Keri Phillips: What about the containers themselves? I've heard that sometimes they fall of ships, is that
+true?
+
+Rose George: It is true, and you can see some of these on YouTube, you can see some crazy stacks of
+containers. Yes, they do fall off. It's quite hard to know how many do fall off, but the figure that is put about
+by, for example, the European Union says that 2,000 containers fall off in European waters. The figure
+you'll mostly hear is 10,000 a year, though I'm not quite sure how that has been arrived at. The World
+Shipping Council says it's not that many. So there are all sorts of debate about it. But if you talk to yachters
+and particularly people who travel great distances on yachts, they will generally have seen a shipping
+container bobbing about at some point. So they are out there.
+
+Keri Phillips: As well as the lives of workers on the docks and on deck, those of workers in the old industrial
+world and those in what would be called emerging economies were also transformed by container shipping.
+
+Brian Slack: What happened in the early years was the goods that used to be transported under general
+freight, general cargo, which were manufactured goods, and some raw materials but basically it was
+machinery, it was domestic goods, it was stuff that was manufactured, semi-manufactured, or were
+components of manufacturing. And these were the goods that were the bread-and-butter of
+containerisation, at least in the earlier days.
+
+And the big factor, and I think I may have mentioned this originally, was the reduction in transport costs,
+that you could fill a container with lots of manufactured goods, the shipping lines were only charging rates
+per container. So, for example, a figure that I like to quote is that if a pair of sneakers in the United States
+which are made in China and in the United States are selling for $100 and $150 or more costs 25 cents to
+transport because you are stuffing the box with lots of boxes of sneakers. So the transport costs of
+manufactured goods and finished products was very good.
+
+But sooner or later you hit a barrier in the sense that virtually all the cargos that traditionally could be
+converted have been converted, and we are reaching today something like 80%, maybe 90% of this market
+has now been converted to containers.
+
+Jean-Paul Rodrigue: Essentially globalisation could not have existed without containerisation. It goes hand
+in hand. That is, all the outsourcing, off-shoring of large manufacturing activities in developing economies
+could have been made possible because of the container. It's also absolutely incredible what you can see
+be put into containers, everything you can think of. Of course classic consumer goods, televisions, apparel,
+shoes, of course refrigerated goods, fresh fruits, vegetables, meat. And actually a dirty little secret is that
+the leading containerised export of North America is actually waste products, waste metals, waste paper,
+which are put into containers and then shipped across the Pacific to be brought to China, and those are
+going to be recycled into consumer goods and then be re-exported back to the United States.
+
+I've seen coffee put into containers, wood, even coal in some instances. Pretty much everything that can be
+shipped, if it can be done economically, is going to be put into a container.
+
+Keri Phillips: How easy is it to work out whether or not it's economic?
+
+Jean-Paul Rodrigue: There's a lot of factors behind this. One aspect is the price of containerised shipping
+on average has declined over the last 20, 30 years ago because of economies of scale. The ships are
+getting bigger and the ports are getting bigger so it is of course cheaper to move things around. In some
+cases since you have, let's say, imbalance flows, that is you have a lot of empties in one direction and a lot
+of a full containers in the other. What happens is on some trade routes it becomes cheaper to ship goods in
+one direction than the other because of this imbalance, which means that some people have some kind of
+an export subsidy because of this imbalanced trade. And to go back to this example I was mentioning to
+you, that the leading export of North America is waste products, this trade is possible because on one
+direction you have a lot of empties that are asking to be filled with something and the shipping rates are
+lower, so it becomes possible to do something like that.
+
+Keri Phillips: Just looking at crime and containerisation, has the advent of containerisation increased the
+level of crime? Has it contributed to crime or fraud in any way?
+
+Jean-Paul Rodrigue: You have to be cautious about this. Containerisation enabled to remove a form of
+crime. What I mean by this is dock workers in the past had a lot of opportunity to steal from the goods they
+were handling. So when containerisation was introduced it removed a lot of that risk. So that form of crime
+was virtually almost disappeared. However, other forms of crime have emerged because of
+
+Page49of238©2018Factiva,Inc.Allrightsreserved.containerisation, and we talk about the movement of illicit goods, illegal goods. You could talk about also
+maybe drugs a little bit, but most of the illicit trade being carried by containers involved let's say fake goods.
+I would say examples, you could think about fake handbags, fake shoes, things like that, which
+containerisation has probably promoted in the sense that since a container is anonymous, it is a little bit
+easier to carry stuff that can be judged illegal.
+
+Journalist [archival]: The next generation of giant ships has hit our shores, and the new super-sized ships
+need jumbo ports and facilities.
+
+Journalist [archival]: Every port in Australia is moving to upgrade its facilities, either by channel deepening
+or by developing the land nearby to increase capacity and improve road and rail links. One of these is the
+Port of Melbourne. In 2008 it was dredged to allow for bigger ships, and last week the state government
+announced plans to develop a third container terminal.
+
+Keri Phillips: This is Rear Vision with Keri Phillips on RN, online, on mobile and by podcast. Today we are
+hearing the story of container shipping and how it changed the world.
+
+Ships themselves have continued to become bigger, and Brian Slack says they haven't yet reached the
+limit.
+
+Brian Slack: Ship size has grown enormously, and each time a new ship size emerges people say, oh,
+that's the biggest ship that is ever going to be built. By the 1980s ships had grown from 1,000 to 1,500
+TEUs, as they were in the 1970s, they were now at 4,000 TEUs. In other words, they had more than
+doubled in size in the space of a decade.
+
+The reason they grew to about 4,000 TEUs was the limits of the Panama Canal. The Panama Canal, which
+was a major thoroughfare between the Pacific and the Atlantic, was limited to vessels of about 4,200 TEUs.
+So what happened was in the late 1980s one of the shipping lines, APL, decided to build ships bigger than
+the Panama Canal, they're called post-Panamax ships. And there was then a spurt of growth to 6,000 and
+7,000 TEUs. By the year 2000 and they were pushing 8,000 or 9,000 TEUs. By 2007 they were pushing
+14,000 TEUs, and by this year, 2013, 2014, ships are coming on-stream which are 18,000 TEUs. So when
+you think back from 1960 to the present day, we have seen an 18-fold increase in the size of vessels.
+
+Now, so far I've spoken about capacity, from 1,000 TEU capacity to 18,000 TEU capacity, that's meant the
+ships have had to get a lot bigger, they are a lot longer, they are now over 400 metres in length. They are
+wider because they've got to be able to accommodate a lot more containers. And they are certainly much
+deeper, they draw much more water. All these things cause problems to ports again. I mean, the effect of
+those dimensional changes means that ports now have to provide berths, not of 200 metres or 300 metres
+but of 400 metres, which requires more and more space. They now have to have more and more cranes to
+work the ship because the ship is now carrying 18,000 TEUs. They need to be offloaded quickly and
+effectively in the space of two days, and so they have to put more cranes, and those cranes are very
+expensive, they are $30 million, $40 million each.
+
+And the other very big constraint is of course depth of water, and this becomes a real issue, that ports that
+wants to be in the game, as it is, who want to attract these lines that the big shipping companies are
+operating will have to dredge or deepen their channels, which is a very costly item and it's also an item that
+has quite a lot of environmental consequences. And so one of the challenges I think that containerisation is
+going to have to face is the enormous increase in the size of vessels which limits the number of ports that
+those ships can call at.
+
+Keri Phillips: Rose George says that she was astonished by what she learned about container shipping.
+Rose George: Well, just the vastness of it and how it reaches everywhere and everyone. For example, I'm
+sitting here in a radio studio and I'm looking around, and it's very difficult for me to isolate something that I
+am sure did not come by ship. In fact probably the only thing I can be sure of is the water that's in the cup.
+And pretty much everything else probably came by ship because certainly in the UK we are not really a
+manufacturing nation anymore, so we have to import a lot. So we are absolutely fundamentally dependent
+on ships, and I think that's the most astonishing thing I learnt, just how much we do depend on ships. And
+at the same time how invisible the industry is.
+
+Keri Phillips: And who have been the big winners from containerisation?
+
+Rose George: We have, if we think we are winners by having cheap clothes, cheap electronics, cheap
+everything. There's no way that any of that would be possible without shipping. There's no way that we
+could buy a $5 T-shirt without it costing so little to ship it, so it can be as little as a couple of cents per unit
+to ship. Shipping may not have created globalisation but it certainly underpins it. So I guess the consumer
+is the winner.
+
+Page50of238©2018Factiva,Inc.Allrightsreserved.Brian Slack: There has obviously been a lot of negative impacts. I think that many ports see themselves
+trapped in a constant cycle of having to invest in equipment, in channels, in new port facilities, which may
+or may not be used. And equally I think labour has suffered significantly. But the benefits of containers I
+think more than outweigh them in general. Obviously if you are in a place like Baltimore, an American port
+which has lost a lot of container business or at least until fairly recently, I think that the viewpoint from
+there is, well, we've lost out.
+
+But containerisation has led to…has helped and facilitated globalisation. World trade has expanded. We
+wouldn't have had, in my opinion, the enormous expansion of international trade without the container. The
+growth of China and the industrialisation of China I don't think would have occurred to the same degree as
+it has without the container. And I think that globalisation, for better or for worse, has been one of the
+products of containerisation.
+
+Keri Phillips: Professor Brian Slack of Concordia University in Canada. The other guests on Rear Vision
+today were Rose George, the author of Ninety Percent of Everything, and Dr Jean-Paul Rodrigue from
+Hofstra University in New York.
+Judy Rapley is the sound engineer for today's Rear Vision. I'm Keri Phillips. Bye til next time.
+
+CO hfstru : Hofstra University
+IN i74 : Marine Transport | iship : Water Transport/Shipping | itsp : Transportation/Shipping
+NS ntra : Transcripts | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex :
+
+FC&E Executive News Filter | niwe : IWE Filter
+
+RE austr : Australia | uk : United Kingdom | usa : United States | apacz : Asia Pacific | ausnz :
+
+Australia/Oceania | eecz : European Union Countries | eurz : Europe | namz : North America | weurz :
+Western Europe
+
+IPD container
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140820ea6i0000c
+
+Page51of238©2018Factiva,Inc.Allrightsreserved.

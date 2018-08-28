@@ -1,0 +1,203 @@
+Internet of things the way of the future in a connected world
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+AustralianIT
+Internet of things the way of the future in a connected world
+
+Stuart Kennedy
+1,768 words
+24 June 2014
+The Australian
+AUSTLN
+Australian
+29
+English
+© 2014 News Limited. All rights reserved.
+
+Veteran Cisco chief executive John Chambers believes the internet of things has just turned from hype
+to reality and he sees the future of IOT technology as one of the biggest tech trends ever.
+
+He sees the mass sensorisation of everything on the planet from electricity grids to crop fields and the
+accompanying cloud computing, big data streams and analytics systems as a major opportunity for
+Cisco in being the architectural glue that ties IOT tech together.
+
+Mr Chambers, who turns 65 in August, is one of the world’s longest serving tech leaders and has
+bossed Cisco since the beginning of the internet boom in the mid-90s.
+
+Along the way he has steered the networking giant through booms, busts, reinventions and more than
+160 acquisitions, including one of the largest Australian tech buyouts when Cisco bought local wireless
+networking firm Radiata for $400 million in 2000.
+
+Not all of those buys have turned to gold. He is the first to admit that Cisco’s strange foray into
+handheld video player outfit Flip Video, just before the boom in camera equipped smartphones, was
+not one of his best. However, he maintains he and Cisco are hardly ever wrong on picking the big
+trends. Mr Chambers said the change in customer thinking around IOT came on rapidly from August
+last year. Before then he says, customer CEOs weren’t listening to pitches based on IOT, now they are
+all ears.
+
+The internet of things is the tech industry’s hot buzz phrase of the moment and Cisco, with its
+networking expertise well placed to take advantage of a market where more and more devices and
+sensors interconnect. What is Cisco’s IOT strategy right now and where do you see the IOT headed in
+the next five years?
+
+So the internet of things is the general industry concept that we have been the key driver of for the
+past seven or eight years.
+
+If you think about merely connecting things that gives you very little benefit. As you connect things,
+whether its traffic, health systems or a manufacturing process in a plant it’s about connecting things,
+changing process, getting the right data to the right person at the right time to make the right decision.
+
+As simple as that sounds it is hard to do because the vast majority of things you are collecting have no
+relevance to the decision you want to make.
+
+So how do you combine these architecturally — that’s what wecall the internet of everything which is
+things, process, data and people.
+
+I have seen a lot of movies and when you have seen a lot they are identical. You get excited early,
+then lose interest a bit and then get a little bit more excited and then it hits an inflection point and it
+ramps much quicker than people expect.
+
+Page6of295©2018Factiva,Inc.Allrightsreserved.A year ago, it wouldn’t matter if I was in Australia, the World Economic Forum in Davos or in the US, if
+I were talking to business leaders they would be very polite when I talked about the internet of things
+for the first two or three minutes and then they would lose interest and I would have to buy them a
+drink or two if I wanted them to pay more interest.
+
+Today they get it. It doesn’t matter if you are talking to the president of South Korea or Mexico or the
+leadership in Canada or the UK.
+
+The inflection point is happening. It occurred somewhere between October and January, I can’t tell you
+what caused that exactly but in October we did the first internet of things forum in Barcelona and 800
+people showed up, today, six months later, that could be 20,000 people if we wanted it to be that big.
+
+CES (the Consumer Electronics Show in January) occurred next and the internet of everything stole
+the show.
+
+The inflection point has occurred and key for us is how fast can we take advantage of our thought
+leadership and industry leadership and turn it into a benefit for our customers and our company.
+
+We see it being the biggest transition in hi-tech over the next decade — I don’t think I am going to be
+wrong on that. Not the equivalent of the internet today but five to 10 times the internet of today.
+
+We make mistakes and we occasionally slip and fall but we are almost never wrong on long term
+trends. This trend feels really good and it feels like it’s happening very rapidly now.
+
+What are your picks as the hot IOT technologies now? What’s the low hanging fruit?
+
+I think the low hanging fruit is not picking a specific application but seeing how they tie together. Digital
+cities or digital countries where you can combine smart electricity grids and smart buildings with traffic
+and street lights — you can dramatically decrease the cost of street lighting.
+
+You can improve safety capabilities, health care, education, smart garbage collection. You can
+completely change a city. But don’t do them in silos. If you don’t relate them, they come apart.
+
+Industry wise probably manufacturing is the hottest. Retail, oil and gas are hot.
+In Australia, you could understand the effect on mining. A large mining site probably presents to the
+owners of the equipment as many as 100,000 data points a second. If one of the pieces of equipment
+fails it can shut down the whole site or block things.
+
+It’s about analytics and getting the right information at the right point in time to the right device or
+person to make the right decision. That’s about architecture.
+
+Where will your product sets sit with IOT. You are not in the business of making billions of sensors,
+you are more in the business of tying it all together.
+
+Where our strengths will be is taking those thousands of sensors — they could be in people or cars or
+in devices or on the plant floor or a construction site — and getting the information to make the right
+decision to the right point at the right time.
+Most of that data will not go back to a central site. With most of the data in a retail store that action will
+be made locally with a smart card based on the combination of what is the consumer — with proper
+authorisation from the consumer — doing.
+
+When do they want assistance? How do you deal with an out of stock issue, how do you ask them if
+you want an associate there, how do you watch their gestures, how do you watch when they stop and
+didn’t buy something, how to act to change that.
+
+You can increase a shopping basket by probably 15 to 25 per cent with the consumer being much
+happier if you do that right with the proper privacy and consumer protections.
+
+Those decisions will be made in the store but it will be eight or nine applications there.
+
+It will be mobile, it will be video it will be traffic monitoring about the parking lot outside and whether
+you put on extra tellers or not.
+
+It will be about sensor capabilities and a social interface to your friends. Tying all those together is
+where our strengths are.
+
+Page7of295©2018Factiva,Inc.Allrightsreserved.So it’s the architecture that differentiates us, not the number of sensors. We want everything to get
+connected and we want to do it in an open fashion. We want to provide a lot of the intelligence with a
+lot of the data analytics out at the edge.
+What sort of a threat to Cisco is software defined networking systems that use cheap Chinese made
+switching hardware?
+
+We made a decision over three years ago both on software defined product direction as well as white
+label and we knew it was coming so it wasn’t something that surprised us.
+
+We started on our outside software defined networking spin-in Insiemi around three years ago and
+instead of considering SDN as a threat we said there’s a lot of capability and programmability in the
+network and actually that makes tremendous sense. What we are going to do is embrace it and build it
+better than anyone else.
+
+Instead of having a virtual network and a physical network which costs you an awful lot because you
+have issues with problem determination and a whole bunch of different vendors.
+
+We learned a long time ago a physical and virtual network isn’t going to achieve what you want — we
+will do the two in combination and we are going to lead this.
+
+And while this was a nice statement six months ago, you watch our customer take up with this — we
+have already blown past all our competitors and most of our competitors are struggling to scale
+software defined networks.
+
+In a world where cutting edge technology can be rapidly copied or reverse engineered in jurisdictions
+that don’t respect intellectual property, is it getting harder to extract full value from your own
+innovations?
+
+I think it’s getting more difficult for the IT industry as a whole. That’s why you are seeing an IT
+disruption where out of the top five IT players only two, at most three of us will exist in a meaningful
+way five years from now and it won’t be Cisco unless we reinvent ourselves.
+
+What is your response to customers who have ditched or are considering ditching Cisco due to
+concerns about Cisco systems having back doors that can be accessed by the NSA?
+
+We lose very, very few customers. Governments around the world, everybody asks us for our code
+and have for 20 years. They would know if we were giving it to anyone.
+
+We don’t give our code to anyone. That is a decision I made 20 years ago and it hasn’t changed.
+
+We don’t do that but it doesn’t mean we don’t occasionally have a (security) issue we have to fix and
+when there is one I would hope governments would tell us and let us fix as opposed to exploit it and if
+we find it then we just very quietly change it and drive forward.
+
+So as far as you are aware there are no back doors within Cisco systems for the NSA or anybody
+else?For anybody. This is where we give no software code out and if find issues we close them.
+
+CO
+IN
+
+NS
+RE
+PUB
+AN
+
+ciscos : Cisco Systems Inc
+i3302 : Computers/Electronics | i3303 : Networking | i33031 : LAN/WAN Hardware | icomp : Computing
+| itech : Technology
+ccat : Corporate/Industrial News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+News Ltd.
+Document AUSTLN0020140623ea6o0002f
+
+Page8of295©2018Factiva,Inc.Allrightsreserved.

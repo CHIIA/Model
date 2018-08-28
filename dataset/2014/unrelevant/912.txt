@@ -1,0 +1,679 @@
+Interim Report of the Murray Inquiry issued – what you need to know
+
+HD Interim Report of the Murray Inquiry issued – what you need to know
+BY Nuncio D'Angelo
+WC 6,872 words
+PD 21 July 2014
+SN Mondaq Business Briefing
+SC BBPUB
+LA English
+CY (c) 2014 Mondaq Ltd
+LP
+
+Competition and contestability
+
+TD
+
+On balance, the Committee considers that the Australian banking sector is competitive, despite its high
+level of concentration. On the latter point, the Report observes that concentration has increased since the
+GFC, "with the major banks' share of total ADI assets increasing from 65.4 per cent in September 2007 to
+78.5 per cent in March 2014". According to the Committee, factors such as the historically low level of net
+interest margins and record high levels of customer satisfaction demonstrate the competitiveness of our
+banking sector, notwithstanding recent consolidation in what was an already concentrated market.
+
+At a very high level, the Committee's attitude suggests that the Final Report is unlikely to recommend any
+far-reaching or urgent reforms designed to improve market-based competition. For instance, the
+Committee views the maintenance of the "four pillars" policy in the Australian banking sector as
+appropriate, and does not intend to recommend that it be changed. That being said, the Report notes that
+the government has a role to play in promoting competition through preventing excessive market power
+and/or abuse of market power; and by increasing market contestability, although recognising that there is a
+trade-off between competition and stability. This proposition does not represent a departure from current
+Australian competition policy.
+
+Two areas in which the Report does explore the potential for competition-enhancing policy changes are
+regulatory capital requirements and residential mortgage-backed securities (or RMBS) (see our
+comments on "Securitisation" below). On the former, the Report notes that the application of capital
+requirements is not competitively neutral. The four major banks and Macquarie Bank have had their
+"Internal Ratings-Based" (or IRB) models approved by APRA, allowing them to utilise lower risk weights for
+mortgage lending than smaller ADIs, which must comply with the standardised risk weights. The Report
+identifies a number of potential policy options to deal with this situation, including assisting more ADIs to
+obtain IRB accreditation, and increasing the minimum IRB risk weights.
+
+More broadly, the Report evinces a nuanced approach to the likely competitive impact of technology on
+Australia's financial system. It suggests that whilst technology may improve the level of competition in the
+medium term (by making it easier to compare and switch between products, introducing new business
+models, etc), there is a long-term risk that the new economies of scales afforded by emerging technologies
+(particularly in relation to data aggregation) could potentially lead to reduced competitiveness. It will be
+interesting to see how the Final Report manages to balance this double-edged sword.
+
+Stability of the financial system
+
+In his speech to the National Press Club today Mr Murray said that a big issue for the Inquiry has been
+whether post-financial crisis prudential regulation has gone too far in Australia. Suggestions had been
+made, especially on regulatory capital, that Australia's regulators have moved far ahead of the pack
+internationally and that we run the risk of stifling growth. The Report questions some of these claims. In
+particular, Basel Committee data on actual bank capital ratios suggest that Australia's banks are in the
+middle of the pack, not out in front.
+
+The Report notes the real cost to the economy of a banking crisis in both the direct costs incurred as well
+as the indirect effects being the impact on GDP and unemployment as well as costs associated with
+regulatory measures that tend to be introduced after such crises. These regulatory measures have
+
+Page191of234©2018Factiva,Inc.Allrightsreserved.concentrated the influence of the "four pillars" in the Australian banking sector. The Reports notes the
+difficult balance that policy makers face in trying to ensure a stable but competitive and efficient banking
+system.
+
+The Report notes the tension that arises when some financial institutions are considered too-big-to-fail (ie
+the assumption by investors that some institutions are so systemically important that governments would
+not allow them to fail) and recommends that the government take measures to reduce the need for
+government intervention and, controversially, to allow any failure to be dealt with as with all companies -
+with the losses being borne by creditors and shareholders. Mr Murray said in his speech to the National
+Press Club today that the Committee was focused on reducing the "moral hazard" problem (ie the risk that
+perceptions of government support will lead to behaviour that increases the likelihood of such support
+being required).
+
+This perception of an implicit government guarantee created funding/pricing asymmetries which the Report
+suggests is undesirable, leading some institutions to "become larger than is economically efficient,
+exacerbating the size of the potential costs of a crisis". Those costs are ultimately borne by taxpayers.
+
+In seeking to mitigate this too-big-to-fail risk the Report appears to be looking for ways in which losses
+could be imposed on creditors with minimal use of taxpayer funds and how to cover gaps in Australia's
+regime for dealing with failed or distressed financial banks and insurers There is no direct suggestion that
+bail-in funds would be used but the G20 commitment to international harmonisation of financial sector
+regulation points fairly squarely at that approach being considered seriously for Australia. In his speech
+today to the National Press Club Mr Murray validated that approach by observing that "International
+standards are no longer an optional extra".
+
+The regulatory gaps identified by the previous Government (including, importantly, lack of regulatory power
+to deal with a branch of a failed foreign bank) appear to be endorsed by the implication that the regulators'
+powers should be enhanced to plug those gaps.
+
+The Report recognises the complexity of dealing with the insolvency of financial institutions in a way that
+minimises the use of taxpayer funds, addresses the perception that some institutions have an implicit
+government guarantee and minimises the risk of contagion. These complexities include questions around
+the nature of the liabilities that may best be able to absorb losses in resolution; ensuring that relevant
+creditors are capable of bearing loss without systemic contagion; appropriate mechanisms and triggers for
+imposing losses on creditors; interaction with the existing regulatory capital framework; and the effect on
+funding costs in normal times.
+
+The Report views favourably an "internationally consistent approach to promote a level playing field
+globally" with a view to possibly implementing:
+
+the ability to impose losses on particular classes of financial institution creditors, including 'bail-in' options
+such as converting creditors' debt into equity; and
+
+ensuring funding is available to systemic institutions to sustain critical services, which funding might
+include bridging finance or bail-ins to facilitate an orderly wind-down.
+
+Planning for the next crisis
+
+In considering systemic risk and how to plan and protect Australia from the next crisis, the Report injected
+some realism into the analysis by stating that "the next financial crisis never looks quite like the last."
+However, when considering what else could be done to plan for the next crisis, the Report indicates that
+there are practical difficulties in using macroprudential tools. There is caution expressed about powers that
+would allow regulators to go beyond the "prudential perimeter", stating that "for two decades, Australia has
+effectively navigated systemic risk without the kinds of tools being introduced in some countries."
+
+This is a little surprising and at odds with the remarks made elsewhere in the Report about the weight of
+evidence suggesting that a more conservative approach to regulation has not placed Australian banks at a
+significant disadvantage (possibly, code for "that approach helped avoid a recession in Australia"). It is
+also does not seem to acknowledge the need for the restoration of trust in financial institutions, a point
+made very strongly recently by Ashley Alder, the CEO of the Hong Kong SFC. His view being that
+prudential regulation can only go so far in protecting against risk; behavioural change to avoid LIBOR-type
+scandals in the future being the companion piece that regulators must use.
+
+Good bank / bad bank ring fencing
+
+In a global context, economies that experienced first-hand the catastrophic failure of financial institutions
+providing retail services as a result of the GFC have faced significant political pressure to ensure such
+collapses could not re-occur. The most extreme method adopted in other jurisdictions to address this
+
+Page192of234©2018Factiva,Inc.Allrightsreserved.concern has been to ring-fence retail banking operations from investment or other riskier banking
+operations. This has been most prominently observed in the Banking Reform Act 2013 adopted in the UK
+following the Vickers Inquiry.
+
+While, there is no doubt that this is an effective method of addressing this issue, we query if such a
+disruptive and costly exercise would be appropriate to the Australian market given the relatively minor
+proportion of investment banking or similar operations undertaken by our major retail financial institutions
+and the relative strength and security of those institutions. On the other hand, we believe that even if this
+kind of regulatory reform if not fully pursued in Australia, the consequences of the foreign regulatory
+changes should be carefully considered from the perspective of ensuring clean international integration
+and harmonisation of the regulatory framework for financial institutions.
+
+Another key policy consideration identified by the report is the funding advantages obtained by our largest
+institutions due to counterparties viewing them as essentially government backed as a result of their
+too-big-to-fail position within the financial system. A key consequence of any separation of divisions within
+such banks would be that the riskier part of the bank would expect to lose that implied government
+backing.
+
+Bank capital and funding
+
+The Report recognises that it is difficult to ascertain whether additional capital and liquidity requirement will
+materially affect banks' pricing or access to local or offshore funding. Elsewhere in the Report, it is noted
+that capital and liquidity arrangements do impose constraints on banks and that this could limit banks'
+ability to finance projects and slow the rate of fixed capital formation.
+
+The view appears to be that holding more capital and having tighter liquidity requirements enhance
+financial stability and confidence and therefore may reduce wholesale funding and deposits costs and
+therefore the cost of that type of funding.
+
+But this comment does not fully recognise that Australia's present, let alone future, funding needs, cannot
+be satisfied from domestic wholesale investors and retail deposits.
+
+The Committee observes that the funding mix for banks has changed as "deposits now represent a larger
+share of bank funding than they did before the [financial] crisis". It is also noted that superannuation funds
+are a rapidly growing sector of the deposit base. Deposits held by superannuation funds tend to be held for
+a shorter period, resulting in ADIs having to hold a larger pool of this type of deposit than if they were retail
+deposits. APRA's liquidity cover ratio requirement means that deposits by superannuation funds are
+somewhat more costly retail deposits.
+
+This observation by the Committee suggests that if bank funding through superannuation fund deposits
+continues to grow, this will not necessarily help banks to fund Australia's growing infrastructure and other
+economic needs. This is a real conundrum for APRA as regulator of both superfunds and banks. Perhaps
+some solution lies in APRA treating superannuation fund deposits as having greater eligibility for liquidity
+cover ratio purposes, than retail deposits.
+
+Shadow banking
+
+The Report briefly addresses risks from shadow banking but not suggest options for the regulation of
+shadow banking, despite identifying funding by unregulated entities it as a potential offshore systemic risk.
+Given the acknowledgement of Australia's interconnectedness with the global financial system, it is
+surprising that authors seem to accept the Council of Financial Regulators' conclusion that shadow
+banking is a low risk to Australia's financial stability.
+
+Securitisation
+
+Helpfully, the Report notes that the securitisation is a useful part of the competitiveness of Australia's
+home loan market and acknowledges the need through the financial crisis, for some government support.
+However, there does not seem to be any strong indication that further government intervention in the
+RMBS market is required. Further input is sought on the possibility of allowing RMBS to be treated more
+generously as high quality asset for bank liquidity purposes. The recovery in the securitisation market and
+the increased competition amongst home loan lenders seems to have led the authors of the Report to
+conclude that price correction rather than market failure has caused changes in the RMBS market.
+Strikingly, there is very little mention of how securitisation techniques could be used in relation to other
+assets and why that could inject competitiveness and greater funding diversification in those sectors.
+
+Corporate bond market
+
+Page193of234©2018Factiva,Inc.Allrightsreserved.The Report indicates that the size of the Australian corporate bond market is broadly consistent with that of
+other advanced economies, other than the US. However, it then points out the various factors that have led
+to a smaller than desired, corporate bond market (eg lower investor appetite for fixed income securities,
+offshore debt markets more attractive to issuers due to longer tenor and depth of market, greater
+disclosure burden on issuers).
+
+While the Committee is seeking further information on some issues, the passing reference to the apparent
+adequacy of the proposed "simple corporate bonds" legislation suggests that the final Report is unlikely to
+suggest any radical changes to either the disclosure regime (and its concessions) nor to the liability
+position of rating agencies that issue rating on corporate bonds.
+
+RMB market
+As China eases capital and currency market restrictions, RMB denominated trade and capital inflows into
+Australia are expected to grow substantially. The Report welcomed this prospect as it presented increased
+opportunities for Australian corporates to access capital from Asia and for Australian and Asian financial
+services firms to expand into each other's markets and to grow financial services exports and imports. The
+Report noted a recently set up forum for Australian and Hong Kong banks and corporates to discuss the
+benefits and challenges of RMB trade and investment. While the Report acknowledged that the
+development of the RMB market in Australia will largely be private sector led and depend on commercial
+and market factors, the Committee believes governments have a key role in initiating structural reforms
+such as currency and foreign exchange liberalisation and cross-border dialogue. The Report described
+recent Australian Government steps in this area, such as a bilateral local currency swap agreement
+between the People's Bank of China and the RBA in 2012, direct trading between the Australian dollar and
+the RMB in 2013 and plans for a future RMB clearing and settlement facility in Sydney.
+
+The Committee has asked for further information on the potential impediments to Australia's integration
+with financial markets in Asia, how removal of these would benefit the Australian economy and what future
+government engagement is needed to facilitate this integration. Consistent with comments in this Interim
+Report, the Final Report is likely to recommend further education and engagement and government-led
+liberalisation measures to assist Australian companies to take advantage of projected greater RMB trade
+and capital inflows.
+
+Corporate funding more generally
+
+SMEs: the Report states that financing conditions for small and medium enterprises (or SMEs) could be
+improved and recognises that "information asymmetries are the most significant structural factor
+contributing to the higher cost and lower availability of credit for SMEs and can be a barrier to competition
+in barrier lending".
+
+In particular, it notes that SMEs typically have less documentation and shorter financial histories. In
+addition, as the SME sector is diverse, lenders may not necessarily have expertise in, and knowledge of,
+particular industries. Because of these information asymmetries, there are higher risks associated with
+lending to SMEs, which are passed on to the SMEs by way of higher interest rates on loans.
+The Report also refers to lenders requiring more security against business loans, such as residential
+property. There is a concern that the requirement for collateral in connection with SME loans may result in
+loans being made to businesses with the best collateral, as opposed to those business with the best
+business prospects. This requirement also disproportionately disadvantages younger Australians and new
+ventures who are less likely to have collateral such as residential property.
+
+Another factor affecting access by SMEs to funding is the higher fixed costs of SMEs raising funds in
+capital markets. The Report notes that for SMEs and mid-caps (being ASX-listed companies with a market
+capitalisation below $300 million), the costs of issuing equity can be prohibitive and are disproportionately
+greater than the costs of equity issues by larger corporates. In particular, the costs associated with the
+requirement to prepare a prospectus and presumably higher promotional costs which are incurred due to
+those companies not being as well known may discourage SMEs and smaller companies from raising
+funds in capital markets.
+
+The Report notes that submissions have suggested that the exceptions to the requirement to prepare a
+prospectus could be broadened or amended (including by increasing the thresholds for the exemptions for
+low-value capital raisings such as the "20 in 12" exemption). In our view, this would be a positive measure
+for SMEs.
+
+The Report asks for views on the costs and benefits associated with the proposed development of an SME
+finance database which would reduce information asymmetries between lenders and borrowers. It is
+proposed that this database would provide business-level data to lenders and potential new market
+entrants, including information from tax returns, business activity statements and lenders.
+
+Page194of234©2018Factiva,Inc.Allrightsreserved.While it is positive that the Committee has recognised and is seeking to address information asymmetries
+in lending to SMEs, the proposed finance database would only be successful if businesses and lenders
+were willing to provide such information. Privacy concerns would also need to be addressed and the
+database would only be useful in assisting lenders to understand business prospects in certain industries if
+information on the database was provided by a large number of businesses across a number of industries.
+The time and cost associated with developing and populating such a database such that it provides useful
+information may also be a disadvantage of this proposed initiative.
+
+The Report also asks for views on changes to the size and scale of offerings that can be made without a
+prospectus and further information on whether there is a need to introduce differentiated markets to allow
+greater access to equity markets by smaller companies. Such changes would facilitate access to equity
+funding by SMEs but protections for investors (particularly unsophisticated investors) would need to be
+carefully considered.
+Private Equity and Venture Capital: The Report refers to trends in financing provided by venture capital
+and private equity funds, specifically being that these funds typically finance businesses which are more
+innovative and high-growth. The Report recognises that new ventures have limited access to credit, as a
+result of the typical years of development which are required before cash flows are generated and the
+higher risks associated with those ventures. In addition, fee structures of venture capital and private equity
+funds may be discouraging to investors and limit the success of domestic venture capital and private
+equity funds.
+
+The Report refers briefly to the tax treatment of Venture Capital Limited Partnerships (or VCLPs) and the
+submission from the Australian Private Equity & Venture Capital Associated Limited which states that
+some features of the VCLP tax framework put Australia's funds management sector at a competitive
+disadvantage.
+
+The Report seeks further information on the best options for improving the tax treatment of VCLPs, in a bid
+to increase the success of domestic venture capital and private equity funds and facilitate access by new
+ventures to funding from such funds. While this is a positive step, the Report does not refer to specific
+proposals to improve the tax treatment. It is disappointing that this issue has not been considered in more
+detail given that these issues were raised as early as 2011, when a Board of Taxation Review made
+recommendations to simplify and reduce uncertainty with respect to the tax treatment of VCLPs.
+
+Agribusiness: The Report briefly refers to financial issues which affect the rural sector, particularly with
+respect to the volatility of income and difficulty experienced by farmers in meeting debt repayment
+obligations in periods of low revenue.
+
+However, the Report notes that the first round of submissions did not identify significant structural issues
+related to rural finance and did not make any suggestions or call for comments with respect to the financial
+issues which affect agribusinesses.
+
+It is to be hoped that the Final Report will go beyond recognising the industry-specific issues that
+agribusinesses have in meeting debt repayment obligations in certain periods, to encourage alternative
+means of funding for agribusinesses such as equity funding through co-investment structures.
+
+Technology and cyber-security
+
+The Report highlights cyber security and technology related fraud as an emerging trend for the financial
+services industry that presents many challenges. It notes that the rapid pace of technology change has
+already had a significant impact on both consumers' interaction with the financial system and how the
+system functions. Specifically, the Committee looks to US and UK examples for fighting cyber-crime as
+options to be considered here.
+
+The Committee also calls for proposals about the costs, benefits and trade-offs of reviewing and updating
+the 2009 whole-of-government Cyber Security Strategy (CSS) to reflect changes in the threat environment,
+improve cohesion in policy implementation and progress public-private sector collaboration. The Report
+notes concerns that the CSS is out of date and that it lags behind similar strategies adopted in the US, UK,
+Canada, New Zealand, France, Germany, Japan and Singapore. While financial institutions obviously
+retain ultimate responsibility for maintaining the security of their own systems, the Committee notes that
+collaborating with government can help institutions fine tune their efforts. One specific model under
+consideration is the Financial Services Information Sharing and Analysis Center (FS-ISAC) in the US,
+which is a collaboration between financial institutions and government.
+
+Coupled with the current shift in focus by the Australian Government towards greater prevention of fraud
+and corruption in the public sector (through the introduction of the Public Interest Disclosure Act 2013 (Cth)
+among other initiatives) as well as recent suggestions of a push for US-style reforms here in the near
+
+Page195of234©2018Factiva,Inc.Allrightsreserved.future focussing on fraud in the private sector, consideration of overseas models specifically targeting
+cyber-crime would be a welcomed approach.
+
+Financial services
+
+The inherent shortcomings of the mandatory financial services disclosure regime is a recurring theme in
+the Report and ASIC's call for higher penalties, banning orders and more regulatory intrusion into product
+development and distribution appears to be gaining traction given the availability of these "regulatory tool"
+to overseas regulators.
+
+Many of the observations relating to the shortcomings in the superannuation and wealth management
+sectors were made as part of the Cooper Review in 2010, which led to the significant StrongerSuper and
+Future of Financial Advice reforms. Given the recent implementation of those reforms, the focus appears
+to be on fine-tuning the new regulatory settings. The one exception is income products, which were put in
+Cooper's "too hard basket", as both compulsion and tax concessions were seen as unpalatable by the
+community and government for different reasons. Cracking this chestnut is the Inquiry's biggest wealth
+management challenge given retirees' preference for lump sums on retirement.
+
+In relation to technology in this space, the Report echoes the global trend to encourage product issuers to
+use big data and technology to build and distribute more "suitable" financial products, improve financial
+literacy and develop interactive tools to enable financial advisers and consumers to test the suitability of
+financial products. In this regard, all stakeholders are seeing technology as providing an opportunity to
+develop more effective consumer centric engagement strategies to address some of the inherent
+shortcomings of the current financial services regulatory regime.
+
+Consumer protection
+
+The Report recognises the need for a "balanced and effective consumer protection framework" in the
+financial sector due to product complexity; low levels of consumer financial literacy and engagement; and
+the significant effects of poor decision-making with respect to financial products and investment.
+
+Since the Wallis Inquiry of 1997, it has generally been accepted that disclosure is one of the key planks of
+an effective consumer framework. However, this Inquiry queries whether this has been effective in
+observing that current disclosure practices have been driven by an "industry culture of legal compliance,
+rather than a focus on how best to inform consumers". The result has been "lengthy and complex
+documents" that do not fulfil the aim of providing consumers with the necessary information to make
+informed decisions regarding the suitability of financial products to meet their individual needs. The Report
+suggests that this is due to too much legal and financial jargon being used, poor financial literacy
+standards of most consumers, language barriers and consumers being time poor.
+
+The Report also suggests that the focus on disclosure as the primary tool of consumer protection has
+proven to be insufficient and may not be the most appropriate tool to deal with particular market problems
+(citing by way of example, conflicts of interest and the misalignment of the interests of issuers and
+distributors of financial products with those investors). The Report favourably cites other current (and more
+recent) regulatory solutions to address consumer protection, including mandated detailed design
+requirements (such as those introduced for MySuper products) and the Insurance Contracts Act 1984 and
+the ban on an unfair contract terms.
+
+To the extent that disclosure is maintained as a principal consumer protection mechanism, the Report
+recommends possible improvements by way of:
+
+Layered disclosure: by which consumers are provided with relevant information at the relevant time.
+
+Better information presentation: directed at shorter disclosure documents, plain English and use of
+graphics.
+
+Improving consumers' ability to understand risk: by use of product dashboards and standardised
+disclosure formats.
+
+Online comparators and choice engines: through use of third party providers and online tools which
+(perhaps controversially) depend upon greater access to consumer data and product information.
+
+One further innovation in this area suggested by the Report (drawing on recent experience in the United
+Kingdom) involves enhancing ASIC's powers to permit the regulator to intervene in the market to address
+specific issues with financial products and to periodically review financial services industry sectors to
+ensure product's and governance standards are fair to consumers.
+
+Payment Systems
+
+Page196of234©2018Factiva,Inc.Allrightsreserved.The Committee was of the view that regulation of credit card and debit card payment systems was
+required in order for competition to lead to more efficient outcomes. However, systems that perform similar
+functions were treated differently because of differences in structure and this may not be competitively
+neutral. The Committee is clearly referring to the fact that four party schemes such as MasterCard and
+Visa are currently regulated whereas three party schemes such as American Express and Diners Club are
+not currently regulated. The Committee recognised the need for consistent regulation.
+
+The Report also considered that interchange fee caps have improved the functioning of the four-party
+payment schemes. However, in an apparent reopening of the previous inquiries into the regulation of
+payment systems in Australia, notably by the RBA and also the ACCC, the Inquiry invited views on the
+following policy options:
+
+no change to current arrangements;
+
+lower interchange fees, ban interchange fees, expand interchange fee caps or remove interchange fee
+caps;
+
+cap merchant service fees or cap differences in interchange service fees between small and large
+merchants;
+require acquirers to enable merchants to choose which scheme to route transactions through and provide
+merchants and customers with real time pricing information regarding interchange fees and merchant
+service fees;
+
+allow schemes to reintroduce "no surcharge" rules, broaden the ban on "no surcharge" rules or enforce
+reasonable cost recovery in surcharging.
+
+The Report noted that the complex structure of retail payment systems and the level of public interaction
+with them, has resulted in the sector's regulation being fragmented and unnecessarily complex. Further
+information was sought to simplify the regulatory framework for retail payment systems and their
+participants.
+
+Infrastructure financing
+
+The report affirms the important role of funds as backers of infrastructure projects and endorses the view
+of the Productivity Commission in its recent Public Infrastructure report suggesting that there is no
+shortage of private sector capital available for investment in Australian infrastructure.
+
+Our recent experience advising market participants in highly competitive bids for availability based PPP
+concessions, privatisations and even secondary equity transfers and debt refinancings in existing
+infrastructure assets also supports that view. A consensus has been developing as to key project risks and
+appropriate pricing of such risks and so many transactions become "cost of capital shootouts" that are
+decided by very small margins. The funding costs and deep pool of internal resources at larger global
+players, in particular North American pension funds and Asian/Middle East sovereign wealth funds means
+that they are well placed to be successful in these bids. On the other hand, Australian superannuation
+funds, particularly mid-sized funds, have indicated that they have significant difficulties in deploying capital
+allocations into this sector due to the illiquid secondary market and lack of internal investment expertise.
+Mr Murray confirmed this in his National Press Club speech today, observing that the Australian
+superannuation system "by international comparisons appears heavily weighted to riskier assets, mostly
+equities."
+So, whilst the availability of efficient debt and equity funding to develop the extensive pipeline of Australian
+infrastructure requirements would appear to be secure, to our mind the key policy question to be
+considered in the context of this Inquiry is to what extent the government should be seeking to influence
+the composition of the investor base capable of successfully executing investments in the infrastructure
+space. To promote the ability for smaller and mid-sized domestic investors (in particular the
+superannuation funds managing such a significant proportion of our national wealth) to participate in this
+sector, consideration could be given to providing appropriate backing for a liquid bond market to develop
+for issuers of these kinds of investments. That support could include a government-backed infrastructure
+funding corporation that could provide credit-wrapping of infrastructure bonds or standby liquidity facilities
+to eligible projects. A quicker fix would be for EFIC's powers to be widened to allow it to support onshore
+infrastructure projects.
+
+Governments could also give consideration to relaxation of change of control restrictions in project
+agreements to more easily facility secondary equity transfers, particularly for passive financial investors
+into post-construction phase projects with long term operations and maintenance services contractually
+confirmed. The State consent to change in control process can be time consuming and costly and would
+appear to be of limited benefit to any stakeholder in these circumstances.
+
+Page197of234©2018Factiva,Inc.Allrightsreserved.International Integration
+
+All of Chapter 10 of the Report is dedicated to the key emerging trend of international integration. The
+Report notes that Australia has benefited substantially from financial integration with the rest of the world
+and also notes that the weight of the world's economic activity is shifting to the Asian region which
+presents significant opportunities and challenges for the Australian financial system. Importantly, the
+Report supports further financial integration but on the proviso that it does not compromise appropriate
+standards for financial stability and conduct in Australia. The Report's approach is focused on reducing
+impediments to further financial integration, supporting enhanced mutual recognition and equivalence
+processes and supporting Australian regulators continued participation in international standard setting
+bodies. The Report also states that pro-active government action will be required including improving
+Australia's coordination effort.
+
+This is terrific news for the broader banking and financial services sector in Australia because it is a clear
+signal that it is likely the final Report will suggest a number of changes which are designed to achieve the
+outcome of further financial integration. This outcome will produce benefits for Australia including:
+
+increase in investment flows within the region;
+
+Asia is likely to become a more important additional source of capital for Australian banks, corporates and
+fund managers;
+
+Asian financial markets will become a more important investment destination for Australians;
+
+increased RMB trade settlement and investment;
+
+even further integration of the Australian funds management industry in the region (building on the Asian
+Funds Passport Initiative, which the Report describes as a significant first step to better integration with the
+region).
+
+On this basis the Report (and the final Report) can be expected to build on the recommendations of
+previous enquiries and reviews including the 2009 Johnson Report.
+
+While not explicitly addressed in the interim report, we believe that an analysis of the Foreign Acquisitions
+and Takeovers Act 1975 and the ownership restrictions in the Banking Act 1959 and Financial Sector
+Shareholdings Act 1998 will also be a worthwhile part of the overall regulatory review, particularly in the
+context of the global re-organisation of banks resulting from similar post-GFC regulatory reform.
+
+Corporate governance
+
+The Report has identifies two apparent issues concerning corporate governance of Australian financial
+institutions:
+there is apparently a lack of delineation between the role of the Board and that of senior management,
+both within financial institutions and by regulators (particularly APRA); and
+
+there is a "diversity of duties" of governing bodies in different parts of the financial industry.
+
+Regarding the first, the Report calls for views on whether there is a need for change. If there is a need for
+change, the Report appears to be considering recommending:
+
+a review on prudential requirements on Boards to ensure that they are "not drawn into operational
+matters"; and/or
+
+that regulators, and in particular APRA, continue to clarify its expectations of Boards.
+
+Not surprisingly, the Inquiry appears to accept that the role of Boards is not operational and appears to be
+seeking to protect Boards from the encroachment of operational responsibilities on their governance and
+strategic role.
+
+This approach is a positive for Boards and the financial system more broadly. It suggests that there is no
+need to change the roles of the Board and senior management but simply a case for defining them more
+clearly. To take an example, the Centro litigation concerned the level of care directors are required to take
+in signing off annual accounts. Middleton J found that the preparation of books and accounts can be
+delegated by the Board.
+
+However, directors must still independently make decisions about the accounts and ultimately cannot
+abdicate responsibility. If the role of directors can be more clearly defined (including in relation to signing
+off annual accounts), it must follow that the risk to directors of failing to meet those duties will reduce - with
+
+Page198of234©2018Factiva,Inc.Allrightsreserved.the consequence that litigation such as that against the directors of Centro and similarly James Hardie will
+be less frequent. More importantly for the Inquiry's purposes, the Boards of financial institutions will be
+more robust.
+
+If the Inquiry ultimately recommends a review on prudential requirements on Boards to ensure that they
+are "not drawn into operational matters", the US Sarbanes-Oxley Act may provide a useful guide as it
+places some requirements on management in addition to directors. However, in the course of any review,
+the words of Federal Reserve Governor Tarullo, quoted in the Report should also be remembered:
+
+"But it has perhaps become a little too reflexive on the part of regulators to jump from the observation that
+a regulation is important to the conclusion that the board must certify compliance through its own
+processes. We should probably be somewhat more selective in creating the regulatory checklist for board
+compliance and regular consideration."
+
+It will be interesting to see whether the Inquiry's overall recommendations are influenced by current
+American writing and practice in relation to the defining of the roles of the Board and the management,
+including the roles of the Chairperson and the Audit, Risk and Compliance committees.
+
+The Report notes that there is a "diversity of duties" of governing bodies in different parts of the financial
+industry without making much comment. It simply seeks further information on whether that is appropriate.
+
+It lists a number of sources of the duties owed by Boards. In addition to the sources listed in the Report,
+directors (whether of a financial institution or otherwise) also owe fiduciary duties to the company and,
+indirectly, to shareholders.
+
+The Report also considers the question of remuneration. No policy changes to the regulation of
+remuneration are suggested and the approach taken by Australian regulators to date is said to 'appear
+appropriate'.
+
+Insolvency generally
+
+The Report touches on Australia's insolvency regimes. It notes that Australia's insolvency laws are
+criticised as being biased towards liquidation because of our strong laws against insolvent trading and that
+the existing arrangements are too complex and costly for SMEs.
+
+The Report is not in favour of Australia adopting the US Chapter 11 regime on the basis that it is costly,
+leaves the company in the control of those responsible for its difficulties and creates uncertainty for
+creditors by limiting their rights - these arguments against are well known and have been a feature of this
+debate for many years. The Report is doubtful of whether the existing regime causes businesses to fail
+and seeks empirical to support that view.
+
+On a positive note, the Report endorses the implementation of the Australian Government's 2012
+proposals to improve practitioner competence, align corporate and personal insolvency and promote
+market competition.
+
+Taxation
+
+The Report noted that the Inquiry's role was not to make recommendations on tax issues but that it would
+be providing its observations to the Government's forthcoming Tax White Paper. Still, there are some
+interesting observations:
+
+Tax treatment of housing: the Committee noted the favourable treatment of housing under the tax and
+transfer system. Returns on owner-occupied housing, such as imputed rent and capital gains, are exempt
+from tax and as a consequence housing is very attractive for saving. There may however be an inefficient
+level of consumption of housing services. The favourable tax treatment of investor housing, such as the tax
+deductibility of interest expenses and the concessional tax treatment of capital gains, encourages
+leveraged and speculative investment in this sector. This is seen by the Committee as a significant source
+of risk for the financial system and the economy.
+
+Dividend imputation: the future of dividend imputation, which has been a feature of Australia's tax system
+since 1987, has been called into question. Imputation was seen as a subsidy to domestic equity, making
+equities more attractive as a savings vehicle. This has contributed to domestic investors, particularly
+superannuation funds, holding domestic equity relative to foreign equity and other asset classes, resulting
+in less diversified portfolios. It is also seen as contributing to the lack of a deep, liquid domestic corporate
+bond market and a low demand for annuities.
+
+Venture capital limited partnerships: VCLP structures offer concessional tax treatment for certain types of
+investors in relation to particular types of investments. However the VCLP tax rules were seen as being
+
+Page199of234©2018Factiva,Inc.Allrightsreserved.complex and a possible barrier to fund raising. These barriers may be able to be reduced by adoption of a
+recent Board of Taxation review to simplify the VCLP tax regime. The Committee is seeking further
+submissions on the best options for improving the tax treatment of VCLPs.
+
+Financial integration tax issues: the Committee reviewed some tax settings in Australia that submissions
+suggested distorted international financial flows. Interest withholding tax was identified as distorting the
+funding decisions of financial institutions and placing Australia at a competitive disadvantage
+internationally. This may be referred by the Committee to be considered by Australia's Tax White Paper.
+The deductibility of interest paid by an Australian branch of a foreign bank to its parent being capped to the
+LIBOR rate, and which may not reflect the true cost of raising funds, was also identified and may be
+considered by the Board of Taxation in a forthcoming report.
+
+Goods and services tax (GST):GST is not levied on most financial services. This could result in
+households over-consuming financial services compared to what they would otherwise do if GST was
+applied to these services. In contrast, because businesses cannot claim input tax credits for financial
+services, and therefore pay a higher price for them, they may consume less financial services than they
+otherwise would. It was recognised that levying a GST on financial services was difficult.
+
+Crowd funding
+
+It is noteworthy that the Report has not made any particular observation on crowd funding. It appears to be
+content to leave the Government to consider the 200-odd page CAMAC report on the future shape and
+form of regulation of the crowd funding industry. That report recommends a specific type of corporate entity
+for this type of fundraising and a tailored regulatory structure.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Dr. Nuncio D'Angelo
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: clair.simpson@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO nortrb : Norton Rose Fulbright LLP
+IN
+
+i81402 : Commercial Banking | ibnk : Banking/Credit | i814 : Banking | ifinal : Financial Services | i835 :
+Legal Services | ibcs : Business/Consumer Services
+
+NS ccat : Corporate/Industrial News | m12 : Debt/Bond Markets | reqrbc : Suggested Reading Banking/Credit |
+
+mcat : Commodity/Financial Market News | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E
+Exclusion Filter | redit : Selection of Top Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+
+RE austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+IPD Finance and Banking
+PUB Mondaq Limited
+
+Page200of234©2018Factiva,Inc.Allrightsreserved.AN Document BBPUB00020140721ea7l0002v
+
+Page201of234©2018Factiva,Inc.Allrightsreserved.

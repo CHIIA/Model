@@ -1,0 +1,433 @@
+Prevention Through Design
+
+Safety Management: Peer-Reviewed
+
+SE
+HD Prevention Through Design
+BY
+WC 3,280 words
+PD
+1 November 2014
+SN
+Professional Safety
+SC
+PFS
+PG 43-49
+VOL Volume 59; Issue 11; ISSN:00990027
+LA
+CY © 2014 Professional Safety. Provided by ProQuest Information and Learning. All Rights Reserved.
+LP
+
+David L Walline
+
+English
+
+TD
+
+Causal data from serious and fatal injury events suggest that the decisions arising from the prevention
+through design (PTD) process play a central role in avoiding such events. Numerous studies and research
+reveal that 20% to 50% of all mishaps reported a design gap finding. For example, Australian Safety and
+Compensation Council (2006) explains how the design of machinery and equipment affected the incidence
+of fatalities and injuries in Australia: "Of the 210 identified workplace fatalities, 77 (37%) definitely or
+probably had design-related issues involved. Design contributes to at least 30% of work-related serious
+nonfatal injuries" (p. 6). The author's firsthand experience and study suggests that such events are at the
+high end of this range.
+
+The central question then becomes what is preventing organizations from addressing design-related
+events. The author believes a critical organizational and cultural blind spot exists. Benchmarking with
+other OSH professionals indicates that most injury/illness data management systems do not ask for,
+capture or call attention to designrelated causal factors. This data gap has caused design-related latent
+conditions to go uncontrolled and undetected by most organizations. As a result, existing and new designs
+continue to be developed with inherent uncontrolled hazards and risks that have the potential to cause
+serious mishaps.
+
+To avoid design-related mishaps, OSH professionals can conduct a deep dive into their organizations'
+injury/loss experience. Such an internal critical examination often produces startling results that can be
+used to drive a new and necessary focus on PTD. For example, the author's work has led to the
+development of design safety checklists centered on control measures related to past serious
+mishap/fatality events (Table 1, p. 45). When stakeholders such as engineers, safety professionals,
+designers, builders/fabricators and contractors understand how design gaps have led to catastrophic
+outcomes, the justification for using high-level control becomes evident.
+
+PTD Skill Building
+
+ASSE's (1994) position statement on designing for safety (another term for PTD) states:
+Designing for safety (DFS) is a principle for design planning for new facilities, equipment and operations
+(public and private) to conserve human and natural resources, and thereby protect people, property and
+the environment. DFS advocates sys- tematic process to ensure that state-of-the-art engineering and
+management principles are used and incorporated into the design of facilities and overall operations to
+assure safety and health of workers, as well as protection of the environment and compliance with current
+codes and standards.
+
+As a starting point to enhance PTD skills, OSH professionals should review ANSI/ASSE Z590.32011,
+Prevention Through Design: Guidelines for Addressing Occupational Hazards and Risks in the Design and
+Redesign Processes. As stated in Section 1.3, Application, the standard applies to four main stages of
+occupational risk management as follows:
+
+1) Preoperational stage: Initial planning, design, specification, prototyping and construction processes,
+where the opportunities are greatest and the costs are lowest for hazard and risk avoidance, elimination,
+reduction and control.
+
+Page88of354©2018Factiva,Inc.Allrightsreserved.2) Operational stage: Hazards and risks are identified and evaluated, and mitigation actions are taken
+through redesign initiatives or changes in the work methods before incidents and exposures occur.
+
+3) Postinddent stage: Incidents and exposures are investigated to determine the causal factors that will
+lead to appropriate interventions and acceptable risk levels.
+4) Postoperational stage: Demolition, decommissioning or reusing/rebuilding operations are undertaken.
+
+Based on the author's informal research and discussion with many global OSH professionals over the past
+5 years, following are rough estimates of how practitioners spend their time:
+
+*preoperational stage: 10% (avoidance and elimination focus);
+
+*operational stage: 70% (compliance and retrofit focus);
+
+*postincident stage: 20% (claims management, litigation, regulatory issues);
+
+*postoperational stage: less than 1% (decommissioning, demolition).
+
+OSH professionals often spend too much time fighting fires or working in compliance mode based on
+several false beliefs:
+
+1) Business leaders know what they should be doing next in OSH (such as PTD).
+
+2) Nothing can be done in PTD without a corporate edict or standard.
+
+3) PTD is to be left to engineers and designers.
+
+4) If initial PTD efforts are not perfect, the effort is a failure.
+
+5) It is up to others to engage safety professionals in PTD processes.
+
+To move PTD to the forefront of business decision making, the OSH community must begin to spend more
+time in the preoperational stage. OSH professionals need to shift away from and perhaps exit out of
+traditional safety roles and daily focus on compliance program development, training, inspections and
+claims management, and transition into risk avoidance and risk-mitigation activities related to
+organizational planning, design, specifications, safety procurement specifications, design safety reviews,
+proven solution development and risk assessment. This entails changing how professionals do their jobs.
+
+The safety professional's job description of the future must look much different than it does today.
+Progressive employers will want individuals who possess key core competencies (working in the
+preoperational risk management stage) in PTD, risk assessment, management of change, fatal and
+serious injury prevention, operational risk management system, contractor risk management, safety
+specifications for procurement, and human error and human performance.
+
+ANSI/ASSE, Z10-2012, Occupational Health and Safety Management Systems (another highly
+recommended document), highlights these core competencies. Additionally, ASSE's Risk Assessment
+Institute has identified 16 risk assessment core competencies for safety professionals (www
+.oshrisk.org/fun-core.php). In the author's opinion, safety professionals should establish a career target
+(both time and skill set) of spending 70% of their time working in the preoperational stage of risk
+management. At this stage, the business community can best see OSH professionals as valued business
+partners and risk mitigation advisors.
+
+Safe Design Myths & Bad Designs
+
+Over time, the author has identified five common safe design myths that must be dispelled. The following
+statements illustrate these myths:
+
+1) "This design meets minimum compliance, therefore it is safe."
+
+2) "PTD is cost prohibitive. High-level controls are too costly."
+
+3) "PTD will slow the project. We do not have time for design reviews and risk assessment."
+
+4) "Current/old design is safe enough. We have always done it this way, and our injury experience does
+not prove otherwise."
+
+5) "Low-level controls greatly reduce severity of harm."
+
+Page89of354©2018Factiva,Inc.Allrightsreserved.In addition, poor designs can negatively influence an entire organization because they can produce
+serious mishaps, low employee morale, poor product quality, poor operating efficiency, and equipment
+and process reliability issues. These negative influences are often readily apparent when organizations
+have incorporated lean manufacturing principles and processes into their operations. During safety and
+production kaizen events (iSixSigma.com), business leaders, employees and maintenance teams often
+state that "we could be world class in productivity or safety if the process had been designed differently."
+Bad design equals bad performance in many areas of business in the global marketplace.
+
+Proven Solutions: A PTD Culture Revolution
+
+In this context, the term proven solutions means designing out causal factors through risk avoidance and
+hazard elimination. ANSI/ASSE Z590.3 outlines a unique hierarchy of controls (Figure 1, p. 46). It is
+unique in that the most preferred method for achieving acceptable risk in design is risk avoid- anee.
+Avoidance means preventing, by design, hazards from entering the workplace. Avoidance has the
+greatest net positive impact on safety because no hazards exist to be eliminated or controlled. A good risk
+avoidance statement begins with a "no" statement (e.g., "No elevated work"). Borne out of each such
+statement comes a proven solution.
+Consider an example of proven solutions in practice. On a large capital project in China (multimillion dollar
+manufacturing facility), the author worked (2009-11) with the design/build firm to incorporate proven
+solutions into the plant design by placing each performance objective (what one wants to see at the ribbon
+cutting) into a no statement. For example:
+
+1) No portable ladders.
+
+2) No powered forklift trucks used in the manufacturing space.
+
+3) No elevated work.
+
+4) No energized electrical work.
+
+5) No manual handling/lifting of manufactured product (45 lb) by production employees.
+6) No elevated or remote energy isolation points used for lockout/tagout/try tasks.
+
+7) No open chemical processing and mixing systems.
+
+8) No unsecured trailers while being loaded.
+
+9) No open electrical panels to perform diagnostics or thermography.
+
+10) No fall hazards during construction.
+
+11) No congested or restricted workspace (people, equipment, maintenance, emergencies).
+
+12) No direct interface between employees and powered machinery and equipment (both during normal
+and abnormal conditions).
+
+Based on these performance objectives, sustainable proven solutions were used. For example:
+1) Typical portable ladder tasks were designed out by a) relocating work to ground level; b) making work
+accessible by fixed stairways/ platforms; and c) establishing proper accessway for work lifts.
+2) An automated guided vehicle system was implemented to eliminate forklift operations.
+3) Electrical energy isolation, arc preventive switch gear/motor control centers and diagnostic ports were
+used.
+
+4) Piping system isolation valves, gages and filters were located ground level.
+
+5) Trailer restraint system and dock door barrier guards were used.
+
+6) Automated product conveyance and lifting systems were installed.
+
+7) Fully enclosed chemical process and mixing systems were employed.
+
+8) 100% fall prevention was used during construction (e.g., perimeter guarding, skylight guarding, aerial
+lifts).
+
+9) Employees wore less PPE, not more.
+
+Page90of354©2018Factiva,Inc.Allrightsreserved.10) Devices were under exclusive control of maintenance worker for approved troubleshooting tasks.
+11) All hazardous energy isolation points were located at floor level within =10 ft of need.
+
+12) Employees were removed from directly interfacing with powered machinery and equipment through
+barrier guarding and automated jam clearing systems.
+
+Improving Human Performance
+
+ANSI Bll.0-2011, Safety of Machinery: General Requirements and Risk Assessment, contains a hazard
+control hierarchy that clearly outlines the influence that each control level has on the severity and
+likelihood of risk factors (Figure 2, p. 46). It indicates that the greatest influence occurs at the elimination
+or substitution level. Despite this, many perceive that low-level controls have a great impact on severity
+when they do not. Guarding and engineering controls are excellent risk control measures, but their primary
+purpose is to reduce likelihood not severity. That is why control effectiveness and control maintainability is
+vital for sustainable protection.
+
+Applying proven solutions can enhance human performance by addressing human error influences such
+as:
+
+*high ambient noise and/or temperatures;
+
+*poor job lighting;
+
+*poor ergonomics (e.g., layout, job set up, work space);
+
+*PPE loading and barrier to job completion; *responding to routine process upsets, jam-ups, abnormal
+conditions;
+
+*performing complex work;
+
+*performing physically demanding work that induces fatigue;
+
+*use of hand tools that draw a worker close to the hazard;
+*uncontrolled hazard/energy sources; *distractions (e.g., multitasking, alarms, weather conditions).
+
+When looking at causal factors related to design gaps, one or more of the human error influences can be
+present at the same time. Proven solutions also support the safe behaviors that eliminate common human
+error factors.
+
+The sea change that is created by PTD is reflected when managers, business leaders and others make
+these types of statements:
+
+*"Design the work so it is easy to do it safely and difficult to do it wrong."
+
+*"Severe work injuries will have more impact on the organization than stopping production to make it safe."
+
+*"Never underestimate having a bad outcome from a person who wants to do well."
+
+*"Administrative and PPE controls will never replace the appropriate safe guards."
+
+Reducing Overall Burden Costs
+
+Any capital project carries two monetary expenditures: 1) pay now, which is the cost of the new design,
+and 2) pay later, which is the long-term burden costs. Burden costs commonly linked to a facility's life
+expectancy include injury claim costs, compliance maintenance costs, retrofit costs, business interruption,
+operating inefficiencies, resource management and manpower costs. Firsthand experience shows that
+longterm burden costs often far exceed those of the original design solution that would have eliminated the
+entire hazard category.
+
+Thus, a key PTD selling point is the long-term burden costs that an organization will incur when hazards
+are not avoided or eliminated in the design or redesign phase. Communicating the burden costs incurred
+when low-level controls are selected over one-time, high-level controls designed to avoid or eliminate
+hazards and risks represents an opportunity for OSH professionals.
+
+It is also important to educate decision makers that burden costs must be maintained throughout the
+facility's life expectancy, and these costs can be extreme. Table 2 shows the typical long-term burden
+costs associated with compliance-related programs such as ladder safety, forklifts, confined space entry
+and respiratory protection.
+
+Page91of354©2018Factiva,Inc.Allrightsreserved.Now, consider an example involving portable ladder use in a typical manufacturing setting. Falls from
+ladders are often life altering or fatal, and portable ladders are a leading cause of OSHA violations. For
+one project, the author determined that burden costs of portable ladder use in a 500,000-sq.-ft. facility with
+a planned 50-year life span could be as much as $9.3 million (Table 3, p. 48).
+
+Using proven solutions to design out (risk avoidance) the 17 defined routine ladder tasks (175 ladder
+users) in the concept stage would require a one-time capital investment of $500,000. This is a noteworthy
+net positive gain, as is never having a portable-ladder-related mishap (fatality or life-altering injury) at the
+facility. It is important to remember that the ladder and its user are both lower-level controls. A safe ladder
+and safe user do not achieve low risk. Therefore, the focus must shift from ladder compliance programs to
+ladder avoidance through design.
+
+Impact on Risk Level
+
+On another project, the author uncovered a significant risk factor when performing an in-depth review of
+bad design causal factors that were not previously seen. The key risk factor discovered was the impact of
+a congested or restricted access or workspace on worker safety. One common way to control project
+costs is to reduce floor space or the facility's footprint. The result is less workspace and/or restricted
+access to equipment for maintenance tasks.
+In some cases, this forces operations management to purchase portable ladders because the design
+provides no workspace or access for alternative safer designs such as stairways, personal lifts and
+hoisting equipment. Table 4 (p. 48) illustrates how restricted access/workspace affects risk, design and
+long-term burden costs. It indicates that placing piping system isolation valves at ground level would
+achieve a negligible risk level rating and avoid long-term burden costs. This single example highlights the
+positive impact PTD can have on reducing long-term burden costs and mishaps.
+
+Risk Assessment Incorporated Into PTD
+
+The author's in-depth, nonscientific study reveals these trends:
+
+1) Task-based risk assessment is often a critical missing component in the PTD process.
+
+2) Design safety reviews often do not have a special focus on abnormal conditions and/or infrequently
+performed tasks.
+
+3) Heavy reliance on low-level controls (i.e., warning systems, administrative controls, tools, PPE) does
+not provide appropriate protection to workers at the time of a mishap. In most cases, controls do not match
+risk levels.
+
+This presents an opportunity to incorporate risk assessment, design specifications and proven solutions
+into a unified PTD process. A task-based risk assessment (On Safe Lines) worksheet (Table 5, p. 49)
+helps identify design specifications and proven solutions that can be incorporated into the new design to
+achieve a project design performance ob- jective (e.g., no portable ladders) and a design residual risk
+target (e.g., prevent elevated falls).
+
+Business Value & Benefits Gained From PTD
+
+The benefits derived with safe project delivery are another key PTD selling point. Recall the new plant built
+in China. The proven solutions incorporated into that facility's design helped produce these additional
+benefits:
+
+*Project came in significantly under budget.
+*Lower energy was consumed throughout the project.
+
+*Zero waste was taken to a landfill, meaning an overall net positive impact on the environment.
+
+*Plant sold out its product line and achieved full production capacity ahead of schedule.
+
+*Worker morale was high.
+
+*Operating efficiency targets were achieved ahead of schedule.
+
+*Plant design and all job tasks achieved acceptable risk rating.
+
+*At time of this writing, no serious mishaps or near-hit events have been reported since plant start-up in
+2011.
+
+Page92of354©2018Factiva,Inc.Allrightsreserved.*The design team and project champion were recognized by the CEO and company leadership.
+
+Successes such as these make clear that proven solutions that avoid risk and eliminate hazards in design
+must be the OSH profession's legacy rather than programs and firefighting. Knowing that the 350
+employees of this world-class facility can return home injuryand illness-free each day is the true reward of
+these efforts. OSH professionals can elevate their value to their organizations by showcasing how they
+can help design for acceptable risk through sustainable, high-level controls.
+
+PTD Action Steps for OSH Professionals
+
+OSH professionals can create and maintain a library of risk-based proven solutions that will expedite
+future design safety reviews that may encompass similar exposures and risks. This will help eliminate the
+PTD myth that "we don't have time for design reviews and risk assessment."
+
+Several resources are available to help OSH professionals develop a proven solution library. For example,
+ASSE has several:
+
+*Risk Assessment Institute (www.oshrisk.org);
+
+*Body of Knowledge (www.safetybok.org);
+
+*PTD initiative (www.asse.org/professionalaf fairs/ptd);
+
+*Risk Assessment Certificate program (www .asse.org/education/cert-prog);
+
+*virtual PTD symposium (http://eo2.commpart ners.com/users/asse/session.php?id=10516).
+
+Other resources include:
+
+*NIOSH's national PTD plan (www.cdc.gov/ niosh/programs/PtDesign);
+
+*OSHA Alliance Design of Construction Safety initiative (www.designforcon structionsafety.org) ;
+
+*Construction Industry Institute (www.construc tion-institute.org).
+
+OSH professionals can also incorporate lessons learned from completed design projects, benchmark, and
+seek input from engineers, designers, vendors, suppliers and hourly workers.
+
+In addition, OSH professionals are encouraged to take the following actions to start a culture revolution
+around PTD. The rewards and benefits will be many, the most noteworthy being the prevention of
+life-ending and life-altering mishaps.
+
+1) Create a design safety checklist from organizational incident data that relate to design gaps.
+
+2) Know and communicate the percentage of organizational incidents caused by design gaps.
+
+3) Establish a personal goal to spend more time working in the preoperational stage of occupational risk
+management.
+
+4) Develop a critical skill set around PTD and risk assessment.
+
+5) Apply a high level of control decision making in the design process with special focus on severity
+reduction.
+
+6) Identify and share with leaders and design teams the long-term burden costs related to poor design
+decision making.
+
+7) Work to dispel common safe design myths.
+
+8) Eliminate barriers to safe work through design.
+
+9) Capture and communicate the many benefits from safe design.
+
+10) Incorporate task-based risk assessment and safe design specifications into the PTD process.
+
+Conclusion
+
+Reid experience has shown that incorporating proven solutions into design is critical to the prevention of
+life-altering and fatal mishaps. These solutions have global application and can bring demonstrated value
+to any organization. As with all approaches to risk mitigation, OSH professionals must consider all forms of
+
+Page93of354©2018Factiva,Inc.Allrightsreserved.mitigation, and be creative and fiscally responsible. It is also important to consider human factors, the
+unpredictability of human-machine interactions and human decision making. The pace of injury/illness
+prevention improvement is directly linked to the speed of change led by OSH professionals. Risk
+assessment and PTD must be at the forefront of the profession's efforts. The community has the
+responsibility, creativity and power to ensure injury-free lives around the world. This must be its legacy.
+
+CO usfacc : Safe Work Australia
+IN
+NS
+
+i837 : Technical Services | ibcs : Business/Consumer Services
+coccsh : Workplace Safety/Health Issues | c41 : Management | gtrea : Medical Treatments/Procedures |
+c42 : Labor/Personnel | ccat : Corporate/Industrial News | gcat : Political/General News | ghea : Health |
+ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+IPD Scholarly Journals
+PUB American Society of Safety Engineers
+AN Document PFS0000020171123eab1000w9
+
+Page94of354©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,408 @@
+France: The new "Hamon Law" introducing French class actions New consumer law introduces significant provisions with respect to competition...
+
+HD France: The new "Hamon Law" introducing French class actions New consumer law introduces
+
+significant provisions with respect to competition and distribution law
+
+BY Mélanie Thill-Thayara
+WC 3,852 words
+PD 17 August 2014
+SN Mondaq Business Briefing
+SC BBPUB
+LA English
+CY (c) 2014 Mondaq Ltd
+LP
+
+You might also be interested in...
+
+From the Editor
+
+TD
+
+European Union: Damages Directive approved by EU Parliament
+
+New rules to harmonise procedure for antitrust damages actions
+
+European Union: New EU competition rules on technology transfer agreements
+
+The new rules could require the amendment of certain clauses in technology transfer agreements
+
+Italy: New developments in the "Pfizer saga"
+
+A recent judgment provides further guidance on the interaction between antitrust law and patent law in the
+pharmaceutical sector
+
+UK: The Competition and Markets Authority launches operations
+
+The new UK competition authority will have additional powers and handle cases differently than before
+
+Canada: Consent agreement reached with e-book publishers
+
+Canada has reached a settlement with e-book publishers following settlements in the EU and the US
+Canada: Abuse of dominance do-over: Appeals court orders new hearing in real estate case
+
+Court rules on whether a trade association, which is not a competitor in the market, can engage in abuse
+of dominance
+
+Japan and South Korea: Crackdown on bid-rigging in East Asia
+
+Asian competition authorities show they are increasingly serious about bid-rigging activities
+China: Life Technologies/ Thermo Fischer
+China's antitrust regulator is a key gatekeeper in international merger control filings
+China: MOFCOM adopts Simple Cases Regulation
+
+Adoption of simplified merger review rules follows recent European Commission reforms
+
+Australia: The country may lead the world on competition reform
+
+In Australia, a comprehensive reform of competition policy is taking place
+
+South Africa: The growing importance of public interest factors in merger control
+
+Page246of286©2018Factiva,Inc.Allrightsreserved.Foreign companies planning acquisitions in Africa need to consider the impact on the public interest
+
+South Africa: Dawn raids rise again
+
+The South African Competition Commission is currently intensifying its efforts in relation to cartel
+infringements
+
+Introduction
+
+In order to balance the powers of economic stakeholders, France has adopted a new consumer law,
+popularly known as the "Hamon Law".1 The new statute, adopted by the French Parliament on 13
+February 2014, was validated on 13 March 2014 by the French Constitutional Council, which left standing
+most of the provisions that have an impact on competition and distribution law. The law was formally
+promulgated on 18 March 2014, by publication in the Official Journal, although certain of its provisions will
+only enter into force subsequently, either on a date specified in the law or once certain implementing
+decrees are promulgated.
+
+The most significant aspects of the Hamon Law are (i) the introduction of the class action, (ii) the extension
+of powers of agents of the French Competition Authority (FCA) and the Ministry of the Economy, and (iii)
+new provisions, which strengthen the framework of commercial relationships.
+
+Class actions "à la française"
+
+Up to the present time, consumers faced significant roadblocks to bringing legal actions, including the
+costs of proceedings. The law gives them a new weapon, enabling them to join an association authorised
+to obtain legal redress from companies which have not complied with their legal or contractual obligations.
+This new right of action is, nevertheless, subject to some stumbling blocks that may limit its effectiveness,
+particularly with regard to indemnification of damages resulting from anticompetitive practices.
+
+Who can act?
+
+Only duly authorised associations for the defence of consumers, which are recognised as being
+representative at a national level (and not ad hoc associations formed to deal with a particular violation),
+can bring class actions. Fifteen such associations are currently recognised. Businesses and professionals
+cannot participate in class actions as they are reserved solely for physical person consumers.
+
+For which violations?
+
+A class action may be brought in the event of any failure by a business to comply with its obligations,
+whether legal or contractual, either in the context of a sale of goods or supply of services, or with respect
+to anticompetitive practices.
+
+For what remedies?
+
+Only actual damage to economic interests may be the subject of a class action, and not corporal or moral
+damages (for which consumers still need to exercise ordinary remedies under law). In order to facilitate the
+proof of damages, the Hamon Law permits consumers, at any stage in the procedure, to request the judge
+to order any measure necessary for the preservation of evidence or other documents, including evidence
+or documents held by the company against which the action has been brought.
+
+How?
+
+The class action permitted under the Hamon Law functions on an "opt in with publicity" basis and
+therefore, unlike the opt-out system prevalent in the USA, requires a positive act on the part of consumers
+wishing to participate in the action.
+
+The class action takes place in three phases.
+
+Introduction of the action: The action is commenced by the consumer association before the Tribunal de
+Grande Instance (TGI), i.e. the primary level court of jurisdiction (any TGI is potentially competent to
+exercise jurisdiction, unlike what was initially contemplated) pursuant to terms which will be fixed by a
+decree to be adopted by the French Conseil d'Etat (a body which not only acts as France's highest
+administrative court but also has certain rule-making functions). The TGI will decide the matter on the
+basis of individual cases (at least 2) presented by the association and will issue a single judgment, referred
+to as a "declaratory judgment on liability", dealing with the issues of the legal admissibility of the class
+action, the liability of the business, the criteria and time periods during which consumers may join the
+class, the nature of damages which may be indemnified, the terms of indemnification and the measures
+adopted to publicise the judgment. The business may also be ordered to pay a provisional amount to cover
+expenses incurred by the association which are not included in judicial costs. A portion of the amounts due
+
+Page247of286©2018Factiva,Inc.Allrightsreserved.by the business may also be consigned with the Caisse des Dépôts et Consignations, a French financial
+institution.
+
+Joining the class: Consumers may only join the class after publication of the declaratory judgment on
+liability. The "class" includes consumers who are in a similar or identical situation with respect to the same
+business(es) and which comply with criteria for joining the class determined by the judge.
+
+The Hamon Law does, however, institute a simplified procedure in which this second phase is eliminated,
+in cases where the identity and number of consumers harmed are known from the outset and where such
+consumers have suffered damages in the same amount or in an identical amount per goods or services
+provided or by reference to a period or term. In such case, the judge, after having ruled on the liability of
+the business, may order it to indemnify the consumers directly and individually. The conditions under which
+this simplified procedure applies will be determined by a decree to be adopted by the Conseil d'Etat.
+
+Individual requests for indemnification: The conditions of indemnification of consumers are specified in the
+declaratory judgment on liability, which can provide either for direct payment by the business to the
+members of the class or indirect payment through the association or the person assisting the association
+(who must be a member of a regulated legal profession, a list of which will be determined by a decree to
+be adopted by the Conseil d'Etat). In the event of difficulty, the association can bring an action for
+enforcement before the same TGI or have recourse to mediation in order to obtain indemnification of
+individual damages.
+
+This procedure results in some insecurity for the businesses being sued, as they are unable to gauge the
+magnitude of the damages that they will be required to pay until all of the relevant consumers have made
+themselves known by joining the class. Nevertheless, the Constitutional Council ruled that this procedure
+complied with rights of defence, since the business can challenge the action of the association (by
+contesting the admissibility of the class action in the first place, its own alleged liability, the definition of the
+class of consumers alleged to have suffered damages, the criteria established for joining the class, and the
+nature and the extent of the damages to be indemnified, etc.), as well as challenging subsequent demands
+for individual indemnification.
+
+When?
+
+Conseil d'EtatThe provisions relating to class actions apply immediately to factual situations which are not
+time-barred, subject to promulgation of the decrees to be adopted by the dealing with the conditions for
+commencement of the action, the simplified procedure described above and the list of regulated legal
+professions entitled to assist an association in the representation of consumers for the purposes of their
+indemnification. It should be recalled in this respect that the normal limitation period for liability is five years
+from the date on which the victim knew or should have known of the facts. In addition, the commencement
+of a class action tolls the limitation periods for individual actions in damages.
+
+Specific provisions relating to competition law
+
+As regards competition law, the class action follows the same principles as those above but aims at
+enabling consumers to obtain indemnification for damages resulting from anticompetitive practices as
+determined by a national or European competition authority or jurisdiction ("follow-on").
+
+In theory, such an action may be brought before the decision of the competent authority has become final,
+or even before the authority issues a decision, which would require the TGI before which such action is
+brought to stay its own proceedings. In practice, however the association will find that it is in its own
+interest to wait, since a final decision determining the existence of a violation of competition law will
+constitute an irrebuttable presumption that the relevant business is at fault.
+
+The declaratory judgment of liability can only be issued once the portion of the decision of the competition
+authority relating to the liability of the business is no longer capable of challenge. On the other hand, the
+fact that the amount of fines can still be contested does not present an obstacle to such judgment being
+issued.
+
+This point is important for any business against which proceedings have been opened by a competition
+authority, as such business could be dissuaded from seeking leniency or a settlement (or non-contest of
+objections (non-contestation des griefs) before the FCA). These negotiated procedures trigger a waiver by
+the business of its right to contest its liability, and their use could therefore increase the risk of class
+actions.
+
+It is however easy to see the limits of such actions in competition law since consumers must always prove
+that they suffered an actual prejudice as a result of the anticompetitive activity sanctioned by the
+competition authority, which can only be indemnified on condition that it is direct, actual and certain. Such
+proof can be particularly difficult to demonstrate due to the length of competition proceedings, unless the
+
+Page248of286©2018Factiva,Inc.Allrightsreserved.association acts on a considerably "upstream" basis, as soon as there is an initial suspicion of
+anticompetitive activity, and requests the TGI to order conservatory measures in order to preserve
+evidence.
+
+With respect to limitation periods, the class action for anticompetitive practices is time-barred five years
+from the date on which the decision acknowledging the violation has become final (without regard to
+potential appeals with respect to fines). It should be noted, however, that the limitation period will be tolled
+in the event of the opening of a procedure by the European Commission or by a national authority of an
+EU Member State.
+
+Strengthening of the powers of agents of the FCA and the Ministry of the Economy
+
+With respect to competition investigations, the Hamon Law (i) strengthens the powers of agents of the FCA
+and the Ministry of Economy in the event of "simple" investigations (i.e. investigations commenced without
+a requirement of judicial authorisation), (ii) increases the obligation of cooperation of businesses, and (iii)
+creates a new power of injunctions and sanctions in the event of violation of the rules relating to price
+transparency, restrictive practices or other prohibited practices (particularly the fraudulent increase or
+decrease of prices) (Title IV of Book IV of the French Commercial Code). All of these provisions apply
+immediately, except those relating to powers of injunctions and sanctions, which will be the subject of
+subsequent decrees of the Conseil d'Etat.
+
+Extension of powers of agents in simple investigations
+
+In the case of simple investigations, agents have the power of obtaining physical access to premises,
+obtaining communications or the ability to take copies of professional documents, obtaining information
+and justifications and soliciting expert evaluations, but may not undertake searches or seizures or
+interrogate people to obtain verbal evidence.
+
+In addition to a number of minor additions (right of agents to be assisted by any qualified person, right to
+verify identity), the Hamon Law substantially modifies the right of access of agents by granting them:
+
+Access not only to all premises, terrains or means of transport for professional use, but also to premises
+which serve both as a dwelling and as a place of business. In this case, however, the Hamon Law grants
+the occupant of the premises a right of opposition which, if exercised, requires the agents to obtain an
+authorisation of the "juge des libertés et de la detention" (a judge with special jurisdiction regarding
+individual liberties) of the TGI with jurisdiction. The law also provides that investigations may only occur
+between the hours of 8:00 am and 8:00 pm, but agents may have access to professional premises outside
+of these hours if such premises are open to the public or if production, manufacture, transformation,
+conditioning, transportation or commercialisation activities are then in progress; and
+
+Most significantly, access to software and computerised data, which constitutes a major risk for businesses
+taking into account the ever-increasing dematerialisation of information. In order to scrutinise operations
+which use computerised data, agents are therefore granted access "to software and stored data, as well as
+to the restitution in unencrypted form of information which facilitates the accomplishment of their mission",
+and "to request the transcription by any appropriate means of documents directly utilisable for the
+purposes of their scrutiny." This new right, which can be considered as constituting a genuine right to data
+capture without judicial authorisation, was the subject of strong opposition when the bill was debated in
+Parliament. However, according to the parliamentary debates, no actual verification, search or seizure of
+computerised data should be possible in this respect. The agents may only use this procedure for
+documents of which they have a clear knowledge and they have no coercive power to require the business
+to furnish data and software. However, in the absence of precision in the text, these "guarantees" seem to
+be limited and argue in favour of vigilance in order to avoid any risk of abuse. The companies should
+therefore train their IT personnel, who will in practice become the "guardians" of the companies' rights.
+
+The Hamon Law has also increased the scope of such powers by modifying article L. 450-1 to permit the
+FCA to use them not only for investigations of anticompetitive practices and business concentrations, but
+also for the application of the provisions relating to the attributions of the FCA, to procedure, decisions and
+appeals (Title VI of Book IV of the French Commercial Code), which means that new cases of simple
+investigations may arise, particularly with respect to sectorial investigations, injunctions or undertakings.
+
+Lightened formalism and heavier sanctions for all competition investigations
+
+From now on, a simple copy of minutes taken during an inspection can be communicated to a business,
+rather than a double of the original as previously required, which implicitly authorises agents to
+communicate such minutes on an a posteriori basis. Businesses should therefore be increasingly vigilant
+following an investigation and will benefit from scrupulously noting the contents thereof in order to preserve
+their rights.
+
+Page249of286©2018Factiva,Inc.Allrightsreserved.With respect to sanctions, the law hardens the obligation of businesses to cooperate with investigations by
+increasing the amount of sanctions in the event of obstruction, increasing the penalties of imprisonment
+from six months to two years, and fines from €7,500 to €300,000. It should be recalled that agents can also
+impose other sanctions, whether for obstruction (1 per cent of the total turnover of the business), refusal to
+respond to a request for information or to a convocation (injunctions up to 5 per cent of daily average
+turnover for each day of delay) or insulting behaviour (6 months' imprisonment and €7,500 of fines).
+
+New powers of injunctions and administrative sanctions
+
+In the event of violation of the rules on price transparency, restrictive practices or other prohibited practices
+(Title IV of Book IV of the French Commercial Code), the Hamon Law grants the officials of the Ministry of
+the Economy a new power of injunction enabling them to require a business to comply with its obligations,
+to cease any illegal activity or to eliminate any illicit clause. In addition, in the event of refusal to comply
+with such an injunction, the administrative authority charged with competition and consumer affairs can
+impose an administrative fine of up to €3,000 for physical persons or €15,000 for legal entities.
+
+Some new aspects of distribution law
+
+Sanction of maximum payment terms
+
+Thirteen years after the introduction of maximum payment terms of 45 days from the end of the month or
+60 calendar days to article L. 441-6 of the French Commercial Code by the Law on New Economic
+Regulations (NRE Law), the Hamon Law deals with the absence of any specific sanction in the event of
+non-compliance with these terms. This is a particularly important change given that in practice, the
+DGCCRF considers that such maximum payment terms have extraterritorial effect.
+
+From now on, the violation of such maximum payment terms, and the fact of non-compliance with the rules
+stating the manner in which such terms are calculated (they run from the date on which the invoice is
+issued), will be subject to an administrative fine which can go as high as €75,000 for physical persons or
+€375,000 for legal entities, doubled in the event of repeated non-compliance within two years from the date
+on which the initial decision to impose sanctions becomes final. In the absence of precision in the law, it
+can be feared that each individual late payment can give rise to a sanction, even when the payments result
+from the same contract. This new sanction can therefore result in extremely heavy fines for the purchaser,
+and even for the supplier.
+
+The same sanction applies in the event of a clause or a practice which aims at abusively delaying the
+starting point of the maximum payment terms.
+
+It should be recalled that up to now, violation of the maximum payment terms could only result in damages
+based on article L.442-6 I 7° and/or a civil fine based on article L.442-6 III. The Hamon Law having
+eliminated the first of such provisions, these sanctions are no longer applicable.
+
+On the other hand, due to poor drafting, the violation of such maximum payment terms is now sanctioned
+more severely than non-compliance with the provisions relating to the standard payment term of 30 days
+following delivery (applicable in the absence of clauses on payment terms), the payment term in matters of
+transport, and late payment penalties (article L.441-6 paragraphs 8, 11 and 12), which are still subject to
+the sanctions of €15,000 provided for in the last paragraph of article L.441-6 I. The Constitutional Council
+noted that, as this paragraph had not been abrogated by the Hamon Law (which is probably the result of
+an error), it was not possible to provide a double sanction for the same facts. Therefore, although initially
+conceived as a uniform sanction for violations of article L.441-6 paragraphs 8, 9, 11 and 12, the new fine of
+€75,000 / 375,000 is finally applicable only to violations of the maximum payment terms of 45 days from
+the end of the month or 60 calendar days of paragraph 9.
+
+It should be noted that these new provisions apply immediately, which requires businesses to modify, as
+necessary, their practices quickly in order to be compliant.
+Reinforced rules on commercial negotiation
+
+Probably in order to thwart the use of general purchasing conditions or standard contracts which are still
+widely used in business by large distribution networks and purchasing divisions of large businesses, the
+Hamon Law places general sales conditions and price grids of the supplier at the heart of commercial
+negotiations by modifying articles L.441-6 and L.441-7 of the French Commercial Code.
+
+The formalism of the so-called "single agreement" (which is aimed at accumulating all relevant terms and
+conditions agreed between the parties in a single document) (article L.441-7) is further reinforced in order
+to include rebates and other kinds of discounts negotiated by the purchaser in exchange for services
+rendered to the supplier. The purchaser must henceforth precisely justify performance in conformity with
+the agreement in the event of a written request of the supplier who, as necessary, may petition the
+
+Page250of286©2018Factiva,Inc.Allrightsreserved.administrative authority charged with competition and consumer affairs. In addition, any violation of the
+obligations relating to the "single agreement" can result in an administrative sanction of €75,000 for
+physical persons or €375,000 for legal entitles, doubled in the event of repeated offences within two years
+from the date on which the initial decision imposing sanctions became final.
+
+Moreover, the list of practices prohibited by article L. 442-6 has been modified, particularly by insertion in
+paragraph 1 of a new example of an advantage which does not correspond to any commercial service
+actually rendered or manifestly disproportionate ("additional request, in the course of performance of the
+agreement, aiming at abusively maintaining or increasing margins or profitability"), and the addition of a
+new paragraph relating specifically to abusive actions of purchasers with respect to pricing.
+
+The modifications to articles L.441-7 and L.442-6 I are however only applicable to contracts concluded
+after 1 July 2014.
+
+Conclusion
+
+Despite its title, the "consumer law" goes far beyond the mere framework of relations between businesses
+and consumers and introduces new provisions with respect to competition and distribution law. Although
+the class action is probably the most significant new development, the impact of other provisions which on
+their face may seem harmless and which reinforce the investigatory powers of competition authorities and
+increase the potential liability of businesses in many respects by adding a new arsenal of sanctions should
+not be underestimated.
+
+Footnotes
+
+1 LOI n° 2014-344 du 17 mars 2014 relative à la consommation
+
+Ms Mélanie Thill-Thayara
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: clair.simpson@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO offair : Competition and Markets Authority | nortrb : Norton Rose Fulbright LLP
+IN
+NS ccat : Corporate/Industrial News | c34 : Anti-Competition Issues | ncat : Content Types | nfact : Factiva
+
+i835 : Legal Services | ibcs : Business/Consumer Services
+
+Filters | nfcpin : FC&E Industry News Filter
+
+RE austr : Australia | fra : France | apacz : Asia Pacific | ausnz : Australia/Oceania | eecz : European Union
+
+Countries | eurz : Europe | medz : Mediterranean | weurz : Western Europe
+
+IPD nti-trust/Competition Law
+PUB Mondaq Limited
+AN Document BBPUB00020140817ea8h0005n
+
+Page251of286©2018Factiva,Inc.Allrightsreserved.

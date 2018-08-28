@@ -1,0 +1,192 @@
+Insurance: After shock
+
+HD
+BY
+WC
+PD
+SN
+SC
+PG
+LA
+CY
+LP
+
+TD
+
+Insurance: After shock
+
+By Rupert Walker
+1,382 words
+1 January 2014
+Finance Asia
+MEDFIN
+39
+English
+Copyright 2014. Haymarket Media Limited. All rights reserved.
+
+As the costs of disasters grow in Asia so does the urgency to insure and mitigate the risks
+
+The devastation wrought by Typhoon Haiyan, one of the biggest natural disasters in recent history, was
+a stark reminder of Asia's vulnerability to such catastrophes.
+
+However, low non-life insurance penetration in the Philippines means the majority of losses incurred
+from November's storm are expected to be uninsured and the effect on insurance and reinsurance
+companies is estimated by industry insiders to be limited.
+
+'If we examine the gap between economic loss and insured loss for natural catastrophe events in the
+region compared to the rest of the world, the difference is significant. The take-up of general insurance
+across the region remains small even as natural catastrophe exposures continue to increase and
+threaten Asia's growth momentum,' said Clarence Yeung, group chief operating officer & chief
+underwriting officer at ACR Capital Holdings, a Singapore-based reinsurance group.
+
+Nevertheless, the risk profile for insurance companies and reinsurers is increasing throughout Asia. The
+Thailand floods two years ago raised awareness of the vulnerability of supply chains - for example in
+the auto sector - and of industry and population concentrations on flood plains and in coastal cities.
+
+Additional factors include aging demographics, especially in Japan, and the prevalence of outsourcing
+to emerging markets where IT systems are not always robust.
+
+Economic growth is a key driver for increasing asset and risk accumulation in the Asia-Pacific region.
+Rapid urbanisation has also contributed, which means a higher density of residential, commercial and
+industrial assets, especially in areas that are exposed to typhoon, flood and earthquake hazards as well
+as pandemics.
+
+The urbanisation rate of emerging Asia has increased from less than 20% in 1970 to slightly over 40%
+in 2010, according to Clarence Wong, director and head of economic research & consulting,
+Asia-Pacific at Swiss Reinsurance.
+
+'The most vulnerable are emerging markets because there is less risk mitigation: building codes tend to
+be sub-standard, levees poorly constructed and warning systems inadequate,' said Sally Yim, lead
+insurance analyst Asia Pacific, Moody's Investors Service.
+
+'In other words, there are more insurable risks,' agreed Connie Wong, analytical manager for insurance
+ratings Asia Pacific, Standard & Poor's.
+
+Yet in general, Asian companies are less sensitive than firms in Western Europe or the US to the threat
+of natural disasters to their operations.
+
+'Risk management and risk mitigation is not such a priority and commonly there is less take up of
+insurance in the region,' said Keith Thomas, chief executive, global corporate business, Asia Pacific at
+Zurich Insurance.
+
+Page199of210©2018Factiva,Inc.Allrightsreserved.Factors include legal complexities, but 'mostly there is just less perceived value in insurance products'.
+However, more local firms are using Zurich's CAT mapping services, supported by the firm's 900 risk
+engineers worldwide, especially to help them choose better locations for their factories.
+
+Imprecise models and analytics
+
+But, as Connie Wong pointed out, part of the problem is that catastrophe assessment is an inexact
+science, even when sophisticated models are deployed. There is too much uncertainty and a need for
+qualitative judgment.
+
+Assessing natural disaster risk quantitatively and in a forward-looking manner is still a relatively young
+science (about 25 years) and comes with uncertainties. 'Risk modelling is improving but changing
+weather patterns and shifting flood plains means there is always uncertainty assessing the impact of
+floods,' said Thomas.
+
+'Modelling certain natural hazard perils is more challenging than modelling others,' agreed Malcolm
+Steingold, Asia-Pacific CEO for Aon Benfield.
+
+Availability and quality of data is essential to model robustness, but the inherent characteristics of some
+disasters make them more difficult to model even when high quality data are available.
+
+Catastrophe models based on assessments of probable risk and return can be constructed where there
+is a lot of data available. Where data is scarce, then so-called RDS (realistic disaster scenario)
+modelling is used, so there is far greater uncertainty, according to Steingold.
+
+Also, the effectiveness of data analytics and modelling is dependent on the level of expertise of the
+people undertaking the analysis.
+
+'Even the sophisticated models in Japan and New Zealand are flawed. There are too many variables
+and qualitative inputs in addition to historical data, such as property location and loss distribution,' said
+Yim.
+
+Given the lack of robust catastrophe models in many markets, there are concerns that the industry
+operates in an unsustainable manner. And of course, risk has to be priced adequately in order to justify
+the capital required to underwrite the risk, said Clarence Wong.
+
+Important role of governments
+
+In the face of so much uncertainty, governments can play a critical role in alleviating the worst
+consequences of catastrophe, and recompense victims.
+
+They can ensure that (re)insurance companies have access to the market and are adequately
+capitalised to be able to fulfil their obligation in case of adverse events, and they can protect lives
+through effective mitigation measures including early warning and evacuation procedures.
+
+Governments and the (re)insurance industry can also provide various financing tools, and provide risk
+transfer solutions.
+
+'The key challenge, however, is in ensuring that the risk bearers gain awareness of the risks involved,
+and that the solutions are affordable compared to the risks involved. To this end, support from
+governments is important, to ensure that the financing and risk transfer mechanism is as widely applied
+as possible,' said ACR's Yeung.
+
+Examples of funding instruments include microfinance, social funds and public disaster funds. For risk
+transfer solutions, those available include private (re)insurance, microinsurance, public/private
+partnerships solutions and government risk pools.
+
+Also, governments usually step in when insurance is not commercially viable, for example a pool
+system in Taiwan reduces costs for individuals - and Thailand and China are examining the possibility
+of similar systems, pointed out Connie Wong. Taiwan's earthquake insurance collective pool is
+administered by the government but the risk is taken by insurance companies which then spread it
+through reinsurance.
+Insurers can be forced to buy adequate levels of catastrophe reinsurance. In Australia, for example,
+regulations provide for 'minimum event retentions' for insurance companies, which not only address the
+purchase of vertical cover (direct exposure) for severity but also now provide for appropriate levels of
+sideways aggregate (indirect) cover to respond to the regularity of natural catastrophes.
+
+Page200of210©2018Factiva,Inc.Allrightsreserved.'This development arose out of the frequent storm activity and flooding on the Australian North Eastern
+seaboard,' said Steingold. Japan also became a substantial purchaser of catastrophe (re)insurance
+following losses arising from Typhoon Mireille in 1991, he pointed out.
+
+OPPORTUNITY KNOCKS FOR PRIVATE INSURANCE
+
+Indeed, high profile disasters with widespread media coverage are likely to be the catalyst for greater
+penetration of potential markets in the region - especially in developing countries.
+
+'Catastrophe (insurance) purchasing in developing economies is more reactive than in developed
+economies, as was demonstrated by the Thailand floods in 2011,' said Steingold.
+
+There is clearly an opportunity for (re)insurers to write new business. 'With a rising level of natural
+catastrophe exposures, the demand for catastrophe insurance is certainly there. Earthquake and
+typhoons are well-tracked risks in Asia, while flooding is at our doorstep, if not already one of the three
+major natural catastrophe risks that Asia faces,' said Yeung.
+
+One way forward is to form more public-private partnerships in the entire value chain, whether it is in
+research work such as flood risk mapping (ACR did a project with a Shanghai research agency), or the
+design of solutions that pool together resources for better catastrophe management.
+
+'The key success factor for growth is to make simple products accessible and affordable for a larger
+part of the population. Innovation can help to lower the cost of insurance products and increase
+affordability,' said Clarence Wong.
+
+In addition, Thomas pointed out, insurance firms can also offer insights into risk management and
+suggest best practices.
+
+The bottom line is that both 'insurance and reinsurance companies have the opportunity to enter
+markets expanding with economic growth and characterized by low penetration, as well as to diversify
+their global risks', said Moody's Yim.
+
+40% - Urbanisation rate in emerging Asia.
+
+--------------------
+
+Did you find this article useful? Why not subscribe to the magazine? Please call 08451 55 73 55 for
+more information or visit www.haysubs.com
+
+IN
+NS
+
+RE
+PUB
+AN
+
+i82 : Insurance | ifinal : Financial Services
+ghurr : Storms | gcat : Political/General News | gdis : Disasters/Accidents | gntdis : Natural
+Disasters/Catastrophes | grisk : Risk News | gwea : Weather
+asiaz : Asia | tasman : Tasmania | apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia
+Haymarket Media Limited
+Document MEDFIN0020140103ea110000e
+
+Page201of210©2018Factiva,Inc.Allrightsreserved.

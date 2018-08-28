@@ -1,0 +1,855 @@
+Preliminary 2014 ASX Ltd Earnings Presentation - Final
+
+HD Preliminary 2014 ASX Ltd Earnings Presentation - Final
+WC 10,771 words
+PD 20 August 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+ELMER FUNKE KUPPER, CEO AND MD, ASX LIMITED: Well good morning, it's 10:00 AM and we might
+kick it off. Welcome to the 2014 results briefing of ASX. My name is Elmer Funke, I'm the Chief Executive.
+We are joined by guests here in our auditorium in Sydney, by phone and people who follow us via webcast.
+Could I please ask all of you here in Sydney to turn down your mobile phones, thank you. The complete
+results materials, including our annual report, have been released to the market and are available on the
+ASX website. I'm joined here on stage by Peter Hiom, our Deputy CEO, as well as Ramy Aziz, our Chief
+Financial Officer. We'll use the usual format, I'll present for around about 25 minutes and then open it up for
+questions.
+
+Let me start by giving you an overview of the results. 2014 was a positive year for ASX. Profit after tax was
+AUD383 million, up 10%. The growth rates for earnings per share and dividends per share were lower as
+they were impacted by the capital raising we completed early in the year. We continue to pay out 90% of
+our earnings in dividends.
+The main driver for the results was positive revenue growth, up 6.6% to AUD658 million. Pleasingly, all
+major revenue categories in the company produced growth during the year. Expense growth and capital
+expenditure were both in line with the guidance we gave the market at the beginning of the year. Expenses
+were up 5.1% to AUD153.6 million and capital expenditure was AUD43 million, within the range of
+AUD40 million to AUD45 million we gave as guidance.
+
+The investments we have made over the last two years have put ASX in a better position to compete in a
+rapidly changing global market. Over the last two years we have completed several of our key
+infrastructure investments, particularly in post-trade services. We have obtained greater regulatory clarity,
+including on the location requirements that attach to critical infrastructure, and we've made significant
+progress in improving the relationships of our clients and aligning ourselves to them. Those steps put us in
+a good position to compete in a changing market environment.
+
+Page 4 of the presentation shows the results in a traditional income statement. Operating revenues of
+AUD658 million and earnings of AUD383 million are both company records and on the right hand side
+you can see how 6.6% revenue growth leads to 7.1% EBITDA growth and 10% profit growth. Our EBITDA
+margin continues to be strong and in FY14 was over 76%.
+
+At the end of FY13, and the beginning of this financial year, ASX raised capital, this impacted on the growth
+rates of earnings per share and dividends per share. Earnings per share last year was a little over AUD1.95
+and it grew 1.5% in FY14. This is as a consequence of 10% earnings growth and the dilutive effect of the
+capital raising. Dividends per share grew 4.6% for the year and second half dividends were up more than
+9%.
+I mentioned earlier that in 2014 all major revenue categories for the company showed growth. This is
+illustrated on page 6, as the traditional waterfall we always use, and in page 7 in table format. The revenue
+growth rates for each of our businesses ranged at the low end. In our cash market business 2.3%, up to
+around 11% in our listings business and our information services business, these are attractive growth
+rates.
+
+The largest contributor to growth in dollars was our listings and issuer services business, with the revenues
+up AUD15 million, driven largely by a strong IPO and capital raising market. Overall our revenues were up
+6.6%. We thought it was useful to illustrate to you the contribution of the strong IPO market to revenue
+
+Page196of343©2018Factiva,Inc.Allrightsreserved.growth in each quarter, and as you can see on page 8, the revenue growth rate for ASX ranged from 4.4%
+in the third-quarter to 8.8% in the second-quarter.
+
+The larger blue bars on top of this are the contribution from our listings and issuer services business to the
+growth rates. It showed that, particularly in the second-quarter and the fourth-quarter, the IPO market was
+very strong. On the right hand side you can see the growth rates in EBITDA, and with the EBITDA margin
+that we have you can see that the EBITDA growth mirrors, largely, our revenue growth performance
+through the year.
+
+Before we go through each of the businesses, we thought it'd be useful to give you an overview of our key
+business priorities. ASX has five key business priorities. The first is to build on our leadership position in
+our core markets and to make sure that we are a global leader in both the Australian dollar and New
+Zealand dollar markets. We continue to make ongoing investments in the products and services we provide
+[and] investors, as well as the growth in community.
+
+The second priority is to deliver a world-class, globally connected infrastructure to the intermediaries and to
+Australian investors. And this is where a large part of our investments have gone over the last two years,
+particularly in the post-trade services that we delivered in FY14.
+
+The third priority is to deliver outstanding customer service and an outstanding customer experience. We've
+made good progress over the last 12 months and taken a number of specific steps to make this real. For
+most of our products we now have forms that allow our clients to give input into development of those
+businesses.
+
+We've increased the growth incentives and improved the fee structure for our clients and in 2015 we'll open
+a 24 hour customer command centre in our data centre in Sydney, that allows us to service both our
+domestic and growing international customer base.
+
+The fourth priority is to continue to advocate regulations that support real investors and growth. This is
+where we've put considerable energy in the last two years and Australia as a market and ASX is now very
+well placed to make the most of the investments that it is making. Australia continues to be one of the best
+regulated markets in the world.
+
+Finally we want to be known as an employer of choice in financial markets. Again we've made good
+progress here and that shows in the way we now deliver to our clients and there's more to do here to make
+sure that we can match our skills and talents with the best in the world.
+
+You'll see these five themes come through as we talk through each of our individual businesses and we'll
+start with listings and issuer services. This business accounts for about 24% of group revenues. Revenues
+from listings and issuer services was up 10.9% in FY14 on the back of a very strong IPO market.
+
+We had 107 IPOs, around two a week, and in the total capital raising, both in IPO and secondaries, were
+well up. The main focus in this business is to ensure that Australia continues to be a highly attractive place
+to list and raise capital and to significantly expand the number of investment options that are available to
+end investors.
+
+The terminology we use internally to describe that is the creation of an investment supermarket that covers
+of course domestic equities; government bonds, which we now quote on the exchange; an expansion of
+the corporate bond market; ETFs; managed funds, both listed and unlisted, and international equities which
+is something that we would like to get to in the next 12 to 18 months as well.
+
+During FY14 we launched mFund which is a significant change in the way consumers can apply for and
+redeem unlisted managed funds through their broker platform. As of today we have around 45 funds
+quoted on that platform. That's a long term investment that we believe is a game changer for the way
+people invest in Australia.
+
+The second business is our cash market business, our equities business. It accounts for about 18% of the
+Group's revenues and includes the trading, clearing and settlement of cash equities. Revenues in this
+business were up 2.3%, driven by a modest rise in market activity in the Australian equity market. Our
+market share of on-market trading, which is where we competed directly with an alternative exchange, is
+around 90%. Our focus in this business is two-fold.
+
+First on continued innovation of the execution services that we provide and the investments that we make
+and the innovations we're bringing to market are specifically targeting the end investor. An important
+component of this is Centre Point which is our mid-point execution venue. Centre Point continues to grow
+well and we continue to bring new innovations to market in Centre Point. Last year Centre Point accounted
+for almost 17% of our trading revenue, up from 11%.
+
+Page197of343©2018Factiva,Inc.Allrightsreserved.The second key focus is clearing and settlements and on the delivery of our commitments to the Australian
+market place under the Code of Practice. Now you may recall that when the government decided, about 18
+months ago, to retain the current market structure for clearing and settlement in Australia for at least two
+years, we committed to put in place a Code of Practice.
+
+That provides transparency on the pricing mechanisms for our services, transparency and
+[non-discriminatory] access to our services and creates a forum of senior executives in Australia across a
+broad stakeholder group so that they can provide input into ASX on the development of our clearing and
+settlement platforms. Everything that we were asked to do on the Code and committed to do, we have
+done and more. We very much appreciate the input of the forum into our development priorities.
+
+As you may know, in June we announced that we accepted a recommendation from the forum to move the
+settlement cycle in Australia for cash equities from T+3 through to T+2 by 2016. Also we commissioned an
+independent consulting report by a form called Oxera from Europe, to benchmark our cost of clearing and
+settlement services to those of other markets of a similar size.
+
+Oxera concluded that, indeed, the costs of clearing and settlements for investors in the Australian market
+are comparable to those markets that are similar to us around the world. It is the most comprehensive and
+best benchmarking study ever conducted in clearing and settlement services.
+
+In FY13 and FY14 we put very significant investments in our derivatives and OTC markets business. This
+business accounts for about 32% of the Group's revenues, it's our largest business. In aggregate revenues
+were up 5.2% to AUD207.7 million. But this business contains two sub-businesses. The smaller business
+is what we call ASX derivatives, essentially the equities options business.
+Revenues there were AUD22.2 million so it's a smaller part, but the performance of that business was
+disappointing. [Now] equity options businesses around the world have been struggling in the current
+market environment but nevertheless we're not happy with this result and revenues were down 20% on the
+significant decline in volumes. We put in place some steps to both stabilise the performance of this
+business and hopefully return it to growth.
+The bigger part of this business is our futures business, accounting for AUD185 million out of the AUD207
+million. Revenues in that business were up 9.7% on the back of modest growth in activity levels, the
+inclusion of ASXEnergy -- you may recall that last year we bought a company called [Decipher], that's now
+in our revenue numbers -- as well as lower large volume rebates as the growth in this business was
+somewhat lower than in the previous year. So it's a good performance.
+
+If we look at the right hand side of page 12 you can see a very long list of initiatives because this is a very
+important business with rapidly changing global regulations to which we need to respond and show
+leadership. Rather than go through this list as a list, we thought it was useful to put together in a different
+kind of chart so we can bring the various elements together for you and explain why we're doing what we're
+doing. That is illustrated in page 13.
+
+So to build a globally competitive derivatives and OTC business, four elements have to fall into place. The
+first is regulation. There needs to be clarity around regulation and we need to comply with global
+regulations. This is where we have made tremendous progress in the last two years. We have received
+relief from both the US and European regulators, allowing us to deal with European and American banks.
+
+We have significantly greater certainty about the requirement that our regulators put on critical
+infrastructure, that gives us more certainty about the environment in which we invest. And we continue to
+advocate a greater focus on the competitiveness of Australia, as opposed to the settings within Australia, in
+an increasingly global market. Good progress in that respect.
+The second element is the balance sheet and an ability to invest. Last year we raised AUD550 million, a
+large part of that capital raising went into our two clearing houses, ASX Clear and ASX Clear (Futures). Our
+derivatives clearing house now meets the highest global capital standards and received a AA- credit rating
+from S&P. We have a business model and scale balance sheet to invest, so when it comes to our financial
+capacity to compete, that is in place.
+
+The third element is our product and services and our infrastructure. Over the last two years we have
+caught up with the rest of the world by making significant investments and accelerating the implementation
+of many new services, particularly in post-trade and risk management. That is providing an efficient solution
+for investors and intermediaries right here in Australia. Of course that journey never ends and we're now
+onto the next wave of investments that starts to bring the futures business and the OTC business together.
+We call that [futurisation], but good progress there.
+
+The final step is to make sure we're well aligned with our clients. Over the last two years we've put in place
+advisory councils and forums for post of our derivatives markets. We're building a customer command
+
+Page198of343©2018Factiva,Inc.Allrightsreserved.centre in 2015 to service our domestic and international customers. And in July we announced some
+changed to our fee structure that gave our clients lower fees and higher growth incentives. That was an
+important final step to put all the pieces together and give us a chance to compete.
+
+The next business to focus on are information services and technical services. Information services is
+about 11% of our revenues, technical services about 8%. Both businesses delivered good growth in FY14.
+Our revenues from information services were up 11% and our revenues from technical services were up
+6%. Our focus in both businesses is on organic development of our services and organic growth of our
+revenues. On the right hand side you can see some of the initiatives that we'll continue to work on as the
+needs of our clients continues to evolve. So it's good progress and a focus on organic growth.
+
+The final business to focus on is Austraclear, so Austraclear is the fixed income depository of Australia's
+financial markets and accounts for about 6% of our revenues. The revenues from Austraclear were up
+6.4% to AUD41 million on the back of growth in both activity levels and balances. And the average
+balance in Austraclear in fixed income securities was up 7% last year to AUD1.5 trillion. The main focus for
+Austraclear is to use it to deliver new innovative services to the Australian market place and there's two that
+we list here.
+
+The first is our collateral management service which allows our clients to use securities they hold in
+Austraclear as collateral in financial markets, as opposed to cash. That's a new and very innovative service
+that we can deliver because we own Austraclear and that service was fully launched in the second half of
+the year. As we sit here today we have around AUD2 billion of collateral under management through that
+service.
+
+The second is a renminbi settlement service that was launched in July which provides real time RMB
+settlement services to Australian corporations and clients of banks who pay and receive in RMB. That's an
+important service, the RMB is a currency that over time will become more and more important in the world.
+This is getting ready for the announcement, we hope soon, of a formal clearing bank in Australia for the
+renminbi which will create liquidity, and of course a free trade agreement between China and Australia.
+
+So these are innovations that are new to the Australian market place that we can deliver because we have
+the infrastructure to allow us to bring them to market. That concludes the overview of the performance of
+each of our businesses.
+
+ASX also makes revenues out of interest and dividend income, and that's illustrated on page 16. If you go
+down to the third line you can see in bold there that our interest income went up 35.9% to almost AUD60
+million. Now that's almost entirely driven by the income we now receive on the capital raising we did last
+year. You can see that in the first line on the chart where there's a very significant increase in the net
+interest income on our own funds, that's a direct consequence of the capital raising.
+Dividend income comes from out 19.2% shareholding, in IRESS that was up 15%, almost AUD11 million.
+You may recall that in August last year ASX participated in a pro rata rights issue that IRESS conducted as
+one of its capital initiatives and that has been a very good investment for us. That concludes the revenue
+items, we'll now move on to expenses and CapEx.
+
+As I said in my introduction CapEx and expenses were in line with the guidance we gave at the beginning
+of the year. Expenses were up 5.1% to AUD153.6 million, that is largely driven by a continued investment
+in people resources that allow us to deliver new initiatives to our clients. So while we continue to manage
+the exchange very tightly and we are one of the most efficient exchanges in the world, we will not shy away
+from investing in resources where we need them to deliver new initiatives, particularly in post-trade, to our
+clients. As is usual we also gave some guidance on expense growth for the next 12 months and we
+currently expect that expense growth for FY15 will in the order of 4%.
+Capital expenditure was AUD43.2 million, right in the middle of the range that we gave at the beginning of
+the year. We thought it was useful to give you some insight into the capital expenditure for post-trade
+services, but this includes both the services that our clients see, such as OTC clearing and client clearing
+and collateral management, as well as some of the internal work we need to do to upgrade our systems to
+deliver those services.
+In FY14 around AUD25 million out of the AUD43 million relates to those post-trade services and that's the
+lighter bar on top of the stack that you can see for FY14. If you look between FY12, FY13 and FY14, you
+can see that we spent just below AUD50 million, AUD49 million on the new post-trade services for the
+Australian market place. We're again giving guidance for FY15 and again we expect capital expenditure to
+be in the range of AUD40 million to AUD45 million, as it has been in the last couple of years.
+
+Now our capital raising that we did 12 months ago and the investment program that we're running is about
+ensuring that Australian intermediaries and Australian investors and international investors who use our
+market continue to have access to a world class infrastructure based right here in Australia.
+
+Page199of343©2018Factiva,Inc.Allrightsreserved.The impact of global regulations means that our focus, and we believe the focus of regulators and the
+government, should be less on the regulatory settings within Australia, because they are fine, and much
+more on the competitiveness of Australia in a changing global market. That is the big theme of the
+submissions we put to both the Murray Inquiry -- the Financial System Inquiry -- as well as the competition
+policy review that [Ian Harper] is running.
+
+Our regulatory frameworks have to recognise that our world doesn't stop at the Harbour Bridge and that
+global regulatory and competitive forces will have, over time, a big impact on our industry as well as many
+other industries in which Australia has a strong position. So therefore we have to focus on the
+competitiveness of Australia to make sure we have a stable market, we can support a domestic economy
+and make the most of the Asian opportunities. The recommendations, three each to the two reviews,
+support this very notion. For us this is not a theoretical exercise, it's real and our recommendations are real.
+
+Now before we close off we will share recent market activity levels, as we always do. This is of course for
+the first seven weeks of the year and so you always have to sort of think about what that says about the
+rest of the year. But nevertheless we give them to you. Market activity is very much driven by the current
+economic environment.
+
+Globally we have seen an environment for some time now of very low volatility with the VIX running at
+seven year lows (technical difficulty) for some time, as well as a very benign interest rate environment
+where interest rate continues to be low for a persistent period. That of course, when you look at markets
+around the world, has reduced some of the trading opportunities for some of our clients, particularly larger
+investment banks, and you see that reflected in the performance of some of the international financial
+markets and exchanges.
+
+Domestically our economy continues to show positive resilience and that shows in our numbers. Of course
+our main concern long term is rising unemployment and particularly youth unemployment, and of course
+the energy we see in Canberra around policies and federal budget is not helping as it is a very internally
+focussed debate at a time when we should focus on the competitiveness of Australia. Nevertheless it
+continues to be a reasonably good environment for the exchange and that's reflected in the trading
+performance for the first seven weeks.
+
+When we look at the cash markets, the total market, this is all lit venues and all dark venues, trading
+volume was AUD4.6 billion today, that's about 4.4% up on the same period last year. Our on-market
+trading for ASX was AUD3.2 billion and that was in line with last year.
+
+Our futures business as you know is our largest business and their daily average volume continues to run
+at about 400,000 contracts a day and that was 2.5% up on the same period last year and the start of the
+year in the RPO market was -- capital raising market was quite positive with AUD6.8 billion raise in July
+and that was well up of course on the previous year.
+
+Let me finish by repeating the key messages. ASX produced a positive result in 2014, with revenues up
+6.6% and earnings up 10%. Expenses and CapEx were well managed and in line with the guidance we
+gave you at the beginning of the year. And our investment program between FY13 and FY14 is on track
+and puts the company in a stronger position to compete in a rapidly changing global regulatory
+environment. This is where I will stop talking and open it up for questions.
+If I could please ask you to state your name and the firm you represent and then ask your question and
+could you please use the microphone because these days more people follow us on line than the followers
+in the room. I will start here in Sydney and then move to the phone.
+
+Questions and Answers
+
+ANTHONY HOO, ANALYST, NOMURA HOLDINGS: Good morning. Anthony Hoo from Nomura. I have got
+a question on your balance sheet. Your cash position seems relatively strong, got free cash flow of
+AUD260 million. Can you give us an insight into your thinking around this cash pile? Is it -- are you holding
+this because you see an increasing need for you guys to spend on specific initiatives, for example your
+policy trade services and those requirements are going up in the new future? Or do you regard it as giving
+you additional firepower for perhaps acquisition such as the Decipher business you bought?
+
+ELMER FUNKE KUPPER: As you know we don't make idle statements about what we may or may not do.
+But when you think about our balance sheet. Our balance sheet is extraordinarily strong. We're today debt
+free, we're AA rated and we have substantial cash position. When you look at our cash position and our
+capital position, a considerable part of our capital is of course allocated to our risk taking operations that
+we take on behalf of Australian investors. So our clearing houses, both equities and futures carry a lot of
+that capital and that's in those clearing houses sitting there in cash. So they are risk taking activities that
+need to be supported.
+
+Page200of343©2018Factiva,Inc.Allrightsreserved.Despite that we have an attractive surplus cash position at the company level. In the scheme of things, a
+couple of hundred million dollars for a company of our size is not that large amount of money. It is true,
+that that gives us substantial fire power to both support our organic business and do other things. But that's
+not why we have it. We have it because we need to have a strong capital position to support our clearing
+operations and we need to have the balance sheet and the earnings to invest.
+
+We have that balance right at the moment. So, nothing's changed in that respect over the last two years
+except that we have stronger [clearing houses] than we did before. That is not sickening any particular
+initiative. We're comfortable with our expenditure profile. And in fact we've given you guidance on 2015 for
+CapEx, AUD40 million to AUD45 million. That sounds remarkably consistent with our recent experience.
+So, it is literally just that. And you know, AUD200 million is not a particularly large number for a company.
+We're in a unique position amongst exchanges with only one or two others in the world, that we're not very
+happily geared. And I think this terrific position that gives us the skill to invest in options that we otherwise
+wouldn't have. But that's really all it is.
+
+ANTHONY HOO: Just quickly as well. Your CapEx guidance for next year. Is the composition of that again
+similar to what we saw in FY14 in terms of roughly half post trade?
+
+ELMER FUNKE KUPPER: Again, we're not giving guidance on that. You do know of course that most of
+our post trade services are now in place. So I think what you'll start to see is that we'll continue to pay to
+invest in post-trade services, because as I said earlier, that never stops now. We're on to the next
+futurisation initiatives and so forth. So that becomes now all part of our normal ongoing investment
+program, because as we said, we delivered most of the core infrastructure.
+So, when we talk about AUD40 million to AUD45 million, that is across all our businesses and all our
+platforms. We're not giving you guidance on how that splits. But I did say earlier on, that we have delivered
+most of the core infrastructure and post trade services now.
+ANTHONY HOO: Thanks. But I think what I was getting at was, is that AUD40 million, AUD 50 million
+now what we should look at as being a normal level of CapEx for you or in that AUD40 million, AUD50,
+million are there any specific initiatives that are kind of one off or?
+ELMER FUNKE KUPPER: We were running at somewhere between the mid AUD30 million and the mid
+AUD40 million over the last three or so years. Last year it was AUD40 million to AUD45 million and FY15
+was saying AUD40 million to AUD45 million. Beyond that I won't make no predictions, because I can't.
+But you can make your own assessment of that.
+
+ANTHONY HOO: Thank you.
+
+ELMER FUNKE KUPPER: Any other questions in the room? We have a large number of people on line. So
+we might move to people who have questions over the phone.
+
+OPERATOR: Our first phone questions comes from the line of Ross Curran from CBA. Please ask your
+question.
+
+ROSS CURRAN, ANALYST, COMMONWEALTH BANK OF AUSTRALIA: Hi gents. Just firstly just on
+costs. Congratulations on the cost number. I didn't think you'd get there for the full year given the run rate
+was so high by the third quarter. Just wondering if there's any specific initiatives in the fourth quarter that
+got that cost back under control?
+
+ELMER FUNKE KUPPER: When you say back under control. We made a prediction at the beginning of the
+year which was 5% and that's where it is. I was still slightly amused at the half year when we say your run
+rate was eight and to get to five there for the second half must be two, which is mathematically correct. And
+that's where we ended up.
+
+Of course what you partially see here is the year-on-year affect, right? So as we recruited some staff early
+on. So you would always see I think some of the expense growth in the second half being a bit larger than
+the first half, simply because of the year-on-year effect and that's really probably the main thing. But the
+reality is we also at the same time also look at process improvements and savings wherever we can find
+that it's not going to program.
+I inherited a company that was extraordinarily well managed when it comes to expense discipline and what
+we're trying to do is retain that and invest where we need to in new services. And that balance so far has
+been I think working very well for us. Ramy is there anything else that explain--
+
+Page201of343©2018Factiva,Inc.Allrightsreserved.RAMY AZIZ, CFO, ASX LIMITED: No, I think it's mainly because of FY13 the costs were going up during
+the year. So the fourth quarter was slightly higher than the other quarters. So when you're comparing that
+to this year, the fourth quarter is relatively flat. So nothing else specific Ross.
+
+ROSS CURRAN: Secondly then, on those new initiatives, mFund, I was wondering if you might give us a
+feel for how you're educating advisers about it and the take up rate so far?
+
+ELMER FUNKE KUPPER: Well I think like with all these things that radically change to the way a market
+operates, progress can be frustratingly small sometimes. So we have 45 funds connected. We hope that
+that number will go up of course.
+
+We have a number of brokers connected and a number of brokers committed to connect. But of course is
+that second part of the statement that needs to happen. And some of the larger brokers in particularly can
+take their time because this is all part of their IT infrastructure and their own planning.
+
+So I'd say, you know we put infrastructure in place that we think is a game changer for the long term and
+we're happy that it's trading. But of course it's the consumer and the brokers that need to drive this,
+because we actually done it for them. Sort of our gift to the industry if you will, because the savings are
+greater for them than they are for us. Peter is there anything else you would like to add to that? I think that's
+where we are. I'd like to see that number grow substantially over the next couple of years as the platform
+matures.
+
+ROSS CURRAN: So no comments on the actual dollars on the [rates] at this stage?
+
+ELMER FUNKE KUPPER: No. No because that kind of tells you -- let's put it this way, if they were material
+we probably would have to announce them wouldn't we. So it's a start. And we're still waiting for a number
+of brokers to connect to the platform. That can take in some cases six to 12 months as we fit in their list of
+enormous priorities that they have.
+
+But what we do know is the [feedback] that we do get from people who have used it is very positive. So
+hopefully this is just a matter of time before it becomes common practice.
+
+ROSS CURRAN: And then finally just the fee reduction in OTC clearing. I was wondering if you could talk
+through the competitive threats in that space?
+
+ELMER FUNKE KUPPER: Well it's one of those things where what we do know is that some financial
+markets are genuinely globally competitive now. So the best example there is the over-the-counter
+markets. Right, so clients have a choice to do that wherever they wish to do that. We believe that we
+absolutely [need to] have all the toys and all the infrastructure in place for the Australian market place to be
+competitive.
+
+One of the reasons that we built the OTC infrastructure and the platform management infrastructure is of
+course because we could see that over time the futures and OTC markets would start to converge. And we
+talked about that today. That's called futurisation and that is about creating products and services and start
+to connect these two businesses. So Ross it's very, very important that we're in that game.
+
+But if you look at futures and OTC, increasingly clients start to use those products together. So what we've
+done with the new fee structure is we've recognised that our business has very substantially grown in size
+over the last 10 years, in a business that's largely fixed cost. And so it's recognising that it's probably time
+to give some of that back to our clients, but do it in a way that motivates them to grow the business, involve
+futures and OTC.
+
+And so for us, that was a natural step to improve the alignment with our clients and if you study the fee
+release that we put out when we issued that, the fee changes apply to the house volume of our (technical
+difficulty) for the entire 2014 year our profit growth wouldn't have been 10%, it would have been something
+like 6.6% or something like that.
+
+So in that sense it's actually a relatively small impact on our earnings for what we think is a better strategic
+positioning in our most important business that needs to be globally competitive. That's the sort of rationale
+-- rationale behind it as we put in the (inaudible).
+
+ROSS CURRAN: Thank you very much.
+
+ELMER FUNKE KUPPER: When you think about the competitive threats to the business, that's in part
+driven by regulations. So while [the OTC] market is free to go where it goes, so it can go to Chicago,
+Singapore, London, Australia. The futures market is no so free. So in March, April (technical difficulty)
+competitive global market. But it gives us a lot more certainty on the environment we invest in. And that
+was very important to us. As I'm sure it's important for our competitors who might think about our market.
+
+Page202of343©2018Factiva,Inc.Allrightsreserved.We will move on to the next question.
+
+OPERATOR: Our next question comes from the line of Nigel Pittaway from Citigroup. Please ask your
+question.
+
+NIGEL PITTAWAY, ANALYST, CITIGROUP: Hi, it's Nigel Pittway here from Citi. Just a couple of quick
+questions. First of all the derivatives revenue seem to spike up a little bit in the fourth quarter, despite no
+obvious reason from volumes. Was that just the unwind of the rebate accrual, that basically had come
+through the other three quarters or is there another reason for that? I think it was AUD55 million in the --
+AUD55.5 million in the fourth quarter.
+
+ELMER FUNKE KUPPER: I see puzzled looks on Peter's and Ramy's faces.
+
+RAMY AZIZ: I would think a little bit of it would have been due to the way we accrue the large volume
+rebate. But not all that significant. The rest is really just the volume growth. There's nothing else Nigel.
+
+PETER HIOM, DEPUTY CEO, ASX LIMITED: It's not the same (inaudible).
+
+RAMY AZIZ: No, that's throughout the year.
+
+ELMER FUNKE KUPPER: That's throughout the year, so--
+
+RAMY AZIZ: Not significantly no.
+
+ELMER FUNKE KUPPER: [Not significantly, no] the fourth quarter spend's a bit stronger. They might think,
+I know how to do this because we produce or nine month numbers. So you can derive the fourth quarter
+numbers (inaudible).
+
+NIGEL PITTAWAY: Yes. So (inaudible).
+
+ELMER FUNKE KUPPER: No, we have no -- if we come up with something we'll let everybody know. But I
+think it's just a bit of seasonality. There's nothing special that we can think of right now that explains that
+other than just normal activity.
+
+NIGEL PITTAWAY: Alright. So the second question is just in some ways a tad similar to some of the other
+questions. But I mean just on the CapEx, I mean the -- if I took the fourth quarter run rate you'd be heading
+well over your AUD40 million to AUD45 million you've guided to for next year. So there does seem to be a
+bit of acceleration in the fourth quarter. I mean are there any particular reasons for that? Was that a
+particularly sort of strong period for CapEx or?
+
+RAMY AZIZ: No, what I would say Nigel is don't extrapolate quarterly numbers for CapEx. It is very lumpy.
+A lot of it is driven just by when we might make payments to our service providers. You know, our programs
+are ongoing during the year. It just happens the cash flows on some of those tend to be lumpy. So I
+wouldn't read anything into a quarterly CapEx number.
+
+ELMER FUNKE KUPPER: And remember it's also then related to when some of these projects finish. We
+completed a number of these post-trade projects in the third and fourth quarter. So it's just a natural
+process. And the reason we give you guidance for next year is so you don't extrapolate that number. This is
+the idea of guidance. So don't read anything in that.
+
+NIGEL PITTAWAY: Okay, thank you.
+
+OPERATOR: Our next question comes from the line of Kieren Chidgey from Deutsche Bank. Please ask
+your question.
+
+KIEREN CHIDGEY, ANALYST, DEUTSCHE BANK: Good morning guys. I've got two questions. One is a
+similar question to Ross' and I know you don't want to talk about sort of individual contributions from some
+of the new initiatives. But collectively, given we can see that investment in the cost line with 5% cost growth
+last year and another 4% coming this year, in aggregate are you comfortable that those -- the expense for
+those new initiatives is paying off and that you are seeing sort of net benefits there?
+
+And tied into that, and OTC clearing more specifically, should we interpret the fee cut in [SFE] as a sign
+that you're not getting the traction you were hoping for in OTC? Or is it more just a function of trying to
+encourage more volume?
+
+ELMER FUNKE KUPPER: First question is that are we pleased with how our initiatives are tracking on
+delivery? Absolutely. In fact if you look at our post-trade infrastructure, we put it in place faster than almost
+any other exchange that I know of. Much slower than I would like by the way, but faster than most. And so
+we put ourselves in the game with that infrastructure.
+
+Page203of343©2018Factiva,Inc.Allrightsreserved.And remember, if you're a fully integrated vertically -- if you're a vertically integrated multi asset class
+exchange, but don't [have] any excuses to make sure you have complete set of services. And that is as
+much offensive as it is defensive. So you never want to give your clients any reasons to do anything
+anywhere else but with you. And certainly when it comes to the Aussie dollar, there's absolutely no excuses
+for us in that.
+
+So what we try to do is have that investment program, keep it within the envelope over the last few years
+and again in FY15 of AUD40 million to AUD45 million that allowed us to pay out 90% of our earnings in
+dividends over the last two years. So the way we designed that program in 2012, 2014 is financially
+actually very low risk.
+
+Because what it allows us to do is continue to deliver the returns to shareholders from the wonderful
+machine that we have when markets are growing which of course they did last year and yet not risk those
+returns if some of these initiatives don't pay off. That's been a very, very important equation because we've
+seen other exchanges around the world not get that right. Overinvest, not deliver any revenues, because
+revenues aren't certain remember, they are markets building liquidity, building activity is hard.
+
+And so you have to assume as you run these businesses, that not everything will go to plan, because that's
+life. Of course our target's saying that everything will go to plan. But the reality is which you don't want to
+lose [returns]. So we manage that equation very carefully and I think very well. So from a shareholder
+perspective there is no downside to doing this and there is upside if we see liquidity build. Whether it will
+with the research that we put in place, we will of course see. The choice is made by our clients whether
+they use it.
+
+In terms of stimulating our clients to use them, aligning ourselves with them and making sure that the
+margin or fees are globally competitive, yes, of course we do do those things to make sure we stimulate
+demand. That's why we've done it. We'll see from October into the second half how that goes.
+
+So for us that was a natural piece of the puzzle having done the regulations, having done the balance
+sheet, having done the infrastructure, we've now done the client bit. If we add them up we'll see where it
+goes.
+
+I can't make any predictions, and that's why we don't give outlook statements on that because remember it
+is up to our clients who have choice to use these services, but it doesn't put at risk the returns from the
+wonderful machine that we have to shareholders. That equation has been very important to us.
+
+KIEREN CHIDGEY: Just to pick up on something around that, you're saying you're not putting at risk the
+returns from the machine, but you are lowering the fees in SFE to potentially stimulate activity in the OTC
+states as well.
+
+ELMER FUNKE KUPPER: My comment was around the CapEx profile, so what with the investment to
+make around CapEx over the last three years and I guess again in FY2015 because you would have given
+it a number, and we try to get the equation right in the way we invest in our platforms. So that's what it is
+about.
+
+In terms of alignment with our clients we felt it was time to give a little bit of it back to them and to see if we
+can get higher growth from that having had such wonderful growth over the last ten years. So yes we've
+done a little bit of that, point taken. It's not a particularly material number but it's important that we help and
+that it works for both them and for us.
+
+KIEREN CHIDGEY: The second question, just hoping you could share some thoughts on velocity trend in
+cash equities which are now towards decades lows. I'm just interested in your thoughts on how velocity
+levels domestically compare to some of the key global markets and whether or not you think there's any
+factors specific to our market such as increased trends towards passive investment given the changes
+we're seeing in superannuation and the like which are having more of a pronounced impact here
+domestically.
+
+ELMER FUNKE KUPPER: I'll let Peter comment as well. I think if you look at our velocity numbers they
+were down a bit again in FY14, so they are running at lows if you take the last decade, probably. Velocity
+numbers in other markets have also gone down materially for example in Asia.
+
+If you compare velocity numbers between markets, market structure starts to play a role as well, so in the
+US velocity numbers are materially higher. I don't know if they've moved, but part of their velocity numbers
+of course include the massive impact that higher frequency traders have on that particular marketplace. So
+slightly artificial spinning of the turbines in United States creates higher velocity without any material value.
+
+But it's true that velocity numbers have been low over here, they've been low in Singapore. I think they
+might have been lower in Hong Kong as well. I can't recall the last time I looked at that, it's a while ago.
+
+Page204of343©2018Factiva,Inc.Allrightsreserved.I think the reasons for that in part are the ones that you explained. So the chase for yield, the need to hug
+the index, the passive money. That actually has done very well over the last 12 to 18 months. If you just
+hug the index you can do very well in the last to 12 to 18 months. But of course that creates lower turnover.
+
+I was actually relatively pleased that overall the market grew by 4% or so last year, which translated to
+higher clearing and settlement revenues for us, which was good. So at least we saw some growth last year
+but it's fair to say that if you're an Australian investor and we're sitting on AUD1.8 trillion today the question
+is what do you do with that money.
+
+Churning it doesn't seem to make a lot of sense in a lot of people's eyes, so therefore they're sitting on their
+portfolios and looking for new ways to invest the enormous amount of cash that's flowing towards them.
+
+Hence our interest in developing interest supermarkets, so we can give more opportunities for people to
+invest locally as opposed to that money going overseas. So I think you've got the explanation. Peter, is
+there anything else you want to--
+
+PETER HIOM: Well, it's certainly true that the growth in the index hasn't been matched by growth in
+turnover. You talk to customers and that's an observation in Australia that we hear every week and it's an
+interesting phenomena. I think Elmer's given most of the reasons for that around passive investment or not
+a return to the equity markets from some investors.
+
+I would just caution on the use of velocity as a measure. I won't call it old-fashioned but I would say that we
+focus much more on the execution mechanism for clients now as opposed to delivering perceived liquidity
+through increasing velocity, as one person's increased liquidity is another person's HFT intermediating
+transactions that are not need to be intermediated.
+
+So for us, much more important for us to focus on how we innovate the execution environment. That's
+where we've shown our success around things such as Centre Point, where we can actually create value
+out of creating those execution services and charge more for those services than we can in the (inaudible)
+market.
+
+It doesn't mean we don't develop liquidity, but we think about that much more holistically about how we
+execute efficiently for customers as opposed to simply what is the velocity number for the market. We
+would like the velocity number to be higher, there's no doubt, but that's not a primary measure of success
+for us.
+ELMER FUNKE KUPPER: We don't talk much about velocity in the Company. We talk about an investor's
+needs, how we innovate, and how we deliver it to them.
+
+You can see this in the numbers, the Centre Point growing on average, if you go to the back of the pack
+you can see our average margin in equities trading is up because the higher growth is in the higher margin
+products which is what investors are looking for. That's where we are but we'd love it to go back to where it
+was, and have this market structure by the way, so that things really motor very well, but we can't control
+that.
+
+KIEREN CHIDGEY: Thanks for your thoughts.
+
+OPERATOR: Your next question comes from Adam Lee from UBS. Please ask your question.
+
+ADAM LEE, ANALYST, UBS: Hi guys, thanks very much. Just firstly a quick question on the D&A line.
+Quite a bit of acceleration into the fourth quarter which makes a lot of sense with a lot of projects coming on
+the AUD49 million of post-trade spend. Just wondering when you're looking at that I guess with the
+ongoing investment and things coming online in the next year whether that's the kind of runway we're really
+looking for into 2015, and then I've just got another question on another part.
+
+ELMER FUNKE KUPPER: Okay, so no we've given you CapEx number but not an D&A number for next
+year, so we won't do that in this forum. But it's been running up pretty much with the rate of investment
+growth, so you're going to have to make some assumptions about what you think beyond FY15 because
+otherwise we'd give you that number our CapEx profile would look like.
+
+As you know theoretically over time CapEx and D&A converge, but we don't give any outlook on our CapEx
+profile beyond FY15 so we can't tell you where that might happen. I look at our auditors here and of course
+they are nodding but they're also frowning and saying different amortisation rates for different investments.
+We get that thank you.
+
+So I think you've seen it go up with our investments over the last couple of years, and these things tend to
+catch up over time. But the question is to make an assumption about what our CapEx profile would be
+beyond FY15, and there we're giving you no guidance.
+
+Page205of343©2018Factiva,Inc.Allrightsreserved.ADAM LEE: Sure, that's fine. I expected that would be the answer. Just moving quickly to the ASX
+derivatives, specifically just looking at the full year average fee was fairly flat, but if you actually look at the
+first half or the second half from a very soft first half average fee per contract, you actually had quite good
+improvement into the second half. I was wondering how that related to some of the initiatives you were
+talking about and have implemented in this business, and if you have any kind of observations on that first
+half to second half movement.
+
+PETER HIOM: I think Adam the main reason for the difference in the first half and second half comes back
+to the LPR and how we accrue that, because as you know the LPR was always based on where you end
+up for the full year. We can't predict where we'll end up so we tend to accrue it based on the rate that we're
+going versus the prior year. As it turns out for the full year we're only up about 2% in terms of our total
+volume, so we saw some fallback of the LPR in the second half of the year.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Adam can I just ask-- was your question in relation to
+future or ETOs?
+ADAM LEE: No, ETOs I'm talking about -- (multiple speakers) -- a 25% increase in average fee.
+UNIDENTIFIED COMPANY REPRESENTATIVE: In which case the answer is yes to your question. That
+relates to some of the work we've been doing in part of the market making arrangement, and in part in our
+marketing activities to stimulate investors. So what you're seeing is market makers trading less with each
+other and more with real investors. That shows up therefore in an increase in the average fee.
+
+ADAM LEE: Thanks very much.
+
+OPERATOR: Our next question comes from Ryan Fisher from Goldman Sachs. Please ask your question.
+
+RYAN FISHER, ANALYST, GOLDMAN SACHS: Thank you. I have two questions. First one relates to
+international equities or depository receipts.
+
+Elmer, I think last time round you mentioned that you were reapproaching that and just trying to put in
+better protections for unsophisticated investors. Could you perhaps just confirm what's going on and what
+the outlook is?
+
+ELMER FUNKE KUPPER: So we -- on the slide you can see that it says international equities between
+brackets future focus. Because remember in all the time that I've been in the exchange this is the one
+initiative that was knocked back by the regulator, and I think at the time for very good reason.
+
+So we're doing quite a bit of work now to come up with a strategy around the entire investment
+supermarket that encapsulates international futures, corporate bonds -- which I think help with things going
+through parliament but not enough -- et cetera. We will hopefully sometime this year get some traction on
+that but of course we need to bring the regulators along.
+
+So we're preparing for that conversation with our regulators. What you see on the screen is displaying it
+and that's coming. Well, you read that I guess.
+
+But the ball is still in our court so I think we're well advanced I think around the investment supermarket.
+That's why we're talking about it, and this is a key part of that.
+
+So when we put a package in front of the regulators and bureaucrats we hope that they will support us, as
+they have in many initiatives. So we parked that one two years ago simply because with all the things that
+were going on we decided to just leave that for a little while. I think the time is coming to pick it back up, so
+you should assume this financial year we'd like to seriously progress that one, and the ball is in our court to
+now put the package to the regulators that addresses the issues that they rightfully raised last time.
+
+So we'll have to work on those. So I can't give you timing; I won't give you timing. I can but I won't give you
+timing on when we'll do that.
+
+But we're flagging it. That's the priority for this financial year, to make real progress here.
+You know how long it takes. I mean let's take corporate bonds; the idea of improving the corporate bond
+market is not a new one. I think we have to go back to the last century to get the ideas there.
+
+It has gone through the lower house, some of the improvements, I think, but it's still sitting in the upper
+house. To be honest that should have done a long time ago and it's not going far enough.
+
+So these things sadly sometimes take a considerable amount of time. But we're not giving up and it's a
+priority for FY15, that's what we're flagging with you.
+
+Page206of343©2018Factiva,Inc.Allrightsreserved.RYAN FISHER: Thank you.
+
+ELMER FUNKE KUPPER: (multiple speakers)--is in the room here, so he's not shuffling nervously in his
+seat, so he seems pretty confident that we're going to at least have a crack at that.
+
+RYAN FISHER: Great thank you. My second question also relates to regulation and it relates to cash
+market clearing review. I guess we're coming back towards that, is it next February. Just interested in your
+thoughts at this early stage.
+
+ELMER FUNKE KUPPER: We step back and say why did the regulators recommend to the government
+that we retain the current market structure for at least two years, or as they put it defer a decision on an
+alternative operator for two years which is a more technical way to put the same message.
+
+Effectively the conclusion from all the work that we did and others did around there is that both the
+business case and the appetite for a change in market structure wasn't very strong. We have some real
+experience with equities trading where we have an alternative exchange here, and yes we've cut our fees
+on the back of that.
+
+We also built our technical services business, we built Centre Point. In fact we're doing pretty well out of
+that market structure change.
+
+I don't think many brokers and investors have done very well out of that change. If there any investors in
+the room here listening, you really haven't noticed nothing from that change.
+
+If you think about the business case it's really around end investors. We think not much has changed from
+the conclusion from 18 months ago, and that the total cost of clearing Australian equities for the entire
+Australian marketplace is AUD40 million. That's it for the entire economy -- it might be AUD41 million or
+AUD43 million in FY14, but it's low AUD40s million.
+
+So the question is what's the trade-off between fees and the cost of complexity as we see in equities
+trading. We know from the Oxera report that came out that our fees for a market of our size compared to
+the rest of the world where there is competition in some cases or there's no competition and it's a utility
+those fees are broadly in line for clearing and settlement.
+
+So the real question you have to ask is what's the problem we're trying to solve here and what are the net
+benefits to end investors? You would expect to us to say that, and repeat that. We also have to believe it
+and the Oxera reports that support it.
+
+At the same time we have to deliver on our commitments to the marketplace, and over the last 18 months
+the code of practice has been working incredibly well, at least we believe for the end investors. There's
+always people who are unhappy, there's no surprise who that might be.
+
+But I think for investors it has worked very well. It's highly transparent, we're getting very good input. So
+again if you take all that together what we have in Australia actually is a market structure and a
+self-regulated regime -- although self-regulated is a big statement when we were asked to do this, but
+these things are not always questioned as you know -- and so we delivered on that.
+
+So you can actually get a very good outcome that's similar to competitive markets as Oxera shows by
+having yourself a well-regulated market and I think that's the outcome we have. So we'd like to think that
+nothing's changed and that the decision will be carried forward but of course it's not up to us. I'm sure the
+regulators will do their independent work, sound the market with the analysis and so forth before they reach
+any conclusion.
+
+When that will happen is a little bit uncertain. The official timeline would be first half next financial year,
+thereabouts, but there has been no public confirmation of that timeline so we will see when that work starts.
+But we've done everything that we said we would do and more and the consultant's report shows that that
+creates very good outcomes.
+
+The other thing that we've done -- which is a bullet point on the slide that you might have glanced over --
+but we have as of the time that the code was put in place -- which is August last year -- we are waiving the
+annual fees to any alternatives exchange that uses what we call the trade acceptance service. The trade
+acceptance service is the service that we use to clear for other exchanges, so since the code has been in
+place those exchanges are not paying or waiving the annual fees for that.
+
+So the reality is we have a benchmark competitive outcome, we have an excellent relationship with the
+industry, and the alternative exchanges that use our platform pay zero for clearing and settlement services
+on an annual basis. So we waive those fees, so you get a great service for free. I'd say that's not a bad
+outcome.
+
+Page207of343©2018Factiva,Inc.Allrightsreserved.So we'd like to think that that's a good outcome for the Australian marketplace. But we'll see what the
+powers say about that in the next six months or so.
+
+RYAN FISHER: Great, thank you for that.
+
+OPERATOR: There are no further phone questions, so I'll hand it back to your speakers for any closing
+comments.
+
+ELMER FUNKE KUPPER: Any final question here that was triggered by all of that? No.
+
+Well, can I thank everybody who joined us over the internet and by phone for joining this morning as well
+as everybody in the room here and we look forward to seeing you in the next couple of days as we do the
+rounds and again at our AGM at the end of September. Thank you.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO ausste : ASX Ltd
+IN
+
+i831 : Financial Investments | i83106 : Securities/Commodity Exchange Activities | ifinal : Financial
+Services | iinv : Investing/Securities
+
+NS c151 : Earnings | c1512 : Dividends | ntra : Transcripts | c15 : Performance | cactio : Corporate Actions |
+
+ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion
+Filter | nfcpex : FC&E Executive News Filter | nfcpin : FC&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | sydney : Sydney | apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia |
+
+namz : North America | nswals : New South Wales
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020140823ea8k000gp
+
+Page208of343©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,251 @@
+Heard on the Street / Financial Analysis and Commentary
+
+HD
+WC
+PD
+SN
+SC
+PG
+LA
+CY
+LP
+
+TD
+
+Heard on the Street / Financial Analysis and Commentary
+
+2,011 words
+18 September 2014
+The Wall Street Journal Europe
+WSJE
+28
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)
+
+Distortion on Zero Rates
+
+When Lehman Brothers imploded six years ago, zero-interest-rate policies were an urgent part of the
+solution. But their persistence has caused more and more market distortions. That raises the stakes for
+central banks aiming for the exit.
+
+The U.S. Federal Reserve and the Bank of England are edging in that direction -- but are clearly
+concerned about the impact that their moves may have.
+The Fed on Wednesday said that it would continue to wind down its bond purchases as expected.
+Those are now expected to stop altogether after its next meeting in October. And it maintained language
+in its post-meeting statement saying that it would keep rates at near-zero levels for a "considerable
+time;" economists foresee nudging rates higher sometime next year.
+
+The European Central Bank and Bank of Japan seem likely to be stuck around zero for an extended
+period yet.
+
+The longer rates are at zero, the more they ripple through markets. Take the German government bond
+market: Nearly all of Germany's debt, out to its bond maturing in 2042, yields less than 2%. The
+persistence of ultra-loose policy means Germany has been able to issue a remarkable amount of
+ultralow coupon debt, locking in cheap financing costs. Excluding bills and index-linked bonds, 67
+billion euros ($86.83 billion) of German notes now carry a zero coupon; another 194 billion euros pay
+coupons of 0.25% to 1% and a further 200 billion euros pay coupons of 1.25% to 2%. By the end of
+2015, another 97 billion euros of debt with coupons higher than 2% will mature, and likely be refinanced
+at lower rates. That is a boon for Germany, but a problem for investors.
+Ultralow government-bond yields then influence investment-grade corporate bonds. Of the 14 senior
+financial and nonfinancial benchmark euro-denominated bonds sold in the week to Sept. 11, 10 had
+coupons of less than 2%, data from Societe Generale show. Relative valuation measures are also
+distorted.
+BASF's 750 million euro bond maturing in 2019 yields 6.1 times as much as a German government
+bond with a similar maturity, according to Tradeweb, which might make it sound attractive. But since the
+German yield is 0.09%, BASF's bond in fact pays just 0.55%. Even high-yield bonds are hardly worthy
+of the name except in relative terms. Bank of America Merrill Lynch's euro-denominated high-yield bond
+index yields a paltry 3.89%.
+
+Markets are often capable of overshooting. But the effect of persistent zero rates, coupled with plentiful
+liquidity, is to force them to overshoot constantly. The result is an increasing stock of longer-dated
+bonds with ultralow coupons. That is a toxic combination, as these bonds are vulnerable to sharp drops
+in price if rates rise.
+
+Central bankers, in loosening monetary policy, essentially aimed to boost current demand by pulling it
+forward from the future. Zero rates, in making cash an unpalatable asset, have done the same for asset
+prices: Bond markets have brought forward future returns and cashed them in as capital gains. But bond
+prices can't rise indefinitely. And with coupons so low, there is little protection for investors against
+losses when policy is tightened.
+
+Page40of274©2018Factiva,Inc.Allrightsreserved.Ultra-loose monetary policy has proved very good at anchoring short-term rates and expectations. But it
+has also led investors to discard the anchor of absolute value in favor of the siren song of relative value,
+storing up losses and volatility for the future. That should make central bankers nervous.
+
+-- Richard Barley
+
+No Clouds Part
+
+For Rackspace
+
+Rackspace Hosting has little choice but to go it alone.
+
+The provider of cloud-computing services has called off its so-called strategic evaluation process that
+could have led to a sale of the company. While Rackspace said late Tuesday it had been approached
+by "multiple parties" under various scenarios, none of the offers matched the value it believes it can
+create with its own stand-alone plan.
+More likely, none of those parties felt up to matching, let alone topping, the $5.7 billion market
+capitalization Rackspace was sporting. That was in large part due to a run-up in its shares after a May
+announcement that it was evaluating options. The stock had been around a four-year low before that,
+predictably drawing interest from suitors looking to bulk up their own cloud offerings.
+
+Among those seen as potential suitors were Hewlett-Packard, International Business Machines and
+CenturyLink. But all those companies would have been hard-pressed to explain such a deal to their own
+shareholders, who may have viewed Rackspace as a troubled underdog in a business undergoing
+severe price compression.
+
+Underscoring this: Even after a big selloff Wednesday afternoon, Rackspace remained 20% above its
+May low and traded at about 43 times forward earnings.
+
+Meanwhile, Rackspace faces intense competition from deep-pocketed rivals. Amazon.com, Google,
+Microsoft and IBM all cut prices on their cloud offerings earlier this year, leaving Rackspace outgunned
+with an expensive product. A study from RBC Capital in April found that Rackspace's prices on its
+various cloud services were 75% higher than peers, on average.
+
+Rackspace still believes it can carve out a profitable niche with high-end cloud services versus
+do-it-yourself offerings of rivals. The company also said Tuesday it has decided against a stock buyback
+for now. But the cloud business has turned into an expensive party especially for a small player looking
+to go stag.
+
+-- Dan Gallagher
+
+AT&T Could Struggle in Mexico
+
+AT&T may have caught the travel bug. That could prove to be a strain.
+After positioning itself to get a piece of the Latin American video market through its pending purchase of
+DirecTV, the telecom giant may be eyeing a swath of wireless assets America Movil is looking to sell.
+The Mexican company is divesting these to avoid antitrust penalties being imposed by regulators due to
+its dominant market position.
+
+Owning a Mexican carrier might hold appeal for AT&T, which could theoretically bundle wireless with
+video service supplied by DirecTV's Mexican joint venture with Grupo Televisa. But financing the trip
+down south might be another matter.
+
+AT&T and other carriers are preparing to participate in two coming U.S. government auctions of wireless
+spectrum. These could generate as much as $50 billion in combined proceeds, with AT&T accounting
+for nearly one-third of that, according to MoffettNathanson.
+That will have to be financed with debt. Indeed, Moody's is anticipating $10 billion to $15 billion for
+AT&T's spectrum purchases over the next 12 to 18 months. The ratings agency already has put AT&T's
+debt on review and has said a downgrade is likely if and when the DirecTV deal closes, which AT&T
+puts in the second quarter of 2015.
+
+But to truly lower America Movil's market share, AT&T would also likely need to use debt to pay for the
+Mexican assets, which could be worth as much as $17.5 billion, according to a report by Bloomberg
+News. Adding the Mexican assets to the picture could further pressure AT&T's credit rating, says Mark
+Stodden, a telecom analyst at Moody's.
+
+Page41of274©2018Factiva,Inc.Allrightsreserved.AT&T's net debt stands at 1.8 times 2015 earnings before interest, taxes, depreciation and amortization.
+That will rise to two times after the DirecTV deal closes, according to UBS. The firm estimates AT&T
+could raise that to around 2.5 times -- the level Verizon Communications reached to buy the rest of
+Verizon Wireless. This would give AT&T debt capacity of $27 billion for spectrum purchases and
+deal-making.
+
+Making the math more difficult, AT&T's hefty dividend consumes roughly 90% of its free cash flow. That
+figure will fall into the mid-80s after the DirecTV deal closes as the company benefits from some of the
+latter's cash flow. But the need to maintain and increase the dividend, which AT&T has raised every year
+for the past 30 years, places another constraint on AT&T's ability to support additional debt.
+
+Granted, the America Movil assets would also come with cash flow, helping AT&T offset some strain of
+any additional debt. But the company may also need the flexibility to spend more on spectrum,
+depending on how the auctions go.
+For investors, an AT&Tpurchase of America Movil's assets could be a source of southern discomfort.
+
+-- Miriam Gottfried
+
+Not Much
+
+Power for
+China's
+
+Stimulus
+China's latest stealth stimulus is no bazooka.
+Though there has been no official announcement, the central bank is reportedly lending 500 billion yuan
+($81.35 billion) to the country's top five banks, after an ugly set of data showed the economy has
+entered another bumpy patch.
+
+The amount seems large -- equivalent to the liquidity released by a half-percentage-point cut to
+bank-reserve requirements. And while the money is supposedly earmarked for small businesses and
+affordable housing, benefits will no doubt trickle to beleaguered property developers choking on a rising
+inventory of unsold homes.
+
+But unlike a reserve-requirement or interest-rate cut, this move doesn't have long legs. The money
+comes in the form of three-month, low-interest loans to the banks. The loans could be rolled or
+augmented, but they could also easily be extinguished at the end of the term.
+
+There are related motivations at play. Liquidity in the banking system typically tightens at the end of
+September, when cash is in demand for China's weeklong National Day celebration. The central bank
+would likely provide additional liquidity anyway. The move ensures, however, that an inopportune spike
+in short-term interest rates won't happen this year.
+
+In the old days, an economy heading for below the government's growth target would necessitate a
+big-gun approach. This is more of a pistol shot: not enough to have overwhelming effect.
+
+More small-bore measures are likely in the near term to counteract weakness in the property market,
+including targeted cuts to mortgage rates. For now, Premier Li Keqiang's seemingly anodyne "general
+principle of making progress while maintaining stability" is what guides Beijing. In other words, reform the
+economy, reduce reliance on debt, but use modest interventions. That is a tough task.
+Of the five banks receiving funds, the money was reportedly given to each in chunks of 100 billion yuan,
+not taking into account the different sizes of the banks. It is no surprise, then, that Bank of
+Communications, the smallest of the five, saw its stock rise the most Wednesday.
+
+Like its effect on the banks themselves, this stimulus could have uneven results.
+
+-- Alex Frangos
+
+Overheard
+
+It takes time for the dust to settle after big news. But BHP Billiton, which announced plans to spin off a
+collection of noncore assets nearly a month ago, is still in a hole.
+
+Page42of274©2018Factiva,Inc.Allrightsreserved.The miner's shares fell in August when it said it would separate most of its aluminum, manganese, nickel
+and coal assets into a new Australia-listed company. The lack of a widely expected buyback
+contributed to the reaction.
+
+The market hasn't warmed to BHP's message of simplicity and focus. Both BHP's Australian and
+London-listed shares have underperformed, in sterling terms, the market by about 10%.
+
+The U.K. stock has fared worse, possibly due to worries about investors being handed shares in the new
+Australian company. Since April, when BHP first said it was considering a split, the shares are in
+negative territory.
+A slumping iron-ore price hasn't helped. But BHP shares also have been outstripped over the past
+month by Rio Tinto, which makes most of its earnings from the commodity. No one said breaking up
+would be easy.
+
+License this article from Dow Jones Reprint Service
+
+CO
+IN
+
+NS
+
+RE
+
+IPC
+PUB
+AN
+
+fgvger : Federal Government of Germany | bkhlp : BHP Billiton Ltd | bltplc : BHP Billiton PLC
+i25 : Chemicals | i7902 : Telecommunications | i79022 : Wireless Telecommunications Services | i814 :
+Banking | i81401 : Central Banking | iappsp : Cloud Computing | imed : Media/Entertainment | imet :
+Mining/Quarrying | ibnk : Banking/Credit | i8394 : Computer Services | ibasicm : Basic
+Materials/Resources | ibcs : Business/Consumer Services | ifinal : Financial Services | i211 : Metal Ore
+Mining
+c172 : Corporate Debt Instruments | c13 : Regulation/Government Policy | c1521 : Analyst
+Comments/Recommendations | c173 : Financing Agreements | c181 : Acquisitions/Mergers/Takeovers |
+c34 : Anti-Competition Issues | ccat : Corporate/Industrial News | ecat : Economic News | m11 : Equity
+Markets | ndj : Dow Jones Top Stories | nedc : Commentaries/Opinions | neqac : Equities Asset Class
+News | nfiac : Fixed Income Asset Class News | nhrd : Heard on the Street | nsum : News Digests | ntesi
+: Essential Stock Market Information | ntop : Top Wire News | cinfpo : Information Technology Policy |
+c15 : Performance | c152 : Earnings Projections | c17 : Funding/Capital | c18 : Ownership Changes |
+cactio : Corporate Actions | mcat : Commodity/Financial Market News | ncat : Content Types | nfact :
+Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | nfcpin : FC&E
+Industry News Filter | niwe : IWE Filter | redit : Selection of Top Stories/Trends/Analysis
+gfr : Germany | austr : Australia | china : China | eurz : Europe | mex : Mexico | uk : United Kingdom | usa
+: United States | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric : BRIC Countries |
+chinaz : Greater China | dach : DACH Countries | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | easiaz : Eastern Asia | eecz : European Union Countries | lamz : Latin America
+| namz : North America | weurz : Western Europe
+ABO
+Dow Jones & Company, Inc.
+Document WSJE000020140918ea9i00013
+
+Page43of274©2018Factiva,Inc.Allrightsreserved.

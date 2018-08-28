@@ -1,0 +1,858 @@
+Renewables take off - how the game is changing
+
+HD Renewables take off - how the game is changing
+WC 10,317 words
+PD 7 March 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+Carbon pricing needed to control greenhouse gas emissions – BHP chief
+
+Solar energy challenges conventional power on price
+
+TD
+
+Scale the trick to getting algal biofuel cost down
+
+Milestone for the fusion reaction
+
+Fuel cell gets the power out of poo
+
+Changing ocean currents change fish habitats
+
+Deep sea being damaged by mining, trawling
+
+Robyn Williams: This time The Science Show goes to the engine room of the Starship Enterprise to witness
+what could be a power source to help us run civilisation for the next million years. And it's working.
+
+Fusion. Remember that? Like the Sun. The experiment worked and it has just been published in the journal
+Nature, as you'll hear. We'll also have news about power from poo, petrol from algae, a revolution in solar
+offering huge efficiencies, a shift in the prospects for renewables we really should recognise.
+
+On Wednesday though in Houston, Texas, the managing director of BHP Billiton, Dr Andrew Mackenzie,
+made a speech about our energy prospects, with far reaching implications. Professor of geophysics from
+Cambridge, Herbert Huppert, knows him well.
+
+Herbert Huppert: I've known him for quite some time, mainly scientifically. I have been very impressed with
+him. I knew him when he worked for BP, interacted with him when he set up the very successful BP
+Institute at the University of Cambridge, and then Andrew moved to be CEO of BHP Billiton after a short
+time with Rio Tinto, and I've interacted with him since then.
+
+Robyn Williams: And of course he was talking in Houston, Texas, on Wednesday, giving a long speech
+about the future of fossil fuels and carbon emissions. What struck you most about what he said?
+
+Herbert Huppert: I thought the most important statement he made was that BHP Billiton needs to think
+carefully about controlling their omissions. He in some sense wants BHP Billiton to lead the way. It is a
+direct quote: 'first we must reduce the emissions of our own operations'.
+
+Robyn Williams: Of BHP Billiton.
+
+Herbert Huppert: Of BHP Billiton, which is known as the world's largest miner and is the third biggest
+company in the world.
+
+Robyn Williams: He also mentioned a carbon price.
+
+Herbert Huppert: He talks about carbon price and about the economics. I think, Robyn, the point is that
+there are really three slightly separate issues here that run together. One is the science on climate change
+and the use of coal and oil and gas resulting in emissions, the next is the economics and then there's the
+question of policy. And sometimes policy can run counter to science, and economics can be different from
+both of them.
+
+Page36of251©2018Factiva,Inc.Allrightsreserved.Robyn Williams: However, what was quoted in the newspapers largely was a warning from him in his
+speech that the poorer nations will depend on coal for the indefinite future, and there was no way one could
+reduce that without harming their economies and their prospects.
+
+Herbert Huppert: Well, I thought that was a very important point. At the moment, 85% worldwide of our
+energy comes from the burning of fossil fuels. Some countries, the wealthy countries, might be able to
+change that mix, but I thought he was putting a very good point forward that the poorer countries will not be
+able to afford that. And while it's easy for the wealthy countries to say we should change our way of life, it
+would be quite disastrous for the poor countries. I think it's very nice of Andrew to give those countries
+thought.
+
+Robyn Williams: Yes, but how do you then match those two seemingly contradictory statements; on the
+one hand reducing carbon by BHP and other companies, and on the other hand looking at what is going to
+be a colossal use of coal for the indefinite future?
+
+Herbert Huppert: Well, the important thing is that Andrew did not say that we should stop burning fossil
+fuels. He said we should reduce our emissions, and the way to do that is to store carbon dioxide. There
+have been many projects, in particular in Australia, and I think the most successful project worldwide, the
+Otway Project, which has sequestered some 700,000 tonnes of carbon dioxide, and I think this could be
+done worldwide, and BHP could change some of its processes and sequester some of the carbon that it
+emits.
+
+Robyn Williams: Carbon capture and storage, that has always seemed a long way off. You've been on this
+program before talking about Otway and talking about some of the success. You have reported to the
+European parliament about the latest ideas scientifically about how this might be done. What did you tell
+them?
+Herbert Huppert: I was the chairman of a European working group preparing a report for the European
+parliament and the European president, and the report said that it's a technology that is safe and doable, it
+will add something like 30% on average to electricity prices, that that value could come down when we
+understand better the chemistry behind the capture, but that we thought it was really most essential for
+Europe to show the way. And I would then also say I think it's interesting if Australia would show the way.
+
+Robyn Williams: How far away is it, that is the question. Can we afford it, and how far off?
+
+Herbert Huppert: Well, I am positive that we can afford it. At the moment we sequester something like 10
+million tonnes per year, and we emit something like 32 billion tonnes a year. So we are sequestering a
+very, very small amount at the moment. Can we afford it? I think that's a question of what will happen in the
+long term. We are seeing in Australia and in other parts of the world that the weather is turning nasty.
+There are more extremes, more droughts, more rainfall, more hot days.
+
+Let me give you a little story. Imagine you throw garbage into Sydney Harbour. First nobody notices. As
+you throw more and more garbage into Sydney Harbour it gets more and more polluted and is more of a
+problem. You slowly get to a position where the cost of getting Sydney Harbour clean again is enormous,
+much more than you could have saved by not throwing garbage into the harbour in the first place.
+
+Robyn Williams: Which might seem more prudent. Herbert Huppert is a professor of geophysics at
+Cambridge and also a visiting professor at the University of New South Wales. And the full speech given by
+Dr Andrew Mackenzie is linked to The Science Show website.
+
+And so to Phoenix Arizona and a change of clothing.
+
+Stuart Bowden: So these are booties, we need to put these on to go into the clean room, because what we
+want to do is make sure none of the dirt from the outside goes into the inside.
+
+Robyn Williams: Paper booties. I've never done this before. So you have to be absolutely meticulously
+careful about dust.
+
+Stuart Bowden: We have to be fairly careful about dust. Okay, so what we are going to do…this is a very
+large clean room, so I think it's about 40,000 square feet, and what we are going to do is walk right around
+to the back of the clean room. Most of the clean room is operated by the flexible display centre here at
+ASU. We do some work with them on flexible solar cells, but their main focus is on flexible displays.
+
+Robyn Williams: I can't help noticing that you don't sound like someone from Arizona. Where are you from?
+
+Stuart Bowden: I'm actually from Australia. So I grew up in Tamworth in New South Wales, and I used to
+listen to your Science Show when I was a teenager. So I go back quite a way.
+
+Page37of251©2018Factiva,Inc.Allrightsreserved.Robyn Williams: On his way to collect eggs from the chicken farm, listening to RN. Stuart Bowden, now a
+professor at the ASU, that's the Arizona State University, heading a team with his American wife, Dr
+Christiana Honsberg. And the potential efficiency of the new solar is spectacular. They claim it is already
+cheaper than the fossil fuel driven grid.
+
+Stuart, thank you for taking me on a guided tour of your incredible laboratory. And after the booties you had
+me in a mask, you had me in a funny little shower hat, a white coat and everything else. Why?
+
+Stuart Bowden: Well, solar cells are like the rest of the semiconductor industry; they are incredibly sensitive
+to any dust particles that we might get on the cells or any other particles that come around. So what we do
+is we have to make sure that people who have a lot of particles, they tend to shed them, they are not
+putting them all throughout our lab. So that's why you could also hear that large noise, it's all the
+air-conditioners purifying the air all the time. It's great when you've got sinus problems.
+
+Robyn Williams: So you're actually making the chips and you are printing. But you are not manufacturing
+them, are you.
+
+Stuart Bowden: No, we are not manufacturing them. So when you are in research it's a lot different. You
+are expecting every solar cell to be a little bit different but you want to be different in a controllable way, and
+so you don't want uncontrolled things like dust particles on one wafer and not on the next one, so you want
+them fairly consistent.
+
+Robyn Williams: What are you testing?
+
+Stuart Bowden: A lot of the stuff I test for is just efficiency. So what I'm looking for is can we make a high
+efficiency solar cell? And we want to do that in a way that's manufacturable. So we're coming up with
+processes that are fairly cheap, easy to implement, and throughput. Throughput is really important in the
+photovoltaics industry because we do go through so many wafers, there are so many cells that we need to
+do in order to make large amounts of power.
+
+Robyn Williams: Okay, so that's the trade-off. You worked with Martin Green famously at the University of
+New South Wales, and he holds the record, I think it's 25%, the amount of sun you get impinging on your
+device and how much energy you get out. If you are manufacturing at such a rate, what kind of efficiency
+can you expect? Surely not 25%?
+
+Stuart Bowden: Well, what's interesting over the last 10 years is there was a big difference between lab
+cells which were a higher efficiency and commercial cells which were much lower efficiency, but over the
+years they've started to converge. So you can now buy solar cells which are getting up to above 20%. In
+fact you can get modules now which are above 20%.
+
+Robyn Williams: What about yours? If it's 18%, is that because you are printing so many?
+
+Stuart Bowden: In our case what we have for our line is the more standard production that would be used
+in industry, and they are at about 18%. For that part of the line, the pilot line, we have a student-led pilot
+line where the students can operate it, that's all run by students, and we want them to be able to
+interchange with industry, so once they've graduated they can get a job.
+
+Robyn Williams: How far do you think you can make this efficiency grow?
+
+Christiana Honsberg: So the thermodynamic limit of solar energy conversion is actually much higher than
+just about any other type of energy conversion. So the ultimate thermodynamic limit is about 87% and
+that's huge. So an old-fashioned light bulb is 4%, your car is roughly 20%, humans are about 15%. So
+much higher than any other conversion technology. And my research is very heavily focused on ways to
+get to that very high conversion efficiency. So today the record is about 44.7% and we are looking at ways
+to get it over 50% and all the way up to 70%.
+
+Robyn Williams: What you have to do to make it so efficient?
+
+Christiana Honsberg: For above 50% you can make it using techniques that are called tandems where you
+put one type of solar cell material on top of another. I estimate you can see 50% within the next five years
+or so, even commercially. Now, above 50% life starts getting really interesting if you are a physicist or
+scientist because then you have to do all sorts of new stuff. So very often the new stuff is sort of
+encapsulated by taking advantage of the new types of physics you can get if you put nanostructures into
+the solar cell.
+
+Robyn Williams: Okay, in a minute I'm going to ask you what your projections are for the application of
+some of this technology, where we can go and how quickly. But I want to catch up on what you said before
+about churning them out. Why can't you just do them slowly? What's the haste for?
+
+Page38of251©2018Factiva,Inc.Allrightsreserved.Stuart Bowden: Well, the haste is that you need a reasonably large area of photovoltaics in order to power
+a house or a city. So in the past we looked at powering small water pumps but now we are trying to power
+entire cities. And so that means that we literally need to produce billions of solar cells, so that means the
+production throughput of a photovoltaic plant is maybe 1,000 times greater than what you would get for an
+IC plant.
+
+Robyn Williams: And the ingredients? You won't run out of sand, will you.
+
+Stuart Bowden: No actually, although surprisingly we make solar cells out of quartz, so we don't actually
+mine beaches.
+
+Robyn Williams: I see, and you won't run out of quartz either.
+
+Stuart Bowden: We won't run out of quartz either, so I think silicon is like 30% of the Earth's crust, it's an
+enormous amount. Most of the Earth's crust is actually quartz, so there's no shortage of that.
+
+Robyn Williams: One thing that strikes me personally, having heard of some experiments, many in Britain,
+of integrating your solar material in the building stuff, the tiles are actually solar receivers, how far has that
+gone?
+
+Stuart Bowden: Well, aspects like that are an important part of our future research. We find that a lot of that
+is more on customer acceptance. So it's all very nice for us in the lab to make a higher efficiency solar cell,
+to be able to find out ways we can manufacture it fairly cheaply. But what we really need is ways to
+convince people that, yes, you don't need to put on a roof first and then put your solar cells on top, you can
+actually already just put in shingles which might already have the solar cells incorporated.
+
+Robyn Williams: And they exist?
+Stuart Bowden: They do exist. It's possible to buy them. The market for them has not traditionally been as
+great as what we would be for a standard module where you would already have a roof there and you put
+your module on top. But I think that's an important part of solar, it's not just research it's also marketing.
+
+Robyn Williams: Christiana, the picture you are giving just before of this nano stuff seems to be a leap
+away from the scale of building the city. Can you actually have that kind of sophisticated solar technology
+available generally in the way that Stuart has been talking about?
+
+Christiana Honsberg: I think that the advantage of the nano as to take it to applications where you currently
+don't have energy. So I think that energy is one of the really defining challenges that the world is going to
+face, and the ways in which it is used are going to undergo dramatic changes in the next 50 years. So the
+present solar is very much essentially a model duplicating what you already have. Every house is
+connected to solar. If you want electricity, you plug in.
+
+I think the advantages of some of the nano stuff is that it can do things that you presently can't envision. So
+one of my favourite examples that is theoretically possible if we knew how to do it is that solar, for example,
+could not only create electricity but also scavenge CO2 from the air and convert it to carbon. Or you could
+integrate it with a light bulb so you have self-powered lights. Or you could make it small enough to sit under
+your skin and detect and send a signal out. Some marker in your blood has all of a sudden gone high. So I
+think that the advantages of the nano is really to enable new types of technologies, not for the bulk power
+generation.
+
+Robyn Williams: And that CO2 absorption, can that be done on any kind of reasonable scale?
+
+Christiana Honsberg: Well, you should be able to put it into a regular solar cell module, so then when you
+have so many solar cell modules out there you would get a significant amount of CO2 capture from it.
+
+Robyn Williams: Well, that would be amazing. You get your energy for your house and you'd remove CO2
+at the same time.
+
+Christiana Honsberg: Yes. Technically quite challenging because you have to integrate two very, very
+different branches. So one is chemical conversion processes, and one is the solid-state conversion
+processes. It sounds very simple but the theory and the physics is actually quite hard.
+
+Robyn Williams: I heard Ray Kurzweil at the American Association for the Advancement of Science
+representing the American Academy of Engineers, predicting that because solar is following IT and
+Moore's law, in other words the cost is going down and the efficiency is going up, he said by 2020 he could
+imagine solar providing all of the country's energy needs. Does that sound a wild prediction to you?
+
+Christiana Honsberg: No. If you look at the growth rate of solar and just extrapolate that out, you'll find that
+it meets some kind of interesting milestones somewhere within the next decade or even sooner. And I think
+
+Page39of251©2018Factiva,Inc.Allrightsreserved.you are actually starting to see the beginnings of that right now. So in places with high sunlight, like we are
+in the south-west here, like Australia has, the cost of photovoltaic generated electricity is actually less than
+what you buy from your electricity company. So that's a huge game changer, and I think it's one of the few
+times in the history of the electricity grid that there has been a lower cost option than just string the grid to
+somebody's house and use whatever the grid company provides you.
+
+Robyn Williams: Of course coal is very cheap, a coal-fired power station produces a lot of electricity. Are
+you suggesting that solar can soon become competitive?
+
+Christiana Honsberg: Well, in Phoenix and probably in Australia as well, because there is very high sunlight
+there, it already is. So you can rent a system and you will immediately, with no initial cash outlay, start
+paying less on your electricity bill than you presently do during the times when the sun is shining.
+
+Robyn Williams: Stuart, many people in Australia would find that a surprising statement.
+
+Stuart Bowden: Yes, but I think Australians also have adopted solar fairly well, and as we are continuing to
+lower cost it is sort of a snowball effect. You lower the costs so that more people get interested, they might
+buy more solar, that drives down the price further. So there's just a lot of opportunities for solar to expand.
+And I think the situation is true in Europe. They are not particularly sunny places, but Germany gets I think
+about 5% of its electricity, Italy about 7%, and the really interesting part is that has only happened over the
+last few years. So it wasn't like they had to wait 20 years to do this, they were able to suddenly change the
+system.
+
+Robyn Williams: Changes to a $100 billion industry, accelerating all over the world. Stuart Bowden from
+Tamworth, now at the Arizona State University, with fellow Professor Christiana Honsberg.
+
+And this is The Science Show on RN, from Tamworth New South Wales, to Phoenix Arizona. And San
+Diego. Oil, petrol, comes originally from algae, just add a few million years. And there are several schemes
+to make the process immediate. They've tried in Queensland and in Victoria. Stephen Mayfield's outfit at
+the University of California, San Diego, was recognised this week by the US Department of Energy as, and
+I quote, 'the country's best'. Let's meet him.
+
+In Australia some of the work on algae to make fuels seem to be going terribly well but then they hit what
+we know in Australia as a snag. How are you doing with them for biofuels?
+
+Stephen Mayfield: Yes, so in the States we call that the Valley of Death. What happens is there is always
+early optimism and people get all excited and work on a new project, and then after about two or three
+years if they haven't been successful, 'I've spent long enough on that,' and off they run to go do something
+else.
+
+We have made really good progress on algae biofuels for the last five or six years now. Not quite enough to
+be competitive with fossil fuels yet, but clearly on a path to achieve that in the next four or five years. If we
+continue at the same rate of advance that we've had for the last five years for another five years, we will be
+competitive with fossil fuels.
+
+Robyn Williams: Well, I heard four years ago was the first plane going up, I think Richard Branson's Virgin
+Airlines were using fuel that came from algae to put planes in the sky, and that's as good a test as you'd
+like, isn't it?
+
+Stephen Mayfield: Yes, so no problem at all with making fungible or drop-in fuels from algae, that has been
+achieved by very many groups. That shouldn't be a surprise to anyone. The petroleum that we pull out of
+the ground, that's ancient algae, it's not melted dinosaurs, it's not from some mysterious place, its ancient
+fossil algae. So the oil that comes out of algae that we grow in farms today, crack that in a refinery, out
+comes jet fuel, gasoline, diesel. So that part works perfectly well and many groups have shown that. The
+problem is cost. We are probably a little bit north at $200 a barrel now, we need to get down to less than
+$100 a barrel. But as I said, probably five years ago we were more something like $500-$600 a barrel, so
+we have made great progress over the last few years.
+
+Robyn Williams: Critics of the biofuels and suchlike say that the figures really are so bleak that they will
+stay bleak for a long time.
+
+Stephen Mayfield: You know, cost is a funny thing because what's the price of fossil fuel going to be in four
+or five years, who knows? The number that is really important is what is your energy return on energy
+invested, EROI. And now we know from doing a very careful what is called life-cycle analysis, looking at all
+the different energy inputs in, can be about 3 to 1, meaning that we get three times the amount of energy
+out that we putting. Just to put that in context for you, the tar sands up in Canada, the number one import of
+oil into the United States, that's about 3 to 1 energy return, so it's about the same as the tar sands, and I
+can assure you renewable fuels from algae are a little cleaner than the tar sands.
+
+Page40of251©2018Factiva,Inc.Allrightsreserved.Robyn Williams: At what point will these algal sources be on a scale big enough to make a difference?
+
+Stephen Mayfield: Yes, so therein lies the rub, as Shakespeare would say. In order to get cost competitive
+with fossil fuels you have to start to reach a scale that is proportional to fossil fuels. Estimates are that's
+about 10,000 acres, probably $500 million, $600 million to build that facility, take you three or four years to
+build it. So I think right now many of the renewable energy companies are out looking for that money, and if
+they can get $500 million or $600 million from the markets I think they will build that and we will see these
+things up and running in four or five years.
+
+Robyn Williams: And the scale doesn't matter for the algae? You can grow them in a jar, but when you've
+got millions of them, huge acres of them, as you said, does that affect the growth?
+
+Stephen Mayfield: Absolutely, it's agriculture, so in algae farming we have the exact same problems as any
+farmer has. If you grow 10,000 acres of corn you better hope the locusts don't come in and eat most of it.
+Sometimes they're good and sometimes farmers lose that battle. But what we've discovered is that you can
+use the same practices they use in agriculture, so they would call it integrated pest management, meaning
+you use crop rotation, you use some chemicals, you use predators to get the things that are eating yours.
+So all of those combined in together, we can keep these guys growing.
+
+Robyn Williams: You've shown that with experiments here, have you?
+Stephen Mayfield: So we've shown that both in experiments here in the lab and then a company called
+Sapphire Energy, which I am a founder of, one of the bigger algae companies, they are down in Columbus
+New Mexico, they have a 100-acre facility that has been running for the last two years, they use integrated
+pest management and keep that thing running 24/7.
+
+Robyn Williams: Does that use CO2, does it use direct sunlight?
+
+Stephen Mayfield: Absolutely, sunlight and CO2. So, as you say, there's a couple of different ways to make
+these things. There are some companies who think about making renewable fuels by doing photosynthesis
+in corn or sugarcane, extracting the starch or sugar out of that, and then, by fermentation, having a bacteria
+or yeast, turn that into a renewable fuel. That's how we do corn ethanol in this country, that's how they do
+sugarcane ethanol in Brazil. The way we grow it here is we take algae and we take sunlight and CO2 and
+that sunlight fixes the CO2 into the renewable fuels that we use.
+
+Robyn Williams: Can you make a prediction; at what point will we have algae on such a scale that people in
+the street will just assume it is part of the process?
+
+Stephen Mayfield: You know, it took 100 years for us to get petroleum to what it is today, and it took a good
+50 years before it became ubiquitous. I think because the demand will be much higher it's not going to take
+us 50 years to do this, but I think it will take a generation. This is going to take 15 or 20 years. You can
+already buy it now in the United States. There are a couple of gas stations up in San Francisco that sell
+renewable algae diesel and you can stop in and buy it now, but before all of us see it I think it will be 10
+years and, before it's ubiquitous, 20 years.
+
+Robyn Williams: We've been casually talking about algae, of course they are in many standing bodies of
+water, both freshwater and seawater. Presumably the supply in terms of number of species is almost
+unlimited.
+
+Stephen Mayfield: Yes, some people have estimated 3 million species of algae. I think a more realistic
+number is about 100 times the plant species, which puts it more at something like 200,000 different species
+of algae. They cover every ecosystem on the planet, they grow in thermal hot springs, they grow in Arctic
+waters, freezing, they grow in crusts on desert, and then of course in every birdbath and swimming pool in
+the world. People occasionally call me to ask me how to get rid of algae, and what I tell them is no, don't
+get rid of it, love it, learn to live with it.
+
+Robyn Williams: Yes, live with it, and life from those algae. Stephen Mayfield is director of the California
+Centre for Algal Biotechnology at the University of California, San Diego. And work at the university and
+Scripps has just been ranked at number one in the United States.
+
+Yes, Star Trek, let's go there, and catch up with a nuclear option that, as the cliché goes, always seems 30
+years away. But suddenly it has just got much closer. Paul Olding takes us there.
+
+Paul Olding: The prospect of clean limitless energy from nuclear fusion has been something that has taxed
+the greatest minds for decades.
+
+Now, if you've seen the latest Star Trek flick, Into Darkness, you may not realise it, but the engine room of
+the Starship Enterprise isn't a made-up set, it's actually a real-life, operational fusion reaction chamber.
+
+Page41of251©2018Factiva,Inc.Allrightsreserved.That chamber lies at the heart of the National Ignition Facility at the Lawrence Livermore Laboratory east of
+San Francisco in California. The program director is Yorkshireman, Professor Mike Dunn.
+
+Mike Dunn: So the objective of this facility is to try to reproduce in miniature what's happening at the centre
+of the Sun, and by miniature I mean smaller than the width of a human hair.
+
+Paul Olding: Surely it's something that makes you get up in the morning to say, 'Guess what, my dear, I
+made a sun on Earth this morning.'
+
+Mike Dunn: It's an amazing time to be around, yes. The idea of doing this was created 50 years ago in the
+early 1960s, and we're standing here now actually realising that vision.
+
+Paul Olding: The National Ignition Facility took 10 years to build and cost some US$5 billion. While it
+makes a great backdrop for Star Trek, in recent years it's been criticised for failing to reach its deadlines.
+There were even calls in the US senate for it to be scrapped.
+
+But In February this year, the science journal Nature reported that the facility had reached a major turning
+point; getting more energy out of the fusion reaction than they put in. So how does it work?
+
+Mike Dunn: Fusion is the process that drives the Sun and all of the stars. It's the crushing together of
+matter at the very smallest scale, at the atomic scale. So in the centre of the Sun and any star the gravity is
+so strong that it combines the hydrogen together to get helium and it releases energy in the same process.
+
+Paul Olding: The fusion reactor here in California is not driven by gravity but by light. In fact it requires the
+most powerful laser light system ever built.
+
+Mike Dunn: This is the master oscillator room. This is where the light starts its journey. The light at this
+stage is very low energy, very low power, about a billionth of a joule, a nanojoule, and it actually starts in
+fibre optics.
+
+Paul Olding: At this first stage, pulses of low power laser light are carefully shaped and moulded to exact
+specifications. When they fire the system, what they call a shot, just one single pulse of this low power
+laser light is selected and gets sent off on an incredible journey.
+
+Mike Dunn: So we're in the laser bay of the National Ignition Facility. This is where the light gets amplified
+to its maximum level, to an energy of two million joules.
+
+Paul Olding: The laser system is boosted to world record levels in a complex yet ingenious way.
+
+Mike Dunn: So we start off at a billionth of a joule in a fibre optic, that then gets sent into what we call a
+pre-amplifier to get to about one joule of pretty conventional energy. And then we take it a whole new level
+and the way we do that is by using very large glass amplifiers, and the glass contains a very special atom
+called neodymium. And neodymium has this property that when it's pulsed by a flash of white light from a
+fluorescent tube, a flash lamp as we call it, the neodymium excites and stays in a quantum excited state
+until that low energy laser pulse passes through the glass, de-excites the atom and basically duplicates
+itself. So one photon goes in, two come out, two go in, four come out, four go in, eight come out and so
+forth, so you're getting amplification again and again and again, and you're forcing the atom to give out
+energy.
+
+Paul Olding: During the amplification process, that initial single pulse of laser light gets split into 192 giant
+laser beams.
+
+Now, a laser beam in my mind is a shaft of light like a pencil. What sort of size are your laser beams?
+
+Mike Dunn: In this case, yes, we go from the pencil point laser that everybody's familiar with at the
+supermarket or for the laser pointers, to a beam of light that's 40 centimetres wide, it's square, and it's
+about three metres long. So it's a shaft of light moving at the speed of light of course, and it only lasts for a
+few billionths of a second. But during those few billionths of second, it's the most intense laser light you
+would find anywhere on Earth.
+
+Paul Olding: And having amplified your laser light, what's the next step in the process?
+
+Mike Dunn: So the next step is to take that two million joules and 500,000 gigawatts, 500 terawatts' worth
+of power, and focus it down to a spot that's about the size of a human hair.
+
+Paul Olding: And that happens down in the basement, in the target chamber, AKA the Enterprise warp
+core.
+
+Page42of251©2018Factiva,Inc.Allrightsreserved.We've just walked through what must have been a metre-thick blast door, and we've now entered, quite
+clearly, a set of Star Trek.
+
+Mike Dunn: That's right, this is the engine room of the Starship Enterprise in the new movie.
+
+Paul Olding: It really actually is the backdrop isn't it?
+
+Mike Dunn: It truly is, and this is what we call the target bay. This is the heart of our facility where the fusion
+itself happens. So standing in front of us is a ten-metre diameter sphere. It's a vacuum chamber, so all of
+the air has been extracted out from inside of it to allow the laser beams to focus down to a pinpoint at the
+very centre. And above us ringed around the top of the room are laser beams coming in from the top of the
+building; 96 from the top, there's 96 coming from below in this ten-storey building. This is a scale size that
+doesn't exist anywhere else in the world.
+
+Paul Olding: In the middle of the target chamber sits the fuel cell, a tiny and rather innocuous pellet the size
+of a peppercorn, containing a droplet of frozen hydrogen.
+
+Mike Dunn: It's not like the H2O you would find in water. It turns out that about one part in 6,000 of any kind
+of water isn't normal hydrogen it's heavy hydrogen, deuterium. So we take that out of water and combine it
+with super-heavy hydrogen which we call tritium, and then freeze it, freeze it to almost absolute zero, that's
+17 degrees above absolute zero, so it forms a solid shell about two-millimetres diameter which the laser
+beams are then focussed on to.
+
+PA announcement: All personnel must leave capacitor bays one through four, laser bay one and two, and
+the target bay areas immediately.
+
+Paul Olding: The research program at the facility continues apace. With the claxon blaring, we're ushered
+out of the reaction chamber to the safety of the NASA-style control room.
+
+Why 192 lasers?
+
+Mike Dunn: If you just use one laser beam you would crush the fuel from one side. If you use two you may
+get a pancake. If you use many, many, and it turns out 192 is a good number, you get a very uniform,
+spherical illumination, and so you can crush that ball of fuel to a very, very small size.
+
+Paul Olding: What happens when those 192 lasers strike a small little fuel pellet of hydrogen
+simultaneously?
+
+Mike Dunn: You can imagine things get rather extreme. So we, we take 500,000 gigawatts' worth of laser
+power, about 1,000 times the electrical content of the United States for example, and focussing it down to
+that peppercorn-sized pellet of fuel. And so initially the fuel is raised to a few millions of degrees
+temperature, and then as the fuel gets crushed to about 100 times the density of lead, its temperature goes
+up even higher to about 100 million degrees or more, the atoms are forced together and they forced
+together with such high pressures, billions of atmosphere pressures, that the atoms themselves bond
+together. It converts hydrogen into helium and gives off lots of energy.
+
+PA announcement: Main laser operation will begin in approximately one minute.
+
+Paul Olding: With the huge team of scientists and engineers glued to their monitors, they begin the final
+countdown to fire the system.
+
+PA announcement: Countdown.
+
+Paul Olding: By assessing the results of these test firings and then tweaking the many thousands of
+parameters involved in the process, slowly but surely Mike believes they are making significant progress.
+
+Mike Dunn: So the hope is that we can optimise this laser system and the fuel to get more energy coming
+out of the fusion process than the laser itself delivers. So a net source of energy, a net source of power.
+And if you can harness that, drive a turbine to generate electricity, then you've got an inherently clean,
+inherently safe form of energy that will last for probably a few million years.
+Paul Olding: Mike is confident that turning this experimental facility into a commercial enterprise shouldn't
+be a difficult step.
+
+Mike Dunn: So the kind of fuel that we're using here, this millimetre-sized pellet of fuel, doesn't have to get
+any bigger, the laser doesn't have to get any bigger, this is a full-scale device for a power station. Now, of
+course this is a research facility and it only operates every now and again, maybe once per day. So we
+have to operate it more like an engine; 1,000 times a minute, 1,000 rpm.
+
+Page43of251©2018Factiva,Inc.Allrightsreserved.Paul Olding: What timescale are we talking about here? Are my kids going to benefit from clean nuclear
+fusion?
+
+Mike Dunn: We hope it's better than that. We hope that both you and I benefit from this. The uncertainty is
+how long will it take us to prove the physics performance within this facility. Only Mother Nature knows
+exactly how long that takes. Once we get the fusion fuel performance, the step to building a power station
+can then be very rapid. You know, we're talking maybe ten years or something of that order to harness the
+energy and build the first-of-a-kind power station and, of course, learn a lot of stuff on the way. So far it's
+been a pretty incredible journey, a pretty rapid journey and we shall see how long it takes to get that final
+step.
+
+Robyn Williams: Can't wait. Paul Olding reporting from the Lawrence Livermore Laboratory, with program
+director Mike Dunn. So that's one very high-tech fuel cell. Let's leap to another, from the sublime to the
+seemingly ridiculous, from fusion to faecal. You make it every day, for free. Could your bum power the
+planet? Tom Curtis is professor of environmental engineering at Newcastle University in the UK.
+
+Thomas Curtis: So everybody produces waste, and around the world in just about every developed country
+we spend about half a kilowatt hour per metre cubed to treat that wastewater. Half a kilowatt hour is about
+1,800 kilojoules.
+
+Robyn Williams: So we've got that expense in terms of energy, and within that water nonetheless there is
+energy we could extract.
+
+Thomas Curtis: Yes, amazingly we've done experiments with bomb calorimeters where we've found out
+exactly how much energy there is in the wastewater, and there is about 7,600 kilojoules of energy in each
+metre cubed of wastewater. So it's really crazy.
+
+Robyn Williams: In the old days of course the poo and various other bits of slurry used to go on boats out to
+sea and you'd dump it at great expense. What do you do now?
+
+Thomas Curtis: Well, the sludge in the conventional wastewater treatment is now heated in a big pressure
+cooker to break down the larger cell walls in that and then sent for anaerobic digestion and produces
+methane gas which they then inject into the national mains.
+
+Robyn Williams: So that is used as natural gas.
+
+Thomas Curtis: Exactly, that's natural gas, yes.
+
+Robyn Williams: What are you doing to develop an idea of having a fuel cell?
+
+Thomas Curtis: A microbial fuel cell is a technology in which at the anode the bacteria rip the electrons off
+the carbohydrates in the waste and send that into a circuit. The hydrogen ions which are released from that
+then travel to the cathode where they can be reenacted with the electrons, in the first instance to produce
+water. That's in a simple microbial fuel cell. However, if you add a very small amount of energy to the
+process and top up the electrons as they come around from the anode, then you can get the hydrogen ions
+that come from the carbohydrates to be turned into hydrogen gas at the anode, and that is not only a
+simpler thing to engineer, we believe, it's also a much more valuable product. So hydrogen is worth six
+times what methane is worth.
+
+Robyn Williams: So there you have a fuel cell driven by bacteria, and coming off it you've got CO2 on one
+side and hydrogen ions, in other words the hydrogen gas eventually, on the other, and you can actually use
+the hydrogen itself as a valuable commodity.
+
+Thomas Curtis: Yes, the hydrogen is a commodity in its own right. It's just the beginning. If you can
+produce hydrogen you can produce all sorts of other things. So if you have hydrogen ions and these more
+energetic electrons then you get hydrogen gas, but if you were to introduce certain catalysts and carbon
+dioxide then you could get acetate or methanol or other even more high-valuable products out. So the
+hydrogen really should be just the beginning, we should in theory be able to get many other high-value
+products out of the waste treatment process.
+
+Robyn Williams: So you're talking about a poo-driven power plant. Would it be cost-effective?
+
+Thomas Curtis: Well, it wasn't cost-effective we certainly wouldn't bother. We want to make waste
+treatment cheap and useful for everybody. We are yet to see if it will be cost effective. On paper at present
+it is.
+
+Robyn Williams: At the same time you've got fertilisers coming off. What percentage of the sludge is
+fertiliser?
+
+Page44of251©2018Factiva,Inc.Allrightsreserved.Thomas Curtis: Well, potentially all of it, all the sludge can be used as fertiliser and indeed it is. There's no
+reason why all the sludge can't be reused and applied to land. And as nitrogen and phosphorus become
+more and more expensive, that's become a very important thing to do.
+
+Robyn Williams: What stage has this development reached in terms of the energy production you're talking
+about?
+
+Thomas Curtis: We've done things at what we call a pilot scale, that's with real wastewater at real
+low-temperature Newcastle weather, Newcastle England that is, and we've got about 70% energy
+recovery. We have had our first very first primitive pilot and we are now going onto our second generation
+in which we've learned a lot of lessons from the first one and we are hoping to get 100%, 120% of the
+energy we are putting in out as hydrogen by this time next year.
+
+Robyn Williams: Okay, well, look at the world, you've been to Brazil, you've been to a number of other
+countries…have you been to Australia, by the way?
+
+Thomas Curtis: I have been to Australia, only briefly, to Melbourne many years ago.
+
+Robyn Williams: So you know the people in Melbourne actually poo as well. And around the world you've
+got all this stuff being produced every day by people, half the world's population living in cities. Can you
+imagine what scale this poo producing energy could reach if we did it right?
+
+Thomas Curtis: Well, it will happen everywhere. I don't see any reason why we shouldn't have energy
+positive wastewater treatment systems in every city from Newcastle in Australia to Newcastle in England,
+and China, Africa, America and everywhere in between. In fact I don't see how we can avoid not doing this
+because we don't have to break the laws of thermodynamics, we just have to think hard.
+
+Robyn Williams: But is the engineering hard?
+
+Thomas Curtis: Yes, and there is a lot of science to be done yet. For fuel cells you need the synthesis of
+very good chemical engineering and electrical engineering, very good microbial ecology and biological
+engineering, and very good environmental engineering. But with engineers and scientists working in teams,
+with of course good relationships with the practitioners, I think this is possible.
+
+Robyn Williams: And when you've got the hydrogen produced, say, as one product, it's always been a
+problem as how you transport it. Is that a difficult question or can you just put it in tanks or put it in pipes
+and take it anywhere you like?
+
+Thomas Curtis: In the north-east we actually have our own hydrogen network, but more generally you could
+actually turn it into electricity on-site or you could transport it and sell it or, as I said before, hydrogen is just
+the beginning, you can use it to make acetate or methanol, which are easy to transport and have higher
+values still.
+
+Robyn Williams: Are you getting support from the public, from government, from councils?
+
+Thomas Curtis: We have fantastic support. We've found the fuel cell idea captures everybody's
+imagination. We have excellent support from the local water company, Northumbrian Water, and
+multi-million-pound support from the UK's Engineering and Physical Sciences Research Council.
+
+Robyn Williams: Tom Curtis at Newcastle upon Tyne where he is professor of environmental engineering.
+So many options, renewables on the rise. The Science Show on RN.
+
+One of the reasons we are talking about renewables is of course the effect of climate change, this you
+know. And our PhD this week, Stephanie Brodie from the University of New South Wales is studying one
+manifestation of it in the sea.
+
+Stephanie Brodie: During the beginning of 2012, the waters off Hobart had a visitor which had never been
+seen before. This visitor was the popular yellowtail kingfish, a fish prized for its flesh and its fight. But why
+was this fish discovered almost 400 kilometres further south of its known range? The culprit is the East
+Australia Current, known as the EAC and made famous by the popular movie Finding Nemo. This ocean
+current runs along the east coast of Australia, shifting warm water from the Coral Sea towards Tasmania.
+Due to winds associated with climate change, the EAC has strengthened in recent years and is extending
+warmer and saltier waters further south, changing marine habitats along the way.
+
+The arrival of new marine species to this south-eastern corner of Australia has not been uncommon in
+recent years and is a product of these shifting waters alternating oceanic habitats, resulting in remarkable
+ecosystem shifts and consequences for fisheries. The most commonly known example is the habitat
+expansion of the long-spined sea urchin, where this urchin habitat has expanded into Victorian and
+
+Page45of251©2018Factiva,Inc.Allrightsreserved.Tasmanian waters, resulting in loss of kelp habitat and affecting the multi-million-dollar abalone fisheries in
+these states. This is not an isolated case, and the unknown effect of these shifting habitats is the reason
+why I have started a PhD at the University of New South Wales. I am examining how these dynamic and
+variable ocean currents influence the distributions of pelagic fish.
+I am looking at the movements of two important recreational and commercial fish species, namely mahi
+mahi and yellowtail kingfish. Both species are associated with waters that are now moving further south,
+however we don't know how pelagic fish like kingfish and mahi mahi are going to respond to these
+changing oceanic environments. The first step in examining the movements of fish is to track them.
+Typically animal tracking involves GPS, however this doesn't work underwater, so instead scientists use
+sound, a technique referred to as acoustic telemetry. This method involves inserting an acoustic transmitter
+into fish using simple surgical techniques. Listening stations positioned along the coast record the unique
+sound transmitted from tagged fish. The noise signals are specifically coded for each individual fish, so
+once the information from all the listening stations is pieced together we are able to calculate movements
+for each unique fish.
+
+I have just finished sampling fish movements using acoustic telemetry, and I am currently using the results
+to create a habitat preference model. This determines what oceanic habitats kingfish and mahi mahi prefer.
+It is easy to think of the ocean as being a static body, but in reality the ocean is analogous to terrestrial
+systems where you can have deserts and rainforests of great diversity. By describing the oceanic habitats
+of pelagic fish, my research will help fisheries management strategies adapt to a dynamic and changing
+ocean.
+
+Robyn Williams: Steph Brodie at the University of New South Wales, doing her PhD tracking fish. And one
+of the reasons that the ocean is changing is because of mining and trawling. This was a feature at the
+American Association for the Advancement of Science meeting in Chicago where marine scientists warned
+of an effect that they say we are not really noticing, yet.
+
+Linwood Pendleton: My name is Linwood Pendleton, I'm an economist. I have three things I want you to
+know about what's happening in the deep sea. First of all we have already industrialised many parts of the
+deep sea. We have deep sea trawling for fish, we have oil and gas extraction, but we have cables and we
+have barrels of waste.
+
+What's happening now though is we are about to move into a different era, a new era of deep sea
+industrialisation. Keep in mind that all industrial activity in the deep sea has some environmental impact.
+Even oil and gas which seems to have a relatively small footprint has a relatively large at times impact on
+environmental conditions. For instance, the oil and gas platforms in British and Norwegian waters alone
+have produced 2 million cubic feet of drilling wastes. That's enough to fill the Hyatt Regency up to the 20th
+floor. That waste sits on the floor of the deep sea, smothering the organisms there. It has toxins of course.
+Accidents in the deep sea will happen.
+
+The second thing I want you to know is that the goal of policy is to try to identify and stop extractive and
+industrial activities when the costs exceed the benefits. And the way to do that is the third point which is to
+develop a set of criteria that are agreed upon universally that are applied internationally in international
+waters and in the EEZs, the exclusive economic zones of all countries, because much of this activity is
+happening in the sovereign waters of developing countries and developed countries. And to have that set
+of criteria be very broad.
+
+The kinds of criteria that should be included in that kind of assessment include economic criteria. Of course
+the benefits have to be greater than the costs, but in the deep sea the benefits have to be much greater
+than the costs because we don't understand the costs yet and there are bound to be unanticipated costs.
+We have to always ask if there are greener substitutes outside of the deep sea. Clearly with phosphates
+there are lots of places we can get phosphates from, including animal wastes, human wastes and
+pollutants that have already been dumped into estuaries, in places like the Baltic Sea, that are full of
+recoverable phosphates. The same thing holds for fish that are trawled, lots of sources of proteins outside
+of the deep sea. It is not so clear about minerals.
+
+And finally, before we undertake deep sea extraction of any type, we have to understand whether or not
+there are representative areas that have equal ecological value that we can set aside and protect, or
+whether we can restore the damage that is done. So if you take these criteria, as I've loosely described
+them, and you start to apply them to deep sea activities that we've heard about, you find very quickly that
+things like deep sea trawling don't seem to make much sense, no matter how you slice it.
+
+Oil and gas is another matter. Oil and gas, depending on how scarce energy resources are and what the
+price of oil is, can make sense in the deep sea. When it comes to deep sea minerals there are no easy
+answers. There are different kinds of minerals with different kinds of values, different kinds of extraction
+techniques taking place in different parts of the ocean, and the deep sea is a huge place; 70% of the
+
+Page46of251©2018Factiva,Inc.Allrightsreserved.Earth's surface is covered by ocean, 70% of that is in the deep sea. So is going to be critical to have these
+criteria in place and apply them before the activity happens instead of afterwards.
+
+Robyn Williams: Linwood Pendleton is director of the Ocean and Coastal Policy Program at Duke Nicolas
+Institute in North Carolina. He talked about minerals. Which ones? Lisa Levin has a surprising list.
+
+Lisa Levin: It's really ironic that our alternative energy and advanced economy are a part of what's driving
+us down into deep water, for example a hybrid car battery I've been told uses more than 10 pounds of rare
+earth elements, things that we are now looking to the deep sea for. All computers and cell phones use vast
+amounts of rare elements. There's neodymium in magnets that run everything from our earbuds in our
+iPhones to wind turbines for alternative energy. So it's really the advanced economy that's part of what's
+driving us to think about mining the deep sea now.
+
+Robyn Williams: Lisa Levin is professor at the Scripps Institution of Oceanography in La Jolla, California.
+She led the group calling for caution.
+
+Lisa Levin: Yes, in fact most of the planet is the deep ocean, something like two-thirds of the planet is
+covered by deep sea, and if you want to look at it in terms of volume or habitable area, over 90% of our
+planet is actually deep ocean.
+
+Robyn Williams: Sylvia Earle is famous for saying that we know rather more about the surface of planets
+than we do about the deep ocean. Is that right still?
+
+Lisa Levin: That's true for the Moon. I can't really testify to the other planets, but we've seen less than 5%
+of the deep ocean floor, so most likely we do know more about the face of the Moon than the deep sea.
+
+Robyn Williams: Why are you worried about the exploitation of the deep?
+
+Lisa Levin: There are several reasons. Humans are starting to modify the deep sea without knowing what's
+down there. We do know that the deep waters hold life, a high biodiversity that is very important to us in
+terms of the health of the planet, it sequesters carbon and cycles nutrients. We have to have healthy deep
+sea ecosystems in order to have a healthy ocean, and we have to have a healthy ocean to have a healthy
+planet.
+
+What's happening now is that humans are beginning to fish down there, they are drilling for oil and gas in
+the deep and they are starting or planning to mine for raw materials in the deep sea. And much of this
+happens without actually knowing what it is that is being disturbed or destroyed in the process or even how
+long it's going to take to recover.
+
+Robyn Williams: Which particular parts of the ocean are you worried about most?
+
+Lisa Levin: I would say our continental margins get most of the human activity. About a fifth of our margins
+have been trawled by deep sea fishers. And the oil and gas of course, it's common to drill at several
+thousands of metres. So these are the areas that are in greatest danger, but in terms of the planned deep
+sea mining there are a series of habitats, seamounts are being targeted for cobalt crusts, and the nodule
+provinces are being targeted to mine manganese nodules for cobalt, nickel, zinc, and hydrothermal vents
+are being targeted for the massive sulphides that host gold, silver and other precious metals.
+
+Robyn Williams: All over the world, around America as well?
+
+Lisa Levin: The US doesn't have much deep sea mining targeted. Many of the first activities are targeting
+less-developed countries where there is little policy in place at it's within their exclusive economic zones.
+For example, the western islands, Solomon Islands, Papua New Guinea, Vanuatu, Tonga, Fiji, those
+countries are being targeted for mining of hydrothermal vent sulphides.
+
+Robyn Williams: Very much in our region in the Pacific.
+
+Lisa Levin: Yes, very much around Australia. New Zealand has lots of mining activities going on. There is
+interest in mining phosphates which are a little bit shallower. There is also interest in mining these off
+Namibia and Mexico, and iron sands, and there are other kinds of mining I think.
+
+Robyn Williams: And what are you doing as a marine scientist to draw attention to this problem?
+
+Lisa Levin: Well, for starters we are trying to talk about it, but we also recognise that while we have many,
+many science gaps that need to be filled, the solutions to managing the deep ocean don't just lie with
+natural scientists. We need economists, we need people involved in policy and law because there are
+many governance gaps in the deep sea. We need to engage stakeholders, both industry, governments and
+civil society. And what we are trying to do here is basically pull people together, have the conversation and
+begin to look at how we can have some global cooperation.
+
+Page47of251©2018Factiva,Inc.Allrightsreserved.Robyn Williams: Are you finding it rather difficult because people don't actually see this very much at all?
+
+Lisa Levin: I think there is a lot of education and public awareness that needs to happen before we can get
+the public to embrace the idea of managing and preserving the deep sea. What we really need in the
+meantime is the precautionary approach where we minimise or avoid harm and we protect those unknown
+ecosystems until we have time to gather the necessary science and gather the political will to actually take
+care of the…
+
+Robyn Williams: Is there much evidence of harm, or are you assuming that there might be?
+
+Lisa Levin: Well, in the case of deep sea trawling we know there's harm. These trawls, they are like clear
+cutting, they plough through, they remove all the fish, fish which might be hundreds of years old, they
+remove the three-dimensional structure of corals that might be thousands of years old on our margins, and
+they leave bare mud. And so we basically know that those populations don't recover quickly. They are
+probably not sustainable, and so trawling needs to stop.
+
+Robyn Williams: Professor Lisa Levin at the Scripps Institution of Oceanography where she is director of
+the Centre for Marine Biodiversity and Conservation. She was speaking at the AAAS meeting in Chicago.
+
+Next week The Science Show comes from Peru and Canberra, where Inca gold flourishes.
+
+Production as usual by David Fisher and Simon Brathwaite. I'm Robyn Williams, on the Starship
+Enterprise.
+
+CO bkhlp : BHP Billiton Ltd | bltplc : BHP Billiton PLC
+IN
+NS gclimt : Climate Change | ntra : Transcripts | gcat : Political/General News | genv : Environmental News |
+
+i211 : Metal Ore Mining | ibasicm : Basic Materials/Resources | imet : Mining/Quarrying
+
+gglobe : Global/World Issues | gwea : Weather | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E
+Exclusion Filter | nfcpex : FC&E Executive News Filter | niwe : IWE Filter
+
+RE austr : Australia | phoenx : Phoenix | sydney : Sydney | uk : United Kingdom | usa : United States | victor :
+Victoria (Australia) | apacz : Asia Pacific | ausnz : Australia/Oceania | eecz : European Union Countries |
+eurz : Europe | namz : North America | nswals : New South Wales | usaz : Arizona | usw : Western U.S. |
+weurz : Western Europe
+
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140310ea3700009
+
+Page48of251©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,157 @@
+DATA ROOM
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Business
+DATA ROOM
+
+EDITED BY BRIDGET CARTER
+1,096 words
+28 October 2014
+The Australian
+AUSTLN
+Australian
+20
+English
+© 2014 News Limited. All rights reserved.
+
+Brokers make Medibank bid BIDS are due from retail brokers today for shares in government-owned
+insurer Medibank, and demand is set to be exceptionally strong for the business that will float for up to
+$5.5 billion.
+
+But it seems rival NIB Holdings, which is the fourth-largest player in the market, is also profiting from
+Medibank’s popularity, with shares recently rallying.
+
+NIB’s shares yesterday closed almost 3 per cent higher at $3.14, having gained ground since
+Medibank lodged its prospectus just over a week ago.
+
+A re-rating of the sector could be afoot, with shareholders forming the view that NIB could be worth
+about 18 times its earnings if Medibank was worth up to 21 times, as suggested in its prospectus.
+
+While it is yet to be determined how many shares retail investors would be allocated as part of the
+overall Medibank initial public offering, the common expectation is that it would be equally divided
+between institutional and retail investors, based on previous government privatisation deals.
+
+However, a so-called clawback provision, in which advisers could reduce the offering to retail
+shareholders by 20 per cent, would allow them to get the mix right.
+
+A mechanism is also believed to have been put in place so that smaller institutions could not creep
+into the broker firm’s offer.
+
+Banks including Lazard and Goldman Sachs will not want to repeat the situation surrounding the
+privatisation of Royal Mail in Britain, where shares gained overwhelmingly, causing some to suggest
+that too much money was left on the table.
+Joint lead managers on the deal are Goldman Sachs, Macquarie and Deutsche. They started the
+domestic roadshow for retail brokers and institutional investors last week.
+
+The advisers and management tonight head to Singapore, where they will hope to win over global
+investors for what will be a top 100 company in the Australian Securities Exchange.
+
+The fee reward for securing international investors is twice as much as that for local firms, at 0.6 per
+cent compared to 0.3 per cent.
+
+The indicative price range for Medibank Private shares has been set at $1.55 to $2 a share, but retail
+investors will not pay more than $2 per share, even if the final price paid by institutional investors is
+higher. Retail investors will have 2½ weeks to apply to buy shares, with the retail offer opening today
+and closing on November 14. The final price per share will be determined by the institutional
+bookbuild next month.
+
+Meanwhile, Morgan Stanley analysts say the upcoming listing of Medibank should bring a greater
+competitive focus.
+
+Page157of266©2018Factiva,Inc.Allrightsreserved.Strong Echo at play BIDS are due today for the two consortiums competing to develop Brisbane’s
+Queens Wharf on behalf of the Queensland government, and it seems parties within Echo
+Entertainment’s camp are jostling to secure the stronger position.
+James Packer’s casino empire, Crown Resorts, is partnering with Chinese developer Greenland for
+the multi-billion-dollar casino, hotel and residential development. Greenland, a state-owned
+enterprise out of China, recently had its debt downgraded by Standard & Poor’s to negative.
+
+But a recent move by one of Echo Entertainment’s consortium partners to sell one of its businesses is
+thought to have been made to shore up its cash position in the hope of securing the Brisbane bid.
+The sale was made by Chow Tai Fook, a Hong Kong business which is ultimately owned by the
+wealthy Cheng family.
+
+The Chengs made the bulk of their money through jewellery and hospitality. Chow Tai Fook recently
+offloaded a 20 per cent stake in the Sogo department stores business, which it owns with Lifestyle
+International.
+The stake owned by the partners sold for $US620m to the Qatar Investment Authority.
+Also bidding with Echo is the Far East Consortium, also out of Hong Kong. Among Echo’s casinos
+are The Star casino in Sydney, Jupiters on the Gold Coast and Treasury in Brisbane.
+It recently sold its casino in Townsville, while Crown owns resorts in Melbourne and Perth, and is
+building a resort complex at Sydney’s Barangaroo development on Sydney Harbour.
+
+Brokers from CLSA have previously betted on a winning bid by Echo for the Brisbane casino licence
+and recently increased their valuation on the Echo stock by 18 per cent to $3.77.
+A decision on what group wins the new casino licence is due early next year.
+
+Hard times for software CONSTRUCTION software business Aconex cancelled plans for its initial
+public offering last night, despite its bookbuild being covered within its pricing range.
+The company was expected to have a market value of between $356m and $412m for its initial public
+offering, being handled by Macquarie Capital and UBS.
+
+However, it is understood that Aconex decided not proceed when it was told by its advisers that they
+were unlikely to secure sufficient demand to see the stock perform well during its debut on the
+Australian Securities Exchange.
+The group was selling shares at a pricing range of between $2.20 and $2.60, and increased the size
+of its raising from a minimum of $120m to $232m in what was said to be in response to strong
+investor demand.
+Aconex was to lodge its prospectus by October 28 before trading on November 18. The company is
+one of several smaller groups to have shelved IPO plans soon before an anticipated listing.
+
+Other listings recently shelved include the window and garage door distributor ArcPac, while
+equipment hire business Hirepool out of New Zealand was also recently placed on hold.
+
+Estia’s roadshow ESTIA’S management and its advisers are presenting to investors in Asia this week
+as part of a roadshow for the aged-care business that is now earmarked to list before Christmas.
+
+The roadshow will move to London next week before finishing in Australia to secure investor support
+for the company, which is likely to have a market capitalisation close to $1bn.
+
+A prospectus will be lodged in November ahead of a bookbuild, slated for the second week of
+December.
+
+Pricing for the float was likely to be similar to that of rivals Japara Healthcare and Regis, sources said.
+A move by private equity firm Quadrant to float its aged care Estia before Christmas was flagged
+yesterday by The Australian, in a deal happening through investment banks Morgan Stanley, UBS
+and Deutsche.
+
+Plans were accelerated after its $1.2bn rival Regis, performed strongly amid choppy market
+conditions on its ASX debut this month.
+
+Page158of266©2018Factiva,Inc.Allrightsreserved.carterb@theaustralian.com.au
+
+CO
+IN
+
+NS
+
+RE
+
+PUB
+AN
+
+nibhol : NIB Holdings Limited | medpv : Medibank Private Ltd
+i82 : Insurance | i82003 : Non-life Insurance | i8200301 : Health/Medical Insurance | ifinal : Financial
+Services | ihmo : Health Maintenance Organizations | iprivhea : Private Health Insurance
+c1711 : Initial Public Offerings | c02 : Corporate Changes | c14 : Stock Listings | c17 : Funding/Capital
+| c171 : Share Capital | cactio : Corporate Actions | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | brisbn : Brisbane | sydney : Sydney | apacz : Asia Pacific | ausnz : Australia/Oceania
+| nswals : New South Wales | queensl : Queensland
+News Ltd.
+Document AUSTLN0020141027eaas0003h
+
+Page159of266©2018Factiva,Inc.Allrightsreserved.

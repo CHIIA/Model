@@ -1,0 +1,895 @@
+Preliminary 2014 Westpac Banking Corp Earnings Presentation - Final
+
+HD Preliminary 2014 Westpac Banking Corp Earnings Presentation - Final
+WC 11,007 words
+PD 2 November 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+ANDREW BOWDEN, HEAD OF IR, WESTPAC BANKING CORPORATION: Well good morning everyone
+and welcome to the 2014 Westpac's full year results. My name is Andrew Bowden and I'm Head of
+Westpac's Investor Relations. Thank you all for coming today, appreciate you making the effort. Also those
+on the webcast and on the conference call, thank you very much.
+
+I'd also like to pay my respects to the traditional owners of the land on which we meet, the Gadigal people
+of the Eora nation and pay my respects to elders both past or present.
+
+The presentation today will be the usual format, with presentations from Gail Kelly our CEO, and of course
+Peter King our CFO, and without further ado let me hand off to Gail.
+
+GAIL KELLY, CEO, WESTPAC BANKING CORPORATION: Thanks Andrew and good morning everyone.
+Thanks very much for joining us for our 2014 full year results presentation. I'm really pleased to present
+these results as we see 2014 as having been a year of delivery. But let me start off by just calling out what
+we think are five key points in an overall sense for these results.
+
+Starting off with saying that this is a strong result, a strong and quality result with all of our divisions
+executing well. The second point is that during the course of the 2014 year we've actually affected a
+step-up in our strategy, the service revolution, and I'm pleased to say that that's been well embedded and
+we're performing well against it.
+
+That perhaps leads to the third point, that we're very happy that this year we've had more growth in
+customer numbers, in fact probably the biggest growth that we've had in four years in customer numbers.
+And indeed very pleased that Westpac is now the lead of the major banks in terms of customer
+satisfaction, both with regard to consumer satisfaction and with regards to business satisfaction.
+
+The fourth point is that this is a year where we've shown improved growth, in fact lending growth is up 8%,
+but also we've increased our return. And the last point is that consistent with the Westpac focus on
+sustainability, this is a result where we've delivered for all stakeholders.
+
+Having a look at the numbers themselves, our reported profit is up 12%, our cash earnings and our cash
+earnings per share is up 8%. Core earnings for the year is up 5%, but I'm sure you will already have
+noticed that core earnings for the half, the second half, was actually flat.
+
+That was largely as a result of the revenue flowing from our market risk activities being materially lower in
+the second half relative to the first. Indeed the second half was 50% of the revenues that we earned in the
+first half. Our AFS business however has core earnings growth of 5% in that second half, so very good
+momentum.
+Impairment charges at a low 12 basis points, but no release of the overlay. Return on equity is a pleasing
+outcome for us at 16.4%, well up on last year, 48 basis points up on last year. We're also very pleased with
+our common equity Tier 1 ratio of 9%. That's only 13 basis points down on last year and if you think about
+what we have done over the course of the past 12 months, it's been quite significant.
+
+Firstly acquiring the Lloyds business, secondly paying official dividends, thirdly not issuing shares into the
+DRP and then we've had good lending growth, AUD44 billion net lending growth over the period. That's
+8% up on lending growth.
+
+Page53of354©2018Factiva,Inc.Allrightsreserved.So we think a really good outcome in our core equity ratio of now 9%. On dividends, the directors declared
+a further AUD0.02 dividend for the half, taking the full year to AUD1.82.
+
+I mentioned that 2014 has been a year where we've actually stepped up on our strategic agenda. So
+building on the strong two previous phases we've had, we've called this phase the service revolution. It
+kicked off at the beginning of this year and it will lead us into and beyond our bicentennial year of 2017.
+
+Effectively what this agenda is about is stepping up the rate and the pace of change, stepping up the
+execution of our customer-centred strategy. We're very aware of the amazing transformation that's actually
+occurring across the financial service industry, it's a very exciting time to actually be in banking. We not
+only have to deal with all the regulatory change and conduct and compliance requirements that come our
+way, a lower [for longer] economic environment, but also indeed a whole new world of banking.
+
+Powerful new technologies and the convergence of powerful new technologies changing the way
+customers live their lives and what they're expecting out of services and particularly out of banking
+services. Expecting things to be a lot quicker, a more seamless and easier and more personal for them.
+
+So in the service revolution what we're effectively doing is reinventing the customer experience.
+Harnessing technologies, harnessing our people, harnessing our brand and the reach of our distribution.
+
+So from the customer point of view, to reinvent that customer experience. So this phase involves the
+transformation of our distribution, which is already underway, a radical simplification of our business and its
+processes, already underway, looking to digitalise as many processes from an end to end point of view as
+possible.
+
+Revolutionising the way we work, a lot more flexibility at work, a lot more team-based work, working
+horizontally, using the capabilities of agile and lean and customer-centred design. The new innovation hub
+that we launched a couple of months ago called Hive and really fundamentally changing the way work gets
+done, quicker time frame, shorter timeframes around projects, smaller projects. We talk about 90 day drop.
+So delivering in short, discrete time periods with more accountability.
+I'm pleased to say that this is well underway and what this slide gives you is a little bit of a framework of
+how we set up our work agenda and the activities of our work agenda and the outcomes that we're actually
+driving.
+
+The three very simple principles that underpin this work, Know Me, Empower Me and Bank Wow. So the
+Know Me principle is very simply using data and insight to personalise customer experiences. I mean this
+has always been the dream for banks. We talked for a long period of time about actually getting to use all
+that rich customer information we have to deliver the (inaudible) one.
+
+But it's only now really possible with the power of new technologies, with the power of social media and
+digital and mobile, big data, cloud computing. Only now is it really possible to actually drive this
+personalised service in the way that's possible. I mean a good example for us this year is in our AFS
+business, 67 million proactive service messages to individual customers to help them with their needs.
+
+The Empower Me piece is about facilitating that customers can be in control the way they want to be in
+control, doing their banking, managing their finances, when and wherever they are at their convenience. So
+a range of initiatives that underpin that, the biggest one for us this year would be our Westpac Live with its
+rich functionality and its inherent flexibility enabling customers to actually be in control. Coupled with some
+of the significant transformation of distribution for business customers and retail that's occurring in Jason
+and George's business.
+
+The Bank Wow is about innovation. It's about speed. It's about simplicity and harnessing our people, such
+as we can give reasons why more customers would join us and more customers will actually stay with us.
+So very exciting set of initiatives that that are about surprising customers with just how easy it is, take the
+clunkiness, the frustration out of banking.
+I'm pleased to say that customers are seeing the difference. Really pleased to say that right now Westpac
+RBB has the highest level of customer satisfaction in the consumer segment, overtaking the other major
+banks and 83.8%, it's the highest number that we've ever recorded for Westpac.
+
+In the NPS side, coming from a lower base, we're on a very good trend. So watch that space there. St.
+George of course in the green, sits above the major bank.
+
+And on the business side, in both business satisfaction and the business NPS, Westpac and St. George
+lead the other major banks. I mentioned right up front the increase in our customer numbers, the best
+increase we've had in three or four years, so up 6% in AFS.
+
+Page54of354©2018Factiva,Inc.Allrightsreserved.This is the major driver of our service revolution and you can expect to see more focus on that. Also the
+reduction of customer complaints, again a major focus through the service revolution, down 27% this year
+and 15% last year.
+
+Of course what you want to see with more customers and more satisfied customers is that it translates into
+deeper relationships, and more return out of our customers. So pleased to see a steady growth in our
+customer return over credit risk rated assets that we've been measuring for some period of time and a
+pick-up in our MyBank customer percentages.
+
+Now that's a tough measure. It's a hard measure, because it really requires upon the customer having a
+transaction account with us, a regular credit to that transaction account and an active use of that
+transaction account coupled with meeting at least two other banking needs.
+
+The wealth penetration one is one we've been measuring and focusing for a long period of time. Westpac
+as you can see remains the clear leader there. But the stand out for this year, I think's been seeing the
+pick-up in St. George, so moving well ahead of two of the other major banks.
+The service revolution is also translating into our pick-up in growth and I'm pleased to say that this is the
+first half year that we've growth at or above system in all major categories that we can recall. We sort of
+went back into the record books and couldn't find the last half year that we've grown at or above system in
+all the major areas.
+
+So in mortgages, at system growth for the second half, 0.9 times for the full year. In credit cards as you can
+see, almost a 1% pick-up in market share and that's on the back of focus, on the back of product
+simplification and some new products with (inaudible) St. George a debit card for business customers and
+a rewards program. It's also on the back of simplification of our processes and really getting to the root
+cause analysis of complaints and eliminating those root causes.
+Business lending, we're above system growth there. So you can see a good pick up from AUD126.3 billion
+last year to AUD136.9 billion this year. It remains a cautious environment so we think we've done well in
+that cautious environment.
+
+Of the Lloyds business with its leasing and equipment finance capabilities gives us extra wherewithal to
+further cross-sell to customers and introduce new business, and our institutional banks had a very strong
+year here. As you know, we have great credentials and great reputation with regard to infrastructure and
+there's lots of focus and activity in infrastructure across Australia at the moment and we have been a major
+player in every one of the infrastructure deals this year.
+
+On deposits, remember some years ago it was deposits, deposits, deposits and lots of talk about that. Well
+I'm pleased to say seven halves in a year, seven halves in a row where we've been above system growth
+so this half, 1.3 times.
+On wealth, funds under administration up 10% to AUD114 billion, and funds under management up 17%
+to AUD101 billion. Of course very good growth in insurance too, both in general and in life.
+
+We've also spent a lot of time over the last few years, as you know, investing in key target areas and it's
+good to see this investment is paying off. If you think about Westpac RBB, we started that investment going
+back to 2009, with a very strong agenda in Westpac local. We've supplemented that of course with
+significant training and development into our skills of our people over a number of years, our bring back the
+bank manager.
+
+Significant investment in the front end systems of our Westpac RBB business, most recently of course with
+the implementation of Westpac Live. Then there's the revolution that's occurring or transformation that's
+occurring in terms of the physical footprint.
+
+So it's both been a revenue story and a productivity story within Westpac RBB and it's probably best
+captured in looking at the revenue per FTE uplift. So this is really a quality business performing well.
+In Lloyds, AUD44 million in the second half cash earnings. That's ahead of plan, and we're on track to at
+least achieve the AUD100 million cash earning target that we announced at the time of the transaction
+itself for next year.
+
+Bank of Melbourne, it's really terrific to see us run a strategy here of bringing back a brand so that we can
+actually grow the market share for the WestpacGroup overall, and that's exactly what's been happening in
+our Victorian market. So another strong year for Bank of Melbourne, 2.4 times growth, Victorian growth, in
+mortgages and over 3 times system growth for Victoria in retail deposits. What this captures here is the
+growth in overall household footings and stands at the moment at 4.6% but obviously we've got great plans
+to increase that further.
+
+Page55of354©2018Factiva,Inc.Allrightsreserved.WIB trade volumes, you can see a big pickup over this year but particularly in Asia, not surprisingly with our
+investment in trade and capabilities in Asia and supporting our customers as they do more trading and
+activities in Asia. That leads me then to discuss WIB strategy in Asia. Revenue up 43% in US dollars.
+I'm really pleased with the way Rob and his team have set about in a very systematic and deliberate and
+quality way executing against this organic growth strategy in Asia. There's several milestones that this slide
+points to and you'll see more detail in our investor discussion pack, including the welcoming of over 100
+new corporate and institutional connections.
+
+Digital has been a very big area of focus and through the service revolution will continue to be a big area of
+focus. Probably the biggest single investment we've had over most recent times has of course been in
+Westpac Live, so really pleased with the spend and implementation there. We're now doing about -- 10.5%
+of our banking sales are done digitally, and with credit cards, roughly 50% of credit card sales are initiated
+digitally. So more and more a path and a pattern for the future.
+
+Of course [with] achieving this growth against maintaining, as you'd expect of Westpac, the disciplines in
+strength and return and in productivity. I've touched already on our common equity Tier 1 ratio of 9%. I
+think what this chart shows is how well positioned we are within Australia, because we don't have that
+wealth leverage that still needs to be unwound to deal to.
+
+On the stressed assets to TCE down at 1.2% which is the lowest level that we've had for seven years.
+Return, I've mentioned the 16.4% and the uplift over the course of this year, but on net interest margin, we
+are pleased with that too. 5 basis points down if you're looking at the customer margin, excluding treasury
+and markets, and for the second half actually that customer margin was flat. So I think we've really shown a
+track record and pattern of managing that margin with a lot of discipline.
+
+Productivity has been a focus over at least the past five years and our aim there is to largely offset the
+growth of ordinary expenses with productivity benefit and we've largely done that again this year. We are
+the most efficient of the banks in the sector. In fact we're one of the most efficient banks in the world, and
+we certainly intend to retain that status of being the most efficient bank in the sector.
+
+Our cost -- our expense to income ratio has been at about that 41% to 42% range over the last few years,
+but again, this will have a step up focus through the service revolution as we lead up to 2017. So I want
+and expect to see that ratio further decline.
+
+Looking at our individual business units, well AFS has had a very strong year on the back of what was a
+strong year last year too. So cash earnings growth up 12%, core earnings growth up 10%. Each one of its
+divisions -- Westpac RBB, St. George and BT -- have all had double digit cash earnings growth this year. If
+you look at our banking businesses, excellent management of the margin. Good balance sheet momentum,
+growth in customer numbers and very strong credit quality.
+
+If you look at BT, I'd have to say that I think BT is the standout wealth business amongst the banking sector
+here and it's one we're really proud of. It is a strategic and a comparative advantage for us, in our view,
+relative to our peers. So it's up 16% in cash earnings, but all of its component parts are performing well,
+whether it's private clients, advice, superannuation, platforms or insurance.
+
+Brad has put a lot of -- where are you Brad? There you are. Brad has put a lot of focus this year on issues
+to do with culture, issues to do with compliance, issues to do with regulation, and issues to do with
+customer manager and our people and skilling and training.
+
+We've digitalised all our files, and paying attention to the cultural elements of advice and the trust elements
+of (inaudible), you just simply can't take for granted and never be complacent and you can expect us to
+continue to focus on that.
+
+Westpac Institutional Bank requires some explanation, as you can see from this chart. You'll recall last year
+we had some very significant one-off benefits, infrequent items not to be repeated. They were the benefits
+flowing from Hastings business and of course the one-off benefit flowing from CVA. So if you adjust for
+that, our institutional bank is up 4% in cash earnings over the year.
+
+I think the real strength of the institutional business -- and remember, it's been a low volatility, low interest
+rate environment, particularly over the last half -- the real strength is in the customer business, the quality
+of the customer franchise in our institutional bank. Customer revenues are up strongly. They're up 6% over
+the year, and of course if you think about our credit quality, it is a real standout hallmark of the institutional
+bank, and that remains the case this year.
+
+Westpac New Zealand has had a solid year. Cash earnings are up 13% and again, above market system
+growth in all the major portfolios, and done that in a quality way.
+
+Page56of354©2018Factiva,Inc.Allrightsreserved.So that then takes me to my last slide before I hand over to Peter. That goes to delivering for all of our
+stakeholders. Earlier this year, if we go back to the beginning of January this year at the World Economic
+Forum, Westpac was named in their top 100 company list. Westpac was named as the most sustainable
+company in the world. And then more recently, the Dow Jones who look at the banking index, named
+Westpac as the most sustainable bank in the world.
+
+Now this sort of recognition doesn't come from one year's work. This was built up over a number of years'
+work. In fact I'm reminded of my Chairman's comment, Lindsay Maxsted's comment, when I rang him to let
+him know of the World Economic Forum recognition that we'd received and he said, this is the result of a lot
+of people doing a lot of right things over a long period of time. I think that's exactly right.
+It's also the result of paying attention to all of the different elements of our stakeholder group and
+delivering consistently for all of the different elements of our stakeholder groups, being shareholders,
+customers, our employees and the community, and 2014 has been an excellent year of delivery for all of
+those different stakeholder groups.
+
+I must say, there's a bit of a self-reinforcing element to this because as you can imagine, our employees
+are very proud of these recognitions that we received and our employees are very proud of the vision or
+the organisation and the way in which Westpac actually goes about its business. And what that means, it
+becomes self-reinforcing, it builds again that pride, that engagement, that momentum, that discretionary
+effort that employees bring to work every day.
+
+So that -- what I'd like to do is firstly thank my team who are a wonderful team and the broader general
+management team, and then the 36,000 employees, for a strong contribution this year and for these
+outcomes. So thank you and may I hand over to Peter.
+
+PETER KING, CFO, WESTPAC BANKING CORPORATION: Well thanks Gail and good morning
+everyone. As you've seen from Gail's comments, we're really pleased with this result. At an operational
+level, performance was very sound, particularly in our retail businesses. From my perspective, I'm also very
+pleased with our balance sheet strength and our performance disciplines. This morning I will provide some
+insights on some of the key drivers.
+
+So I think the graph on the right summarises the story of this result. We had excellent operating
+performance across our divisions, but these gains were partially offset by the lower market risk related
+income. You can see in the top chart that the second half was most impacted, with market risk income
+down AUD222 million. I'll come back to this later.
+The chart on the left highlights two features of this result that I'm really pleased with. Firstly, good capital
+management and the absence of share issuance has seen EPS growth and cash earnings growth similar
+for the first time in some years. Secondly, the 8% EPS growth is our highest for four years.
+
+This year, reported profit growth was 12%. That's much higher than the 8% lift in cash earnings. We
+continue to be consistent in what we treat as cash earnings adjustments. In the table on the bottom left, I've
+highlighted the four items of note this year. As you can see, they total AUD3 million. The AUD51 million
+relates to the Lloyds integration costs.
+
+On the Bell litigation, it's great to see the end of the case after 20 years. And the grants to the Westpac
+Bicentennial Foundation is AUD70 million after allowing for tax. Finally, back in 2011, we took some tax
+provisions for historical tax matters. These provisions are no longer required and so we've treated the
+reversal in a similar way.
+
+As with any year, there are some infrequent and volatile items. I've again summarised them on the slide.
+Individually, these can move around, but in total they didn't have a major impact on cash earnings growth in
+the half or over the year. The only new item on the table relates to the resolution of some tax matters and
+this was a one off in the second half.
+
+FX translation impacts mostly our New Zealand earnings, and because we hedged our 2014 earnings, FX
+translation had little impact on cash earnings growth over both the half and the year. In full year 2015, the
+benefits of our hedging program will be more evident, where we've hedged our New Zealand earnings at
+NZD1.12 compared to the NZD1.20 this year.
+
+These are the six areas I'd like to provide a little bit more insight on. I particularly wanted to call out the
+progress we've made in the LCR and how we've arrived at our new preferred capital range. But first let's
+turn to the market risk income.
+
+As I mentioned earlier, softer markets risk income was a feature of this result and the slide highlights the
+drivers. Like other market participants, we were impacted by lower market volatility, particularly in the
+second half.
+
+Page57of354©2018Factiva,Inc.Allrightsreserved.The top chart outlines risk related income from both our WIB businesses and treasury. As you can see, it
+was a tough half for us, particularly in treasury. Both businesses were impacted by the more benign
+interest rate and credit spread environments.
+
+FX income was also impacted by the low currency volatility with the Aussie dollar trading in fairly narrow
+bands through much of the half. You can also see that the CVA adjustment was a drag over the half, but
+had a much larger impact over the year.
+
+Whilst risk income has been a challenge, the customer income has been very good. The bottom chart
+shows this with the WIB AFS partnership a key contributor to the 8% lift this half.
+
+Looking forward as always, performance here depends on market conditions. Given the large half-on-half
+swings we've experienced recently, I think it's best to look at the full year performance when thinking about
+the revenue potential here. We have a strong team and that's what gives me confidence in our ability to
+generate returns here.
+
+Moving to margins, the margin picture has played out as we indicated at the half. Margins excluding
+treasury and markets at 2.01% remain flat half-on-half. Looking at the top chart, competition for lending has
+remained robust, asset spreads were down 5 basis points, reflecting competition in both mortgages and
+business lending.
+
+Falling hedge rates led to a lower return on capital, reducing margins by a further 2 basis points. These
+headwinds were offset by lower cost of funds from both deposit repricing and improved wholesale funding
+markets.
+
+Across divisions, AFS managed margins well; in New Zealand high liquid assets more than offset deposit
+repricing benefits, while as we indicated at the half, WIB's margin decline has slowed with pressure now
+more on the lending side. The reduction in the Group's margin from 2.11% to 2.06% over the half was due
+to the lower treasury result I spoke to earlier. Given all the moving pieces, I'm pleased with how we've
+managed the margin.
+
+On to expenses, at a headline level expense growth of 6.3% has been higher this year than in recent
+periods, although when you look through the detail, underlying expense trends have been similar. The top
+left graph details the main components of expense growth over the year and looking at the graph on the
+left, you can see that the acquisition of Lloyds and FX translation both added 1.3% to cost growth.
+
+Software amortisation also added 1% with virtually all the uplift in the second half. Looking at the red bar in
+the chart, you can see that the 2.7% growth in ordinary expenses has been consistent with previous years.
+
+Touching quickly on software capitalisation, in the top right chart you can see that our amortisation period
+is the fastest in the industry. The other point I'd make here is that our balance growth slowed significantly in
+the half with the balance up 2% to AUD2.1 billion.
+
+The bottom chart outlines our approach to managing expenses and as Gail said, we seek to neutralise
+operating expense growth through productivity saves, with investment lifting the cost base and this is what
+happened in the half. We delivered AUD117 million of productivity saves in the half, bringing the total to
+AUD219 million this year and this is an outcome similar to previous years.
+
+Investments added 2.9% to the cost base, while Lloyds also added another 0.7%. Much of the investment
+spend was directed to growth and productivity which will drive future value.
+
+This year we've delivered some major projects and continued to enhance our distribution networks. This
+includes switching on the new Westpac Live online system, completing the first phase of our wealth
+platform, Panorama and continuing the uplift in branch capability with new formats and video conferencing
+facilities.
+This investment has been managed within the AUD1 billion to AUD1.1 billion range we've been speaking
+about over the last few years. Regulatory spend was again a feature this year with the new tax
+requirements and wealth regulation accounting for much of the increase.
+
+Growth and productivity investment includes the projects I mentioned before and is where we expect to
+direct further investment. Looking forward, we expect to manage our investment spend within the AUD1
+billion to AUD1.1 billion envelope.
+
+Improving asset quality was again a feature of this result. When we look across the portfolio, we see
+improvement across virtually all key metrics. The proportion of stressed assets at 1.24% is now below 2008
+levels. Over the year we saw a drop off in the new impaired loans as you can see on this chart and this
+
+Page58of354©2018Factiva,Inc.Allrightsreserved.saw growth in impaired assets fall by 35%. The consumer portfolio is also performing well, delinquencies
+are down in both mortgages and unsecured consumer lending.
+As we look across the sectors, there are no signs of particular concern, but we are watching mining
+related businesses and certain manufacturing segments closely. Over the year the total economic overlays
+were unchanged, although we did adjust their mix with property overlays now largely utilised, we've
+topped up overlays for sectors undergoing structural changes.
+
+In reflecting the improved asset quality, the impairment charge picture continues to be very positive. This
+graph looks at the movement of the impairment charges and I think it's a useful way to think about the
+drivers. If you start on the top left, you can see that new IAPs continue to be very low, write-backs and
+recoveries held in the half and that probably turned out to be a little bit better than what we were expecting
+back in May.
+
+The environment continues to support customers working through their issues and this has contributed to
+positive outcomes here. On the write-off directs, they tend to be seasonal, so when you compare them to
+the second half of 2013, performance here has also been good.
+
+The last bucket which is the other cap movements doesn't pick up the interest carrying adjustment and so
+it's best to look at the movement in the cap provision itself. In the bottom table you can see that we
+continue to hold very healthy provisioning balances. The AUD2.6 billion cap balance was slightly down
+over the half, but it was up over the year.
+The AUD38 million reduction in the half mostly relates to the improvement in the credit quality of the
+portfolio, however the cap provision coverage remains healthy at 93 basis points of credit risk weighted
+assets. Finally, the lower individually assessed provision balances are consistent with the declines in the
+impaired assets and our coverage here remains very strong at 45%.
+With two months to go, I'm really pleased we're on track for the LCR implementation. Preparing for the
+LCR has been a big effort for the team this year and I'd like to thank the team for their efforts.
+
+In preparing for January 1, we've updated our MIS systems to better capture deposit characteristics, we've
+educated our businesses about the relative value of the deposits under the LCR and we've obtained APRA
+approval for the CLF facility for 2015. On the slide, we show the pro forma calculation of LCR which is
+already above the 100% requirement. You'll see more detail on this in our March pillar 3 reporting next
+year.
+
+I recognise that capital is one of the hotter topics in this reporting season, so I want to spend some time on
+it. We've been very pleased with the capital levels over the year and that's been reflected in how we've
+sought to deploy and manage capital. We started this year with a strong 9.1% common equity Tier 1 ratio
+and effectively deployed 47 basis points through the Lloyds acquisition and the special dividend.
+
+We also lifted our growth profile, particularly in the second half, with mortgages and infrastructure. At the
+same time, we've not issued any shares either into the DRP or for employee share grants and so that's
+seen no dilution. So in effect, we've increased the value of the Company, given more back to shareholders
+and held the share count flat.
+
+At the half I mentioned that we were seeking clarity from APRA on the application of the D-SIB buffer and
+so we held back from updating our preferred capital range. In the second half we received that clarity. The
+key change is if we fall into the capital conservation buffer, under most scenarios we will require APRA
+approval for distributions. This may impact dividends and potentially hybrid distributions. As a result, we've
+revised the preferred range from 8.75% to 9.25%.
+
+At the low end of the range, this will give us a 75 basis point buffer over the top of the capital conservation
+buffer. With this new preferred range, we believe we can achieve both growth and dividend aspirations
+while maintaining capital flexibility. As we ended the year at 9%, we believed it was prudent to issue shares
+into the DRP. I think it goes without saying that we are strongly capitalised.
+
+So as I look into FY15, there are a few factors that we expect to influence next year. We will again seek to
+deliver across all our key metrics. On the balance sheet, we grew a system in our key markets over the
+second half and we aim to maintain that momentum through 2015. Like this year, we will continue to
+maintain our margin disciplines, we expect competition for lending to remain intense, but we should see
+offsets across both deposits and wholesale funding costs.
+
+From January 1, the CLF will be another cost for the industry and that will equate to about 1 basis point
+impact to margins. Market risk income is always difficult to predict, but I'm confident that we'll take
+advantage of opportunities that arise.
+
+Page59of354©2018Factiva,Inc.Allrightsreserved.On the expense front, we'll maintain our focus on core earnings growth, we will aim to offset operating cost
+increases through productivity with the growth and expenses predominantly driven by investment. You will
+be pleased to hear that I expect next year to be the last major step up in software amortisation. I expect
+amortisation to add just over 1% to expense growth in 2015.
+
+On asset quality, the book remains in great shape but it will be hard to match the significant write backs
+we've enjoyed in the last few halves, and over time stronger lending will also require some provisioning.
+
+I'd like to finish by observing that all our businesses are performing well, and that underpins our confidence
+in 2015. Thank you and I'll hand back to Gail for a few more.
+
+GAIL KELLY: Thank you Peter, what I'd like to do is just to share two more slides really on the outlook. The
+first one actually covers off on the FSI which is such a topical area at the moment, so we're all waiting and
+looking forward of course to the recommendations being tabled by the commission.
+
+Then of course they'll flow on a considerable period of discussion and debate in the industry and wait then
+also for the Government's response. But a really topical area for the moment.
+
+So let me start with saying how we strongly advocate for a strong and overall stable banking system, a
+strong and efficient banking system. As you can see we've achieved that and worked very hard in that
+ourselves over the course of the past seven years and longer to make sure that our own bank is very
+strongly placed, not only from a capital point of view, but from a total balance sheet point of view. And the
+same could be said of all of the Australian banks, materially strengthen their balance sheets since the time
+of the Global Financial Crisis.
+
+It's interesting if you look at the World Economic Forum's September paper where they talk about the
+competitiveness of different countries and different dimensions. They rate Australian banks number three in
+the world against 144 countries in terms of soundness of banks.
+
+It's also interesting if you go back to this time a year ago, the conversation was then about the D-SIB if you
+remember and just how much would that be, what sort of additional surcharge would APRA require of us.
+And it was in December of last year that APRA came up with their 1% additional surcharge on the D-SIB,
+and with that announcement stated that the banks were really strongly capitalised. So we really believe in
+the importance of being strongly capitalised and we believe that we are.
+
+We also strongly endorse a risk based approach to assessing and to managing capital. Coupled and
+complimented with strong supervisory regime. Now that's a distinctive and different way of actually
+managing regulation from many jurisdictions around the world.
+
+It is a real advantage for the Australian system that we have an excellent regulator in APRA that provides
+intensive supervision. They of course accredit our model and then they do a test and verify, test and verify
+approach.
+
+They're in our organisations all the time, they look at portfolios one relative to the other in our
+organisations, St. George relative to Westpac for example. They're able to compare across the sector,
+different portfolios that are similar in their characteristics across the sector.
+
+We each -- individual banks to deep stress tests and then the regulator requires us to do industry stress
+tests, and periodically deep dive reviews of particular portfolios. Most recently of course being the
+mortgage portfolio.
+
+So this is a hallmark strength of the Australian system that we have that's active and intense supervisory
+approach. Very different from some regulators -- regulatory regimes where the regulator sets the rules and
+kind of doesn't do the supervision that actually backs it up.
+
+I think -- the other thing that we deeply support of course is the overall terms of reference of the Financial
+System Inquiry. Remember the overall terms of reference was to develop a financial services system that
+can best support Australia's economic growth. That gives to then the fourth point, about growth and stability
+being interconnected.
+
+That's where we think there's a requirement for more discussion as we go into the next stage of the
+Financial System Inquiry, and before any recommendation actually land up being enacted.
+
+[More] the conversation about the trade-offs and the interconnectivity between growth and stability. There's
+been a lot of conversation recently about stability, and of course you can ever increase capital and become
+ever more safe, but that does come at a cost. And the increasing or capital lands up ultimately having a
+diminishing return, in terms of safety.
+
+Page60of354©2018Factiva,Inc.Allrightsreserved.But the costs are real, capital is not free and those costs will flow through to impact the economy more
+broadly. Noticing and noting the banks are strong intermediaries within the Australian economy. And we
+think it would be a good opportunity to have a stronger debate about that linkage and interconnection of
+growth and stability.
+
+The last point that we'd make is that we strongly recommend a principle based approach, and hope that
+Financial System Inquiry will take a principle-based approach rather than a descriptive points in time
+approach, with regard to capital. So that we can make sure that these recommendations do stand the test
+of time, in the way that you'd want an inquiry of this sort to do.
+
+In terms of looking ahead, a period of fundamental change and what an interesting time to actually be in
+banking. In fact I could probably rephrase that and say what an exciting time to be in banking, certainly the
+most exciting time in my career. If you think about dealing to these new rules of banking, I would have
+thought perhaps by now, in 2014 that we would have dealt with the new rules.
+
+But they're still emerging, they're still being designed, they're certainly still being implemented across core
+capital regulations, liquidity, across conducts and compliance, risk culture. So significant developments in
+that front, the whole new rules of banking is a really interesting element.
+
+Then we have what we call sometimes the new world of banking, driven as I outlined earlier through new
+technologies, changes in the way customers are approaching the delivery of services and what they except
+and require of organisations. New players entering our field, so the whole new world of banking, very
+exciting.
+
+Add to that of course global economic conditions and local economic conditions, and they remain mixed
+globally. Certainly the US is on an improving trend, Europe remains in a world of pain, Japan we've seen
+recently sort of doubling down on the stimulus. So determined not to fall back into a deflationary
+environment and wanting to hit that inflation goal they have of 2%.
+It will probably mean we're going to see more stimulus again back through the ECB into Europe. China
+engaged in a very material restructuring program of its economy, but as Governor Zhou the People's Bank
+Governor of China indicates most likely to be maintained and managed in that 7% to 7.5% range.
+Within Australia, you know I'm quietly positive about our position here, it's always such a pleasure I have to
+say coming back from the IMF or IIF or any of those global forums, to come back into Australia. Confidence
+is slowly picking up here, and we've seen a pickup in growth this year. Mortgage growth this year has been
+around 7% -- 7% for us and we'd expect much the same over the course of the 2015 year.
+
+Business credits been around 3%, conditions do remain subdued and it is patchy depending on the sector
+you're talking about. Infrastructure of course is strong. Our economist Bill Evans, I see him in the room
+here, predicts and forecasts that business credit will grow from 3% to 5%. From a business point of view I
+think that might be hard going to get it to 5%, and if it's going to get to 5% it's going to be more on the latter
+part of the 2015 year. But nevertheless growth in certain key sectors.
+Overall I'm really excited about how the group is placed at the moment, particularly pleased with the work
+that we've done in 2015 around our service revolution agenda, and the way in which we've imbedded that
+across the whole firm, and the way in which delivering across the whole firm.
+
+We are a strong organisation with a strong balance sheet, and really good momentum. I think we can
+tackle anything that actually gets thrown at us. All of our businesses are in good shape. So with that let me
+ask Peter to join me and we'd be happy to take some questions.
+
+Questions and Answers
+
+ANDREW BOWDEN: Okay you guys know the drill, so we'll just keep it to one question each, Hamilton do
+you mind passing this down to John?
+
+JON MOTT, ANALYST, UBS: Jon Mott from UBS, question on business credit and probably a bit on the
+institutional side and also just on the comments you just were talking about then, with the broadening out.
+A lot of the pickup in business credits so far has been institutional and predominantly within commercial
+property and in infrastructure. You also had some comments earlier that you're starting to see some
+margin pressure come in there.
+
+So can you just make a comment on the returns that you're now generating from that kind of lending? Are
+you getting adequate returns to risk? Because often as competition comes in some less good projects do
+get approved.
+
+Page61of354©2018Factiva,Inc.Allrightsreserved.Also just on the broadening, are you starting to see any kind of broadening outside those two areas, both in
+the institutional space and probably pass that over to the retail business banking St. George as well?
+
+GAIL KELLY: Well it has been very strong and institutional and you know it's fantastic for us actually to be
+-- have the capability that we have an infrastructure. I'm going to get Rob to comment on it, because he will
+talk a little bit about not only the lending that we do into the transaction, but the other sorts of support that
+we provide into the transaction.
+
+So if you look at the ROE it's not just in the base of the lending, it's in the base of advice and other support
+that we provide. Rob while you're about it you might want to talk about commercial property too, and then
+we'll pick up on the retail side.
+ROB WHITFIELD, GROUP EXECUTIVE, WESTPAC INSTITUTIONAL BANK, WESTPAC BANKING
+CORPORATION: Sure, terrific thanks Gail, thanks Jonathon. Look the first comment would be you're right,
+in terms of where our growth has come from. It has been predominantly infrastructure and commercial
+property.
+
+In terms of the quality of that growth, it's the quality of growth you'd expect from Westpac institutional bank.
+The infrastructure deals that are being done this year, are very high quality and are the types of returns that
+certainly meet or exceed the Westpac line in the sand on ROE at 15%.
+
+Gail did refer to though, we do expect to see continuing margin pressure like we've seen in 2014 into 2015
+and more on the asset side rather than the 2014 experience which was more liability and asset side of the
+balance sheet. So that does mean eventually you'll get to the point in the cycle where we need to
+determine whether those infrastructure deals are still going to meet our hurdle. But we're not at that point
+Jonathon, in fact I think we're some way off.
+
+In terms of the broader based pieces, the other areas we've called out as opportunities for growth, we are
+seeing some really positive signs. So the superannuation sector for us has been a really important growth
+opportunity.
+
+Natural resources, whilst coming off a point in the cycle in terms of the investment spend, there are still
+some good quality projects that have been financed, and we've had some success there. Education and
+health are the other call out areas for us, before we go into the geographical areas of Asia.
+GAIL KELLY: Thanks Rob and look on the retail side or the commercial side in AFS, what Rob said
+certainly health, education, big sectors SMEs, we've invested in that quite a bit as you know through both
+Westpac and St. George. So good pick up of new customers, Business Connect and our Connect Now, the
+relative implementations in Westpac and St. George.
+
+Really delivering more cross sell per customer as well as new customers coming in the door. So SME,
+health, education and property, and look our property at the moment, as you know we worked down that
+level of exposure quite significantly over the last few years. It's at its lowest level it's been for about seven
+years, so really happy with where we've placed and happy to take on board good quality commercial
+property transactions.
+
+ANDREW BOWDEN: Mike?
+MIKE WIBLIN, ANALYST, MACQUARIE GROUP: Mike Wiblin from Macquarie. Just a question around
+macro prudential changes and the potential for those moves in Australia. Maybe a little bit on the
+experience in New Zealand as well and whether we can extrapolate that here. But also really that the
+possible impact on Westpac more broadly, given you are a big lender the investor space, and this is the
+first time I guess within the RBA, highlight the imbalances from that perspective?
+GAIL KELLY: Well we'd have to wait and see, I'm certainly convinced that whatever the RBA or APRA do
+will be quite sensible and moderate. I don't think that either of them are big fans of macro prudential tools --
+extreme macro prudential tools and this absolutely required.
+
+I mean they're already using macro prudential tools right now, stress testing is a fabulous macro prudential
+tool, deep reviews of sectors for example the housing review that's just been done. Are talking about the
+issues in order to make sure that banks remain across and on top of their lending standards, their
+underwriting standards, the quality of the book, the concentration of the book and so on.
+
+So those are the sorts of tools they're using at the moment, and I think they'd like to stop at that suite of
+tools, rather than start to intervene with additional policies, that actually can be quite distorting. As soon as
+you move from the risk weighted system to introducing other factors, you can distort. So we'll have to wait
+and see.
+
+Page62of354©2018Factiva,Inc.Allrightsreserved.In New Zealand, it was quite a particular set of circumstances in New Zealand because of the heat in the
+Auckland market in particular. Certainly it's worked reasonably well, although again some distorting factors
+made it a whole lot harder for new home owners to actually get into the marketplace.
+
+ANDREW BOWDEN: Jarrod.
+
+JARROD MARTIN, ANALYST, CREDIT SUISSE: Jarrod Martin from Credit Suisse -- a question on
+financial markets income. A fairly significant fall off this half and if I was to compare the rates of drop off
+versus the other banks and the numbers -- difficult to compare -- but it looks as if Westpac's drop off in
+financial markets income is larger than the likes of ANZ and National Australia Bank.
+
+ANZ certainly highlighted the softness in their third quarter but they got a bounce back in the fourth quarter.
+I just wanted to understand a bit more about the drivers and what happened there and were we coming off
+an unsustainably high first half and we should look more at the second half numbers as being a normalised
+level? So just some more colour around the drivers there?
+
+PETER KING: Thanks Jarrod. If I think about the businesses, the major drop off was in the treasury
+business. When we looked at the four areas where treasury makes money, it's interest rates here and in
+the US, it's the liquids portfolio and it's the basis books. All of those delivered lower income in the half.
+
+So it wasn't -- and when we looked at the risk taking positions for the opportunities, we were very
+comfortable with the fact that we weren't taking risk for opportunities that weren't there. So the other point
+I'd make is even at that lower return, the return on equity that treasury delivered is very good. So it's still a
+very good business from a return perspective.
+
+In terms of potential, as I said, it's probably best to look at over the year rather than the six month periods.
+We've seen volatility last year half-on-half. We've seen it this year half-on-half and it will really depend on
+the conditions or the opportunities that we see in any particular year but we think the risk we're taking for
+the return equation is right for the half.
+
+JARROD MARTIN: You didn't see any opportunities in the late part of the fourth quarter?
+
+PETER KING: In terms of the months, we did have a better fourth quarter and we did have a better
+September but earlier on was a bit softer.
+
+ANDREW BOWDEN: Just pass it to your left there, Jarrod. [Ryan], just pass it across.
+
+UNIDENTIFIED PARTICIPANT: Congratulations Gail on yet another result where we see the dividend
+grow at exactly AUD0.02 per half year. Gail, today you're lifting the capital target and we also don't know
+what the FSI might require.
+
+Could you give us a feeling on the capacity and in the result we also saw cash EPS running at the reported
+EPS. Could you give us a feeling on the ability to actually maintain that nice steady, reliable AUD0.02
+growth if the capital requirement was actually to go up?
+
+GAIL KELLY: Well Ryan that's hypothetical so we don't know what the capital might do but certainly and in
+terms of the range that we've got at the moment, we are very comfortable that we'd be able to maintain
+that. It's really going to depend on what happens and then how we deal with it. That's my discussion about
+the connection between stability and growth.
+
+So what we deal with it -- if we have to hold more capital, the costs to the bank is a cost to the system, how
+do we deal with that? Like many businesses, you'd actually think about whether you pass that cost on or
+whether you price for that cost.
+
+Either you do that or it results in a lower return. So one way or another we need to think about the cost and
+how we'll actually deal with it. But at the moment very comfortable (inaudible) that dividend trajectory on
+what we know.
+
+UNIDENTIFIED PARTICIPANT: Thank you.
+
+ANDREW BOWDEN: Might take a call. I can see I've got a call here from Victor German.
+
+VICTOR GERMAN, ANALYST, NOMURA INTERNATIONAL: Thank you Andrew and good morning
+everyone. My question just if I could follow up on Jarrod's earlier question on market income and
+particularly treasury income.
+
+So there's obviously a reasonable decline there. Peter, if you could perhaps break it down for us a little bit
+further in terms of the impact of lower interest rates and also impact -- I've noticed you've built up your
+
+Page63of354©2018Factiva,Inc.Allrightsreserved.liquidity portfolio, particularly you re-weighted it towards higher cost liquids. Just wondering if you could
+give us some sense for what impact those had on treasury performance?
+
+PETER KING: Victor, I don't think it's worthwhile going down into the portfolios themselves. The thematics
+are the important things. Probably the only other thing I'd highlight is we had moved some of the liquids
+portfolios into available for sale accounting treatment and that has seen some revenue reflected in the
+reserves rather than in the P&L. Apart from that thematic, not really any value in going down deeper
+because we managed these portfolios based on what we see in the market.
+
+VICTOR GERMAN: No, I appreciate that but you're sort of saying that we should look at the full year
+numbers as a guide for what this business can achieve going forward but environment is changing and
+presumably your hedges are rolling off and liquids are more expensive. So I'm just wondering to what
+extent FY14 is a good guide for FY15 or there should be actually some sort of step down due to those
+forces?
+
+PETER KING: It will depend on the market movements in credit spreads, interest rates and basis costs
+more than it will the balances themselves is the way to think about it.
+
+VICTOR GERMAN: Okay thank you.
+
+ANDREW BOWDEN: I'll take a question from Craig Williams as well on the phone.
+
+CRAIG WILLIAMS, ANALYST, CITIGROUP: Thank you very much, Andrew. Where am I? Look your
+operating leverage is very good with CTI in the low 40% now and you've now engineered an outcome of at
+or above system growth in credit across the business too but you've delivered negative draws for the past
+two years. So now that credit costs are perhaps providing less of an earnings tailwind for the business, do
+you now prioritise driving those positive draws in an effort to grow earnings and dividend?
+
+GAIL KELLY: Craig, we remain focused first and foremost on core earnings as we have done over the past
+few years. Frankly it's that softness in market risk revenues that actually resulted in a negative draws.
+
+We know without that if we'd be able to repeat the first half performance for market risk into the second
+half, we actually would have had positive draws. So we're not about to invest our cost programs or
+investment programs based on that type of one half situation in trading revenues. So core earnings is the
+first element.
+
+However, clearly as you heard me say in my presentation, we're very focused on productivity. I think
+through the service revolution you're going to see a further step up in our productivity agenda and that's
+driven by the simplification initiatives, it's driven by the transformation of our distribution, it's driven by this
+new way of working -- faster, quicker way of working.
+
+So I think you will see a step up in productivity. We've largely offset ordinary expenses with productivity
+benefits. I think you can expect to see a bigger productivity benefit into the 2015 year and as you heard me
+say the sort of 41%, 42% range, I want and expect to see that come down too as a consequence of these
+initiatives.
+
+CRAIG WILLIAMS: Okay, thank you.
+
+ANDREW BOWDEN: I'll take one from the phones -- one more -- Scott Manning please.
+
+SCOTT MANNING, ANALYST, J.P. MORGAN: (J.P. Morgan, Analyst) Good morning. Just your thoughts
+on the outlook for the margin given we've got quite a substantial tailwind to the costs of funds coming
+through over the next couple of years if you look at your average costs across your long term wholesale
+portfolio and also where spot rates are and also given that the heavy lifting is done on the LCR. So deposit
+pricing is also helping out.
+
+Low interest rate environments largely worked through the free float as well. So is it a little bit too much to
+ask for maybe the customer margin actually starting to trend up next year to provide that underlying growth
+that you're looking for in profitability?
+
+GAIL KELLY: Why don't you have a go Pete?
+
+PETER KING: You can always ask, Scott, but we don't provide line-by-line guidance obviously but if I talk
+about the dynamics, I think you've hit it right. On the lending side we are seeing robust competition so both
+in mortgages and housing.
+
+As Rob said, the institutional book, that's probably where the pressure is going to be and a bit more QE
+announced recently. You'll probably see more money looking to go to work so the trend there is probably
+
+Page64of354©2018Factiva,Inc.Allrightsreserved.still heading down. In terms of wholesale and retail, deposit pricing is by far the biggest impact on cost of
+funds drivers.
+
+We will have a headwind -- sorry we will have a tailwind from wholesale funding if market rates stay where
+they are but not quite as big as this year. So it's very important what happens in the retail deposit piece.
+Then on free funds, I thought we were at the bottom but the swap rates dropped again well below 3% so
+we'll have to wait and see.
+
+You would have thought that three year rate would be edging up by now but it might delay it a little bit into
+the later part of 2015 or next year depending on where we sit. So you sort of put all those together and it
+will depend on each piece what we deliver next year. (Inaudible).
+
+SCOTT MANNING: I suppose another way to ask the question is given you've restored rates of growth
+back to system this year given the flat margin, do you feel more confident of being able to sustain at
+system or above system rates of growth as well as managing the margin next year?
+
+PETER KING: Yes.
+
+GAIL KELLY: We expect to be able to do both. That's the key. I think we've show that this year -- we
+expect to be able to do both.
+
+SCOTT MANNING: Thank you.
+
+ANDREW BOWDEN: I'll take a final question from Richard Wiles please.
+
+RICHARD WILES, ANALYST, MORGAN STANLEY: (Morgan Stanley, Analyst) Richard Wiles, Morgan
+Stanley. I wanted to ask about system growth in mortgages as well. You were very clear last year that you
+wanted to reinvigorate the home loan business. In the media release you've referred to an increase in
+customer numbers.
+
+You've also talked about some of the things you're doing to improve product service. As you just said,
+you're targeting above system growth for 2014. Do you specifically want to achieve that in the Westpac
+franchise as well as the St. George franchise and do you think you can do that?
+
+GAIL KELLY: Absolutely. In fact Westpac had a really strong trajectory. Jason you may want to say a word
+or two about it. It's on a very strong trajectory over the course of the past three halves if you think you were
+about 0.6 times of system some period ago and it's steadily growing to the September data point was 1.1
+times system. So a really steady pickup in the Westpac brand as well. Jason, do you want to say
+something.
+JASON YETTON, GROUP EXECUTIVE, WESTPAC RETAIL & BUSINESS BANKING, WESTPAC
+BANKING CORPORATION: Yeah thanks Richard for the question. Look I think we're very pleased. At the
+start of the year we explained how we wanted to go about growing our mortgage portfolio across AFS. If
+you think back to the second half of last year's results, we were at 0.7 times system across AFS, first half
+0.9 times and across all brands in the second half we were 1 times system.
+
+We spoke about the drivers of that including increased brand consideration in both St. George and
+Westpac, we spoke about an increasing sales force effectiveness, we talked about improving the
+operational efficiency and speeding up times yes and service elements.
+I think across the whole Group we've done that very, very well. We've seen strong growth in the St.
+George brand over the course of the year. If we look at the Westpac brand, we've gone from 0.8 times
+system in the first half to 0.9 times system in the second half and in the month of September at 1.1 times.
+
+If I look at the work we've done I feel pretty confident that actually we are in a sustainable position to grow.
+We've done that without compromising margins too much. We have done that without compromising credit
+quality.
+
+I guess the key issue is what happens with competitors in the overall market but we see that as being
+pretty favourable to still see a positive environment for home lending and strong momentum in both brands.
+That said, there's still opportunities for us to improve on all the five dimensions and that's what the
+organisation has focused on.
+
+ANDREW BOWDEN: Thanks Jason. Look with that, thank you very much and good morning.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+Page65of354©2018Factiva,Inc.Allrightsreserved.In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+i814 : Banking | i81402 : Commercial Banking | ibnk : Banking/Credit | ifinal : Financial Services
+
+CO wstpac : Westpac Banking Corporation Limited
+IN
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz : Australia/Oceania | austr :
+
+Australia | namz : North America
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020141105eab200001
+
+Page66of354©2018Factiva,Inc.Allrightsreserved.

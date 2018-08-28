@@ -1,0 +1,147 @@
+Ugly game of investment chicken
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Companies and Markets
+Ugly game of investment chicken
+
+Matthew Stevens
+1,214 words
+11 November 2014
+The Australian Financial Review
+AFNR
+First
+32
+English
+Copyright 2014. Fairfax Media Management Pty Limited.
+
+Matthew Stevens
+The latest evidence suggests that when China Inc starts talking about dilution it doesn't muck around.
+
+Through a debt-to-equity deal with its majority Chinese owner, Yancoal Australia is asking its junior
+owners to pump $500 million into the hard-pressed coalminer or risk dilution of heroic proportions.
+Yancoal is the product of a series of takeovers that culminated with the $2.1 billion takeover
+Gloucester Coal back in the days of peak coal in 2011. But what was built to be a showpiece of
+China's international coal aspirations now risks becoming a living, breathing case study in the risk
+investors take in being minority owners of a Chinese-controlled entity.
+
+In effect, the owners of 22 per cent of Yancoal are being told to throw more capital into this severely
+challenged coal pot or to cede control of the business to Hong Kong-listed, mainland-controlled
+Yanzhou Coal Mining Company Limited.
+
+The complicated arrangements were marketed on Monday by Yancoal and Yanzhou as a
+$US2.3 billion ($2.6 billion) raising through a renounceable subordinated note issue.
+This looks like a refreshing vote of confidence in the Australian coal sector. But looks might be
+deceiving. The biggest chunk of this bounty looks to be little more than an accounting exercise, with
+Yanzhou acquiring $US1.8 billion of notes so that Yancoal can pay down an equivalent amount of
+borrowings from its Hong Kong-listed majority owner. Yanzhou cannot redeem the notes for five years.
+But they can convert them pretty much immediately. And the effect of that on non-participating
+minorities looms profound. Hong Kong's mini-Glencore, Noble Group, speaks for 13.4 per cent of
+Yancoal with a bunch of long-coal investors holding the balance of the minorities.
+
+Each is said to be very unhappy at being drawn into this ugly game of investment chicken. They either
+stump up extra cash or they face being reduced to spectacular, almost laughable, irrelevance en route
+to compulsory acquisition at an very ugly discount to any past or present share prices.
+The dark reality of the numbers is made all too clear in the Hong Kong filing by Yanzhou although not
+captured in the ASX announcement by Yancoal. Each $US100 capital note entitles the owner to 1000
+Yancoal shares. Some 23 million notes could be issued, which means we are talking about up rights of
+up to 23 billion shares.
+Just shy of 18 million of those notes will be acquired by Yanzhou. So it will be entitled to 18 billion in
+new shares when it chooses to convert. If, as seems quite likely, none of the other owners participate in
+this re-capitalisation, then Yanzhou will end up controlling 98.88 per cent of Yancoal. Given that
+incentive then, why wouldn't the junior owners participate in this raising? Well, outside of the obvious
+point that theirs would be the only new capital retained by the business rather than returned to the
+deal's sponsor, there is also some concern over cost of notes compared to the cost of the debt being
+paid down.
+
+Page121of286©2018Factiva,Inc.Allrightsreserved.Yancoal says the initial 7 per cent coupon on the notes is "similar on average" to the debt being retired.
+The package of Yanzhou borrowings in question are due for repayment at various points between 2016
+and 2020 and the longer debt, in particular, is said to carry interest rates that reflect Yancoal very
+certain non-investment grade status.
+
+Nonetheless, there is a feeling Yancoal is embracing a higher cost funding option at the same time as it
+attempts to bully its minorities. Needless to say, this has only further strained an-already deeply
+fractured relationship between Yancoal and its biggest other owner, Noble. The mood has not been
+helped by the way this proposal was developed and disseminated. Quite properly, it was negotiated by
+Yancoal's four independent directors. But the need for discretion and independence didn't mean this
+should be done without the knowledge or endorsement of the Noble nominee to the board, Will Randall.
+But Noble people complain that is exactly what has happened.
+
+The back story to this tension is as complicated as its latest expression. Noble was introduced as a
+minority in Yancoal with acceptance of the offer for Gloucester. It was a 68 per cent owner of the junior
+and the stake was always going to be traded to Noble's advantage. Noble is a commodities trader not a
+majority owner and operator, so it felt comfortable that less could bring more.
+
+But what was planned to be a beautiful relationship turned sour midway through last year when
+Yanzhou made what Noble thought was a derisory bid to take full ownership of the Australian operation.
+Noble resisted. And with no prospect of hitting the 90 per cent threshold for compulsory acquisition,
+Yanzhou eventually withdrew its offer.
+Instead, it immediately loaned Yancoal a further $300 million to fulfil a commitment made to the
+Foreign Investment Review Board that it would protect the solvency of the business as long as it owned
+more than 51 per cent of the company.
+
+That commitment still stands and Yanzhou and Yancoal say the proposed restructuring is the best
+way to deliver on that commitment. Arguably the most amazing aspect of this proposition is that it can
+be made without the need for a shareholder vote.
+
+Yancoal insists a meeting is not required because this is a renouncement issue being made on equal
+terms to all shareholders. But it is also a deal that sees a related party fully exercise the leverage of the
+lending made to its listed subsidiary by manufacturing a transaction that would seem likely to see
+Yanzhou move to 100 per cent ownership.
+
+Yancoal says the Foreign Investment Review Board has signed off on the deal. This should not
+surprise. Yancoal has been effective at convincing FIRB that what looks unpalatable actually tastes
+pretty good. Just last year FIRB relaxed the requirements that secured Yancoal's Gloucester takeover.
+It had been planned that Yancoal would release 30 per cent of its business to external investors and
+that it would unbundle ownership of a collection of coal mines by the end of 2013.
+
+Instead Yanzhou got the nod to take full ownership of Yancoal. That invitation has clearly been
+repeated. That Noble is reviewing its options goes almost without saying. The more relevant question is
+what those options might be. The first step might be to make a call to ASIC. It has been delivered the
+latest version of the proposed prospectus but Yancoal people say "technically" ASIC's approval is not
+necessary to proceed.
+
+Given Yancoal is right, the next best option for Noble and the other junior owners would be to head to
+the Takeovers Panel to test the waters on the standards required for the approval of what is patently a
+related party transaction. Finally, a lot of preparatory work on this proposal was done over months by
+Goldman Sachs. But Yancoal and Yanzhou chose to switch banks last week, delivering the mandate to
+Deutsche Bank. Whatever else that might mean, it is nice to see DB has found a coal business it can
+work with.
+
+CO
+
+IN
+
+NS
+RE
+
+PUB
+
+cenim : Gloucester Coal Ltd | yaptyl : Yancoal Australia Limited | ynzmn : Yanzhou Coal Mining Co Ltd |
+yankua : Yankuang (Group) Corp
+i1 : Energy | i111 : Coal Mining | i112 : Coal Mining Support Activities | ibasicm : Basic
+Materials/Resources | imet : Mining/Quarrying
+ccat : Corporate/Industrial News
+china : China | austr : Australia | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric :
+BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | easiaz : Eastern Asia
+Fairfax Media Management Pty Limited
+
+Page122of286©2018Factiva,Inc.Allrightsreserved.AN
+
+Document AFNR000020141110eabb00013
+
+Page123of286©2018Factiva,Inc.Allrightsreserved.

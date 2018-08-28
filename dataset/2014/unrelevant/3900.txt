@@ -1,0 +1,1568 @@
+Telecommunications - Asia Pacific
+
+1 September 2014
+
+HD Telecommunications - Asia Pacific
+WC 13,585 words
+PD
+SN Mergent Industry Reports
+SC MIRAUS
+LA
+English
+CY
+Copyright 2014 Mergent, Inc. All Rights Reserved
+LP
+
+Scope of this report
+
+The Scope of This Report
+
+TD
+
+This report examines the telecommunications sectors in the Asia-Pacific, focusing on Australia, China and
+Hong Kong, India, Japan, Singapore and South Korea. The industry can be broadly broken into two
+categories: services and manufacturing. However, communications media has diversified and a wide
+range of companies, including voice and data, wireless service providers and equipment makers, have
+broadened the industry. The report examines the current environment, profiles the industry and discusses
+market trends. The key financial results for leading companies in each country sector, as reported by the
+company, are presented in the comparative data tables on proceeding pages.
+Research analysts draw on a range of credible industry and company data sources as well as news and
+information services to research and analyze the current trading environment, industry landscape and
+market trends and outlook for a particular sector. Primary sources are used, unless otherwise indicated,
+and include company data, e.g. annual reports and company financial results: macroeconomic and trade
+data; data information from global and country regulatory, industry and trade bodies; government data;
+and reports; and reports from industry organizations and private research organizations.
+
+The following SIC codes are relevant to the industry. For the services side: 4812 (Radiotelephone
+Communications); 4813 (Telephone Communications, excl. Radio); 4822 (Telegraph and Other
+Communications) and 4899 (Communications Services). For the manufacturing segment: 3661
+(Telephone and Telegraph Apparatus); 3663 (Radio and TV Communications Equipment) and; 3669
+(Communications Equipment).
+
+Current Environment
+
+Sector Overview
+
+The Asia-Pacific mobile market remained the fastest growing globally over the last six months, with the
+number of connections more than double those of any other region. The Asia Pacific accounted for half
+the number of mobile subscribers globally and remained one of the world's fastest growing mobile
+markets, according to the GSMA. According to its ?Mobile Economy Asia Pacific 2014?, the majority of
+Asia-Pacific mobile subscribers were concentrated in four major markets: China, India, Japan and
+Indonesia. The region incorporates a diverse range of markets, from highly advanced 4G digital pioneers,
+such as Australia, Japan, Singapore and South Korea, to developing markets, such as India, where
+operators focused on building-out networks to rural areas and offering affordable mobile broadband
+services.
+Google (NASDAQ : GOOG) announced its intention in August to boost internet speed with China Mobile
+(HKSE: 0941), China Telecom (HKSE: 0728) and Singapore Telecommunications Ltd (SingTel ) (SES :
+Z74) with an investment of US$300 million in an underwater cable system, Faster, with a capacity of 60
+terabits per second. Faster, with a ten-million-times faster connection speed than a cable modem, will
+boost internet speed, a significant tool for the faster growth of Google in connecting several billion citizens
+in Asia and other parts of the world. Google said it hopes to begin installing the cable system late in 2014,
+and start operations in the second quarter of 2016.
+
+Page23of186©2018Factiva,Inc.Allrightsreserved.In July 2014, LG Electronics (LGE) (KSE: 066570) introduced its wearable mobile device for young
+children, the KizON, designed for preschool and primary school pupils, which allows parents to keep track
+of their children's whereabouts. One Step Direct Call enables parents to communicate with their children
+easily, and provides information on their location throughout the day. The device, which utilizes GPS and
+Wi-Fi, providing real-time location information, made its public debut in South Korea on July 10, and will be
+introduced in North America and Europe before December 2014.
+
+South Korea's Ministry of Education , Science and Technology (MEST) announced plans in January to
+invest KRW1.6 trillion (US$1.6 billion) to develop 5G technology that will be 1,000 times faster than
+current 4G LTE. MEST will prioritize developing new, key features for 5G, and upgrading social networking
+services, estimating that projected sales for related industries using the 5G infrastructure could reach up to
+KRW331 trillion (US$0.33 trillion) between 2020 and 2026. The ministry wants to implement the plan in
+cooperation with operators such as SK Telecom Co (KSE: 017670), Samsung Electronics (KSE: 005930)
+and LG, which own a huge portion of the worldwide smartphone market.
+
+India's Reliance Communications Ltd (BSE: RCOM) meanwhile pushed ahead with plans to invest in LTE
+broadcast technology to boost its video offerings. It is currently deploying 4G LTE services on both
+TD-LTE and FD-LTE technology, and said its 4G services would be available in 2015.
+
+Sector Performance
+In 2013, the mobile industry contributed US$864 billion to The Asia-Pacific's gross domestic product
+(GDP), directly supported 3.7 million jobs and contributed US$82 billion to public funding. In the first half
+of 2014, most Asia-Pacific telecoms sectors enjoyed moderate growth and, thanks to investment by local
+operators, smartphone penetration continued to grow. There was a rise in the average share price of most
+major players between January and June 2014.
+
+Y1,709.00 (US$16.92)
+
+Leading Companies' Stock Price Movements in the Six Months from January 6, 2014 to June 3, 2014
+company
+Ticker Exchange Share Price on
+January 6, 2014 Share Price on June 3, 2014  Rise/Fall %
+TSE
+9437
+NTT DoCoMo Inc  
+(US$16.94)
+-0.12
+China Mobile  
+0941
+HKSE
+-1.66
+China Telecom
+HKSE
+0728
+4.28
+(SingTel )   Z74
+Singapore Telecommunications Ltd
+SES
+9.60
+Samsung Electronics   
+005930 KSE
+12.47
+Average Rise/Fall %
+ 
+4.91
+
+Y1,711.00
+(US$10.09)
+(US$0.48)
+
+(US$2.83)
+(US$1,307) 
+
+ 
+
+ 
+
+(US$9.92)
+(US$0.50)
+
+(US$3.10)
+(US$1,470)
+
+ 
+
+Source: Mergent analysis
+
+In the first half of 2014, the share prices of major players in the telecommunications sector rose by an
+average of 4.91%, with Samsung Electronics ' up the most, by 12.47%, while China Telecom 's rose the
+least, by 4.28%, and China Mobile's had the steepest fall, 1.66%.
+
+By 2020, mobile is likely to be a major driver of the Asia-Pacific economy, contributing more than 6.9% of
+the region's GDP and supporting more than 6.1 million jobs. The growth will be supported by US$730
+billion capital investment in new infrastructure by regional mobile operators.
+
+Leading Companies
+
+NTT DoCoMo Inc
+
+On March 31, NTT DoCoMo (TSE: 9437) launched an outbound LTE roaming service for users travelling
+in eight countries and regions, including the mainland USA and Hawaii, Hong Kong and France, allowing
+its customers to roam on ultra-high-speed LTE mobile networks overseas with existing flat-rate data
+roaming plans. NTT plans to continue to expand its global LTE roaming coverage, teaming up with
+additional overseas partners.
+In April, the company introduced new billing plan ?Kake-hodai & Pake-aeru? and, on June 1, two new
+discount services for users of its 3G FOMATM and LTE XiTM mobile networks. The new billing plan
+enables all Kake-hodai subscribers to make nationwide voice calls for a flat monthly rate and allows
+customers to set and share monthly data quotas with family members and corporate users based on the
+
+Page24of186©2018Factiva,Inc.Allrightsreserved.type of mobile devices they are using. In addition, its new Zutto discount provides savings on a graduated
+basis for subscribers of at least six years standing, while its U25 Ouen plan offers discounts for
+budget-minded customers aged 25 or younger.
+China Mobile
+China Mobile, the world's largest mobile operator by number of subscribers, sold 120 million TD
+handsets (including TD-SCDMA and TD-LTE) through all distribution channels in the first half of 2014. The
+increase in sales was due to the accelerated migration of customers from 2G to 3G and 4G networks. By
+the end of 2014, the company will accelerate network construction to achieve continuous coverage in
+almost all major and county-level cities, and effective network coverage in key villages and towns. In
+January, China Mobile announced seven new data packages for 4G services ahead of the official launch
+of Apple Inc 's (NASDAQ : AAPL) iPhone. Effective February 1, the cheapest monthly package is RMB40
+(US$6.43) for 400 megabytes, and the most expensive costs RMB280 (US$45.02) for a 10-gigabyte
+package. On January 17, China Mobile and Apple launched iPhones using its 4G TD-LTE technology.
+
+Singapore Telecommunications Ltd (SingTel )
+To cater to the growing needs from enterprises in the Greater China region, SingTel expanded its data
+hosting capabilities in Hong Kong with the launch of Tier III data center at the Hong Kong Science and
+Technology Park in Sai Kung. The data center is connected to SingTel 's large fiber and cable network,
+which totals 14 data centers, allowing customers to enjoy a consistent level of service quality throughout
+the entire network. The Tseung Kwan O Data Centre offers Greater China enterprises a secure,
+world-class co-location data hosting services.
+
+Since July 27, 2014, SingTel 's Indonesian customers in Singapore can use their mobile phones to
+transfer money to the bank accounts of family and friends in their homeland through its mRemit service.
+Funds can be remitted to more than 80 Indonesian banks, including Bank Danamon, Bank Negara
+Indonesia and Bank Mandiri , and recipients can access the funds within three minutes of a successful
+transaction.
+
+LG Electronics
+
+LG, a leader in consumer electronics and mobile communications, plans to continue its global rollout of G3
+and to introduce more mass tier products in second half 2014, including variations of the LG G3, such as
+the recently announced G3 Beat, and additional L Series models. At the end of June, LG and Samsung
+launched smartphones supporting wireless charging technology, with charging modules produced by
+affiliates Samsung Electro-Mechanics and LG Innotek .
+
+In December 2013, LG launched its first Google Play Edition tablet, the LG G Pad 8.3, which uses the
+latest Android operating system, Android 4.4 KitKat. The new device combines KitKat's full-screen
+immersive mode and LG's 1920 x 1200 WUXGA Full HD IPS display. LG argues its already close working
+relationship with Google would be strengthened by their collaboration on Google 's first Android Open
+Source Project (AOSP) tablet.
+
+Mergers and Acquisitions
+
+Most Asia-Pacific telecoms sectors continued to be strong in the first half of 2014, with companies seeking
+new growth areas to counter more intense competition, with the larger and more powerful telcos better
+positioned to acquire other companies. For example Bharti Airtel (BSE: 532454), India's largest mobile
+operator by subscriber base, announced plans in February to acquire Khaitan family-owned Loop Mobile
+Ltd for Rs7 billion (US$0.12 billion). In June, Bharti signed a definitive agreement with Loop Mobile to
+acquire the latter's operations in Mumbai. Through the deal, Bharti will get Loop's three million
+subscribers, about 400 telecom towers and optic fibre and electronic equipment on which Loop's network
+currently runs, enabling Bharti to surpass Mumbai market leader Vodafone India Ltd in customer numbers.
+The transaction adds Loop's 2G-enabled network, supported by more than 2,500 cell sites, to Bharti's 2G
+and 3G networks supported by more than 4,000 cell sites in the Mumbai circle. In December 2013,
+Japan's Softbank Mobile Corp (TSE: 9434) paid US$1.26 billion for privately owned US mobile device
+distributor Brightstar Corp . The deal strengthens SoftBank's purchasing scale for mobile devices and
+further increases its competitiveness in Japan and the US. Acquisitions such as these show how
+Asia-Pacific companies are developing next generation mobile services and are constantly looking for
+technologies to give them an edge in providing more engaging and advanced smartphone apps.
+
+Industry Profile
+
+Industry Size and Value
+
+Page25of186©2018Factiva,Inc.Allrightsreserved.CDMA, or code division for mobile communications, is a widely used mobile standard throughout the
+Asia-Pacific, with the CDMA Development Group estimating the region continues to lead the world in
+numbers of subscribers, revenue and service creation. High-growth markets such as China and India
+raised the global number of subscribers to more than 600 million. By the end of January 2013, the world's
+largest CDMA operator China Telecom 's CDMA users made up 22% of the global total. India remained
+the second largest CDMA market, with more than 208.68 million subscribers at the end of February 2013.
+
+er spending on information technology to RMB3.2 trillion (US$0.51 trillion) by 2015 at a rate of 20% each
+year.
+
+The broadband market in Australia continued to expand throughout first half 2013, with the Australian
+Bureau of Statistics (ABS) reporting that in June 2013, there were 12,408,000 internet subscribers in
+Australia, up 30% from 9,569,000 in June 2010. They use the internet mostly for downloading TV shows,
+online gaming, working from home, and Voice over Internet Protocol (VoIP). The number of subscribers
+with advertised internet access speeds of 24Mbps or greater grew by 9% to 1,785,000 in the three months
+ended June 30, from 1,645,000 in December 2012.
+As of July 2013, there were 464 million mobile internet users in China, while South Korea had 23 million
+4G subscribers in second quarter 2013. Australia's 4G penetration rate was 6.76% as of June 2013, while
+Singapore's was 22.9%. The Asia-Pacific had 895 million active mobile broadband subscriptions in 2013,
+a 43% increase from 625 million in 2012. China Mobile estimates around 42% of its capital expenditure
+budget in 2013 was allocated to its mobile network, of which 52%, RMB41.5 billion (US$6.67 billion),
+was channelled to TD-LTE technology.
+
+Sector Investment
+The Chinese Government plans to spend RMB2 trillion (US$0.32 trillion) to enhance its broadband
+infrastructure by 2020 to put almost the entire population online. It aims to boost fixed-line and wireless
+connectivity throughout China, and the investment could benefit global network equipment makers such
+as Ericsson (NASDAQ : ERIC) and Alcatel-Lucent (NYSE : ALU), as well as homegrown players such as
+Huawei Technologies Co Ltd (SHE: 002502) and ZTE Corp (HKSE: 0763).
+
+The Ministry of Information and Industry wants the 3G and 4G networks covering cities and villages to be
+deployed at the same time. By 2015, the Government aims to boost the average broadband speed in
+cities to 20 Mbps, and to 4 Mbps in rural China, where internet penetration is very low. The plan is
+expected to increase the number of 3G and LTE users to 1.2 billion by 2020, four times the current figure.
+On July 23, 2014, KDDI Corp (TSE: 9433) announced that it would spend Y24 billion (US$0.24 billion) to
+construct Telehouse London Docklands North Two (North Two), a large-scale data center with a total floor
+area of 23,000 square meters located in the Docklands area of London, UK. The center will increase the
+total floor space of all facilities, including the four existing data centers (North, East, West, and Metro), to
+73,000 square meters. It will bring the number of sites to 43 in 24 cities in 13 regions around the world,
+with a total floor space of 365,000 square meters.
+
+CIB (EPA : ACA), while Softbank Mobile and Softbank Corp (TSE: 9984) will act as guarantors.
+
+Research and Development
+In August 2014, South Korea's LG Uplus (KSE: 032640) and China's Huawei established a research
+facility to test technology with potential applications in 5G networks. The Seoul-based Mobile Innovation
+Centre (MIC) will also enable LG Uplus to try out Huawei's latest LTE-Advanced carrier aggregation kit,
+small cells and network quality solutions. The MIC will provide LG Uplus and Huawei with an increased
+competitive advantage in the ICT market, and Huawei is committed to industry cooperation and to bring
+the world's most advanced mobile broadband services to more people worldwide. The 5G research center
+will allow the companies to focus on small cells, FDD/TDD convergence, gigabyte data transmission and
+ultra-wideband, low-latency technology that has the potential to enable remote driving.
+
+In November 2013, Japan's mobile carrier NTT DoCoMo began to install its latest indoor multi-band base
+stations and antennae compatible with the 1.5 and 1.7 GHz frequency bands for extra-high-speed LTE
+network service. The network, with a maximum downlink of 150 Mbps, is currently available in parts of
+Tokyo, Kanagawa, Aichi, Osaka, Kyoto and Hyogo prefectures. The new base station and antenna are
+compatible with 3G/W-CDMA, 4G/LTE and LTE-Advanced (LTE-A) carrier aggregation technologies, and
+are the same size as the current single band antennae, which can fit into limited indoor spaces. By March
+2016, NTT DoCoMo plans to launch its LTE-A service, which can support maximum downlink speeds of
+225 Mbps.
+
+Policy and Regulatory Environment
+
+Page26of186©2018Factiva,Inc.Allrightsreserved.South Korea's telco watchdog the Korea Communications Commission (KCC) found that the country's
+mobile operators have broken subsidy rules again. An investigation between May 26 and June 13 found
+that the average subsidy offered by SK Telecom , KT Corp and LG Uplus totalled KRW616,000, (US$616)
+far exceeding the legal limit of KRW270,000 (US$270).
+The KCC imposed fines totalling KRW58.41 billion (US$0.06 billion), of which market leader SK Telecom
+will pay KRW37.1 billion (US$0.04 billion), KT Corp KRW10.71 billion (US$0.01 billion), and smallest
+player LG Uplus KRW10.55 billion (US$0.01 billion). SK Telecom and LG Uplus served one-week sales
+bans after a separate KCC investigation found that they had violated subsidy rules in January and
+February 2014. LG Uplus was not allowed to sign up new customers from August 27 to September 2,
+while SK Telecom was banned from September 11 to September 17.
+
+To avoid the operators breaking the same rules again, the Government, in May, passed the Device
+Distribution Act, which aims to make operators' sales techniques more transparent, to curb illegal
+subsidies once and for all, and to impose tougher sanctions if rules are breached. Under the new laws,
+which come into effect in October, the KCC will set a benchmark device subsidy based on the factory cost
+of a handset, and operators will be restricted to offering subsidies within 15% of that level. The
+Government found that sales bans and fines are not sufficient to prevent illegal subsidies as operators
+have been caught breaking the same rules several times.
+
+Key Points
+
+Current Environment
+
+The Asia Pacific accounted for half the number of mobile subscribers globally and remained one of the
+world's fastest growing mobile markets over the last six months.Google (NASDAQ : GOOG) announced in
+August that it wants to boost internet speed with China Mobile (HKSE: 0941), China Telecom (HKSE:
+0728) and Singapore Telecommunications Ltd (SingTel ) (SES : Z74) with an investment of US$300
+million in an underwater cable system.South Korea's Ministry of Education , Science and Technology
+(MEST) announced in January that it would invest KRW1.6 trillion (US$1.6 billion) to develop 5G
+technology.In the first half of 2014, the share prices of major players in the telecommunications sector
+rose by an average of 4.91%.New guidelines for the introduction of disaster-resilient telecommunications
+networks in Japan aim to improve emergency response in the event of a major disaster.
+
+Industry Profile
+ting Time Division Long Term Evolution (TD-LTE) technology.The Chinese Government plans to spend
+RMB2 trillion (US$0.32 trillion) to enhance its broadband infrastructure by 2020 to put almost the entire
+population online.In August 2014, South Korea's LG Uplus (KSE: 032640) and China's Huawei
+Technology Co Ltd (SSE: 002502) established a research facility to test technology with potential
+applications in 5G networks.The broadband market in Australia continued to expand throughout first half
+2013, with ABS reporting that in June 2013, there were 12,408,000 internet subscribers in Australia, up
+30% from 9,569,000 in June 2010.
+
+Market Trends and Outlook
+Smartphone owners across five markets - the US, Brazil, China, South Africa and Indonesia - are now
+more likely to be using social messaging applications such as Wechat, KakaoTalk and Line on a daily
+basis rather than making voice calls, sending texts and emailing.South Korea's Ministry of Engineering,
+Science and Technology forecasts private companies would spend more than US$300 billion on 5G
+infrastructure and technology over the coming decade to take 5G worldwide.The rising uptake of mobile
+devices such as smartphones and tablets is driving mobile app revenue.With the continuous increase in
+smartphone adoption, the demand for Wi-Fi is also growing, as checking in or logging on to various social
+media has become the daily routine for smartphone users no matter where they are.Mobile app and
+mobile web consumption is likely to continue to grow, driven by rising smartphone penetration.
+
+Market Trends & Outlook
+
+The Rising Mobile Addiction
+
+As the number of people using smartphones increases rapidly so does mobile addiction, with Flurry, a
+mobile analytics firm, defining a mobile addict as a user who launches a mobile app or opens a mobile
+process more than 60 times a day. Smartphone owners across five markets - the US, Brazil, China, South
+Africa and Indonesia - are now more likely to be using social messaging applications such as Wechat,
+KakaoTalk and Line on a daily basis rather than making voice calls, sending texts and emailing.
+New York-based media monitoring firm Nielson Media Research Inc estimates Singapore and Hong
+Kong had two of the world's highest smartphone penetration rates. Global information services company
+
+Page27of186©2018Factiva,Inc.Allrightsreserved.Experian (ISE: EXPN) estimates Singaporeans spend an average 38 minutes a session on Facebook ,
+almost twice as long as Americans. Some hospitals sch as the Singapore General Hospital have found
+that more people are reporting ?text neck? or ?iNeck? pain, due to constantly lowering their heads to look
+at their smartphones.
+By 2017 China will likely account for almost half of all Asia-Pacific smartphone shipments and nearly a
+quarter of global shipments and, in February 2014, had an estimated 300 internet centers to tackle rising
+smartphone addiction. However, growing mobile addiction is good news for mobile developers, as the
+more people use smartphones, the higher the demand for content, applications, and functionality on
+mobile devices.
+
+How Much Faster is 5G?
+
+Fifth-generation (5G) service demand in the Asia-Pacific is growing as smartphone users seek higher
+internet speeds. A 5G service can download an 800 MB file in one second, compared with 40 seconds
+using 4G technology. According to the Telecommunications Standards Development Society of India,
+Indians do not need high internet speed to control their air conditioners, fridges or microwaves, but they
+need it to watch a live cricket match without latency. With streaming speeds 40 times faster than the
+current best technology, they could watch live cricket matches on 5G mobile phones wherever they are.
+
+While India's 5G networks are scheduled to start in 2021, South Korea, the world's most enthusiastic
+adaptor of mobile technology, plans to roll out its 5G network in 2017, with full availability by 2020,
+following US$1.5 billion in investment. The US, Japan, and the EU are also testing 5G technology, but
+South Korea's investment and commitment dwarfs their efforts. South Korea's Ministry of Engineering,
+Science and Technology forecasts private companies to spend more than US$300 billion on 5G
+infrastructure and technology over the coming decade to take 5G worldwide. The Government hopes to
+implement the plan with investment and cooperation from operators such as SK Telecom and Korea
+Telecom as well as handset makers such as Samsung Electronics and LG Electronics .
+
+Japanese operator NTT DoCoMo plans to work with mobile vendors Alcatel-Lucent , Ericsson, Fujitsu Ltd
+(TSE6702), NEC Corp (TSE: 6701), Nokia (HEX: NOK), and Samsung on its test run of 5G technologies
+across a range of frequencies. NTT announced plans in 2013 to deploy 5G commercially by 2020 with
+speeds up to 10Gbps, compared with today's LTE networks which peak at 100Mbps to 150Mbps. The
+company will begin indoor trials before December 2014 at its R&D center in Yokosuka in Kanagawa
+prefecture, ahead of outdoor field trials scheduled for 2015, sharing its research with other industry players
+to help with 5G standardization from 2016.
+
+Samsung will test its technology with NTT in the 28GHz band, while Ericsson will join NTT's outdoor
+experiments in the 15GHz band, exploring new antenna technologies supporting Massive Multiple Input
+and Multiple Output (MIMO) using the additional antennas to improve throughput. NEC and Fujitsu will join
+the trial at the lower end of the higher frequency bands, between 3GHz to 6GHz, with NEC focusing on
+?time-domain beam forming? with a large number of antennas for small cells in the 5GHz band. Fujitsu
+will work on technology to increase capacity per area using small cells deployed in high density with
+remote radio connection. Alcatel-Lucent will use existing frequency bands below 3GHz to support mobile
+broadband and M2M applications.
+China's Huawei announced plans in November 2013 to invest US$600 million in 5G research over the
+next five years, ahead of the expected launch of 5G networks in 2020. The funds will be used for research
+into a range of key enabling technologies, including air-interface technology. Huawei said it needs to
+resolve several issues before 5G is implemented, such as the availability of spectrum and technological
+challenges.
+
+Smartphones to Drive Mobile Gaming Market
+has become the world's biggest market, generating almost US$6 billion in revenue per year and 48% of
+global revenue. The rising uptake of mobile devices such as smartphones and tablets has driven mobile
+app revenue, which is set to almost double between 2013 and 2015, from US$13.2 billion to US$22
+billion. According to Games Industry Media, Western Europe, North America and the Asia-Pacific will
+remain the most attractive markets for mobile game publishers.
+Interactive entertainment companyKing Digital Entertainment (ISE: KING), which created popular games
+such as Candy Crush Saga and Pet Rescue Saga, is the largest game developer on Facebook , and
+develops games for the web, mobile (iOS and Android). It launched Candy Crush Saga on its own website
+in March 2011 and on Facebook in April 2012. Following its success on Facebook , King launched Candy
+Crush Saga on mobile in November 2012 and, in January 2013; it became the number one game on
+Facebook . In December 2013, King entered the Japanese market with a series of television commercials,
+
+Page28of186©2018Factiva,Inc.Allrightsreserved.and by December 4, it had become the 23rd most downloaded game in Japan on Android devices and
+most downloaded from the App Store.
+One in seven Hong Kong citizens plays the game daily, with the number of Hong KongCandy Crush
+Saga fans up by 0.3% to 457,000 in September 2014, from 455,500 in July 2014. As of September 2014,
+King had eight games available for download on the App Store including Candy Crush, Pet Rescue, Papa
+Pear, Farm Heroes, Bubble Witch, Bubble Witch 2, Pyramid Solitaire and Diamond Digger. The company
+has 665 employees and in 2013 it spent US$110.5 million on R&D.
+
+Another top downloaded mobile game is Plants vs. Zombies, released by private developer PopCap
+Games and publisher Electronic Arts Inc (NASDAQ : EA) through Facebook in May 2013. Electronic Art
+provides games for mobile devices and internet-only games, as well as related functions in North America,
+Europe, Asia and Australia. The game was first released on May 5, 2009, and the version for iOS was
+released in February 2010, while the Android version was released on May 31, 2011, on the Amazon App
+Store.
+
+Wi-Fi Demand Grows
+
+With the continuous rise in smartphone adoption, the demand for Wi-Fi is also growing as checking in or
+logging on to various social media has become the daily routine for smartphone users no matter where
+they are. Wi-Fi is generally defined as a local area wireless technology that allows electronic devices to
+exchange data or connect to the internet using 2.4 GHz UHF and 5 GHz SHF radio waves.
+The leading web portal in China, Sina.com, estimates 77.7% of outbound tourists in China say that they
+must have access to the internet, while about 64% of them want free Wi-Fi at hotels, airports and
+restaurants because they think the fees of their communication carriers are too high. Now, they can also
+surf the web through their mobile devices while on buses as Lijiang Gaokuai Passenger Coach Station in
+China has installed a free Wi-Fi system on nearly 50 buses to provide internet access for passengers.
+Users say that the service has enabled them to stay connected with their friends and family through social
+media such as Facebook and WeChat .
+
+EAP-SIM, which started in April 2014. This is part of ongoing efforts by the Infocomm Development
+Authority of Singapore (IDA) to improve the user experience of Wireless@SG, a free public Wi-Fi service
+that offers internet access speeds of up to 2Mbps.
+
+The new SIM-card-based login feature offers users an always-on experience by allowing them to connect
+automatically to any Wireless@SG hotspot using a supported device with a local SIM card. Singapore's
+Minister for Communications and Information claims the pervasive cellular network and presence of Wi-Fi
+hotspots have paved the way for service providers to roll out location-based and context-driven services to
+consumers and businesses.
+
+Market Outlook
+
+In the second half of 2014, the number of internet subscribers is likely to continue to increase as the
+internet has become an integral part of people's daily lives. The demand for spectrum is likely to increase
+as more LTE services are rolled out. According to the Fibre-to-the-home (FTTH) Council, the Asia-should
+have 100 million FTTH homes by December 2014. Mobile app and mobile web consumption is likely to
+continue to pick up, driven by rising smartphone penetration. The mobile trend is expected to continue for
+the next three years.
+
+Country Profiles
+
+Australia
+
+Sector Overview
+Telstra Corp Ltd (ASX : TLS), Australia's largest telecommunications provider, has signed a A$150 million
+(US$150 million) deal with NBN Co Ltd , a government business enterprise, to connect 206,000 homes
+and businesses with the government's preferred fibre-to-the-node (FTTN) technology. The agreement,
+announced in June 2014, will involve around 1,000 nodes across Queensland and New South Wales. The
+construction program is scheduled to run for 12 months, the cost to be covered by federal government
+funding to NBN.
+
+Following an investigation into telemarketing calls to numbers on the Do Not Call Register, the Australian
+Communications and Media Authority (ACMA) issued a formal warning to Telco Service Holdings Pty Ltd.
+ACMA found that the company engaged call centers to make telemarketing calls promoting its
+telecommunications products and services. From August to October 2013, 25 calls were made to numbers
+
+Page29of186©2018Factiva,Inc.Allrightsreserved.listed on the Register. Under the Do Not Call legislation, businesses are responsible for telemarketing
+calls made by outsourced call centers and must oversee the activities of contracted third parties.
+
+On June 16, Telstra 's strong rival Optus announced a partnership with the Victorian Government and
+VicTrack to allow Melbourne commuters to call, text, update social networks and browse the internet in the
+city's rail tunnels. VicTrack is a Victorian Government enterprise, which owns all railway and tram lines,
+associated rail lands and other related rail-related infrastructure in the state of Victoria. The move is an
+important first step in delivering mobile coverage to millions of rail commuters in Melbourne, allowing
+them to stay connected even underground. The agreement is part of the A$152 million (US$161.48
+million) government program to upgrade the state's digital train radio system, but financial details of the
+agreement were not disclosed.
+
+Industry Size and Value
+
+The mobile telecommunications industry continues to be an important contributor to Australia's economic
+growth, with most people preferring to use mobile phones. The Australian Communications Consumer
+Action Network (ACCAN) claims this is partly due to falling cost of mobile phones in the past six years.
+ABS data shows the volume of data downloaded via mobile handsets in fourth quarter 2013 was 27,627
+terabytes, a 41% increase from 19,636 terabytes in the second quarter. There was a 3% rise in mobile
+handset subscriptions from 19.6 million to 20.3 million.
+
+The internet is a necessity for many Australians, who use it to complete everyday tasks and access
+information and services that facilitate daily social and economic interactions. In June 2013, there were
+12,408,000 Australian internet subscribers, up by 30% from 9,569,000 in June 2010. They use the internet
+mostly for downloading TV shows, online gaming, working from home, and VoIP. However, despite the
+strong shift toward mobile and the internet, fixed-line phone services have maintained their presence in
+the Australian communications environment.
+
+Leading Companies
+
+Telstra Corp Ltd
+For the fiscal year ended June 30, 2014, Telstra 's net profit totaled A$4.3 billion (US$4.57 billion), up by
+10% from A$3.9 billion (US$4.14 billion) the previous year. Sales revenue rose by 3%, from A$24.3
+billion (US$25.82 billion) to A$25.1 billion (US$26.67 billion), thanks to its growing number of mobile
+subscribers. Telstra aims to create one of the world's largest Wi-Fi networks by offering Australians access
+to two million Wi-Fi hotspots across the nation within five years of launch in early 2015. The plan will
+usher in a new Wi-Fi era, which will help meet current data needs and deliver future capacity for the
+expected explosion of Wi-Fi traffic.
+Telstra announced in July that starting January 2015 it would conduct commercial trials using 20MHz of
+the 700MHz spectrum band at six locations around Australia. Telstra also plans to roll out more 4G
+700MHz services in a range of cities and regional centres, saying that the spectrum's lower frequency will
+give customers better 4G coverage in buildings, lifts and car parks. The addition of new 700MHz spectrum
+is a major investment in the future of Australian telecommunications.
+
+Optus
+In third quarter 2013, Optus' operating revenue totalled A$2.46 billion (US$2.61 billion), down by 6%
+from A$2.62 billion (US$2.78 billion) in the second quarter, but net profit rose by 31% from A$167
+million (US$177.42 million) to A$218 million (US$231.60 million), thanks to cost saving initiatives that
+reduced operating expenses by A$202 million (US$214.60 million).
+
+In July 2014, Optus launched its superfast 4G service in Darwin, following the previous grant of a licence
+for 4G 700MHz spectrum by the Australian Communications and Media Authority (ACMA), enabling faster
+web browsing, downloading and video streaming in the Darwin area. Optus has also enhanced its mobile
+coverage in Horsham, Victoria, with a new dedicated tower to expand mobile coverage to the south of
+town. Optus argues the new tower has improved reception along major roads such as Henty and Western
+Highways, giving local customers a better mobile service.
+
+Policy and Regulatory Environment
+In June 2014, the ACMA formally warned Dodo Services Pty Ltd (Dodo) (a private company) over its
+compliance with the Telecommunications Consumer Protections Code (TCP Code). ACMA discovered
+that Dodo failed to send alerts to 5,300 fixed broadband customers about their data use, as required under
+the TCP Code, during October and November 2013. The code stipulates that all telco providers must send
+use alerts to customers on post-paid broadband internet plans when they have reached 50%, 85%, and
+100% of their monthly data allowance.
+
+Page30of186©2018Factiva,Inc.Allrightsreserved.According to the ACMA, Dodo cooperated with the investigation and has since rectified the issue,
+compensating affected customers and capping the excess use charges. The TCP code came into effect in
+September 2012, and, as of June 2014, the ACMA had issued 110 formal warnings, ten directions to
+comply and one infringement notice.
+
+Market Outlook
+By the end of 2015, NBN Co 's fiber penetration will match that of DSL with about three million active
+connections to homes and businesses as it continues its rollout across Australia. The telecommunications
+industry will continue to grow as Optus expands its 4G network to 200 holiday destinations and regional
+locations, starting in January 2015. This will bring 4G coverage to new regional locations as well as
+improve indoor 4G reception in metro areas. Thanks to the availability of compatible mobile devices and
+Telstra 's new consumer data share packages, the adoption of data services is likely to accelerate.
+China and Hong Kong
+
+Sector Overview
+China's MIIT awarded China Telecom and China UnicomHong Kong high-speed 4G mobile network test
+licences for the Frequency Division Duplex-Long Term Evolution (FDD-LTE) standard in 16 cities. This will
+allow the two telcos to compete better with China Mobile, which has been deploying base stations across
+the country using the TD-LTE with 4G licenses issued December 2013.
+In July, the three players agreed to establish China's first joint network infrastructure company, China
+Communications Facilities Services Corp Ltd with registered capital of RMB10 billion (US$1.61 billion),
+with China Mobile having a 40% share, China Unicom 29.9% and China Telecom 30.1%. The joint
+venture will build telecom towers, base stations and other transmission assets, while building these jointly
+could help protect the environment, conserve resources and reduce network construction costs.
+Hong Kong's Key Telecommunications Statistics for the Six-month Period January - June 2014
+Increase/Decrease
+ 
+January 2014
+Decrease of
+227,768,793
+Short Message Service Sent
+20,540,550
+Decrease of
+Short Message Service Received 426,511,449
+45,897,600
+17,393,689
+Public mobile customers
+Decrease of
+219,061
+12,045,613,697 13,618,818,513 Increase of
+Mobile data usage (Mbytes)
+1,573,204,816
+
+June 2014
+207,228,243
+380,613,849
+17,174,628
+
+Source: Office of the Communications Authority
+
+Industry Size and Value
+
+although the key regional telecommunications hub is a world leader in broadband connection speeds and
+competitive pricing, Google announced in December 2013 it had cancelled plans to build a new data
+center there due to high operating costs and real estate problems. The US$300 million project would
+have enhanced Google 's service speed in Asia by 30%.
+Hong Kong's Key Telecoms Statistics
+telecommunications services
+Quantity
+Mobile network operators (July 2014)
+*Note 1
+*Note 2
+*Note 3
+101.62%
+Mobile subscriber penetration rate (May 2014)
+237.7%
+Mobile subscribers (May 2014)
+17,163,311
+2.5G and 3G/4G mobile subscribers (May 2014)
+12,710,731
+Internet Services
+Quantity
+*Note 4
+
+4
+21
+274
+
+201
+
+Page31of186©2018Factiva,Inc.Allrightsreserved.Registered customer accounts with dial-up access (estimated) (May 2014)
+321,289
+Registered customer accounts with broadband access (estimated) (May 2014)
+2,241,113
+Household broadband penetration rate (May 2014)
+83.1%
+Public Wi-Fi access points (July 2014)
+28,512
+
+Source: Office of the Communications Authority
+
+Note 1: Includes all licensees authorised to provide facility-based local fixed telecommunications services
+under fixed telecommunications network services (FTNS) licences, fixed carrier licences (FCL) or unified
+carrier licences (UCL) using wireline or wireless technology.
+
+Note 2: Includes all licensees authorised to provide facility-based external telecommunications services
+(?ETS?) under FTNS licences, FCL, UCL and service-based ETS under services-based operator (?SBO?)
+licences.
+Note 3: The number of residential fixed lines refers to the total number of residential exchange lines and
+non-exchange lines, while residential fixed line penetration is calculated by dividing the number of
+residential fixed lines by the number of households.
+
+Note 4: Includes all licensees authorised to provide Internet access services under FTNS licences, FCL,
+UCL and SBO licences.
+China Mobile was the most active 4G deployer throughout 2013, while China Unicom maintained its
+existing 3G infrastructure, which is its strength. Apple made a deal with China Mobile in December 2013
+to sell iPhones, giving Apple access to all carriers in the world's biggest handset market. The agreement
+helped China Mobile to attract new high-end subscribers to its fourth-generation network, and it started
+selling the iPhone 5s and 5c models in its retail stores from January 17, 2014.
+
+Leading Companies
+China Mobile
+China Mobile's operating revenue was RMB324.681 billion (US$52.21 billion) in the first half of 2014, an
+increase of 7% from RMB303.104 billion (US$48.74 billion) a year earlier. Profit totalled RMB57.742
+billion (US$9.28 billion), down by 9% from RMB63.128 billion (US$10.15 billion), due to higher
+expenses and intense competition.
+
+Number of Customers from February 2014 to July 2014
+(in 000s) (in 000s)
+ 
+793,573
+As of July 31, 2014
+790,614
+As of June 30, 2014
+787,295
+As of May 31, 2014
+784,613
+As of April 30, 2014
+781,082
+As of March 31, 2014
+As of February 28, 2014 775,615
+
+20,437
+13,943
+8,109
+4,798
+2,793
+1,340
+
+Source: China Mobile
+As of August 31, 2014, China Mobile's Shanghai branch had opened more than 5,000 4G base stations
+with an investment of RMB15 billion (US$2.41 billion). It also plans to strengthen its information
+infrastructure in important regions such as the Shanghai Free-Trade Zone (SFTZ) and complete the
+coverage of network lines in the 7,000 main business buildings and new-built residential districts.
+By December 2014, China Mobile plans to achieve complete coverage in almost all major and
+county-level cities as well as effective coverage in key villages and towns in Mainland China. It has built
+410,000 4G base stations, providing coverage to more than 300 cities. It also plans to trial voice over LTE
+(VoLTE) before year-end as part of its plan to consolidate its first mover advantage in 4G services.
+China Unicom Ltd
+During the first half of 2014, China Unicom 's revenue rose by 4% to RMB149.57 billion (US$24.05
+billion), from RMB144.31 billion (US$23.21 billion) a year earlier, with its profit up 26%, from RMB5.32
+billion (US$0.86 billion) to RMB6.69 billion (US$1.08 billion), thanks to the net addition of more 40
+
+Page32of186©2018Factiva,Inc.Allrightsreserved.million 3G and 4G subscribers in the year to June 30. In April, the company launched 4G services, being
+the last among its rivals to enter the expanding Chinese 4G market.
+Its mobile subscriber base totalled 295.89 million as of July 30, up by 4% from 284.11 million on January
+30. The number of fixed-line local access subscribers declined by 3%, from 88,023,000 to 85,440,000,
+while 3G and 4G subscriber numbers rose by 13%, from 126,469,000 to 143,318,000.
+China Telecom
+The operating revenue of China's third telecommunications company totalled RMB165.97 billion
+(US$26.69 billion) in the first half of 2014, up by 5% from RMB157.56 billion (US$25.34 billion) a year
+earlier, thanks to increasing numbers of 3G customers. Its net profit rose 12%, from RMB10.23 billion
+(US$1.64 billion) to RMB11.44 billion (US$1.84 billion). China Telecom received a TD-LTE license in
+December 2013, and plans to launch large-scale 4G mobile services with the FDD-LTE standard, licenses
+expected to be issued within the next two years. MIIT has authorized China Telecom to extend trials of its
+hybrid TD-LTE/FDD LTE network to 40 cities, including Beijing, Dongguan, Guangzhou, Tianjin, and
+Xiamen.
+Hutchison Telecommunications Hong Kong Holdings Ltd
+Hutchison's first half 2014 revenue totaled HK$66.23 billion (US$8.54 billion), down by 6% from HK$6.63
+billion (US$0.86 billion) a year earlier, while its net profit was down 6% from HK$344 million (US$44.38
+million) to HK$323 million (US$41.67 million), due to lower mobile hardware sales and intense price
+competition.
+The Share Price of Hutchison Telecommunications Hong Kong Holdings Ltd from March 2014 - August
+2014
+date
+Share Price (HK$)
+August 29, 2014 3.370 (US$0.43)
+3.330 (US$0.43)
+July 31, 2014
+June 30, 2014
+3.160 (US$0.41)
+May 30, 2014
+2.880 (US$0.37)
+April 30, 2014 2.450 (US$0.32)
+March 31, 2014 2.580 (US$0.33)
+
+Source: Hutchison Telecommunications Hong Kong Holdings Ltd
+
+On July 8, Hutchison announced the exclusive introduction of NTT DoCoMo 's popular Japanese
+Translator application in Hong Kong, which enables users to communicate with ease in Japanese, even if
+they do not know the language. The app, developed by NTT, can translate spoken English, Mandarin and
+Korean into written and spoken Japanese, and vice versa, on a mobile handset. Users need only to speak
+into their smartphones and the app will automatically translate what they say into Japanese, displaying a
+voice-to-text translation on screen and dictating the message audibly.
+
+PCCW Ltd
+Hong Kong-based PCCW Ltd 's (HKSE: 0008) first half revenue totalled HK$14.44 billion (US$1.86
+billion), up by 13% from HK$12.82 billion (US$1.65 billion) a year earlier, while profit increased by
+13.1%, from HK$1.45 billion (US$0.19 billion), to HK$1.64 billion (US$0.21 billion). The increase was
+driven by continued demand for data center capacity and timely execution of projects.
+
+In August, PCCW extended its support for Telecoms Sans Frontieres (TSF), the world's leading
+telecommunications non-government organization (NGO), with further contributions for the next three
+years. Founded in 1998, TSF is a humanitarian-aid, non-governmental organization specialising in
+telecommunications in emergency situations for victims of natural disasters and conflicts, and to
+humanitarian aid organisations. PCCW was the first Asian telco to support TSF.
+
+Policy and Regulatory Environment
+
+On August 4, a 6.5 magnitude earthquake in Ludian, Zhaotong City, Yunnan Province, caused 589 deaths
+and injured 2,401 people. MIIT announced that the earthquake disabled 61 mobile communication base
+stations and services from 16 fixed network access points. China Telecom , China Unicom and China
+Mobile sent emergency repair personnel and vehicles to the disaster area. Because damaged roads made
+access difficult, it was not known at publication time when full services would be restored.
+
+Market Outlook
+
+Page33of186©2018Factiva,Inc.Allrightsreserved.The number of mobile subscribers in Hong Kong is likely to increase in second half 2014, due to the
+strong and fiercely competitive mobile segment. China's telecoms industry is likely to grow as smartphone
+penetration rises and the country expects to start commercial use of its homegrown 4G telecoms
+technology by the beginning of 2015. China Telecom expects to receive its official licence for a fully
+commercial FDD LTE rollout in early 2015.
+
+India
+
+Sector Overview
+
+The number of wireless and wireline subscribers and the number of broadband subscribers picked up over
+the last six months as the country's internet usage rose further. As of May 31, 2014, the number of
+wireless and wireline subscribers was 938.34 million, up 3% from 915.19 million on December 31, 2013,
+while the number of broadband subscribers increased by 18% to 65.33 million, from 55.20 million,
+according to the Telecom Regulatory Authority of India (TRAI).
+
+The telecom industry aims to use social media such as Facebook , Twitter and YouTube to connect with
+mobile users across the country. The platforms will help the industry engage with the 900 million Indian
+mobile users on topics such as technological advances, health and scientific facts, expert views and other
+industry issues.
+
+In April 2014, India's fourth biggest mobile phone carrier Reliance Communications Ltd increased tariffs on
+discounted and promotional plans by up to 20% for all its pre-paid customers and headline call tariffs to
+1.6 paise every second from 1.5 paise. The move was part of its continued efforts to reduce free and
+discounted minutes. It should also offset the ever-rising costs of input materials and continue to focus on
+increasing the number of profitable or paid minutes on its network.
+Top major player Bharti Airtel said in July it had more than 300 million customers for its mobile, fixed line,
+digital subscriber line (DSL) and direct to home (DTH) services. As of May 31, 2014, Bharti had a 22.88%
+share of the Indian wireless subscriber market, more than 208 million mobile phone subscribers and
+3,347,309 wireline users, according to the TRAI.
+
+Industry Size and Value
+the lowest growth, 22%, from 2.3 million in 2012 to 2.8 million in 2013.
+
+May 2014
+company As of December 2013 As of May 2014 Increase/Decrease
+198.41
+Airtel
+160.41
+Vodafone
+128.69
+IDEA
+97.17
+BSNL
+66.91
+Aircel
+32.78
+Uninor
+Videocon 3.97
+3.46
+MTNL
+Loop
+3.03
+TOTAL
+694.83
+
+208.24
+168.27
+137.72
+97.17
+72.09
+37.88
+5.41
+3.27
+3.03
+733.08
+
+9.83
+7.86
+9.03
+0
+5.18
+5.10
+1.44
+-0.19
+0
+38.25
+
+Source: Cellular Operators' Association of India
+The TRAI estimates the number of broadband subscribers reached 12.98 million at the end of October
+2011, compared with 10.52 million a year earlier. With huge market potential, broadband subscription
+numbers are set to continue to grow in the next few years, while the country moves forward with new
+technology, especially in convergence.
+
+Leading Companies
+
+Bharti Airtel
+Bharti's fourth quarter (ended March 31, 2014) revenue totalled Rs222.19 billion (US$3.71 billion), a
+1.3% increase from Rs219.39 billion (US$3.66 billion) in the third quarter (ended December 31, 2013).
+Its net income increased by 64.5%, from Rs6.23 billion (US$0.10 billion) to Rs10.25 billion (US$0.17
+billion), thanks to less market competition.
+
+Bharti launched its 4G services in Jalandhar in May 2014, enabling its customers to connect to high-speed
+home broadband and internet on the move, allowing them to download ten movies in less than 30 minutes
+
+Page34of186©2018Factiva,Inc.Allrightsreserved.and full holiday photo albums in less than five minutes anywhere, anytime. On February 14, Bharti and
+Apple launched India's first 4G on mobile to give customers the 4G experience at 3G prices regardless of
+location.
+
+Reliance Communications Ltd
+
+In June, India's fully integrated telecommunications service provider Reliance launched its Next-Gen 3G
+services in the Karnataka, Andhra Pradesh, Tamil Nadu, Kerala and Uttar Pradesh-East circles. Reliance
+covers more than 80% of India's fast-growing 3G data revenue market as smartphone sales rise. Reliance
+has expanded its 3G footprint to 18 circles, consolidating its position as the leading data operator in the
+Indian telecom industry.
+Its fourth quarter revenue reached Rs56.71 billion (US$0.95 billion), up 5% from Rs54.03 billion
+(US$0.90 billion) the previous quarter, while net profit increased by 44% to Rs1.56 billion (US$0.03
+billion), from Rs1.08 billion (US$0.02 billion), primarily due to easing competition. On June 9, Reliance
+introduced the first-of-its-kind free national roaming offer for post-paid and pre-paid GSM customers,
+making all roaming incoming calls free on the RCOM network.
+
+Policy and Regulatory Environment
+
+In July 4, TRAI recommended that no new mobile number portability (MNP) licences be issued. The two
+MNP service providers, Syniverse Technologies and MNP Interconnection Telecom, should not be
+charged more for extending nationwide MNP. Syniverse provides business and network engineering
+services and software for managing and interconnecting voice and data network systems, while MNP
+Interconnection Telecom is a joint venture between US-based Telcordia Technologies Inc and Indian
+enterprise, DTC Pvt Ltd. The two service providers were given MNP licences in 2009, and TRAI
+recommended that the maintenance of their existing entry fees, performance bank guarantee (PBG) and
+financial bank guarantees (FBG).
+
+This is a complete U-turn from its September 2013 suggestions on nationwide MNP that the Department
+of Telecommunications (DoT) may make necessary changes to the existing MNP service licence to
+facilitate inter-service area porting, or full MNP. Trai has asked DoT to give telecom companies six months
+to make suitable changes to their networks from the date the full MNP is approved.
+
+Market Outlook
+
+In the first half of 2014, continuous data traffic growth led to investment in additional capacity by telcos to
+maintain growth. It is expected that higher adoption of data services, driven by the availability of
+compatible mobile devices, affordable data plans and rapidly rising numbers of internet users, will be the
+next growth driver. The number of Global System for Mobile (GSM) subscribers in India is likely to
+continue to grow, from around 733 million in May 2014 to 780 million in December 2014.
+
+Japan
+
+Sector Overview
+
+Japan's major operator NTT DoCoMo announced in May 2014 it would conduct 5G experimental trials
+with six world-leading mobile technology vendors: Alcatel-Lucent , Ericsson, Fujitsu Ltd , NEC Corp ,
+Nokia and Samsung Electronics . The trials, to begin in the second half 2014, will examine the potential of
+5G mobile technologies to exploit frequency bands above 6GHz and to realize very high system capacity
+per unit area.
+
+They will also test new radio technologies' ability to support various applications, including
+machine-to-machine (M2M) services. A new-generation cellular system due for commercial deployment
+in 2020, 5G will enable ultra-high-speed data transmissions at more than 10Gbps, 1,000 times the
+capacity of existing LTE networks, and allow connectivity of massive numbers of devices to support the
+ever-expanding market for M2M services.
+
+Internet search services provider Yahoo Japan Corp (TSE: 4689) announced plans to acquire SoftBank's
+mobile internet service provider eAccess Ltd for Y324 billion (US$3.21 billion), but changed its mind in
+May, saying that it would be better for the two companies to operate independently. SoftBank owns 42.6%
+of Yahoo Japan and a 99.68% stake in eAccess but only 33.29% of the voting rights due to regulatory
+restrictions. The planned acquisition was part of Yahoo 's expansion strategy in the wireless data and
+voice sectors.
+
+Industry Size and Value
+
+Page35of186©2018Factiva,Inc.Allrightsreserved.In November 2013, NTT DoCoMo and South Korea's KT Corp launched a Wi-Fi roaming exchange
+solution in cooperation with privately owned, global multi-service internetwork packet exchange (IPX)
+solution provider Aicent . Their customers can connect automatically through extensible authentication
+protocol (EAP) that utilises credentials contained in SIM cards to access a Wi-Fi network without the need
+of a pre-established password. KT subscribers can enjoy a better roaming experience in Japan through
+NTT DoCoMo and South Korea's network of Wi-Fi hotspots.
+
+Exports of Telecommunications Systems (Electronics) from Japan, December 2013 - May 2014
+Yen (
+month
+Millions)
+208
+May 2014
+April 2014
+300
+262
+March 2014
+February 2014 208
+January 2014 119
+December 2013 198
+Total
+
+1,295
+
+Source: Japan Electronics and Information Technology Industries Association (JEITA)
+
+JEITA data shows that in the six-month period to May 2014, the total value of electronics for
+telecommunications systems exported from Japan to other countries was Y1,295 million (US$12.82
+million), up 11% from Y1,170 million (US$11.58 million) in the six-month period to November 2013.
+According to telecommunications market research and consulting firm TeleGeography, NTT DoCoMo ,
+the first company in Japan to launch LTE services commercially, in December 2010, passed the ten
+million subscriber milestone in February 2013. NTT DoCoMo has developed an indoor base station and
+antenna, compatible with the 1500MHz, 1700MHz and 2000MHz frequency bands, and started
+commercial deployment on November 21, 2013, in Tokyo, Kanagawa, Aichi, Osaka, Kyoto and Hyogo
+prefectures. The technology supports maximum downlink transmission speeds of 150Mbps and is suitable
+for long-term evolution (LTE) technology.
+
+Leading Companies
+
+NTT DoCoMo
+NTT DoCoMo 's operating revenue was down 3% to Y1,075.30 billion (US$10.65 billion) in second
+quarter 2014, down from Y1,113.57 billion (US$11.02 billion) a year earlier. Its net income was down
+14% to Y136.4 billion (US$1.35 billion), from Y158 billion (US$1.56 billion), primarily due to the impact
+of discount programmes and lower sales of handsets. The number of mobile subscriptions grew by 1.5%
+to 63,105,000 as of March 31, 2014, from 62,182,000 on December 31, 2013, while the number of prepaid
+subscriptions dropped by 6% to 34,000, from 36,000.
+
+To satisfy consumer demand for high-speed, high-quality voice and data services, NTT DoCoMo launched
+its first VoLTE service on June 24. The service, which requires a subscription to extra-high speed network
+Xi, enables users to access up to 150 Mbps high-speed LTE data communication during VoLTE voice
+calls, and receives Area Mail disaster-information notifications while making VoLTE voice or video calls. Xi
+and Area Mail, which are trademark services of NTT, are available only to subscribers in Japan.
+
+KDDI Corp
+KDDI 's operating revenue increased by 2%, from Y1,002.42 billion (US$9.92 billion) in second quarter
+2013 to Y1,020.55 billion (US$10.10 billion) in the same period in 2014, due to higher mobile
+communications revenues in the personal services segment, while net income rose by 67%, from Y68.17
+billion (US$0.67 billion) to Y113.51 billion (US$1.12 billion).
+In July, KDDI and Sumitomo Corp (TSE: SSUMY) agreed to joint telecommunications operations in
+Myanmar with Myanmar Posts and Telecommunications (MPT). Japan-based Sumitomo is involved in a
+variety of social infrastructure projects such as power generation, telecommunications and railways in
+countries throughout the world. KDDI and Sumitomo have set up a joint venture, KDDI Summit Global
+Myanmar (KSGM), through which they will conduct their business in Myanmar. KDDI aims to bring
+Japanese-quality fixed and mobile services to Myanmar and to upgrade the country's telecoms
+infrastructure. MPT, formerly known as The Posts and Telecommunications Corp, provides postal,
+telegraph, and telephone services throughout Myanmar.
+
+Softbank Mobile Corp
+
+Page36of186©2018Factiva,Inc.Allrightsreserved.Softbank posted net sales of Y1,992.2 billion (US$19.72 billion) in second quarter 2014, up by 126%
+from Y881.1 billion (US$8.72 billion) a year earlier. However, net income fell by 59%, from Y269.7
+billion (US$2.67 billion) to Y111.3 billion (US$1.10 billion), mainly due to interest repayments on loans
+to finance its Sprint Nextel Corpacquisition in 2013. Softbank signed a Y1.98 trillion (US$20 billion) loan
+facility with a number of banks to refinance its previous one-year bridge loan for the Sprintacquisition. In
+August, Softbank announced that it had dropped its bid to acquire US carrier T-Mobile US for US$40
+billion, after regulatory resistance showed no signs of softening despite months of lobbying. US regulators
+insisted that they wanted to keep the number of major wireless carriers at four.
+
+Policy and Regulatory Environment
+
+New guidelines for the introduction of disaster-resilient telecommunications networks in Japan aim to
+improve emergency response in the event of a major disaster. The Ministry of Internal Affairs and
+Communications (MIC) in July announced guidelines for the introduction of disaster-resilient
+telecommunications networks following from the Great East Japan earthquake and tsunami in 2011. The
+new measures include telecommunications systems with disaster-resilient features and the capability to
+support early recovery from disasters to be part of smart grid deployment.
+
+The new system will enable emergency responders to coordinate action, allowing responders and
+members of the public to share and receive information, and to provide early warnings and critical
+updates. The 2011 earthquake and tsunami damaged 1.9 million fixed communication lines and 29,000
+base stations, and more than 80% of fixed and mobile communications breakdowns were caused by
+widespread and prolonged power outages.
+
+Market Outlook
+
+Continuous investment by major players in LTE networks should ensure that Japan's mobile market
+continues to grow in the second half 2014. Growth is expected to be driven by the handset market, mainly
+in the smartphones segment. Shipments of devices such as PCs, tablets, and smartphones to the highly
+developed Japanese telecoms market are expected to pick up significantly over the next six months.
+
+Singapore
+
+Sector Overview
+
+In July 2014, major operator Singapore Telecommunications Ltd (SingTel ) (SES : Z74) launched the
+world's first commercial 4G service with a 300 Mbps peak connection speed, available on the Huawei
+E5786 mobile MiFi device. SingTel said the launch brought the benefits of LTE-advanced services to
+Singaporeans before anyone else in the world.
+
+In August, MobileOne Ltd (M1) (SES : B2F) became the first mobile operator to launch a plan for disabled
+individuals. The ConnectSurf plan includes 500 minutes of outgoing calls, up to 10,000 short message
+services (SMS) or multimedia messaging service (MMS), and a generous 6GB data bundle. M1 also
+improved its benefits for seniors and its youth benefits packages. Seniors can now enjoy unlimited free
+calls to five M1 numbers as well as a complimentary 500MB data bundle, while the youth complimentary
+data bundle has been doubled to 1GB.
+
+In November 2013, StarHub Ltd (SES : CC3), using Tencent's WeChat , a mobile text and voice
+messaging communication service developed in China, launched the first WeChat plan that allows
+StarHub's mobile pre-paid customers to find and stay connected with friends. The plan allows prepaid
+customers to text, send animated stickers and voice messages, enjoy hold-to-talk (HTT) and many more
+features.
+
+Industry Size and Value
+
+The Infocomm Development Authority of Singapore (IDA) estimates as of June 30, 2013, Singapore had
+1,980,100 fixed line subscriptions, down by 0.3% from 1,987,600 in first quarter 2013, due to accelerating
+smartphone take-up.
+
+Singapore's Telecom Services Statistics (Fourth Quarter 2013- First Quarter 2014)
+category
+2013 Ended 2014 (%)
+3G Mobile Subscriptions 
+Total Wireless Broadband Subscriptions
+Household
+
+5,703,100 8.0
+9,979,800 8.0
+
+Fourth Quarter Ended
+5,258,300
+9,260,100
+
+Page37of186©2018Factiva,Inc.Allrightsreserved.Residential Wired Broadband Penetration Rate 106.0%
+Residential Wired Broadband Subscriptions
+
+-0.4
+1,300,200 0.6
+
+1,292,100
+
+105.6%
+
+Source: Infocomm Development Authority of Singapore
+Infocomm industry revenue totalled S$102.5 billion (US$82.02 billion) in 2012, up by 23% from S$83.4
+billion (US$66.74 billion) in 2011, while the annual growth rate increased by 4.3%, from 18.5% to 22.8%.
+
+Leading Companies
+
+Singapore Telecommunications Ltd (SingTel )
+
+On June 16, 2014, SingTel launched Easy Mobile, Asia's first postpaid mobile service, which allows users
+to customise their tariff plans each month to suit their lifestyle needs and budgets. Customers can quickly
+and conveniently tweak their voice, SMS and data bundle while on the move via the MySingTel
+smartphone app or the Easy Mobile online portal. Easy Mobile uses digital platforms to handle all
+transactions and serve customer needs, including post-sales support.
+SingTel 's net profit totalled S$881 million (US$704.98 million) in first quarter 2014, a 2% drop from
+S$898 million (US$718.58 million) in fourth quarter 2013, while revenue increased by 0.5%, from S$4.13
+billion (US$3.30 billion) to S$4.15 billion (US$3.32 billion), mainly due to a growing mobile customer
+base and higher take-up of data services.
+
+StarHub Ltd
+StarHub's operating revenue increased by 1%, from S$571.4 million (US$457.23 million) in first quarter
+2014 to S$576.4 million (US$461.24 million) in the second quarter, while net income grew by 12%, from
+S$84.2 million (US$67.38 million) to S$94.3 million (US$75.46 million), thanks to its growing customer
+base. In May, StarHub launched its innovative dual-network home broadband solution that maximises
+wireless broadband coverage and speed. StarHub's 500Mbps fibre home broadband plan includes
+100Mbps cable home broadband subscription and two complimentary premium wireless networking
+devices, giving customers greater broadband connectivity throughout the home.
+
+StarHub announced in June an extended trial for its rich communications services (RCS) app, expecting to
+officially launch the product before December 2014. RCS was developed by the GSM Association, a
+group of more than 800 mobile operators and related companies in more than 200 countries. StarHub
+started trials in May for the app that will allow users to share video and photos, make voice calls and send
+text messages.
+
+MobileOne Ltd (M1)
+M1's operating revenue totalled S$479.8 million (US$383.94 million) in the first half of 2014, down by 2%
+from S$487.5 million (US$390.10 million) a year earlier, but net profit rose by 8%, from S$80.2 million
+(US$64.18 million) to S$86.7 million (US$69.38 million), thanks to growth in its post-paid mobile and
+fixed customer base, and by higher mobile data revenue.
+
+In May 2014, M1 launched a new service, which allows customers using Windows Phones to pay for apps
+on their M1 bills. The service offers several features to prevent accidental or fraudulent purchases,
+including the option to require a Microsoft Wallet PIN number to confirm a purchase. Most Windows
+Phone devices have the option to charge purchases to the customer's M1 bill as the default payment
+method, unless the user chooses alternative payment options.
+
+Policy and Regulatory Environment
+
+From January 2014, the Personal Data Protection Commission (PDPC) Singapore requires anyone
+sending promotion or marketing messages to a Singapore phone number to first check whether that
+number is listed in the new national Do Not Call (DNC) Registry. Organizations or individuals are required
+to set up an account with the DNC Registry and submit lists of telephone numbers for checking. DNC
+provisions under the Personal Data Protection Act 2012 (PDPA) prohibit organisations from sending
+marketing messages (in the form of voice calls, text or fax messages) to Singapore telephone numbers,
+including mobile, fixed-line, residential and business numbers, on the DNC Registry.
+
+The registry comes under new PDPA rules, the rest of which took effect on July 2, since when
+organizations that check their marketing list with DNC Registry can rely on the results returned for up to 30
+days. Between June 1 to July 1, 2014 (both dates inclusive), all results received during this transition
+
+Page38of186©2018Factiva,Inc.Allrightsreserved.period were valid until July 31, 2014. Breaches of the new legislation could result in fines of up to S$1
+million (US$0.80 million).
+
+Market Outlook
+more than half of the island by the end of October 2014 and nationwide coverage is expected by the end
+March 2015.
+
+South Korea
+
+Sector Overview
+
+In South Korea, subsidies have long been a common telco strategy to make smartphones more affordable
+to attract customers. Regulators have used fines, business suspensions and stern warnings to make
+mobile carriers end subsidies, but to no avail. However, in March 2014, three major South Korean carriers,
+SK Telecom Co , KT Corp and LG Uplus , agreed to end illegal subsidies to stabilize the local market. The
+regulator also ordered SK Telecom and LG Uplus to suspend their mobile business for seven and 14
+days, respectively, and fined all three operators KRW30.4 billion (US$0.03 billion) won for previously
+offering illegal subsidies.
+
+In April, LG Uplus announced the nation's first unlimited mobile service package, followed by
+announcements of similar services by SK Telecom and KT Corp . LG Uplus ' LTE 80 and LTE 85 plans
+offer unlimited LTE data use, and unlimited voice calls and messaging for KRW80,000 (US$80). The
+package includes services such as U+HDTV, U+Professional Baseball and Ticket Planet. SK Telecom ,
+the world's first provider to offer a LTE-Advanced network, in 2013, will introduce three LTE data plans
+providing customers with unlimited LTE data use, voice calls, and text messages.
+
+In June, South Korea announced that it is collaborating with the European Commission (EC) on a global
+definition of 5G and in 5G research, to meet the need for more internet speed. South Korea's Samsung
+will handle global marketing to consumers worldwide. The move will streamline the global standardization
+of 5G tech and allow companies to share research, aiming to make South Korea and the EC leaders in 5G
+technology.
+
+Industry Size and Value
+In 2008, South Korea announced that it would invest KRW60 billion (US$0.06 billion) in 4G and 5G
+technology development, aiming to have the biggest mobile phone market share by 2012. Thanks to
+substantial investment in R&D, and the collaboration of the public and private sectors, smartphone uptake
+has significantly increased since 2011. A high-speed internet network makes Wi-Fi widely available, even
+in underground trains, making South Korea the leading force in telecommunications.
+
+South Korea became a world leader in distribution and use of near field communication (NFC) technology
+in mobile devices in 2012, with KT and SK Telecom selling more than three million NFC-enabled phones
+that allow customers to use their phones to pay transit fares and conduct other business at NFC terminals.
+
+South Koreans were early tech adopters and remain the most tech-savvy consumers, particularly
+receptive to new technologies, and mobile penetration exceeded 110% in 2013, driven by the popularity of
+smartphones. In 2009, the Government announced an ultra-broadband convergence network (UBcN) plan
+to establish an information and communications environment. The plan aimed at 1Gbs speeds on fixed
+lines or 10Mbs on wireless by the end of 2013 by upgrading the UBcN to a 46 million-subscriber network
+with speeds of 1Gbps.
+
+Leading Companies
+
+SK Telecom Co
+SK Telecom 's operating revenue totalled KRW4,201.9 billion (US$4.20 billion) in first quarter 2014,
+down 2% from KRW4,294.8 billion (US$4.29 billion) a year earlier. Its net income totalled KRW267.3
+billion (US$0.27 billion), a 9% decrease from KRW293.7 billion (US$0.29 billion), primarily due to a
+temporary rise in marketing expenses. SK Telecom had 18,816,000 smartphone subscribers as of March
+31, 2014, up by 3% from 18,286,000 in the previous quarter, while the number of LTE subscribers
+increased by 10%, from 13,487,000 to 14,773,000.
+
+In June 2014, SK Telecom launched a 225Mbps LTE-Advanced service, making it the first among 300
+telcos in 107 countries with commercialized LTE to use the technology on smartphones. It offers speeds of
+up to 225Mbps, enabling customers to download a 1GB movie in 37 seconds. Customers will not be
+charged extra for the service as SK Telecom aims to expand the market for diverse convergence services
+based on faster data communications.
+
+Page39of186©2018Factiva,Inc.Allrightsreserved.KT Corp
+KT Corp made a net loss of KRW41 billion (US$0.04 billion) in first quarter 2014, compared with a loss
+of KRW542.5 billion (US$0.54 billion) in the previous quarter, while operating revenue declined by 6%
+from KRW6,214.5 billion (US$6.21 billion) to KRW5,846.1 billion (US$5.85 billion). The decrease was
+mainly due to business suspension orders from telecom authorities in the first quarter.
+
+In June, KT announced plans to sell KT Capital Co Ltd and KT Rental Co Ltd to focus on its information
+and communications business, hoping to increase competitiveness and growth. On February 24, it
+announced collaboration with Radisys Corp (NASDAQ : RSYS) to deliver Intel ?-based small cell solutions
+across its LTE WARP+ network, allowing customers to benefit from the increased capacity and coverage
+that small cells bring to the network. US-based Radisys is a market leader in wireless infrastructure
+solutions for telecom, aerospace and defence applications.
+
+LG Uplus
+
+South Korea's third largest mobile carrier LG Uplus 's revenue for first quarter 2014 declined by 6% to
+KRW2,780.4 billion (US$2.78 billion), from KRW2,948.0 billion (US$2.95 billion) the previous quarter.
+Its net income totalled KRW26.8 billion (US$0.03 billion), down 44% from KRW48.1 billion (US$0.05
+billion), mainly due to strong competition in early January and increased marketing costs. As of May 31,
+2014, LG had 2,983,759 broadband subscribers and 4,844,409 telephony subscribers.
+
+LG Uplus and Huawei, a leading global information and communications technology (ICT) solutions
+provider, announced the completion of the world's first commercial network field trial of the aggregation of
+three different band carriers (3CC CA) on June 9. The aggregation will enable LG to meet higher
+throughput demand and efficiently deliver ultra-fast data speeds.
+
+The KCC ordered KT to inform customers about what happened and to allow them to check on a special
+website if they had been affected. The KCC also announced, in March 2014, that it was investigating retail
+stores selling mobile services, saying that retailers caught selling data can face fines of up to KRW30
+million (US$0.03 million). According to the KCC, the investigation has no deadline and every shop will be
+investigated.
+
+Market Outlook
+
+In the second half of 2014, deployments of LTE will continue to drive revenue growth, with LTE becoming
+the dominant technology in 2015. By the end of 2014, the country should have 38 million LTE
+subscribers. Mobile SIM penetration is expected to increase from 117% in 2013 to around 120% by the
+end 2014, while smartphone penetration is likely to rise to 60% from 53%. Driven by LTE and fibre
+broadband, overall telecoms retail revenue for the region is likely to increase, along with mobile data
+revenue, to US$70 billion in December 2014, up 4% from US$67.3 billion in December 2013.
+
+Currency Convesion Table
+
+Currency exchange rates as of September 10, 2014
+US$ per Unit Units per US$
+currency unit
+1.0624
+Australian Dollar (A$)
+Chinese Yuan Renminbi (RMB) 0.1608
+Hong Kong Dollar (HK$)
+0.1290
+Indian Rupee (Rs)
+0.0167
+Japanese Yen (Y)
+0.0099
+Singaporean Dollar (S$)
+0.8002
+0.0010
+South Korean Won (KRW)
+British Pound Sterling
+1.6139
+
+0.9413
+6.2180
+7.7517
+60.0400
+101.3900
+1.2497
+1013.3000
+0.6196
+
+Source: Federal Reserve Bank of New York
+
+Key References
+
+Key References
+
+Global
+
+Organisation for Economic Cooperation and Development (OECD )
+
+Page40of186©2018Factiva,Inc.Allrightsreserved.An international organization that helps governments tackle the economic, social and governance
+challenges of a globalized economy.
+
+http://www.oecd.org
+
+International Telecommunications Union (ITU )
+
+Headquartered in Geneva, Switzerland, the ITU is an international organization within the United Nations
+system where governments and the private sector coordinate global telecoms networks and services.
+
+http://www.itu.int
+
+United Nations Statistics Division
+
+A United Nations body established to collect, process and disseminate statistical trade information. It also
+manages the UNCTAD COMTRADE database on international trade statistics.
+
+http://unstats.un.org
+
+United Nations Conference on Trade and Development (UNCTAD )
+
+UNCTAD aims to facilitate trade between developed and developing countries and undertake research,
+policy analysis and data collection to provide substantive input for expert and government discussions.
+
+http://www.unctad.org
+
+OECD STAN Database of Industrial Analysis
+
+One of the OECD 's main industry statistical databases.
+
+http://www.oecd.org
+
+The Semiconductor Industry Association (SIA)
+
+The Semiconductor Industry Association (SIA) is the premier trade association representing the US
+semiconductor industry.
+
+http://www.sia-online.org
+
+Cellular Telecommunications and Internet Association (CTIA)
+
+CTIA is an international organization representing all sectors of wireless communications - cellular,
+personal communication services and enhanced specialized mobile radio.
+
+http://www.ctia.org
+
+Australia
+
+Australian Communications and Media Authority (ACMA)
+
+The ACMA is an Australian government agency whose main roles are to regulate broadcasting,
+radiocommunications and telecommunications, and to represent Australian interests in international
+communications matters.
+
+http://www.acma.gov.au
+Australian Telecommunications Users Group (ATUG)
+A lobby group aiming to achieve high quality telecoms services at OECD benchmark prices for Australian
+businesses.
+
+http://www.atug.com.au
+
+Australian Mobile Telecommunications Association (AMTA)
+
+The AMTA is the national industry body representing the mobile telecoms industry in Australia.
+
+http://www.amta.org.au
+
+Internet Industry Association (IIA)
+
+Page41of186©2018Factiva,Inc.Allrightsreserved.The IIA represents Australian internet industry companies, primarily internet service providers.
+
+http://www.iia.net.au
+
+National ICT Australia (NICTA)
+
+The NICTA plays a major role in the Australian Government's policy to promote science and innovation. It
+is capitalizing on Australia's extensive ICT talent through world-class research, commercialization,
+education, and industry collaboration.
+
+http://nicta.com.au
+
+Telecommunications Industry Ombudsman (TIO)
+
+The TIO is an independent non-government consumer complaints organization. It is not a consumer
+advocate, but rather a service to help consumers and telecoms companies resolve disputes.
+
+http://www.tio.com.au
+China and Hong Kong
+
+Office of the Communications Authority (OFCA)
+
+The OFCA is an independent government department which has different departments designated for
+broadcasting services, telecommunication services, radio spectrum, and the unsolicited electronic
+messages ordinance.
+
+http://www.ofca.gov.hk
+Hong Kong trade development Council
+A statutory body established to promote Hong Kong's external trade in goods and services.
+
+http://www.tdctrade.com
+
+Ministry of Foreign Trade and Economic Cooperation
+The Chinese ministry responsible for overseeing mainland China's foreign trade and economic affairs.
+
+http://english.moftec.gov.cn
+Hong Kong Wireless Technology Industry Association (WTIA)
+The industry body that represents the interests of Hong Kong's wireless providers.
+
+http://www.hkwtia.org/wtia/index.htm
+Internet and Telecom Association of Hong Kong (ITAHK)
+
+A non-profit organization that assists the industries on standards, specifications on products and rules and
+regulations on local and worldwide telecommunication.
+
+http://www.itahk.org.hk/index01.htm
+China's State Information Center (CIC)
+The China Information Center (CIC) is a non-profit organization that engages in research projects on
+China's politics, economy, social and cultural development.
+
+http://www.cicus.org
+
+The Ministry of Information Industry (MII)
+MII is China's main technology regulatory body that formulates national strategies, policies, plans,
+regulations and technical standards for the information industry in China.
+
+http://www.mii.gov.cn
+
+India
+
+Department of Telecoms
+
+Page42of186©2018Factiva,Inc.Allrightsreserved.Part of India's Ministry of Communications and Information Technology that oversees communications
+promotion and policy development.
+
+http://www.dotindia.com
+
+Ministry of communications and information Technology
+
+An Indian government body that assists the development of information communications technology.
+
+http://www.mit.gov.in
+
+Telecom Regulatory Authority of India (TRAI)
+
+India's national telecoms regulatory authority.
+
+http://www.trai.gov.in
+
+The Ministry of Finance (MoF)
+
+The government ministry responsible for coordinating matters relating to the country's finances.
+
+http://finmin.nic.in/index.html
+
+Confederation of Indian Industry (CII)
+
+CII works to create and sustain an environment conducive to the growth of industry in India, partnering
+industry and government alike through advisory and consultative process.
+
+http://www.ciionline.org
+
+Cellular Operators Association of India (COAI)
+
+COAi is a registered, non-profit, non-governmental society dedicated to the advancement of
+communication, particularly modern communication through cellular mobile telephone services in India.
+
+http://www.coai.in
+
+Japan
+
+Japan's Ministry of Economy, Trade and Industry
+
+The government ministry responsible for managing economic activity, including trade and industry.
+
+http://www.meti.go.jp/english/index.html
+
+Nomura Research Institute
+
+Nomura Research Institute was established in 1965 as a private think-tank in Japan to provide research,
+analysis, proposals and consulting, systems integration and operation, with an emphasis on the
+development of a better society.
+
+http://www.nri.co.jp/english/index.html
+
+The Ministry of Internal Affairs and Communications (MIC)
+
+The MIC is responsible for national administrative organizations, the public service, local tax/finance, the
+election system, fire/disaster prevention, information and communications, postal services, and statistical
+systems.
+
+http://www.soumu.go.jp/english/index.html
+
+Telecommunications Carriers Association (TCA)
+
+The TCA was established in 1987 to promote the sound growth of the telecoms industry, to improve the
+convenience of services for the Japanese public by solving problems common to telecoms carriers having
+network line facilities, and to investigate research and study the telecoms business.
+
+http://www.tca.or.jp/index-e.html
+
+Japan Electronics and Information Technology Industries Association (JEITA)
+
+Page43of186©2018Factiva,Inc.Allrightsreserved.JEITA is an industry organization that covers both the electronics and information technology fields. JEITA
+makes proposals on industry policies by the Japanese government, supports technological development,
+and promotes the diffusion of products in new fields.
+
+http://www.jeita.or.jp
+
+Singapore
+
+Infocomm Development Authority of Singapore (IDA)
+
+The IDA regulates infocommunications in Singapore.
+
+http://www.ida.gov.sg
+
+Ministry of Trade and Industry (MTI)
+
+The MTI provides comprehensive information on Singapore's economic policies, strategies, and statistics.
+
+http://www.mti.gov.sg/public/home/frm_Mti_Default.asp
+
+South Korea
+
+The Information and Communications Ministry
+
+The Ministry that sets policy on broadcasting, internet, broadband, IT security, encryption, and negotiates
+information and communications-related trade policy.
+
+http://www.mic.go.kr
+
+South Korean Ministry of Science and Technology
+
+The ministry responsible for IT policy development and industry promotion.
+
+http://www.most.go.kr/index-e.html
+
+Korea Information Service (KOIS)
+
+The KOIS aims to promote South Korea and its people and culture, as well as major government policies.
+
+http://www.korea.net/
+
+Korea National Statistical Office (KNSO)
+
+The KNSO provides major South Korean statistics, graphs, publications, and surveys.
+
+http://www.nso.go.kr/eng
+
+Korean Electronics and Telecommunications Research Institute (ETRI)
+
+Established in 1976, ETRI is a non-profit government-funded research organization in South Korea that
+has been at the forefront of technological excellence for more than 25 years.
+
+http://www.etri.re.kr
+
+Korea Fair Trade Commission (KFTC)
+
+KFTC is South Korea's competition authority that is charged to ensure the fairness of trade in the country.
+
+http://www.ftc.go.kr/eng/
+
+Sales Contacts
+
+Report Number 1384
+
+RF
+CO acmay : Australian Communications and Media Authority
+IN
+
+i7902 : Telecommunication Services | i34411 : Mobile Communications Equipment | i3441 :
+Telecommunications Equipment | itech : Technology
+asiaz : Asia | austr : Australia | china : China | jap : Japan | skorea : South Korea | victor : Victoria
+(Australia) | kanag : Kanagawa | saga : Saga | apacz : Asia Pacific | ausnz : Australia/Oceania | bric :
+
+RE
+
+Page44of186©2018Factiva,Inc.Allrightsreserved.BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | easiaz : Eastern Asia
+
+IPD Telecommunications
+PUB Mergent, Inc.
+AN Document MIRAUS0020141117ea9100008
+
+Page45of186©2018Factiva,Inc.Allrightsreserved.

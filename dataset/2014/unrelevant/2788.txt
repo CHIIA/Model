@@ -1,0 +1,705 @@
+Q2 2015 8x8 Inc Earnings Call - Final
+
+HD Q2 2015 8x8 Inc Earnings Call - Final
+WC 8,298 words
+PD 22 October 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+OPERATOR: Good afternoon, ladies and gentlemen, and welcome to the 8x8 second quarter FY15
+earnings conference call.
+
+TD
+
+(Operator Instructions)
+
+As a reminder, this conference call is being recorded. I would now like to turn the conference over to your
+host, Ms. Joan Citelli, Director of Corporate Communications.
+
+JOAN CITELLI, DIRECTOR OF CORPORATE COMMUNICATIONS, 8X8 INC: Thank you, and welcome,
+everyone, to our call. Today I'm joined by 8x8s Chief Executive Officer, Vik Verma; our existing Chief
+Financial Officer, Dan Weirich; and our newly appointed Chief Financial Officer, Mary Ellen Genovese to
+discuss our results for 8x8's second fiscal quarter of 2015 ended September 30, 2014.
+
+If you have not yet seen today's financial results, the press release is available on the Investors tab of 8x8s
+website at www.8x8.com. Following our comments, there will be an opportunity for questions. Before I turn
+the call over to Vik, I would like to remind all participants that during this conference call any
+forward-looking statements are made pursuant to the Safe Harbor provision of the Private Securities
+Litigation Reform Act of 1995.
+
+Expressions of future goals including financial guidance and similar expressions, including without
+limitations, expressions using the terminology may, will, believe, expect, plans, anticipates, predicts,
+forecasts, and expressions which reflect something other than historical fact are intended to identify
+forward-looking statements. These forward-looking statements involve a number of risks and uncertainties
+including factors discussed in the Risk Factors sections of our annual report on Form 10-K, and our
+quarterly reports on Form 10-Q and in our other SEC filings and Company releases.
+
+Our actual results may differ materially from any forward-looking statements due to such risks and
+uncertainties. The Company undertakes no obligation to revise or update any forward-looking statements
+in order to reflect events or circumstances that may arise after this conference call, except as required by
+law.
+
+Thank you. And with that, I will turn the call over to Vik Verma, Chief Executive Officer of 8x8.
+
+VIK VERMA, CEO, 8X8 INC: Thank you, Joan, and welcome, everyone, to 8x8's second quarter of FY15
+earnings call. Before we begin, I would like to introduce our newly appointed CFO Mary Ellen Genovese.
+As previously announced, Dan is leaving 8x8 to join a non-competing cloud-based big data startup here in
+the Bay Area called Treasure Data.
+
+Maryellen, who has been working with 8x8 in various capacities for over two years and has a proven track
+record as a CFO, will become our new CFO effective November 1, 2014. To facilitate this transition, Dan
+will be working with Mary Ellen through the remainder of 2014 in an advisory capacity. On behalf of all of us
+at 8x8, I wish Dan the best in his new role, and thank him for his service to 8x8 over the past decade.
+
+Dan has played a very significant role in our growth over that time and has been key in our efforts to
+capture the mid-market segment and launch our global reach initiative. We are fortunate to have Mary Ellen
+join us as CFO. I have known Mary Ellen for more than a decade. In fact, she was my CFO at Savi
+Technology prior to acquisition by Lockheed Martin.
+
+Page226of290©2018Factiva,Inc.Allrightsreserved.Prior to Savi, she was CFO of Trimble Navigation where she played a leadership role in helping them
+transform from a horizontal GPS technology provider to becoming the dominant player in targeted vertical
+markets. Under her watch as CFO, Trimble's revenue more than doubled from $271 million to $669 million
+while she maintained strong operational margins and positive cash flow.
+
+In her previous CFO positions, Mary Ellen completed numerous acquisitions, complex joint ventures,
+secured financings, led cost reduction programs, and built global financial reporting capabilities. Dan has
+built a deep and experienced finance organization here at 8x8, and I'm confident that Mary Ellen is ready to
+help take us to our next level of growth.
+
+I would like to begin by reviewing some of the high-level financial results and business activities for the
+quarter. Following my remarks, Dan will discuss the results and metrics in greater detail and we will then be
+happy to answer any questions that you may have for us today.
+
+As you can see from our FY15 Q2 results, the momentum we generated in a very strong fiscal Q1
+continued this quarter with 29% year-over-year growth in total revenue to a record $39.6 million, and
+non-GAAP net income of $4.3 million, or 11% of revenue.
+
+We remain committed to profitable growth and strong cash flow, and this is the 18th consecutive quarter in
+which 8x8 has generated non-GAAP net income alongside increasing revenue. Driving this growth is the
+continued mid-market adoption of our cloud telephony, contact center and unified communication services
+we saw during the second quarter of FY15. New monthly recurring revenue from channel and mid-market
+sales increased 59% year-over-year, and represented 44% of new monthly recurring revenues sold in the
+quarter compared with 33% in the same period last year.
+
+Revenue from mid-market customers represented 41% of total service revenue compared with 35% for the
+same period a year ago. Customers are choosing 8x8 for our comprehensive one-stop shop product suite
+which includes cloud-based telephony, contact center, mobile apps and Web conferencing. Our ability to
+rapidly deploy these solutions on a worldwide basis is accelerating time to value for our customers,
+enabling them to very quickly begin realizing the benefits of transitioning their communication infrastructure
+to the cloud.
+
+A few noteworthy highlights from the quarter. First, our ability to offer a broad range of cloud-based
+mission-critical communication services is bringing us larger and larger deals where we continue to
+displace incumbent premise-based systems from Avaya, Cisco, ShoreTel and others. Having a single
+cloud-based solution is a tremendous advantage for our customers as it enables them to eliminate the cost
+and hassle associated with deploying, integrating, and managing disparate multi-vendor technologies.
+
+During the September quarter, our top two wins and four of our top 10 deals were from new mid-market
+customers subscribing to both our Virtual Office and Virtual Contact Center solutions. One of these
+customers, a leader in cloud-based supply chain management solutions, will be deploying approximately
+800 Virtual Office and 100 Virtual Contact Center seats to employees in two primary locations in the
+coming weeks.
+
+Second, our intense focus on customer support is yielding continued low revenue churn at just 0.9% during
+the quarter compared with 1.2% in the same period a year ago. In addition to building a personalized and
+responsive mid-market customer service organization, we have implemented a rapid customer deployment
+model that I believe is unparalleled in our industry.
+
+Yesterday's press release announcing the full deployment of our customer, ChenMed, clearly illustrates
+this accomplishment. In just five weeks, we successfully rolled out our service across their entire
+organization of 1,400 employees, 36 healthcare centers and two corporate offices.
+
+Third, we are continuing to invest in product development to ensure that our entire suite of service offers all
+of the features and capabilities our customers are relying on to grow and be competitive in their respective
+industries. During the quarter, we expanded the omni-channel capabilities of our cloud contact center
+solutions with the release of Virtual Contact Center 8.1. We also announced a new partnership with
+Conversocial, the leading provider of social customer service solutions to enable contact centers to engage
+with customers over social media channels.
+
+Additionally, we are continuing work on two very significant R&D projects which we expect to complete by
+the end of our current quarter. First, we are currently in beta with our VCC 9.0 global platform release with
+a handful of select customers. We are very excited about this new global dimension we are adding to our
+Virtual Contact Center solution and believe ours will be the only cloud-based contact center service to
+enable a seamless follow-the-sun operating model. With our next-generation global platform, Virtual
+Contact Center will have the ability to manage and serve all agents on a single distributed platform
+irrespective of their geographic location.
+
+Page227of290©2018Factiva,Inc.Allrightsreserved.The global platform architecture eliminates the need for multiple distinct instances to manage traffic from
+different continents. Now an agent logging in from North America can service customers not only from
+North America but also from Europe, Asia, and beyond with optimized call quality and call routing, shared
+queues, and consolidated reporting, all from a fully cloud-based solution.
+
+Next on the product development front is a much deeper level of integration between our Virtual Office and
+Virtual Contact Center solutions. This is an extremely complex engineering task due to the tremendous
+amount of software and intellectual property associated with each of our core services. As we combine
+these services into a single integrated platform and user experience, we are distancing ourselves
+technologically from our single dimension competitors who specialize in only one of these distinct service
+areas.
+
+Fourth, we continue to make good progress on the international front, building a geographically distributed
+worldwide presence that enables us to provide seamless connectivity and superior quality of service to our
+multi-national customers using a proprietary geo-routing call handling technology. We're about to launch
+our service platform at a new data center in Sydney, Australia and have engaged with a partner there to
+work with several current customers.
+
+And our UK office has been busy with some significant wins of their own, including a world-renowned public
+research university that will soon be deploying our Virtual Contact Center solution with Zendesk Integration.
+We believe that we are well ahead of any of our competitors in terms of our ability to offer and very quickly
+deploy a complete suite of services with dedicated customer support.
+
+The mid-market and enterprise segment is very different from the SMB segment. The solutions required by
+this market segment demand a much more robust product, a stronger sales force, and a world-class
+customer service and support effort and these capabilities cannot be built overnight.
+For the third consecutive year Gartner, the leading information technology research and advisory firm,
+positioned 8x8 in its leaders quadrant of its August 28, 2014 Magic Quadrant for unified communications as
+a service multi-regional. We believe Gartner's recognition is a testament of our ongoing leadership in the
+industry.
+
+Given our continued strong quarterly performance, we're increasing our revenue guidance of FY15 to
+approximately 26% and non-GAAP net income as a percentage of revenue in the 8% to 10% range.
+Previously, we had stated that range as 6% to 9% of revenue. Now considering the quarter's results and
+where we stand in our investments to date, we are comfortable stepping that up a bit to 8% to 10% of
+revenue for the remainder of FY15.
+
+With that, I will now turn the call over to Dan Weirich who will provide you additional details on our financial
+results.
+
+DAN WEIRICH, CFO, 8X8 INC: Thank you, Vik. Our second quarter revenue growth was strong, with a
+30% increase in service revenue and 29% increase in total revenue compared with the same period last
+year. 41% of our total service revenue in the second quarter was from customers who generated more than
+$1,000 in monthly recurring revenue, or MRR, compared with 35% in the same period last year.
+As Vik noted, our sales were robust in the quarter with new monthly recurring revenues sold by our
+channel and mid-market sales increasing 59% year-over-year, representing 44% of new MRRs sold in the
+quarter compared with 33% in the same period last year. All of our sales channels experienced an increase
+in MRR sold in the quarter.
+
+GAAP net income was $1.3 million, or $0.01 per share. Non-GAAP net income was strong at $4.3 million,
+or $0.05 per share, and 11% of revenue compared to $4.1 million and $0.05 per share in the same period a
+year ago. Sequentially, non-GAAP net income as a percentage of revenue increased from 8% to 11% due
+to approximately 1% expansion in gross margin, 1% related to better optimization of our sales and
+marketing spend, and 1% related to capitalized software.
+During the quarter, we received a $1 million licensing payment related to a family of patents we sold in
+FY13. We removed the $1 million benefit from our non-GAAP net income because we consider this to be
+an isolated transaction that is not reflective of our ongoing operations. 8x8 continues to innovate and was
+awarded three patents, our 93rd, 94th, and 95th patents, in the quarter.
+
+Gross margin was strong at 72%, the highest since the first quarter of FY14. Service margin was 79% and
+product margin was negative 8%. This compares with 71% gross margin, 81% service margin, and
+negative 27% product margin in the second quarter of FY14.
+
+Cash, cash equivalents, and investments were $186 million at September 30, 2014, up $3.6 million in the
+quarter, and $7.2 million in the first half of the fiscal year. Cash flow from operating activities was $8.6
+
+Page228of290©2018Factiva,Inc.Allrightsreserved.million year-to-date. Capital expenditures were $1.5 million in the quarter, or 3.9% of revenue, and $2.6
+million, or 3.3% of revenue in the first six months of FY15.
+
+We ended the quarter with 40,434 customers, an increase of 1,094 in the quarter compared to an increase
+of 1,407 in the first quarter of FY15. The primary reason for the reduction in net customer additions
+between the first and second quarters of FY15 is because we instituted a price increase on our one- and
+two-line customers effective September 1, 2014. The price increase has been net MRR positive as we are
+able to more than offset cancellations and fewer customer additions with higher MRR.
+
+Average revenue per customer was a record at $299, up $6 sequentially, and $31, or 12%, compared to
+the same period a year ago. Monthly business service revenue churn was strong at 0.9% in the quarter
+compared with 1.2% in the same period a year ago. As Vik indicated, we expect annual revenue growth of
+approximately 26%, with non-GAAP net income as a percentage of revenue in the 8% to 10% range for this
+fiscal year. We are building a Company focused on sustainable growth with attractive margin potential.
+
+Finally, I want to thank everyone in the financial community for attending the 34th consecutive 8x8 earnings
+calls I've participated in. 8x8 has never been as strong as it is today and its best days are yet to come. I am
+very proud of what we accomplished over the 10.5 years I've been at 8x8 and look forward to watching the
+Company continue to prosper from the outside.
+
+Mary Ellen and I have been working together for the past two and half years and I have first hand
+experience to know that the Company will be in great hands under her leadership. That concludes my
+prepared remarks, and I'll now turn the call over to Vik.
+
+VIK VERMA: Thank you, Dan, and, again, thank you for your decade-long service to 8x8. Before we close
+our prepared comments, I'd like to have Mary Ellen address you and introduce herself directly.
+
+MARY ELLEN GENOVESE, INCOMING CFO, 8X8 INC: Thank you, Vik, and thank you also, Dan. I have
+had the pleasure to speak to many of you listening on today's call since we announced my new role earlier
+this month. I am very excited and honored to step into 8x8's CFO role. Dan has built a world-class finance
+organization and I enjoy working with his team.
+As many of you know, I am familiar with the Company as I have been working with the 8x8 Board since
+April 2012, and have been a member of the executive staff since September 2013. I see great opportunity
+ahead for 8x8. I believe we are in a position of strength in the market compared to our competitors.
+
+I am ready to help take 8x8 to the next level, and I believe my experience with profitable worldwide growth,
+acquisitions and integration with both domestic and international businesses, as well as my experience with
+developing vertical markets will help 8x8 as we continue to capture increasing market share. I am looking
+forward to working with Vik and the rest of the management team to continue our domestic and
+international growth. I look forward to meeting many of you in my upcoming travels for investor conferences
+and road shows.
+
+VIK VERMA: Thank you, Mary Ellen. You have our full support and confidence in your new role.
+
+In summary, we have had a strong quarter characterized by continued growth and profitability. We're
+executing on the plan we have laid out to you previously, expanding our mid-market customer base while
+increasing customer size and ARPU. While others in this space are targeting the mid-market, 8x8 has
+demonstrated proven success with a viable strategy and sustainable business model.
+
+With that, we'll be happy to take on any questions you may have for us today. Operator, please open the
+line for any questions.
+
+Questions and Answers
+
+OPERATOR: Thank you, Mr. Verma. (Operator Instructions) Amir Rozwadowski from Barclays.
+
+ARINDAM BASU, ANALYST, BARCLAYS CAPITAL: Hey, this is Arindam Basu on behalf of Amir. Great
+results. A couple of questions for me. First, this improvement in churn, is this more like a quarterly trend or
+are you seeing a structural shift as you move to larger customers?
+
+And then a follow-up to that is also on the margin guidance. Again, is this a result of the ongoing mix shift in
+the type of customers, or is that a function of tighter cost control, as well? If you could just break that down
+a bit, that would be very helpful?
+
+DAN WEIRICH: Hi, Arindam, it's Dan Weirich.
+
+Page229of290©2018Factiva,Inc.Allrightsreserved.On the churn question, last quarter we had a phenomenal figure of 0.4%. We stated to consider it to be
+approximately 1% until further notice. If you go back a few years, we were 1.7% in FY13. We were 1.3% in
+FY14. We put up 0.4% in the June quarter and 0.9% in this most recent quarter.
+
+It's primarily due to the mix shift as greater percentage of our revenues coming from mid-market customers
+is why you've seen this trend. But in addition to that, we just continue to improve our product, improve our
+deployment of our product, as well as the customer success in support of our product. So it's a combination
+of many, many things. We definitely think there is more room for improvement.
+
+If you look at it on just a macro view, the mix difference is a mid-market customer is going to churn at the
+neighborhood of 0.3% or so, from a logo count, and it does not always tie that close in at revenue. But it is
+significantly lower than a smaller customer who is going to turn at like 1.7% or something like that. Over
+time, mix shift is going to bring it down to consistently sub 1%.
+
+But as we noted in the past, we are still comfortable at the approximately 1% range. On the overall margin
+side, if you look at the two different types of revenue streams from SMB, which are customers that spend
+less than $1,000 a month and mid-market distributed enterprise, which spend more than $1,000 a month,
+we talk about something called contribution margin which essentially is our GAAP service margin less
+customer service and billing related expenses.
+For the quarter, the combined Company was 63% contribution margins this quarter. Very consistent to
+prior quarters. The delta is tiny between the two, between SMB and mid-market. SMB is a touch more
+profitable, primarily because the customer service and deployment is lower on that today because we're in
+a very much a growth mode for the mid-market side.
+
+But the delta I'm talking about is a 300-basis-point delta on it. The primary difference on the two is the
+lifetime value of the mid-market customers is much, much greater because the customers are with us for so
+much longer than an SMB customer. The mix on that is between the two is not the reason for moving up
+the guidance. It's just that as we progress through this year we've just done a little bit better than we
+expected on the bottom line, specifically in this quarter.
+
+And it was related to three things. One is we optimized the sales and marketing spend a bit this quarter. So
+we picked up about call it 100 basis points or so of improvement from the prior period. Two is gross margin
+has been moving upwards and with got a lot of good visibility on gross margin and have a lot of confidence
+in where that's going in the future.
+
+And the third is we did capitalize two software-related projects this quarter which represented a little bit less
+than 100 basis points in improvement sequentially. It's just a combination of many things is the reason why
+we've moved up the range and we tightened the range a bit for the balance of the year.
+
+ARINDAM BASU: Got it. Okay. Perfect.
+
+VIK VERMA: Thank you.
+OPERATOR: Catharine Trebnick from Dougherty & Company.
+
+CATHARINE TREBNICK, ANALYST, DOUGHERTY & CO.: Hi, thank you for taking my question. Could
+you provide any more detail on the mid-market in terms of segmentation? Are you having any more
+particular success in the financial versus healthcare? And then what would be the reasons for that driving
+that? Do you see some of your security sweet spot that you have or sweet spot adding to that? Thanks.
+
+VIK VERMA: That's a great question. Security, it is reliability, it's compliance. I think is the key things that
+we bring to the party. As you know, we have 99.997% reliability.
+
+We have FIPS, FISMA and every other alphabet soup of compliance. And just generally, we take our
+security element and we architect to the product to be highly scalable, highly secure. We've seen traction in
+the financial sector, we have seen traction in healthcare.
+
+We've seen traction surprisingly in recruiting, as well as law firms. Those have been the four verticals that
+we are starting to see quite a bit of traction in. But there are others that are jumping on board, including
+transportation and a few others. But as I said, the first few, financial, healthcare, law firms, and recruiting
+offices are definitely starting to take off for us.
+
+CATHARINE TREBNICK: Okay, thank you very much.
+OPERATOR: Michael Huang with Needham & Company.
+
+Page230of290©2018Factiva,Inc.Allrightsreserved.MICHAEL HUANG, ANALYST, NEEDHAM & COMPANY: Thanks very much. Thanks for all the help, Dan,
+and welcome aboard, Mary Ellen. Look forward to working with you. Just a few, a couple of questions for
+you.
+
+First of all, drilling into the net add number, so obviously, on the lower end it seems that the price increases
+drove some churn there, but it's great to see some replacement of higher MRR customers. When you look
+at just the mid-market segment, is there any color you can share with us that kind of helps us understand
+the number of mid-market customers that are being added and what is the trend with respect to previous
+quarters?
+
+DAN WEIRICH: Yes, Mike, just on your first point, on the net add increase, it was down sequentially,
+effectively on purpose by us. So we sell to businesses that have one employee and we sell to businesses
+that have thousands of employees. What we did is we started looking at our small customers defined as
+one- and two-line customers. They were calling customer service a whole lot more than bigger customers,
+and a combination thing and their contribution margin is materially lower than the balance of the
+organization.
+
+They were chewing up lots of time on installs and various things like that. We looked around the market
+and saw that some folks that compete in that size customers' range were charging a lot more than we were
+charging. And so we did two things. One is we raised the pricing on all of our customers that have been
+with us for more than a year that were one- and two-line customers effective September 1. And, two, our
+SMB sales team for new one- and two-line customers had to sell at a higher price effective September 1
+than they were selling pretty much for the years prior to that.
+
+And so it's a combination of -- we had a few cancellations related to the higher price increase that was
+completely immaterial relative to the overall price increase. And we had a few lapsed signups that
+effectively is the explanation for the net add piece. On the mid-market customer additions, it's something
+that we're not breaking out primarily for competitive reasons. Historically, we have provided a tremendous
+amount of information relative to some of our competitors in the market and it's something that we keep
+pretty close to our vest.
+
+We did note last quarter that the figures as of last quarter and FY end 2014 we had in the neighborhood of
+1,200 mid-market customers that were spending $3,500 per month on average, 60%-plus contribution
+margin and 0.3% churn rate. So the LTV on those customers is enormous. And we are doing really well on
+adding those customers.
+We're up 59% in the amount of monthly recurring revenue that we sold through our mid-market and
+channel sales efforts in the quarter. But just on the numbers of new logos we're adding, we're not breaking
+out that figure, but we are giving you a little insight as to what some of these look like. So last quarter we
+talked about an urgent care operator in numbers and things like that. And yesterday we just announced
+who that customer was. So you can see the type of customers that we are targeting, how quickly we're
+getting them deployed, and what services they are buying from us.
+
+MICHAEL HUANG: Got it. Directionally, if you looked at the number of mid-market customers that you
+added, was it up sequentially or are you able to qualitatively share with us that?
+
+VIK VERMA: Yes, it was up sequentially. I think in essence we were up in terms of percentage, I think it
+was 60 basis points sequentially, and then as I said, every quarter you're starting to see that number keep
+trending up.
+
+MICHAEL HUANG: Got you. And my second question, so thanks for sharing some thoughts around the
+innovations that are upcoming. Could you share any detail around some of the beta customers that are
+working with you on VCC 9.0?
+
+How big are these contact centers, and are they customers already, or are they prospects who are
+ultimately kind of playing around with VCC and ultimately accepting 8x8 once this is generally available?
+Maybe just provide a little color around that? Thanks
+
+VIK VERMA: So, one, they are big. That's always a good thing. Second, I think part of the point that you
+start to see is a steady stream of new product and new features. 8.1, I think talked to you a little bit about
+everything from local language translation, multi-chat, et cetera, et cetera. You are starting to see some of
+the other such functionality with this VCC 9.0.
+
+We have a handful of customers that we are using to basically beta. We brought in approximately 18 CIOs
+and senior IT-level folks here that had international offices, as well as domestic offices, and what we were
+noticing is that we rent them through our product road map and several of them then signed up for
+additional beta. So we are trying to do this in a very interactive process, which is exactly what you do with
+mid-market. You find a handful of representative customers, you work very tightly with them, and then you
+
+Page231of290©2018Factiva,Inc.Allrightsreserved.keep innovating very, very quickly. And I think you are starting to see the pace of our product releases is
+picking up pretty significantly.
+
+MICHAEL HUANG: Thanks so much.
+OPERATOR: Mike Crawford from B. Riley & Company.
+
+MIKE CRAWFORD, ANALYST, B. RILEY & CO.: Thank you. I was glad to see you raise the guidance on
+the operating margin to 8% to 10% this year. I'm wondering what your thoughts are, if you dare look out a
+year or two or three given likely very probable top line growth what that might translate to in terms of
+potential operating leverage, given that you already have much of your mid-market channels now in place?
+
+VIK VERMA: We're midway through the year, Mike, so we just raised our guidance, as you know, to 8% to
+10% exactly, I think, 15 minutes ago. I'm probably not ready to look at 2016 and beyond. We will probably
+provide that you towards the latter half of this year. But suffice to say, we're starting to feel good about our
+business, and I think, hopefully, you're getting the sense we tell you what we're going to do and then we
+make sure we try to give you a good sense of what it is going to be and keep trying to meet our
+expectations.
+
+MIKE CRAWFORD: Okay. Thank you. Maybe I will try to follow up, just to be a little less specific, but are
+there any factors that would prevent there from being more operating leverage as the top line grows from
+here?
+
+VIK VERMA: Not that I can think of, Mike. I think as you can see we are starting to get improvements
+across the board in everything from overall spend, as well as gross margin. I think we have the industry's
+leading gross margin and we see that actually getting better.
+
+MIKE CRAWFORD: Great, thank you very much.
+OPERATOR: Greg Burns from Sidoti & Company.
+GREG BURNS, ANALYST, SIDOTI & COMPANY: Good afternoon. I just had a question on what your
+thoughts are in terms of uses of cash, evaluations in the space of coming in over the last six months or so,
+so I would imagine that things are getting more -- potentially more attractive out there. What are your
+thoughts on M&A or other uses of cash?
+
+VIK VERMA: That's actually a great question. I think hopefully you recognize the process that we follow.
+We've been pretty darn disciplined on price. As you know, we had a reasonably decent M&A pipeline and
+we have kept churn in there what we are finding as people are starting to be a lot more amenable to
+different prices, and by different I mean lower prices.
+
+We will continue to go through a rigorous process, but the intent is to keep adding bolt on technologies that
+can keep enhancing our platform. I think you keep hearing the same common vision. We have a global
+unified platform with multiple capabilities all built in, one-stop shop, and we will keep adding to that as we
+go on. And that's essentially our M&A pipeline. But what we are trying to make sure is we keep paying a
+very fair price for what we get we get full value for.
+
+GREG BURNS: Okay, and in terms of the investments you're making to support the expansion into the
+mid-market. Do you feel like you have increased bandwidth now to handle more customers or more
+incoming volume? Like could we potentially see accelerated growth at some point based on the
+investments you have put in? Or do you feel you need to make incremental additional investments in
+certain areas of the business to continue to pursue the mid-market?
+
+VIK VERMA: All of it is, as you know, a work in progress in the sense that -- and it's all incorporated in the
+guidance we just provided. We just took up our guidance on revenue to approximately 26%. We took up
+guidance on net income to 8% to 10% for the whole fiscal year. And that incorporates the fact that we will
+continue to be investing in R&D, as well as in other areas.
+
+I think the key part for us is, I think we would like to feel we have now a differentiated platform and we're
+going to keep adding more and more features and functionalities to it so can put non-trivial distance
+between us and our various competitors. But, again, it's all incorporated in the guidance that we have
+already given you.
+
+GREG BURNS: Okay, thank you.
+
+OPERATOR: Nikolay Beliov from Bank of America.
+
+NIKOLAY BELIOV, ANALYST, BOFA MERRILL LYNCH: Hi. Good call. Thanks for taking my question. Vik,
+you took the helm of the Company about a year ago. When you look back over the last one year, what
+
+Page232of290©2018Factiva,Inc.Allrightsreserved.were the surprises? Where did you do better than you expected? (Inaudible) like coming out like as a CEO
+like a year ago and versus where you might be under performed and what you can do better?
+
+VIK VERMA: That's actually a very good question. So a couple of thoughts. One, I think the way we went
+after mid-market was SMB-plus, and I think that was where we had to make some changes in the way we
+approached it. Mid-market is a very different type of sales.
+
+You need a very different type of sales person, you need a very different type of sales engineer, and you
+need a very different type of deployment, a different level of documentation, a different level of customer
+support. A different standard and reliability, et cetera. It's not just a larger SMB customer.
+
+I think that is an area we made some non-trivial progress on. I think you can see it in two very distinct
+areas. We have put together a dedicated customer success team that basically has partnered with all of
+our major customers and we're starting to see the fruits of that both in the fact that they are providing us
+input on new products that they want and need, plus they are also upselling significantly, and then also you
+are starting to see churn stabilize.
+
+The other area we've invested very significantly in is this rapid deployment capability. As you know,
+everybody wants to go from SMB to mid-market, and I think I've made this comment that it's more than just
+putting it on a PowerPoint. You have to put very detailed design documents, you have to make sure that
+the customer's expectations are very clearly set, acceptance criteria is defined. Billing happens in a very
+structured way. Those are things that don't just happen, and is not just a simple as, okay, connect a phone
+and we will bill you.
+
+And so I think to a large degree, as you know, a lot of our competitors in this space are known for having
+large bookings, which then somehow never seem to translate into deployments. I wanted to give you very
+concrete example where a 1,400-person facility went live from start to finish in under five weeks. Actually,
+the bulk of the deployment was done in three weeks.
+
+So that is another area I think that we've added to and enhanced. What I will tell you, and I think this is one
+of the great surprises and the most pleasant surprise, some of the technology we have out here is
+unbelievable. And I think over the next few quarters you will start to see us add additional features and
+functionalities. We've had a core group of engineers working for years, and when all is said and done, at
+heart, we are technology Company. And our products are pretty amazing.
+
+I think you'll start to see more and more stuff that I think people will have a tough time kind of replicating.
+Where we can definitely do better is sales and marketing. I will tell you that we're still so-so. We're still
+learning how to sell at mid-market. We're still not at the capacity I would like, so I see a non-trivial amount
+of headroom in being able to make our mid-market sales get much, much better. So I view all of these as
+generally positive.
+
+NIKOLAY BELIOV: And to your last comment, just to clarify, you talked about on the call about optimizing
+sales and marketing investment. So you got some leverage out of that. What did you specifically do?
+
+VIK VERMA: In essence, everything from pay different quotas for new logos versus upsells to having very
+dedicated teams of sales engineers and account executives to changing quotas. It is a standard blocking
+and tackling sales 101 type stuff, and I think it's just very different from SMB to mid-market. And as I said,
+I'd like to think we've got a non-trivial amount of headroom where we can continue to get our sales
+productivity better.
+
+NIKOLAY BELIOV: Thank you.
+
+OPERATOR: Dmitry Netis from William Blair.
+DMITRY NETIS, ANALYST, WILLIAM BLAIR & COMPANY: Okay, thank you. Nice print, gentlemen, and,
+Mary Ellen, welcome to the team. Good luck with the new role, and, Dan, thanks for a good ride and good
+luck with Treasure Data.
+
+DAN WEIRICH: Thank you, Dmitry.
+
+MARY ELLEN GENOVESE: Thank you.
+
+DMITRY NETIS: Okay, real quick, a couple of questions. What was your accrued backlog at the end of the
+quarter, and how did it grow from last month, or from last fiscal Q1, I guess?
+
+DAN WEIRICH: Dmitry, we mentioned last quarter that we weren't going to provide that anymore. We
+provided it in Q4. We provided in Q1, just to illustrate to folks that we're in a transitionary period of time. We
+
+Page233of290©2018Factiva,Inc.Allrightsreserved.are migrating from the vast majority of the revenue going live within 30 days to a situation to where it didn't
+go live in 30 days, it went live in two to six months or so.
+
+We're starting to see very, very good successes of customers installing very quickly. So ChenMed is an
+example of that where they installed in 35 or so locations, 1,400 seats in a very short period of time. And so
+we just felt that the backlog figure was something we could let the folks know that we're in a transitionary
+period of time. The revenue was delayed a little bit, but we're in a situation that now that we're very
+comfortable with it and it's nothing that is great news or bad news in any form or fashion. It something we're
+just not disclosing.
+
+DMITRY NETIS: Okay, good, well, thanks for the color, though. And then, if I were to remove your
+international revenue, are you able to tell us how the growth looked like here in the US?
+
+DAN WEIRICH: Yes, so once again we have stated that acquisitions are part of our strategy. We haven't
+broken out the organic from inorganic revenue growth in the past. We do have in our tables and in our 10-Q
+revenue from Europe and Asia. There is revenue that was 8x8 customers, which are two different types.
+
+Legacy customers, there are Fortune 500 customers, there are these young, rapidly growing, recently
+public, typically Internet-based companies who grow internationally and some of that revenue is starting to
+get recorded in Europe and in Asia today. So it is not like a clean cut on exactly what was organic revenue
+from the acquired revenue, as a lot of our sales now are cross-border and various things like that.
+
+But in the March quarter the acquisition we fully annualized and you will be able to clearly see it. And as
+we've stated, and you can figure it out in our guidance that the acceleration in revenue should appear very
+loud and clear at that point in time.
+
+DMITRY NETIS: Is it fair to say your international revenue is accelerating, or the growth of that revenue is
+accelerating?
+
+DAN WEIRICH: Yes. We are seeing increases across all elements of the business. Whether it's our SMB,
+our mid-market, our international, or domestic, anywhere you look we're seeing good growth across the
+business.
+
+VIK VERMA: I'll add a little more color, Dmitry. I was just at if I just in the UK on our QBR. I think I talked to
+you about this very large deal, this is another signature deal that they won which is a very large public
+university that you have heard about. The UK market is actually a very interesting market and we're starting
+to see good growth there, and as Dan pointed out, all our channels are seeing good growth.
+
+DMITRY NETIS: Okay, very good. And last, if I may, squeeze that in, on the ARPU side you have had very
+nice sustainable at quarter-over-quarter of about $6. How should we think about that going forward? Are
+you comfortable with that $6 number going forward? Or is it going to fluctuate? Give us a sense on that.
+
+DAN WEIRICH: So we were in the $5 range for a while and we've moved it up to roughly $6 or so. Yes, I
+think pretty much, if you look at it from a net add standpoint and ARPU standpoint, it's got to be at like
+$6-plus to maintain the growth figures that we're talking about.
+
+It's not something that we like monitor and manage or quota on or commission on, it's how many new logos
+are coming in the door, but our overall emphasis is just moving the average size of the customer up, so
+ARPU is a derivative of that, and it is where the rubber really meets the road in a business like this. That's
+why we provide the metrics that we do provide and this is one of the handful or so that is extremely
+important to the business.
+
+DMITRY NETIS: Great, thank you very much. Excellent quarter.
+
+DAN WEIRICH: Thank you, Dmitry.
+
+MARY ELLEN GENOVESE: Thank you.
+
+OPERATOR: George Sutton from Craig-Hallum.
+GEORGE SUTTON, ANALYST, CRAIG-HALLUM CAPITAL GROUP: Thank you. Vik, when you were
+discussing the focus on the mid-market and the strength you're seeing there, I wonder if you could
+specifically talk about the channel partner contribution to that, and your happiness or lack of happiness with
+respect to how the channel partner program is going?
+
+VIK VERMA: That's a great question. One, we are seeing huge pent-up demand in the channel partner
+program. I think we'll see a non-trivial contribution. It is still relatively small and early stages for us on the
+channel.
+
+Page234of290©2018Factiva,Inc.Allrightsreserved.But we're starting to see several big deals come through our channel, and I think increasingly that will be a
+bigger contribution to our revenue. I actually -- it is early days yet in the sense that I think what I've been
+doing is decreasing the number of channel partners that we have. We had a lot of channel partners. I would
+rather have much more productive and much more engaged channel partners and we're starting to see
+that, and we're starting to see channel partners spend a non-trivial amount of time really learning our
+product, us training the sales force, joint marketing, all of those kinds of things. But we want to do it with
+less channel partners than more, and I think it seems solid growth; I think it can grow much faster.
+
+GEORGE SUTTON: As my follow-up, you mentioned Sydney for the first time that I've heard Sydney
+mentioned. What specifically happened there that encouraged you to move into that market, as well?
+
+DAN WEIRICH: Hey, George, it's Dan. On Australia, it's what happened, a couple of things. One is we
+have a partner that we picked up in the Contactual acquisition three years ago who had been distributing
+the product in -- the contact center product in Australia.
+
+They wanted to get a lot bigger, and so that was something that was pulling, and then we had one very
+large Fortune 500 customer of ours who was using this globally in a very big way. Kind of gave us the
+ultimatum like, get a presence in Australia or we've got to go buy from somebody else and we don't want to
+buy from someone else. Those were the two main ones, and then we do have a number of other
+customers who have a lot of call flow that occurs in Australia.
+And is a little bit away from Hong Kong where we have our Asia-Pacific data center. And so just a
+combination of those factors as to where we put our next deployment. It is going to be live imminently.
+
+GEORGE SUTTON: Perfect. Thank you.
+
+VIK VERMA: By the way, one of the things -- that is starting to be a huge competitive differentiator. We're
+seeing this more and more where one of the interesting things is a lot of companies that are approaching
+our UK office are actually US companies that have UK presence or UK subsidiaries. And then there are
+others that have, for example, Australian subsidiaries or Hong Kong subsidiaries, and they will basically
+approach us and say can you put this particular office and/or they will dictate to that office, and that gives
+us that much more tentacles into that particular customer.
+
+OPERATOR: Mike Latimore with Northland Capital.
+
+JIM FITZGERALD, ANALYST, NORTHLAND CAPITAL: Thank you. This is Jim Fitzgerald standing in for
+Mike Latimore. My question is regarding organic growth. The March quarter is going to be all organic
+growth, not including that acquisition revenue. Would you expect somewhat slower growth in that quarter,
+the March quarter, regarding total revenue as compared to earlier in the year?
+
+DAN WEIRICH: Yes. Definitely if you're comparing it to the quarter we just reported there is not an apple
+and orange comparison of acquired revenue to organic revenue. But as what we're saying is that the last
+time we provided organic revenue growth rate was in the December 2013 quarter. We gave the specific
+revenue for the UK business in the month of December that we acquired it. We closed the acquisition
+November 29, 2013. And so you've got the organic figure there, and is what we're saying is that the growth
+rate in the quarter ending March 31, 2015 will be higher than that.
+
+JIM FITZGERALD: Okay, great. And then one other quick question. I might have missed this. Are nine out
+of 10 mid-market deals still against the on-premise system vendors?
+
+VIK VERMA: Yes, actually more often than not we see on-premise as the primary competitors.
+
+JIM FITZGERALD: Okay, great. Thank you.
+
+OPERATOR: I am showing no further questions at this time. I would now like to turn the conference back to
+Mr. Vik Verma.
+
+VIK VERMA: Thank you, everybody, for listening to our presentation today. I look forward to seeing you all
+in the coming months at upcoming financial conferences and other industry events. Again, thank you very
+much.
+
+OPERATOR: Ladies and gentlemen, this concludes today's conference. Thank you for your participation
+and have a wonderful day. You may all disconnect.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+
+Page235of290©2018Factiva,Inc.Allrightsreserved.current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO iitusa : 8x8 Inc
+IN
+
+iappsp : Cloud Computing | i8394 : Computer Services | ibcs : Business/Consumer Services | i3302 :
+Computers/Consumer Electronics | i330202 : Software | i3302021 : Applications Software | i7902 :
+Telecommunications | icmsw : Communications Software | icomp : Computing | iint : Internet/Online | iinttel
+: Internet Telephony | itech : Technology
+
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | sydney : Sydney | uk : United Kingdom | apacz : Asia Pacific | ausnz :
+
+Australia/Oceania | austr : Australia | eecz : European Union Countries | eurz : Europe | namz : North
+America | nswals : New South Wales | weurz : Western Europe
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020141024eaam006v9
+
+Page236of290©2018Factiva,Inc.Allrightsreserved.

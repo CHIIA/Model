@@ -1,0 +1,72 @@
+Billing Platform will be working with Energy Australia
+
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Billing Platform will be working with Energy Australia
+
+322 words
+28 October 2014
+Investing.com
+INVEN
+English
+Copyright 2014. Fusion Media Limited. All Rights Reserved.
+
+Billing Platform is excited to announce that they will be working with Energy Australia to provide billing
+and order management for a variety of new, consumer and business products and services. Energy
+Australia is a privately held, Australian energy provider owned by Hong Kong-based CLP Group. EA
+has consumer and business clientele numbering over 2.8 million, with a $5 billion portfolio of assets.
+The company offers a large suite of services - including heating, cooling, electricity & gas, hot water
+systems, and solar panel installations.
+Energy Australia was originally founded in 1995, and has since matured into a leader within its space.
+Its $5 billion portfolio includes power plants, gas plants, mines and wind farms spread across Victoria,
+New South Wales, and South Australia.
+
+The company invests a substantial amount of recourses in sustainability through its dynamic Climate
+Change strategy - sourcing much of its power from wind energy farms and providing solar panel
+installations.
+
+Billing Platform's powerful billing engine will be responsible for processing billing transactions related to
+Energy Australia's business and residential services supporting Orders, Sales, Installations, and
+Maintenance. This new system also integrates with Salesforce.com to provide end-to-end, streamlined
+quote-to-cash-to-support processes, helping EA meet customer demands in the most efficient way
+possible.
+
+Billing Platform CTO, Leo Solomon Comments:
+
+Along with core billing and rating functionality, the platform centralizes inventory management,
+purchase orders, and invoice & statement generation and delivery in an efficient, automated set of
+processes. The Platform's unique customization capabilities provide EA with the ability to implement the
+exact business scenarios they need quickly and efficiently making their new billing and support system
+highly adaptable to change.
+
+Billing Platform is proud to be part of an initiative that will help contribute to a sustainable future, and
+support local Australian communities by creating jobs and helping customers save on energy costs.
+
+IN
+
+NS
+
+RE
+IPD
+PUB
+AN
+
+i163 : Renewable Energy Generation | iwind : Wind Energy | i1 : Energy | i16 : Electricity/Gas Utilities |
+i16101 : Electric Power Generation | ieutil : Electric Utilities | iutil : Utilities
+c22 : New Products/Services | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : C&E Industry News Filter
+austr : Australia | nswals : New South Wales | apacz : Asia Pacific | ausnz : Australia/Oceania
+Energy & Power
+Fusion Media Limited
+Document INVEN00020141029eaas0005r
+
+Page116of266©2018Factiva,Inc.Allrightsreserved.

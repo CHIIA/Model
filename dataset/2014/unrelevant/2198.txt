@@ -1,0 +1,171 @@
+Where's that bean been? Coffee's journey from crop to cafe
+
+HD Where's that bean been? Coffee's journey from crop to cafe
+BY Don Brushett, Research Associate at Southern Cross University
+WC 1,310 words
+PD 2 November 2014
+SN The Conversation
+SC CONVAU
+LA
+CY Copyright 2014. The Conservation Media Group.
+LP
+
+English
+
+TD
+
+Welcome to the third instalment in our series Chemistry of Coffee, where we unravel the delicious secrets
+of one of the most widely consumed drinks in the world. As you listen to the whirring grinders in your local
+cafe, think of the long journey those beans have made – and what they’ve gone through to be there.
+
+The vast majority of the brewed coffee we drink in Australia comes from the arabica species (Coffea
+arabica), despite 30% of world coffee production being the “robusta” variety (Coffea canephora).
+
+Coffee is a member of the botanical family Rubiaceae, which is widely distributed in the tropics and
+subtropics. Other members of the family include chincona, the source of quinine, and gardenias, the
+boldly scented ornamental.
+
+In terms of taste, connoisseurs agree that arabica produces a superior cup of coffee. Robusta beans
+produce coffee much more bitter and grainy in taste, but higher in caffeine than arabica.
+
+And as the name suggests, robusta is a much more hardy plant than the delicate arabica, and less
+susceptible to insect pests (mostly due to its higher caffeine content) and fungal infections. It also grows in
+a wider range of environmental conditions and has a higher yield per acre than arabica, so is cheaper to
+produce and buy. On the open market green arabica beans sell for around A$5 per kilogram, and robusta
+beans retail for approximately A$2.50 per kilogram.
+
+Australia only grows arabica coffee. The cool climate and absence of insect and fungal pests create ideal
+growing conditions. Flowering occurs for a period of a couple of days sometime between October and
+December, depending on spring rainfall.
+
+The coffee cherries begin to ripen in June and are harvested three to four months later depending on the
+season. The coffee fruit are a deep red purple colour when they are ready for harvest.
+
+https://62e528761d0685343e1c-
+f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/61927/width668/6hgdvzd6-
+1413428646.jpgJason Diceman/Flickr, CC BY-NC-SA
+
+Harvesting
+
+Some coffee producers in Australia still harvest beans by hand, but this is a labour-intensive and
+time-consuming process. The larger plantations employ mechanical harvesting to increase yields and
+lower costs.
+
+The harvesters themselves are quite refined bits of equipment. They straddle the rows of coffee and
+employ oscillating nylon fingers to gently shake the branches of the coffee bush. The ripe coffee beans
+that have been gently dislodged from the branch fall onto a conveyor belt which carries the beans to a
+collection hopper on the back of the harvester.
+
+Like any fruit, coffee beans are covered by a fleshy layer which is high in sugars. The the fleshy pulp is
+removed using machines that are basically rotating cheese graters. The coffee fruit is fed into the top of
+the de-pulper with water and the rotating grater strips fruit from coffee bean.
+
+https://62e528761d0685343e1c-
+f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/59174/width668/4prpxkv4-1410873133.jpg
+A coffee harvester gently teases ripe coffee fruit off the bush. Terence Wei/Flickr, CC BY-NC
+
+Page67of354©2018Factiva,Inc.Allrightsreserved.The coffee beans are sent one direction, through a gap just wide enough for them to pass, and the pulp is
+sent another direction to be composted.
+
+Drying
+
+The de-pulped coffee beans are then dried down to about 12% moisture either in the sun or in mechanical
+driers. Once the beans are dry they can be stored for years under suitable conditions before being
+roasted.
+
+To ensure that you get the best return for your effort all the process as described above must be carefully
+controlled:
+
+the fruit must not be allowed to over-ripen on the tree as they will ferment and grow mould
+
+the harvester must not be too vigorous and remove green fruit which produces a roast coffee that is
+underdone.
+
+https://62e528761d0685343e1c-
+f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/59173/width668/c6k2wgft-1410872369.jpg
+
+The processing of the coffee beans after process is critical. If coffee beans are allowed to go mouldy the
+taste of the roast coffee can be described as “earthy”. This earthy taste is unpleasant – we tend to
+associate the sensation with food that has gone off.
+
+So if the coffee producers get everything right, their beans will be clean and dry and ready to be roasted.
+The beans will come out of the de-pulper intact, and be washed and dried before mould has a chance to
+take hold.
+
+Now it’s up to the roaster to produce the perfectly roasted bean.
+
+Roasting
+
+When coffee beans are roasted the beans are heated to over 200C. Surprisingly, the difference between a
+light roast and the dark roast is only about 10C:
+
+for a light roast the final temperature is about 215C
+
+for a dark roast the final temperature is about 225C.
+
+This subtle difference in temperature makes the difference between a delicate-tasting coffee and a
+heavier, fuller taste of a dark roast cup.
+
+https://62e528761d0685343e1c-
+f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/61928/width668/n9gwnb2c-
+1413428878.jpgPete Spande/Flickr, CC BY-NC
+
+What about instant coffee?
+
+Instant coffee was invented and patented by David Strang of Invercargill, New Zealand in 1890. (Of course
+Invercargill’s other famous son is Burt Munro, the dashing motorcycle racer of The World’s Fastest Indian
+fame.)
+
+Strang produced his instant coffee using a spray drying process, much like the process used today to
+produce powdered milk. The roasted, ground coffee was extracted using water at around 80C, then
+filtered, concentrated under vacuum and sprayed through a nebuliser into a hot airstream. This process
+produced a fine powder with an average particle radius of about 300μm.
+
+Today, most instant coffee is made using a freeze drying process. This employs the principle of the
+sublimation of water (phase change directly from solid to gas) under vacuum.
+
+Frozen coffee is placed on metal trays in the drying chamber and then the entire chamber is placed under
+vacuum. The chamber is warmed using infrared radiation or by heating the trays using conduction. The
+water vapour is removed by condensation and the chunky coffee granules are removed and are ready for
+packaging.
+
+In terms of taste, what is the difference between brewed coffee and instant coffee? I invite you to compare
+the two headspace gas chromatograms below. (In headspace gas chromatography about a gram of
+ground coffee and one millilitre of water is heated and agitated, then a sample of “headspace” gas above
+the coffee is removed and injected into a gas chromatograph.)
+
+Page68of354©2018Factiva,Inc.Allrightsreserved.https://62e528761d0685343e1c-
+f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/61924/width668/d7c8pdbh-
+1413427862.png Author provided
+
+The profile on the left is of an instant coffee, while the one on the right is that of an Australian roast coffee.
+You can see that the chromatogram of the roast coffee is much more complex than that of the instant. We
+know that the depth of flavour and complexity of the taste of coffee is mostly due to the volatile
+components produced in the roasting process.
+
+The majority of the volatile compounds in instant coffee are removed when the coffee is heated under
+vacuum in the freeze-drying process. Just as the water is removed through sublimation the compounds
+responsible for the complex taste and aroma of coffee are “flashed off” as well.
+I’m sure that the atmosphere in an instant coffee factory smells fantastic, but unfortunately, those
+wonderful compounds that should be in the coffee are now lost.
+
+Further reading:Wake up and smell the coffee … it’s why your cuppa tastes so goodThe perfect cup of
+coffee boils down to four factors
+Don Brushett does not work for, consult to, own shares in or receive funding from any company or
+organisation that would benefit from this article, and has no relevant affiliations.
+
+i0100137 : Coffee Growing | i0 : Agriculture | i01001 : Farming
+
+IN
+NS mcoff : Coffee Markets | c21 : Output/Production | glife : Living/Lifestyle | ccat : Corporate/Industrial News |
+
+gcat : Political/General News | m14 : Commodity Markets | m141 : Agricultural Commodity Markets |
+magric : Soft Commodity Markets | mcat : Commodity/Financial Market News | ncat : Content Types | nfact
+: Factiva Filters | nfce : C&E Exclusion Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+PUB The Conversation Media Group Limited
+AN Document CONVAU0020141103eab20000o
+
+Page69of354©2018Factiva,Inc.Allrightsreserved.

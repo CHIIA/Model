@@ -1,0 +1,791 @@
+Preliminary 2014 SP AusNet Earnings Conference Call and Presentation - Final
+
+HD Preliminary 2014 SP AusNet Earnings Conference Call and Presentation - Final
+WC 9,391 words
+PD 14 May 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+OPERATOR: Thank you for standing by. Good morning and welcome to the SP AusNet result presentation
+and conference call for the full year ended March 31, 2014. At this time all participants are in a listen only
+mode. Today's presentation will be followed by a question and answer session. (Operator instructions).
+
+I must advise you that this conference is being recorded today. So presenting today we have Mr. Nino
+Ficca , Managing Director of SP AusNet and Mr. Adam Newman , Chief Financial Officer. I'd now like to
+hand the conference over to your first speaker today, Mr. Nino Ficca . Please go ahead.
+
+NINO FICCA , MD, SP AUSNET: Good morning, everybody and welcome our SP AusNet 2014 results
+announcement. I'd just like to start with a brief discussion on safety and as you'd know from our past that
+safety is an enormous priority, in fact our number one priority within the business. And when it comes to
+safety of our people and contractors and visitors zero injuries is really the only acceptable target that we
+maintain.
+
+Mission Zero is the headline program and it has been in place for a few years now and we've seen some
+consistent improvements in our safety record and we're very, very proud of that achievement and while
+we're a long way from that we expect to maintain that improvement in the years to come.
+
+Just moving on to our next slide in 5 and before getting to the results we were just talking about investment
+proposition and some of the key highlights and attributes which contribute to a clear and predictable and
+attractive investment proposition. So we maintain around an AUD8.2 billion regulated and contracted
+asset base and that represents critical infrastructure in energy deliver.
+
+Our asset base provides a significant predictable long term regulated cash flows or contracted cash flow.
+We do have prudent gearing metrics, we have continued access to competitive financing from a diverse
+source of debt and we have the progressive extension of our maturity profiles and that increases SP
+AusNet 's resilience to external shocks and our focus does remain on maintaining a standalone 'A' range
+credit rating.
+
+Our focused strategy on exploring unregulated opportunities whilst becoming a customer focused
+organisation provides for a strong platform for the future growth of our business.
+
+If I turn to slide 6 and just before we get into the results I would like to just briefly touch on some key
+changes through the year. And firstly we saw the sale of 19.9% of SP AusNet 's securities by Singapore
+Power to State Grid of China and that was completed on January 3, 2014. As a result on January 24, 2014
+two State Grid nominees, Mr. Sun Jianxing and Dr. Ralph Craven were appointed to the SP AusNet Board .
+
+Unrelated to the State Grid transaction on the same day, on January 24 this year, Sally Farrier was
+appointed to the SP AusNet Board as an independent Non-Executive Director to replace the retired
+independent Non-Executive Director, Dr. George Lefroy. So we look forward very much to working with our
+new directors but also take the opportunity to thank George for his outstanding efforts over a very long
+period of time.
+
+Moving across to slide 7, also we note on March 31 this year, SP AusNet and Singapore Power entered
+into a termination deed. And that was pursuant to which they agreed to terminate the management
+services agreement; with effect from March 31, 2014 for a total fee of AUD50 million.
+
+Page180of294©2018Factiva,Inc.Allrightsreserved.In addition there was some AUD7.7 million was recognised relating to IT restructure costs and other
+associated internalisation costs. All the previous employees of the external manager of SPI Management
+Services have now transitioned to SP AusNet and continue to carry out their normal activities and duties.
+
+The transaction means that from full year 2015 onwards SP AusNet no longer will pay an annual
+performance fee which yields significant savings for security holders and brings SP AusNet into line with
+our peer group.
+
+If I move across to slide 8 and turning to our advanced metering infrastructure program. Recently we
+advised the market that we'd encountered some periods of significant instability in our AMI systems or in
+part thereof. As a result we'll only have about 390,000 of our fleet of 686,000 meters, so over half of our
+meters, fully operational by the end of June 2014; by which time we would have expected to complete the
+program.
+
+So it's a very disappointing development but we do note that half that fleet is working. In recognition that
+this is a very large and complex IT project providing essential data to the electricity market and consumers
+we believe it is very prudent to resolve these AMI performance issues prior to making any remaining
+meters operational. As such we've really decided to delay these meter conversions while we address the
+system stability and scaling issues.
+
+On the next slide I will try to provide some detail around what we've achieved to date and some of the
+technical issues that are under review. I'm sure like us you'd like some clarity around costs and timescales
+and we've not yet finished our review of the program. We still need to work through a number of issues with
+our vendors and we won't speculate on this at this stage.
+
+There are a number of commercial issues to work through to determine the best strategy forward. As you're
+aware the AMI program is covered under a separate regulatory framework where we'll seek approval for
+the expenditure after it's been incurred. We'll only incur these expenditures if we consider them prudent but
+there is a risk that the AER will not provide approval. And finally in relation to customer rebates we also
+note the Victorian Government is still assessing its various options.
+
+If I go across to slide 9, this slide provides, or tries to provide, an overview of our end to end AMI system.
+The smart meters communicate with our IT systems via our comms network or WiMAX or 3G network card.
+The data from these meters is managed and processed and warehoused by our AMI network management
+system and it is passed through to a meter data management system and then finally the data is passed on
+to the market through our customer information system.
+
+At the top of that chart you will see some green call out bubbles and that provides information of where we
+are today. So we've physically installed 686,000 meters of our full fleet which is 713,000. The remainder
+being no access situations or they're outside plan coverage and we've installed all but two of the WiMAX
+towers for communication.
+
+The AMI network management system is currently achieving 97% of timely performance and either through
+the existing AMI systems for the operational meters or the manual processes for the remaining fleet 100%
+of the installed meters are providing the required information to market. However, if you look now at the
+bottom at the blue call out bubbles we are not meeting the mandate of service levels for providing 95% of
+real meter data to the market by 6.00 am the following morning and that's one example of a stability issue
+that we're facing.
+
+In particular as we've escalated the conversion of meters from installed to operational the AMI system has
+been unable to reliably perform at that scale. So it's very much a scale and stability issue. To address this
+we need to improve our reliability of comms cards. We probably need to improve signal strength at a
+number of our meter sites and work with vendors to enable reliability and timely data processing for the
+whole fleet as it's converted.
+
+In summary, it's essential to minimise the downstream data processing issue as it flows through end to end
+of that system. As highlighted in our recent ASX announcement we expect to take two or three months to
+develop a remedial strategy which will identify the additional investment required and the timing at which
+point we will further update the market.
+
+If I now go across, starting with our full year results on slide 10. Adam Newman will go through the financial
+results in detail but you will note that revenues have increased by 9.8% during the period, reflecting
+regulated price increases mainly on the electricity distribution network.
+
+The non-regulated revenue streams from the underground power supply to the Victorian desalination plant
+and new terminal stations at the AGL wind farm near Macarthur have provided a full 12 month revenue
+contribution for this year end.
+
+Page181of294©2018Factiva,Inc.Allrightsreserved.EBITDA growth was lower than in recent years due to the termination of the management services
+agreement and IT restructure and the other associated management internalisation costs. However, if you
+just stick to these one off movements EBITDA has increased by around 10.4%.
+The statutory net profit after tax has declined due to SP AusNet now recognising AUD87 million in relation
+to the amounts potentially payable in respect to the section 163AA dispute with the ATO. And the directors
+have announced a final distribution of AUD0.0418 per security bringing the annual distribution per security
+to AUD0.0836.
+
+If I go across to slide 11 we continue to provide a stable and tax effective distribution to our security
+holders. Importantly our distributions are fully covered by operating cash flows. Franking remains a
+significant and valuable component of the overall distribution accounting for around one third of the total
+distribution and remains unique to SP AusNet within the regulated utilities sector. Importantly, we expect to
+maintain a franked distribution component over time. For the 2015 financial year SP AusNet expects to
+maintain distributions of AUD0.0836 per security.
+
+We also note that the distribution reinvestment plan remains in operation for the final 2014 distribution at a
+2% discount. So with that I might hand over to Adam now to go through the financial results in a bit more
+detail.
+
+ADAM NEWMAN , CFO, SP AUSNET: Thanks, Nino. Thanks, everyone for your time today. Following on
+from when we last spoke in November I'm pleased to say that the underlying financial performance of the
+business was again solid in the second half.
+Statutory net profit for FY14 was AUD178 million however adjusting for the impact of internalisation and
+the section 163AA tax charge that we took in September net profit after tax was AUD305 million. This is
+an increase of AUD31 million or 11.7% on the prior period. Despite warmer weather and lower volumes
+revenue rose roughly AUD160 million or roughly 10%. As Nino mentioned this is driven principally by
+distribution revenue which rose on the back of an approximate 14% tariff increase in calendar year 2014.
+It's worthwhile noting that we had an increase in desalination revenue for the period of AUD10 million. We
+also had an increase in the net solar revenue of AUD24 million year-on-year. Gas revenue included
+AUD25 million of customer contributions versus AUD4 million in FY13. And AMI revenues for the period
+were up AUD22 million on last year.
+OpEx increased AUD62 million. Other than labour, IT and select solution costs which we highlighted at the
+half we also saw an additional AUD8 million provision that was taken in relation to remediation of
+non-operating gas sites. AUD5 million of costs associated with a Company-wide ERP program and an
+increase in visitation and asset management costs of around AUD5 million.
+
+It's probably worthwhile pausing just for a second there, if I can bring you up to speed with the three tax
+cases that we discussed at the half year. In relation to the 163AA case, the Full Federal Court found
+against SP AusNet in a two to one judgment. Subsequently we have sought special leave to appeal to the
+High Court and we expect to hear in August if that application was successful or not. If ultimately we prove
+unsuccessful in relation to this impost net cash exposure as at March 31 is AUD56 million.
+
+Secondly, in relation to the copyright case the Federal Court found in SP AusNet 's favour in March.
+Subsequently the ATO has appealed to the Full Federal Court and a hearing date has been set as
+November. The current receivable we have on the books in relation to this case from the ATO is AUD17
+million and our net cash exposure if we are ultimately unsuccessful is AUD27 million as at March 31.
+
+Lastly, in relation to the ATO audit; it is still ongoing and not expected to be finalised until the second half of
+this calendar year and there's not much more I can allude to in relation to that.
+
+If we can now turn to slide 14, the gross capital expenditure slide. At the half year we provided guidance of
+AUD880 million in spending for financial year 2014. We ended up higher than this at AUD922 million.
+This was due principally to the gas business and earlier than expected customer contribution in relation to
+the regional rail link project and in distribution we saw accelerated bushfire mitigation work.
+Our guidance for FY15 CapEx spend is approximately AUD865 million and this excludes any additional
+AMI remediation CapEx.
+
+If we can turn now to slide number 15, we were pleased to see strong underlying cash performance with
+operating cash flows up 28%. This allows us to satisfy distribution, cover our maintenance CapEx and fund
+a portion of our growth capital expenditure. Put another way 50% of our total CapEx was funded by cash
+flows from operations after distribution.
+
+Page182of294©2018Factiva,Inc.Allrightsreserved.Please note that the internalisation payment due to Singapore Power was made in early April and will
+therefore be reflected in next year's cash flows.
+
+If we move to slide number 16, our regulated and contracted asset base growth, you can see there on the
+slide that this year we've broken down RAB by network and we've highlighted our contracted asset base.
+This comprises primarily the desalination investment of roughly AUD230 million and numerous smaller
+investments.
+
+Our asset base growth has averaged around 9% since FY10; this has been driven primarily by spending on
+AMI, our desalination investment and bushfire mitigation and asset replacement. Given the strong levels of
+CapEx in recent years we anticipate a moderation in spending growth going forward. This is reflected in the
+updated guidance of 6% growth from FY14 through to FY17. This guidance excludes any additional AMI
+remediation expenditure again.
+
+If we can now turn to slide 17, which is revenue profile and regulated investment, we thought it might be
+useful given the RAB growth that we've highlighted on the previous slide just to reinforce our regulated
+revenue profile and the impact of indexation.
+
+This slide shows the revenue profile of AUD1000 invested over the 50 year life of a regulated network
+asset. Look, I appreciate that there's quite a bit of information here so we've also included a table in the
+appendix for those who prefer to look at the numbers.
+
+Indexation reduces cash returns through lower regulated revenue for the first 11 or 12 years, after which
+this reverses and starts to add to revenue. You can see this on the graph where the black line representing
+regulated revenue crosses above the blue bar at about the 11 or 12 year life mark for an asset.
+
+This highlights the timing lag between the benefits of CapEx investments and when they flow into revenues
+as a consequence of indexation. But in summary returns on RAB are not lineal and the regulatory regime is
+designed to spread them over a long time frame. Thus, in the initial phases of an elevated CapEx program,
+like we've been undertaking in the past four or five years, returns are often less given upfront funding
+needs.
+
+If we can now move to slide 18 which is our diversified debt portfolio. And our focus remains on maintaining
+our credit metrics, as Nino mentioned earlier, that provide access to diversified sources of debt and cost
+effective rates to support regulatory outperformance.
+During the year we raised AUD1.7 billion in funds to support the business needs and repay maturing
+facilities. We were also able to extend the tenor of the debt portfolio to 5.4 years.
+We also executed AUD2.3 billion of transmission three year swaps late last year for the period April 2014
+through to April 2017. Given interest rates have fallen since the previous TRR regulatory reset in 2007 the
+swaps were executed at a significantly lower interest rate than the swaps for the previous TRR.
+The AUD200 million in bank debt that's seen on the chart was repaid in April of 2014 utilising a new
+AUD450 million bank debt facility established in March. We have a AUD400 million multi-term note due
+for repayment in November, and currently have AUD409 million of cash on hand.
+
+If I move now to the last side in the financial section, slide 19, on our fundamentals, you will note that
+gearing has increased from 58% in FY13 to 62% in FY14. The key driver of this movement has been
+depreciation in the Australian dollar during the period, and as you know, we hedge all of our accounting
+exposure on foreign debt when it's issued, and as a result there's offsetting derivative movements in the
+balance sheet which are not captured in this net gearing calculation.
+
+Probably the only other thing of note that I'll point out on this slide is in relation to the interest cover at the
+end of March. That's reflective of the charge in relation to the payment to Singapore Power . If you back
+that out it's more in line with 2.7 times.
+
+So in conclusion, SP AusNet remains on a solid financial footing to support both future investment in our
+asset base and distribution. I'll now hand you back to Nino to provide an update on our operations.
+
+NINO FICCA : Thanks Adam. I'll go to slide 21 initially and really this is to give you an overview of what's
+been happening on each of the three networks and within Select Solutions over the course of the year.
+
+On slide 21, just remind ourselves of the scale of our business and the fact that it covers electricity
+distribution, gas distribution and transmission. We do cover 1.3 million customers between electricity and
+gas distribution, we cover the whole of Victoria with our transmission network and 100% of our assets are
+owner/operated by ourselves.
+
+Page183of294©2018Factiva,Inc.Allrightsreserved.On slide 22, just to profile the regulatory revenue splits and the regulatory resets for the individual
+networks. Particularly of note for transmission we're currently operating in a three year transitional period
+where we transition to the new AER guidelines and that was part of the Australian Energy Markets
+Commission process. So that transitional period will apply through till March 31, 2017 and then five year
+periods we would apply beyond that period.
+
+The new AER guidelines, particularly the WACC or rate of return reforms, will apply to us for the first time
+in our distribution price review which starts on January 1, 2016. We are well underway in our preparation
+for that electricity distribution price review between 2016 and 2020. Our submissions are due early 2015.
+
+I'll now take you to slide 24 and start with electricity transmission network. It has benefitted from high
+revenues under the annual regulated revenue reset and from growth in the unregulated and contestable
+transmission projects. We continue to see new opportunities by leveraging our transmission capabilities.
+In January this year we signed an agreement with AEMO, the Australian Energy Markets Operator, to
+install and operate a third transformer at the Heywood terminal station which is the interconnector between
+Victoria and South Australia. Importantly, the project was contestable and SP AusNet submitted a
+successful bid to AEMO to undertake the development and ownership of that asset.
+
+Work is also continuing on major CBD station redevelopments at our Richmond facility, entering a very
+heavy construction phase, while site demolition works have recently completed at our Brunswick facility.
+In the full year 2014 SP AusNet recovered AUD8.44 million in relation to the transmission service target
+performance or the way our transmission network performed via its incentive scheme, and expects to
+recover around AUD10.76 million in 2015. And that underlines the performance of our transmission
+network.
+
+During the period, the AER handed down its final decision also on the transmission revenue reset for the
+2014 to 2017 period, and I'll just go to that on the next slide and just highlight how that's turned out for us.
+
+So if you go to slide 25, this decision for this three year period was the last AER decision under the existing
+regulatory framework that applied prior to the major reforms that were implemented by the AEMC or the
+Australian Energy Markets Commission. As such, the AEMC decided that the current decision cover that
+shorter three year period and that was in order to accelerate the application of the new national electricity
+rules to our business, to SP AusNet transmission business in or commencing April 2017.
+
+Importantly, the AER has provided funding for key transmission projects, particularly the replacement and
+refurbishment of several major terminal stations which underpin the electricity supply to the Melbourne
+CBD.
+
+In addition to the existing incentive schemes, the AER also introduced a new incentive scheme called the
+Network Capability Improvement Parameter and made some alterations to the existing scheme. So some
+further details are in the appendices as to how those schemes work.
+
+If I move across to slide 27 on our electricity distribution network. So revenues from the electricity
+distribution network increased as a result of the regulated price increases, but you'll note volumes continue
+their downward movement and there was a decline in the period of about 1.9%. So we've still seen --
+witnessing change in customer behaviour and technology and also warmer winters was also a significant
+contributor to that lower average volume during the first half of 2014 at least.
+
+In February in Victoria we had quite a significant heatwave and we did see volumes spike and the network
+recorded its highest peak volume since 2010. I think importantly despite that heatwave, the network
+performed very strongly and highlights the significant investments we made over the past few years and
+enable energy to be supplied safely and reliably in very difficult periods, so a significant improvement over
+that period of time.
+
+In terms of the Kilmore East class action, I don't, in fact I can't speak a great deal more at length on that
+matter other than to say the current court timetable indicates that the hearings would conclude by the end
+of June, and we'd also expect a decision in the early part of next year. We also expect the Murrindindi class
+action to commence in 2015 and there's a bit more information included in the appendices on those two
+cases.
+On slide 28, just focus on a couple of network related issues and particularly solar penetration's always of
+interest and regarding to demand as well. So around 10% of our network customers have solar installed
+and often times we hear how effective solar is at reducing costs to consumers. However, any reduction in
+a particular customer's bill due to solar exports is recovered by increased tariffs in everyone else's.
+
+Page184of294©2018Factiva,Inc.Allrightsreserved.If you look at this slide it particularly highlights that the solar is ineffective at mitigating peak demand, and
+you'll see the solar peak production period is around 12.00pm, about the middle of the day, and whilst
+peak consumption really is about 6.00pm when most people arrive home from work and they switch on
+their air-conditioners and TVs et cetera.
+
+We've also done a bit more analysis from our metering data, from our AMI metering data, which indicates
+consumers with solar have a higher peak than consumers without solar, so it's an interesting correlation
+that we're starting to see.
+
+If I move to slide 29, you can see from this slide there's a strong correlation between summer temperatures
+and peak demand, and whilst energy volumes have been declining in recent years, peak demand
+continues to rise, it increased by about 0.8% per annum between 2009/2014. This is mainly as a result of
+increased penetration of air-conditioning.
+
+Our analysis also indicates that even when we weather normalise the data, peak demand is still indicating
+other factors such as customer growth and larger houses are also driving peak demand.
+
+As part of managing network peak demand, we are trialling several demand management options. These
+include the 10 megawatt inverter generation system, a one megawatt grid-level battery storage pilot and a
+residential solar PV and storage trial and some other demand management initiatives that support the
+network by reducing commercial and industrial demand at periods of high peak.
+
+If I can move onto slide 31 and focus on our gas distribution network. Connections continue to be very solid
+in terms of their growth. We added another 13,000 customers or around 2.1% which is a good strong
+growth in our gas distribution network. However, volumes were down by 7.5%. Underlying that, there's a
+slowing economic activity of our industrial customer base decline by about 10%. That accounted for about
+half the volume decline during that period.
+
+Whilst the decline in the industrial consumption was a key driver in the volumes, it has minimal impact on
+revenue as the industrial prices are set based on a maximum demand, so industrial customers accounts for
+about 50% of the gas volumes. However, that comprises less than 6% of the total revenues. The remainder
+of the volume movement is predominantly due to warmer weather which saw record temperatures in
+September 2013 and resulted in lower residential volumes.
+
+If I go to slide 33 and touch on Select Solutions, you will note that Select Solutions recorded a decrease in
+EBITDA during the period. This is due to a prior period accounting adjustment and a changed contract
+profile.
+
+During the period, Select was able to win new contracts in contestable metering and asset solutions, and
+SP AusNet through Select acquired Geomatic Technologies for AUD27 million. Geomatic is a leading
+national provider of IT integrated solutions and services. It leverages advanced mobile and spacial
+technologies.
+
+Having covered off the networks and Select, if I move to slide 35 and just focus briefly on our strategy. The
+underlying business continues to perform strongly, supported by an expanded asset base and strong
+cashflows. We remain quite focused on the changing operating environment, technology and regulatory
+change in our key relationships with stakeholders to deliver security holder value.
+
+Our continued transformation into an organisation that can better deliver value in the core business and
+explore unregulated growth is taking shape, so increasingly we are becoming a more customer-focused
+organisation. I'm quite passionate about this direction, and I'm confident that our strategy of transformation
+will deliver real value to our security holders.
+
+Now I'll just conclude on slide 36 with an outlook. So looking forward, our regulated networks underpinned
+by continued investment are in very good shape, enable us to provide distribution guidance for the full year
+2015 of AUD0.0836 and continued regulated and contracted asset base growth of about 6.5% till full year
+2017, whilst maintaining some capacity in the balance sheet to support future growth and unforeseen
+circumstances.
+
+So with that, I'll conclude my presentation and Adam's and ask for any questions.
+
+Questions and Answers
+
+OPERATOR: Thank you. We'll now begin the question and answer session. (Operator Instructions). Your
+first question comes from the line of Hugh Morgan from Deutsche Bank . Please go ahead.
+
+HUGH MORGAN, ANALYST, DEUTSCHE BANK : Oh good morning Nino, good morning Adam. A couple
+of questions from me around the issues that you're facing with the AMI program. Nino you mentioned that
+
+Page185of294©2018Factiva,Inc.Allrightsreserved.you're working with vendors. Is there any ability or any recourse where some of the additional costs could
+be shared by vendors or are we still too early in that review stage to get a sense where the issues might
+lie?
+
+NINO FICCA : Oh Hugh our focus at the moment really is on dealing with the challenge that we have with
+our vendors. It's really about getting that stability issue and that scaling issue resolved. Any other decisions
+we'll face down the track, but our primary focus is dealing with getting a working system stable at the scale
+that we need it.
+
+It's important to emphasise it is working well over the halfway mark, so the near term issue is to get the
+stability at the full fleet.
+
+HUGH MORGAN: Just another one if I could around the AMI just I guess to try and get a better sense of
+exactly how these issues have come about. Is it a geographic issue where certain towers just aren't
+performing up to scratch or is it more that perhaps each tower is just being overloaded, for want of a better
+term, and needs to have that improvement in signal strength? How is the geography, if I can use that word,
+of the issue looking?
+
+NINO FICCA : Look it's potentially one area that we need to look at, but the design of the system obviously
+when the solution or the technology was selected five, six years ago, we thought we had good coverage.
+It's an area we're focusing on, as I said, so we're looking at the signal strength increase in some areas, but
+there's no one single area that we highlighted being a silver bullet here. There's a number of things that we
+need to deal with. It's an end to end solution so we need to focus on other areas as well as that signal
+strength area, but that is one area certainly we're looking at Hugh.
+
+HUGH MORGAN: I guess just finally, I mean obviously at the time that you chose the WiMAX technology
+that was a different technology that some of your peers in Victoria have elected to use. You are still
+confident that that technology can deliver what is required of the AMI program?
+
+NINO FICCA : Sure. I think at the time our belief, and we have no other motivating force, was that it
+provided the best solution to achieve the mandated requirements that were outlined by the government and
+still remain of that view.
+
+Obviously over the five year period since it's happened, if you're making that decision today you might do
+different things. I don't know and I wouldn't speculate, but we remain confident that this would be the -- our
+solution still maintains it meets all the obligations and just we're working towards that now.
+
+HUGH MORGAN: Okay, great, thank you.
+
+OPERATOR: Your next question comes from the line of Chris Laybutt from JP Morgan . Please go ahead.
+
+CHRIS LAYBUTT, ANALYST, JP MORGAN : Oh good morning all, just a quick question on tax. I just
+wanted to ask your views on the announcement from Spark last night in relation to their 974 case and
+they've obviously had a bit of a win there. Do you think that'll impact your case and has any bearing on SP
+AusNet tax position and I'm just wondering whether you could possibly expand on what we can expect
+coming up and timing and I guess various issues like that?
+
+ADAM NEWMAN : Hi Christopher it's Adam here. Look, obviously we saw the announcement from Spark
+overnight. They're a bit further down the path. We're obviously still in an audit stage with the ATO and
+nothing's been finalised and not expected to be finalised until later this year. So I'm not sure that we're
+really in a position to be able to comment whether that's a positive or a negative for us, and their fact
+patterns may or may not be a little bit different from our position as well.
+
+CHRIS LAYBUTT: Fantastic, thank you Adam, and maybe just one follow up question for you unrelated,
+just in terms of your net finance charges which looked very good in the second half. I'm just wondering if
+we took a run rate from the second half and applied that moving forward, is that the right number that we
+should be using in terms of finance costs across your debt portfolio?
+
+ADAM NEWMAN : Yes, look obviously the big thing that's happened is the TRR swaps in that interest rate.
+I mean they only happened really towards the back end of the year so the run rate for the full year won't
+necessarily reflect the impact of the TRR swaps. I don't want to go into all of the nitty-gritty of it, but if you
+looked at the decisions and we've got a slide on the back that shows that previously -- there is free rein
+under the previous TRR, was roughly 6% and the current one was 4.3%.
+
+The market risk premium was 2.48% this time was 2.11% last time, mindful of the fact that the regulator
+has a 10 year look through process that it uses. This was for a three year transitional reset.
+
+Page186of294©2018Factiva,Inc.Allrightsreserved.If you work across those, mindful of the fact that it's only part of our debt portfolio, that's probably a better
+way of trying to get a handle on where interest charges are going then using the second half run rate I
+think.
+
+CHRIS LAYBUTT: Very good. Last time you provided some colour in terms of consensus and a little bit of
+guidance. I'm just wondering whether we could tease a bit out of you today or not.
+
+ADAM NEWMAN : Yes, look I think last time the guidance was at the half and I think that we've looked at it
+now and it's obvious the gap has closed. As you know with guidance it can vary, but it's certainly getting
+within ballpark now.
+
+CHRIS LAYBUTT: Thanks Adam, that's great. Thank you.
+
+OPERATOR: Your next question comes from the line of Ian Myles from Macquarie. Please go ahead.
+
+IAN MYLES, ANALYST, MACQUARIE EQUITIES: Hi guys, just can we go back to AMI firstly. Can you just
+give a bit more clarity at what part of that chain which you present on page 9 is the actual system breaking
+down? Is it actually in the collection of the data or is it actually in the management of that data in the data
+management system?
+
+NINO FICCA : Ian it's Nino. Firstly, when you say it's breaking down, it's actually working well for 390,000
+meters so it proves its way through. The issue is its scalability and it doesn't -- using your words, it doesn't
+break down per se in any one location, it's how it accumulates those events through that end to end
+process.
+
+So, as I said, the best way for me to answer, it's an immensely technical issue and I don't profess to be an
+expert and nor do we want to necessarily go through it today, but it is an end to end process and there is
+no one single fix. So I can't point to one location and say this is where -- if we fix this it would fix the
+remaining fleet of meters.
+
+So the most responsible thing to do is to take the approach that we believe is quite prudent and sort of sit
+back from it, have a think about how we do this over the next few months and we'll certainly clarify that in
+coming months.
+
+IAN MYLES: Okay. From July 1 obviously you've meant to have delivered this program. How much
+revenue's at risk or is there an additional cost burden to maintain a certain level of service even if you
+haven't met that requirement?
+
+NINO FICCA : In terms of the costs going forward, we will have a lot of work done around the remediation
+in what needs to be done to make this fully operational. I've got Alistair Parker here who's probably got a
+better hand on the regulation side who might be able to help as well Ian.
+
+ALISTAIR PARKER , GENERAL MANAGER, ASSET MANAGEMENT, SP AUSNET: Yes I guess one cost
+we'll continue to incur will be meter reading but that's about AUD3 million or AUD4 million a year so it's
+not hugely material setting aside the remediation. The government, as we flag in the slides, is speaking
+about a customer rebate, but the nature of that hasn't been settled yet. So those are really the two things I
+would highlight additionally.
+
+NINO FICCA : Yes other than that I don't think there's anything else that we're aware of.
+
+ALISTAIR PARKER : No.
+
+IAN MYLES: Okay. Just a couple of other questions if I may. You make a comment about the electricity
+distribution, I think it's slide 29, and you provide the peak demand. I was wondering how close is the peak
+demand actually to the system capacity peak because you've been investing a lot in this network and
+growing this network, so it sort of becomes a little bit difficult to think whether the network's being stressed
+or not?
+
+NINO FICCA : Actually I might -- Alistair's here, he can probably help with that as well.
+
+ALISTAIR PARKER : Yes, look we came close in a number of areas over summer too , because it's local
+issues that -- it's a little bit misleading to talk about a single network peak. We're actually concerned with
+the flows over the (inaudible) network and I would say we were in good shape this summer, but we didn't
+have fat there in the network. We were able to deal with a few incidents but largely we performed well.
+
+So there's not -- if you look at that, there's not 200 or 500 megawatts of spare capacity there, we run it
+pretty tight.
+
+Page187of294©2018Factiva,Inc.Allrightsreserved.NINO FICCA : I think I'd say from my point of view, and I do look back over a long period of time, if you go
+back quite a number of years the events that we had in January this year which were 40 degree days plus
+would have probably seen significant outages not only in our network but others but particularly in ours. As
+Alistair said, these are very -- at times can be very local issues.
+
+Having done a fair bit of reinvestment, correctly to your point, while it wasn't an easy few days but the
+network hung together. There were certainly some minor outages and some issues for customers which we
+had to manage, but clearly the investments are paying off in terms of the performance of the network.
+
+IAN MYLES: For the final question, just on your dividend being a flat dividend, it breaks from pretty much
+being inflationary growth in the past few years across the industry, and I was wondering should we be
+interpreting that that more is a signal of where you see the potential outcomes of regulatory resets and
+you've been conservatively positioning your balance sheet?
+
+NINO FICCA : Look I might start. From my point, I totally understand the question and appreciate it. I guess
+our view's always to look at -- and particularly around yield growth, but our view's always been to look at
+this in a long term sustainable position. This year we've got some one-off expenses or some one-off issues
+around the MSA or the internationalisation, some uncertainty around tax litigation and AMI. We've still got a
+significant -- I think as Adam said, in excess of AUD860 million CapEx program.
+
+We still maintain a focus on an 'A' range credit rating which we think has some good value to us and
+therefore managing those credit metrics is very important. So in balance we think it's a prudent place to be
+in terms of having that guidance at AUD0.0836. I wouldn't overly interpret, in my view, in terms of being an
+ongoing long term trend. These are matters that we're dealing with currently and, as I said, our focus
+usually is around and historically has always been on a long term sustainability of our distributions.
+
+IAN MYLES: Okay, thank you very much.
+
+OPERATOR: Your next question comes from the line of Paul Mason from Royal Bank of Canada . Please
+go ahead.
+
+PAUL MASON, ANALYST, ROYAL BANK OF CANADA : Hi guys, I just have a question on the slide about
+your RAB growth and the contracted transmission RAB. So my -- well just what I understood to be the
+contracted RAB was the desalination line which was about AUD230 million and then there's some terminal
+works at Brunswick Terminal.
+I thought the timetable for that was only going to be about AUD110 million spent in FY14 and then the
+remainder of the upfront CapEx in 2015. So could you fill the gap for me on what the remaining AUD300
+million odd of contracted assets is in that part of your RAB?
+
+ADAM NEWMAN : Yes hi it's Adam here. The detail you're correct, it is a variety of other contestable
+investments in the transmission space. It's not Brunswick. Brunswick doesn't fall into that particular
+category so things like the Tyrone Terminal Station which is a connection to the Macarthur wind farm. So
+there's nothing particularly material, they're in the AUD20 million to AUD30 million range and, as I said, I
+mean you can work out the maths in terms of what that -- desal is the largest one, but Brunswick isÂ not in
+there.
+
+NINO FICCA : I might just add just some background for those who don't appreciate maybe that in Victoria
+it's a very unique arrangement where our transmission growth-- so SP AusNet largely manages the
+replacement of its existing asset base. Growth is determined by an independent planner. AEMO in Victoria
+perform the planning function.
+
+Some of that planning function we do as a matter of course because of its value -- its monetary value.
+Other projects are contestable and goes out to the marketplace. So since our privatisation that process has
+been in place. So there's an accumulation of a number of AUD10 million to AUD20 million to AUD30
+million projects that have been accumulated over that period of time which we've successfully won. So
+they don't roll into the asset base. They become contracted 25, 30 year take-or-pay type contracts.
+
+PAUL MASON: Just a follow on question on that -- so the returns on that are they more akin to what you
+guys got for the desalination line or should we think about the returns on those assets as basically in line
+with your transmission RAB returns?
+
+NINO FICCA : We don't normally disclose the margins on those external contracts. There would be-- the
+floor to those would be similar to the transmission review but some of those may have some upside
+potential.
+
+PAUL MASON: Alright that's it from me thanks.
+
+Page188of294©2018Factiva,Inc.Allrightsreserved.OPERATOR: Your next question comes from the line of David Leech from UBS . Please go ahead.
+
+DAVID LEECH, ANALYST, UBS : Hi, thanks. Just a couple of quick questions from me too and I guess I
+just wanted to follow on from the last one and ask about those assets. They're included in the RAB
+calculation or the graph there but they're not actually technically part of the RAB, is that what you're
+saying?
+
+ADAM NEWMAN : Yes that's correct.
+
+DAVID LEECH: Okay good, thanks. Secondly I guess I just wanted to ask about the CapEx for the year
+ahead which is broadly -- could you just outline where that is? It was a little higher than we were looking
+for.
+
+ADAM NEWMAN : The question is the spending for --
+DAVID LEECH: Yes, the AUD800 and something million that you'll be spending this year I just wondered
+broadly if you could outline which of the three segments; where it's going to fall? Like will it be in
+transmission and distribution, gas distribution or electricity distribution?
+
+ADAM NEWMAN : Yes in terms of the step up in the year, the majority of the increase is actually in -- well
+you can see it from the graph there that the majority of the step up is in relation to transmission and less of
+a growth in distribution. Sorry I'm looking at the wrong way around -- I'm looking at 2015 ---yes so you're
+looking at the spend for 2015 sorry?
+
+DAVID LEECH: Yes I was just trying to understand where the CapEx in 2015 was going to be spent in
+total. What percentage of it was going into transmission? What percentage of it was going into electricity
+distribution? What percentage of that total was going into gas distribution?
+
+ADAM NEWMAN : We don't really get into that level of guidance but it would be fair to say with the
+terminals station rebuilds that we're going through, a larger proportion of it is going into transmission.
+
+NINO FICCA : David it's Nino here. What Adam just finished off with is right. We've got three large station
+-- terminal station rebuilds and by their very nature as we've discussed before, they're quite lumpy. They'll
+-- once they're done they won't be done for another 40 odd years. So in the shorter term they'll be a
+probably a higher amount in the transmission segment than otherwise would be on normal basis I would
+imagine.
+
+DAVID LEECH: Good that'll do me. Thank you.
+
+OPERATOR: Your next question comes from the line of Baden Moore from CLSA. Please go ahead.
+
+BADEN MOORE, ANALYST, CLSA: Thanks guys. I was just wondering on your flat distribution guidance
+you mentioned that there were some one off impacts factored into the guidance. Can you confirm then that
+if you were as successful with the ATO in August that I should be factoring in that the one off impact would
+effectively fall straight through to distributions?
+
+I had one other question on your cash flow coverage of interest. You mentioned that it's 2.5 times but
+ex--splitting one offs probably 2.7 times so continuing to improve. Can you give some guidance on what
+you think is an appropriate cash coverage of interest? I mean assuming you get through some of these one
+off items does that imply a step up in distributions or can you talk to that a little bit please?
+
+NINO FICCA : I might just start and hand over to Adam but certainly from a distribution point of view -- from
+a policy perspective we don't have a ratio that we use but certainly the directors will always at the half and
+full year determine the applicable distribution and that's always been the case. Our principal policy is to
+cover off maintenance CapEx and a proportion of our growth CapEx. So I wouldn't draw a direct linear
+correlation that you've drawn but as I've said at the half and full year the directors will determine that
+distribution. In terms of the cash coverage I might ask Adam to help with that.
+
+ADAM NEWMAN : Yes so interest coverage ratio obviously is part of our overall credit rating. They target
+2.75 times or above and so from our perspective that's where we'll be targeting to be able to be above that
+level going forward.
+
+BADEN MOORE: Thanks guys.
+
+OPERATOR: Your next question comes from the line of Simon Chan from Merrill Lynch . Please go ahead.
+
+SIMON CHAN, ANALYST, BANK OF AMERICAMERRILL LYNCH : Hi guys I've just got one question. Nino
+can you just remind us when we're expected to-- sorry when you're expected to find out whether or not
+you're successful on those disallowed AMI cost appeal in the Federal Court?
+
+Page189of294©2018Factiva,Inc.Allrightsreserved.NINO FICCA : Again there is a broad sort of approach to this whether it be with the AER or the court
+process. Now I might ask Alistair just on that court process?
+
+ALISTAIR PARKER : Yes my understanding is the hearing date was put back to August. We're still actually
+awaiting part of the Tribunal decision and that will really determine the timing on the court case itself. So it's
+a got a little way to go.
+
+SIMON CHAN: So you're only looking to appeal about half of that and you've just decided to cop it on the
+chin for the remaining what AUD45 million or so. Is that right?
+ALISTAIR PARKER : Yes we've persisted in a claim for I think AUD43.5 million and the remainder we may
+choose to re-litigate with the AER in future applications but not through the appeals process.
+SIMON CHAN: Okay so of that total amount of AUD89 million, how much of that cost is CapEx and how
+much of that is OpEx related?
+
+ALISTAIR PARKER : Two-thirds CapEx.
+
+SIMON CHAN: It's all CapEx?
+
+ALISTAIR PARKER : Two-thirds CapEx.
+
+ADAM NEWMAN : Approximately.
+
+SIMON CHAN: Okay. Alright that's all I've got thanks.
+
+OPERATOR: There's one question remaining in queue. (Operators instructions) We will now go to a
+question from the line of William Allitt from CBA. Please go ahead.
+
+WILLIAM ALLITT, ANALYST, COMMONWEALTH BANK OF AUSTRALIA : Thanks guys. Just a question
+on-- back to distribution policy. Obviously a big step up or maintaining a high level of CapEx next year and I
+think it's almost 60% of the CapEx you're guiding for the next three years. It kind of suggests that on this --
+on your new distribution policy of paying out operating cash flow less maintenance, less a portion that
+there's going to be a pretty substantial step change in available free cash from at least the years 2016/2017
+assuming earnings don't come off a cliff.
+Does that sort of lead to a situation where we are going to get much more lumpy distributions? I realise it's
+sort of a new policy however generally you see fairly consistent growth and that's why it's sort of interesting
+to see today that there's no growth. I understand you've got a high amount of CapEx but should we start
+sort of factoring in that there is going to be much more -- I wouldn't call it seasonality but variability
+year-to-year?
+
+NINO FICCA : Will it's Nino here but no I wouldn't be saying that again. Again our approach usually is to
+focus on the long term and having a steady outlook and we'd say even though there's not a 2% increase
+and certainly understand the issue around the lack of growth in that but over the longer term we would
+prefer to much have a stable outlook in terms of our distribution profile.
+
+WILLIAM ALLITT: Even with sort of CapEx coming off quite substantially in 2016 and 2017?
+
+NINO FICCA : Again we're probably not going to forecast a great deal in terms of what distributions would
+look like then but we would typically look for a fairly consistent profile. I wouldn't expect us to -- we've never
+provided lumpy sort of approach to distributions. I can't see that happening now.
+
+WILLIAM ALLITT: Okay. Thanks guys.
+
+OPERATOR: Your remaining question in queue comes from the line of [Lachlan Kerr] from Aberdeen Asset
+Management . Please go ahead.
+
+LACHLAN KERR, ANALYST, ABERDEEN ASSET MANAGEMENT : Hi guys. Just two quick questions for
+me. Just firstly after some colour around the role that State Grid has played just since the two Board
+members came on in January? Then secondly just on slide 15 you spoke to about funding CapEx around
+the 50% level. Is there scope to increase that and where do you see that ratio going in the medium term?
+
+NINO FICCA : I'll take the first one Lachlan. The role of State Grid really has been limited to Board
+participation. So as I outlined there's two nominee directors from State Grid being Mr. Sun Jianxing and
+Ralph Craven . I think pursuant to the FIRB process one of the directors was an Australian resident and
+citizen and that is Ralph Craven who is known to the industry and has been involved in other utilities
+previously and I think was previously Chairman of Ergon.
+
+Page190of294©2018Factiva,Inc.Allrightsreserved.So they're involvement really has been a few Board meetings and active participation, learning about the
+environment -- certainly Ralph is very aware of that and Jianxing is learning to understand our business as
+well but other than that it's been restricted to Board level and just understanding a bit about the business.
+
+LACHLAN KERR: Sure yes.
+
+NINO FICCA : Adam would you like to deal with the second question?
+
+ADAM NEWMAN : Yes so look I think Nino has kind of covered that ground in terms of how we look at our
+distribution policy and it's quite holistic taking into account our credit metrics and obviously we've kind of
+moved up in our credit metrics on an S&P basis from BBB+ to A-.
+
+So we're just grappling with just a bit of an underlying change there enabling us to maintain A- on a
+standalone basis. Look I don't have a whole heap to add to what Nino has already said in relation to the
+way we look at our distributions policy and we'll continue to do that going forward and assess that at the
+same time as we look at the overall business and we look at what we need to do to maintain an appropriate
+credit metric.
+
+LACHLAN KERR: Alright thanks guys.
+
+OPERATOR: There are no further questions in queue. Please continue.
+
+NINO FICCA : If there are no further questions, thanks very much to everyone. Certainly thanks to Adam
+and Alistair at this end and thank you all for participating in all your questions. Thank you.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+i16 : Electricity/Gas Utilities | iutil : Utilities
+
+CO spauen : AusNet Services | sinpow : Singapore Power Ltd | tmasek : Temasek Holdings Pte Ltd
+IN
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz : Australia/Oceania | austr :
+
+Australia | namz : North America
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020140517ea5e000gp
+
+Page191of294©2018Factiva,Inc.Allrightsreserved.

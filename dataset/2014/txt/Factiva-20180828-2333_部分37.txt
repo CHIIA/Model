@@ -1,0 +1,414 @@
+Weekly Recommendation, Target Price, Earnings Forecast Changes
+
+HD Weekly Recommendation, Target Price, Earnings Forecast Changes
+BY By Rudi Filapek-Vandyck, Editor
+WC 4,007 words
+PD 6 October 2014
+SN FN Arena
+SC FNAREN
+LA English
+CY Copyright 2014. FN Arena Ltd.
+LP
+
+Guide:
+
+The FNArena database tabulates the views of eight major Australian and international stock brokers:
+BA-Merrill Lynch, CIMB, Citi, Credit Suisse, Deutsche Bank, JP Morgan, Macquarie and UBS.
+
+TD
+
+For the purpose of broker rating correlation, Outperform and Overweight ratings are grouped as Buy,
+Neutral is grouped with Hold and Underperform and Underweight are grouped as Sell to provide a
+Buy/Hold/Sell (B/H/S) ratio.
+
+Ratings, consensus target price and forecast earnings tables are published at the bottom of this report.
+
+Summary
+
+Period: Monday September 29 to Friday October 3, 2014 Total Upgrades: 22 Total Downgrades: 7 Net
+Ratings Breakdown: Buy 40.32%; Hold 41.73%; Sell 17.96%
+
+Falling share prices in September have triggered a "let's go bargain hunting" response from local
+stockbrokers. Beaten down resources stocks and popular industrials that have been pushed back these
+past weeks in particular featured heavily in recommendation upgrades during the week ending Friday, 3
+October, 2014.
+
+FNArena recorded no less than 22 upgrades and but 7 downgrades. While analysts continue paring back
+commodity prices forecasts with every new update, in particular for the bulks, iron ore and coal, it has to
+be pointed out the translation into lower earnings estimates for miners no longer automatically triggers
+negative consequences for price targets and ratings.
+
+Surely this is one development worth keeping a close eye on?
+
+Upgrades
+Alacer Gold ((AQG)) upgraded to Buy from Hold by Deutsche Bank. B/H/S: 5/1/0
+After a visit to Copler gold mine in Turkey the broker observes the current oxide operation is performing
+well, with both 2014 guidance and longer term production targets achievable. Management is now focused
+on the sulphide project, with further de-risking underway. Given strong near-term cash flow, a clean
+balance sheet and 20-year mine life, Deutsche Bank upgrades to Buy from Hold. Target is raised to $2.70
+from $2.50.
+ALS ((ALQ)) upgraded to Hold from Sell by Deutsche Bank. B/H/S: 0/1/4 Deutsche Bank has revised all
+commodity prices forecasts and FX assumptions and the result has been mildly net negative for
+companies in the engineering and contracting industry. ALS is the sole stock that has received a
+recommendation upgrade, to Hold from Sell, as the share price is more or less at the revised price target,
+the analysts explain. Price target only lost 2c to $5.40.
+Amcor ((AMC)) upgraded to Neutral from Underperform by Credit Suisse. B/H/S: 2/4/0
+
+Credit Suisse upgrades to Neutral from Underperform. After converting US dollar valuation to Australian
+dollars at a new lower spot rate the broker also upgrades the target to $12.00 from $11.25. Earnings
+
+Page103of335©2018Factiva,Inc.Allrightsreserved.forecasts are reduced by 1.5-2.0% across the forecast period on revised exchange rate forecasts. The
+euro has depreciated against the US dollar which is Amcor's new reporting currency.The broker notes the
+fall in the Australian dollar had a greater effect on the target while the fall in the euro induced an earnings
+downgrade.
+Ansell ((ANN)) upgraded to Neutral from Sell by Citi. B/H/S: 2/4/2
+
+Citi has updated projections and valuations for the Australian health care sector, in particular driven by
+changes in FX projections. The main change is for AUD/USD to decline to 0.81 in 2016 and to 0.83 long
+term. The update triggers an upgrade to Neutral from Sell for Ansell. The analysts explain a lower
+AUD/USD does have a negative impact on earnings, but compensation comes via a positive impact on
+valuation. Citi analysts do warn that if organic growth disappoints, there's potential for negative surprises.
+Arrium ((ARI)) upgraded to Neutral from Underperform by Credit Suisse. B/H/S: 1/3/3
+
+A valuation review confirms a negative outlook for the stock from Credit Suisse. Adjusting for lower
+medium-term iron ore and steel spread assumptions and lower long-term scrap margin assumptions the
+broker reduces the target to 40c from 62c. Rating is upgraded to Neutral from Underperform. The broker
+also outlines the possibility, not yet an assumption, that Arrium could approach critical levels with respect
+to interest cover covenants.
+Aurizon Holdings ((AZJ)) upgraded to Buy from Neutral by Citi and to Buy from Neutral by BA-Merrill
+Lynch. B/H/S: 5/2/0
+
+The Queensland Competition Authority's draft decision on Aurizon's network tariffs has been announced.
+Submissions are now invited until December 12 and allow Aurizon the opportunity to close the gap in
+maintenance costs accepted by the QCA. The broker is optimistic some of the gap in cost allowance can
+be closed. Aurizon also has strong earnings growth forecasts and improving returns. Consequently Citi
+upgrades to Buy from Neutral. Target is unchanged at $5.40. Merrills upgrades to Buy from Neutral,
+largely on value. The broker believes concerns around take-or-pay contracts, Pilbara iron ore and
+increased capex are now reflected in the share price. Target is steady at $5.20. There are few immediately
+apparent catalysts, in the broker's opinion, but enterprise bargaining resolution would be a start, although a
+positive outcome at the hearing in November is not expected.
+Bank of Queensland ((BOQ)) upgraded to Buy from Hold by BA-Merrill Lynch. B/H/S: 2/4/1
+Recent share price weakness has triggered an upgrade to Buy from Hold. BA-ML points out the current
+regulatory background should favour the regionals vis-a-vis the Big Four in Australia. Small upgrades have
+been put in place for cash EPS estimates. Rolling forward of valuation generates a new price target of
+$12.95, versus $12.65 prior. Also, dividend estimates for the years ahead have been lifted.
+BHP Billiton ((BHP)) upgraded to Buy from Neutral by Citi. B/H/S: 5/2/1
+Citi is upgrading to Buy from Neutral, preferring base metals over bulk commodities. Target is steady at
+$38.00. The broker believes the metals and mining equities will be flat over the next three months but
+investors should be buying the dips with a view that commodity markets, particularly base metals, could
+surprise on the upside heading into next year. The broker also considers a possible secondary UK listing
+of the new company would be a welcome move and lift the UK share price.
+Dexus Property ((DXS)) upgraded to Outperform from Neutral by Macquarie. B/H/S: 0/6/1
+Dexus' underlying business is struggling to grow against a backdrop of challenging market conditions for
+both office and industrial, the broker notes. But the broker has closely reviewed the group's property
+portfolio and has decided there are 16 assets that could deliver trading profits, beyond the seven already
+identified by DXS. The broker thus believes DXS can continue to deliver growth in distributions and on the
+basis of the fall in share price, has upgraded to Outperform. Target unchanged at $1.19.
+Goodman Group ((GMG)) upgraded to Buy from Underperform by BA-Merrill Lynch. B/H/S: 3/2/1
+BA-ML has revisited forecasts for Goodman Group and at the end of the exercise has come out with a
+higher price target, to $5.80, and an upgrade in rating, to Buy from Underperform. Amongst the factors
+mentioned in support of these moves are a robust growth profile for the year ahead (6-7%), financial
+de-risking and growth in development work. Goodman Group is now one of the stockbroker's top picks in
+the sector, along with Stockland ((SGP)) and Federation Centres ((FDC)).Estimates have been lifted
+slightly.
+Henderson Group ((HGG)) upgraded to Outperform from Neutral by Credit Suisse. B/H/S: 3/3/0
+
+Page104of335©2018Factiva,Inc.Allrightsreserved.Credit Suisse is upgrading to Outperform from Neutral given the compelling valuation. Target is lowered to
+$4.50 from $4.70. The broker likes the growth story but does not expect any earnings benefits until FY15
+or FY16, with the share price already reflecting uncertainties around the compensation ratio and tax rate.
+Lend Lease ((LLC)) upgraded to Buy from Neutral by BA-Merrill Lynch. B/H/S: 6/2/0
+Merrills upgrades Lend Lease to a Buy rating from Neutral. Target is raised to $15.50 from $13.80. The
+broker notes continued Australian housing strength means upcoming launches of product at Darling
+Square and Barangaroo as well as recent infrastructure wins underpin the company's capacity to make
+market share gains. Upcoming investments in the US and Kuala Lumpur will also provide greater diversity
+of development earnings, leading the broker to expect Lend Lease to outperform the Australian focused
+developers, should domestic residential demand slow.
+Medusa Mining ((MML)) upgraded to Buy from Hold by Deutsche Bank. B/H/S: 2/1/0
+
+Deutsche Bank has updated views and projections for bulk commodities and metals. The underlying
+theme is that while bulks may see some support from restocking in Q4, any sustainable cyclical turnaround
+in the Chinese property market may take another 6 months. In general terms, Deutsche Bank prefers
+base metals and remains cautious on high cost iron ore producers and on gold producers. Medusa's
+rating moves to Buy from Hold, while the price target falls to $1.00 from $1.25.
+Mermaid Marine ((MRM)) upgraded to Buy from Hold by Deutsche Bank. B/H/S: 1/4/0
+The business has changed over the past three years, suggest analysts at Deutsche Bank. They believe
+Mermaid Marine will be in a position to generate a lot of free cash flow despite an overall challenging
+environment. On this basis, they believe the share price is too low. The acquisition of Jaya now offers
+access to higher growth markets in Asia, point out the analysts. Valuation-wise, the shares compare well
+vis-a-vis peers elsewhere. Earnings estimates have been lifted. The price target rises to $2.50 from $2.15.
+Rating upgrade to Buy from Hold.
+Pacific Brands ((PBG)) upgraded to Neutral from Sell by UBS. B/H/S: 3/3/0
+
+The share price has weakened significantly since the year's high of 77c and now, forecasting a positive
+shareholder return, UBS upgrades to Neutral from Sell. Target is lowered to 51c from 54c. Significant
+near-term currency and restructuring risks exist but Pacific Brands will benefit from a five percentage point
+reduction in the textiles import tariff from January 2015. The broker considers the company is potentially a
+takeover target as it moves to cleaner, simpler business model.
+Seven West Media ((SWM)) upgraded to Add from Hold by CIMB Securities. B/H/S: 6/2/0
+
+CIMB prefers those TV media stocks that are taking market share and have a superior asset mix. The
+broker's long-term structural view of the TV ad market remains supportive, given its ability to deliver
+audience reach. With that in mind the broker upgrades Seven West to Add from Hold on valuation grounds
+and the target to $2.10 from $2.09.
+Tatts Group ((TTS)) upgraded to Buy from Neutral by UBS. B/H/S: 3/3/2
+
+The broker has decided a discounted cash flow model is more appropriate than an earnings multiple
+model in valuing Tatts' lotteries business given the long-dated nature of licences. The switch results in an
+increased net valuation and hence a lift in target to $3.45 from $3.25. Taking this into account and noting
+TTS has underperformed the index this past month, the broker has upgraded to Buy, suggesting TTS is a
+high quality defensive with an attractive yield.
+Western Areas ((WSA)) upgraded to Buy from Hold by Deutsche Bank. B/H/S: 4/3/0
+
+Deutsche Bank has updated views and projections for bulk commodities and metals. The underlying
+theme is that while bulks may see some support from restocking in Q4, any sustainable cyclical turnaround
+in the Chinese property market may take another 6 months. Deutsche Bank prefers base metals and
+remains cautious on high cost iron ore producers and on gold producers. The rating for Western Areas
+has been pushed to Buy from Hold. Price target gained 5c to $4.95.
+Woodside Petroleum ((WPL)) upgraded to Buy from Neutral by Citi and to Neutral from Underperform by
+Credit Suisse. B/H/S: 1/4/1
+Citi has revised oil price forecasts, downgrading 2015 and 2016 Brent by 7% and 5% respectively.
+Woodside is delivering on a good strategy and Citi believes the 80% pay-out ratio is sustainable
+throughout the execution of Browse FLNG. Rating is upgraded to Buy from Neutral, following recent share
+price weakness. Target is raised to $46.44 from $46.11. Credit Suisse now forecasts Brent crude will move
+
+Page105of335©2018Factiva,Inc.Allrightsreserved.to the long-term target of US$86/bbl as soon as 2016. This is a marked change to the US$100/110/bbl
+average of the past three years. The broker considers supply is the real problem, as North American
+production growth is overwhelming stable demand growth. In Australia price downgrades are marginally
+offset by marking to market FX forecasts. Credit Suisse upgrades Woodside to Neutral from
+Underperform, now using a blended valuation methodology, which raises the target to $41.00 from $38.80.
+Woolworths ((WOW)) upgraded to Outperform from Underperform by Macquarie. B/H/S: 3/2/3
+
+Fourth quarter comparative sales growth disappointed the broker, but Macquarie's recent analysis of
+headline inflation across a basket of supermarket goods supports an improvement in the outcome for the
+first quarter of FY15. The near term news on Big W and Masters is subdued but Macquarie believes the
+decline in the share price has resulted in an improved value proposition. The rating is upgraded to
+Outperform from Underperform and the target is raised to $36.29 from $36.00.
+
+Downgrades
+BT Investment ((BTT)) downgraded to Neutral from Outperform by Credit Suisse. B/H/S: 1/3/0
+Credit Suisse has lowered earnings estimates driven by weak equity markets in the September quarter.
+The target is reduced to $6.55 from $7.30 because of the roll off of the FY14 earnings in the valuation
+which benefitted from very high performance fees. Hence, the rating is lowered to Neutral from
+Outperform.
+Grange Resources ((GRR)) downgraded to Underweight from Overweight by JP Morgan. B/H/S:  0/1/2
+JP Morgan factors in lower iron ore price estimates for 2015/16 on the back of demand-side softness and
+higher than expected supply. The recommendation is downgraded to Underweight from Overweight on a
+sector relative basis, given Grange Resources' high cost structure, continued deferral of sales and
+operational risks at Savage River. Target is lowered to 10c from 25c.
+Orora ((ORA)) downgraded to Underperform from Neutral by Credit Suisse. B/H/S: 3/3/1
+
+Credit Suisse observes if the Australian dollar moves another 10% against its US, NZ and euro
+counterparts it will be neutral for Orora's accounts. Transaction revenue exposures offset procurement
+exposures. The broker downgrades its rating to Underperform from Neutral on the share price
+appreciation. A $1.70 target is retained.
+Pact Group ((PGH)) downgraded to Neutral from Outperform by Credit Suisse. B/H/S: 4/1/0
+
+The sharp fall in the Australian dollar alerts Credit Suisse to the prospect that, as with a prior period,
+depreciation could be too rapid for Pact to adjust output pricing. Still, the broker believes Pact manages
+currency/resin price volatility well and this time it may well be different if the underlying resin price falls with
+falling crude prices, creating an opportunity for Pact. Credit Suisse remains positively disposed to the stock
+but downgrades to Neutral from Outperform on the share price appreciation. Target is steady at $4.15.
+Recall Holdings ((REC)) downgraded to Sell from Neutral by Citi. B/H/S: 1/4/2
+Media is speculating that Iron Mountain is in talks to acquire Recall for US$2-2.5bn. Recall has denied the
+speculation but it has given rise to speculation over Recall's value. Using the closing price on September
+29 and the value range cited in the media reports Citi comes up with a value of $5.54-7.40 a share. Citi
+points out the difficulty in determining any future offer is the likelihood of regulatory restrictions, given
+market concentration issues. Despite a higher valuation based on new FX assumptions, Citi considers the
+current share price is above fair value. Target is raised to $5.00 from $4.65 The broker reduces the rating
+to Sell from Neutral.
+Treasury Wine Estates ((TWE)) downgraded to Sell from Hold by Deutsche Bank and to Sell from Neutral
+by Citi. B/H/S: 0/2/6
+After investing in due diligence and then pulling out, Deutsche Bank suspects the private equity investors
+found the TreasuryWine business was worth less to them than they first indicated. The broker likes the
+new CEO's strategic direction but industry challenges remain. The stock is too expensive in Deutsche
+Bank's view, even after the sell off. Accordingly, the rating is downgraded to Sell from Hold. Target is
+reduced to $4.00 from $5.20. Citi believes the outlook is improving, especially with a weaker Australian
+dollar. Nevertheless, the US de-stocking still needs to be dealt with and there is a risk with the changes to
+the Penfolds release dates. Moreover, prospects for a takeover now seem low with the potential trade
+buyers unlikely to take on the task of separating and divesting the commercial wine brands. Citi
+downgrades to Sell from Neutral and lowers the target to $4.20 from $5.20.
+
+Page106of335©2018Factiva,Inc.Allrightsreserved. 
+
+Total Recommendations | Recommendation Changes
+
+ 
+
+Broker Recommendation Breakup  
+
+Broker Rating
+Order | Company | Old Rating | New Rating | Broker
+
+Upgrade
+1 | ALACER GOLD CORP | Neutral | Buy | Deutsche Bank
+
+2 | ALS LIMITED | Sell | Neutral | Deutsche Bank
+
+3 | AMCOR LIMITED | Sell | Neutral | Credit Suisse
+
+4 | ANSELL LIMITED | Sell | Neutral | Citi
+
+5 | ARRIUM LIMITED | Sell | Neutral | Credit Suisse
+6 | AURIZON HOLDINGS LIMITED | Neutral | Buy | Citi
+7 | AURIZON HOLDINGS LIMITED | Neutral | Buy | BA-Merrill Lynch
+8 | BANK OF QUEENSLAND LIMITED | Neutral | Buy | BA-Merrill Lynch
+9 | BHP BILLITON LIMITED | Neutral | Buy | Citi
+10 | GOODMAN GROUP | Sell | Buy | BA-Merrill Lynch
+11 | HENDERSON GROUP PLC. | Neutral | Buy | Credit Suisse
+12 | LEND LEASE CORPORATION LIMITED | Neutral | Buy | BA-Merrill Lynch
+13 | MEDUSA MINING LIMITED | Neutral | Buy | Deutsche Bank
+14 | MERMAID MARINE AUSTRALIA LIMITED | Neutral | Buy | Deutsche Bank
+
+15 | PACIFIC BRANDS LIMITED | Sell | Neutral | UBS
+16 | SEVEN WEST MEDIA LIMITED | Neutral | Buy | CIMB Securities
+17 | TATTS GROUP LIMITED | Neutral | Buy | UBS
+18 | WESTERN AREAS NL | Neutral | Buy | Deutsche Bank
+19 | WOODSIDE PETROLEUM LIMITED | Neutral | Buy | Citi
+
+20 | WOODSIDE PETROLEUM LIMITED | Sell | Neutral | Credit Suisse
+21 | WOOLWORTHS LIMITED | Sell | Buy | Macquarie
+
+Downgrade
+22 | GRANGE RESOURCES LIMITED | Buy | Sell | JP Morgan
+
+23 | ORORA LIMITED | Neutral | Sell | Credit Suisse
+24 | PACT GROUP HOLDINGS LTD | Buy | Neutral | Credit Suisse
+
+25 | RECALL HOLDINGS LIMITED | Neutral | Sell | Citi
+26 | TREASURY WINE ESTATES LIMITED | Neutral | Sell | Citi
+27 | TREASURY WINE ESTATES LIMITED | Neutral | Sell | Deutsche Bank   Recommendation
+
+Positive Change Covered by > 2 Brokers
+
+Page107of335©2018Factiva,Inc.Allrightsreserved.Order | Symbol | Company | Previous Rating | New Rating | Change | Recs
+1 | MML | MEDUSA MINING LIMITED | - 50.0% | 67.0% | 117.0% | 3
+
+2 | AZJ | AURIZON HOLDINGS LIMITED | 43.0% | 71.0% | 28.0% | 7
+
+3 | COH | COCHLEAR LIMITED | - 75.0% | - 50.0% | 25.0% | 8
+
+4 | ALQ | ALS LIMITED | - 100.0% | - 80.0% | 20.0% | 5
+5 | HGG | HENDERSON GROUP PLC. | 33.0% | 50.0% | 17.0% | 6
+
+6 | AMC | AMCOR LIMITED | 17.0% | 33.0% | 16.0% | 6
+7 | AQG | ALACER GOLD CORP | 67.0% | 83.0% | 16.0% | 6
+
+8 | ARI | ARRIUM LIMITED | - 43.0% | - 29.0% | 14.0% | 7
+9 | IGO | INDEPENDENCE GROUP NL | 43.0% | 57.0% | 14.0% | 7
+
+10 | WSA | WESTERN AREAS NL | 43.0% | 57.0% | 14.0% | 7 Negative Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous Rating | New Rating | Change | Recs
+1 | TWE | TREASURY WINE ESTATES LIMITED | - 38.0% | - 75.0% | - 37.0% | 8
+2 | PGH | PACT GROUP HOLDINGS LTD | 100.0% | 80.0% | - 20.0% | 5
+
+3 | ORA | ORORA LIMITED | 43.0% | 29.0% | - 14.0% | 7   Target Price
+
+Positive Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous Target | New Target | Change | Recs
+
+1 | COH | COCHLEAR LIMITED | 57.318 | 60.253 | 5.12% | 8
+2 | IGO | INDEPENDENCE GROUP NL | 4.829 | 4.929 | 2.07% | 7
+
+3 | SFR | SANDFIRE RESOURCES NL | 6.733 | 6.844 | 1.65% | 8
+
+4 | LLC | LEND LEASE CORPORATION LIMITED | 14.613 | 14.825 | 1.45% | 8
+
+5 | AMC | AMCOR LIMITED | 10.932 | 11.057 | 1.14% | 6
+
+6 | WSA | WESTERN AREAS NL | 5.314 | 5.364 | 0.94% | 7
+7 | AQG | ALACER GOLD CORP | 3.137 | 3.157 | 0.64% | 6
+
+8 | MIN | MINERAL RESOURCES LIMITED | 9.467 | 9.525 | 0.61% | 4
+
+9 | AZJ | AURIZON HOLDINGS LIMITED | 5.243 | 5.251 | 0.15% | 7
+
+10 | SWM | SEVEN WEST MEDIA LIMITED | 2.150 | 2.151 | 0.05% | 8 Negative Change Covered by > 2
+Brokers
+Order | Symbol | Company | Previous Target | New Target | Change | Recs
+1 | TWE | TREASURY WINE ESTATES LIMITED | 4.926 | 4.460 | - 9.46% | 8
+
+2 | ARI | ARRIUM LIMITED | 0.553 | 0.521 | - 5.79% | 7
+3 | MML | MEDUSA MINING LIMITED | 1.125 | 1.083 | - 3.73% | 3
+
+4 | PBG | PACIFIC BRANDS LIMITED | 0.517 | 0.512 | - 0.97% | 7
+5 | HGG | HENDERSON GROUP PLC. | 4.624 | 4.584 | - 0.87% | 6
+
+6 | BHP | BHP BILLITON LIMITED | 41.400 | 41.100 | - 0.72% | 8
+7 | WHC | WHITEHAVEN COAL LIMITED | 2.144 | 2.138 | - 0.28% | 8
+
+8 | ALQ | ALS LIMITED | 6.040 | 6.036 | - 0.07% | 5   Earning Forecast
+
+Page108of335©2018Factiva,Inc.Allrightsreserved.Positive Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous EF | New EF | Change | Recs
+
+1 | FPH | FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED | 13.165 | 17.039 | 29.43% | 5
+
+2 | ILU | ILUKA RESOURCES LIMITED | 3.538 | 3.900 | 10.23% | 8
+3 | NCM | NEWCREST MINING LIMITED | 36.165 | 38.928 | 7.64% | 8
+
+4 | ARI | ARRIUM LIMITED | 3.555 | 3.765 | 5.91% | 7
+5 | IGO | INDEPENDENCE GROUP NL | 40.643 | 42.629 | 4.89% | 7
+
+6 | SFR | SANDFIRE RESOURCES NL | 67.336 | 70.499 | 4.70% | 8
+7 | TWE | TREASURY WINE ESTATES LIMITED | 21.886 | 22.613 | 3.32% | 8
+
+8 | AWE | AWE LIMITED | 8.233 | 8.467 | 2.84% | 5
+
+9 | COH | COCHLEAR LIMITED | 252.761 | 258.049 | 2.09% | 8
+
+10 | GMA | GENWORTH MORTGAGE INSURANCE AUSTRALIA LIMITED | 39.833 | 40.500 | 1.67% | 3
+Negative Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous EF | New EF | Change | Recs
+1 | MGX | Mount Gibson Iron Limited | 0.138 | - 0.238 | - 272.46% | 7
+2 | MML | MEDUSA MINING LIMITED | 14.828 | 11.337 | - 23.54% | 3
+3 | FMG | FORTESCUE METALS GROUP LTD | 62.168 | 55.933 | - 10.03% | 8
+4 | BCI | BC IRON LIMITED | 23.250 | 20.925 | - 10.00% | 3
+
+5 | BKW | BRICKWORKS LIMITED | 74.275 | 68.833 | - 7.33% | 3
+
+6 | WSA | WESTERN AREAS NL | 43.971 | 41.329 | - 6.01% | 7
+7 | PRU | PERSEUS MINING LIMITED | 2.314 | 2.186 | - 5.53% | 7
+
+8 | BDR | BEADELL RESOURCES LIMITED | 11.580 | 11.040 | - 4.66% | 4
+
+9 | BHP | BHP BILLITON LIMITED | 263.386 | 254.917 | - 3.22% | 8
+
+10 | MIN | MINERAL RESOURCES LIMITED | 81.750 | 79.400 | - 2.87% | 4   Technical limitations
+
+If you are reading this story through a third party distribution channel and you cannot see charts included,
+we apologise, but technical limitations are to blame.
+
+Find out why FNArena subscribers like the service so much: "Your Feedback (Thank You)" - Warning this
+story contains unashamedly positive feedback on the service provided.
+
+FN Arena is building the future of financial news reporting at www.fnarena.com . Our daily news reports
+can be trialed at no cost and with no obligations. Simply sign up and get a feel for what we are trying to
+achieve.
+
+Subscribers and trialists should read our terms and conditions, available on the website.
+
+All material published by FN Arena is the copyright of the publisher, unless otherwise stated. Reproduction
+in whole or in part is not permitted without written permission of the publisher.
+
+44FB7B6F-A231-C437-198FBFA8D3B0F663
+
+RF
+CO auspam : Amcor Ltd | bkhlp : BHP Billiton Ltd | dorval : Aurizon Mines Ltd | sk : Credit Suisse Group AG |
+
+IN
+
+bltplc : BHP Billiton PLC | hclamn : Hecla Mining Co
+i211 : Metal Ore Mining | i814 : Banking | i81402 : Commercial Banking | ibasicm : Basic
+Materials/Resources | ibnk : Banking/Credit | ifinal : Financial Services | igoldm : Gold Ore Mining | iindstrls
+: Industrial Goods | imet : Mining/Quarrying | ipap : Packaging
+
+Page109of335©2018Factiva,Inc.Allrightsreserved.NS c1521 : Analyst Comments/Recommendations | c15 : Performance | c152 : Earnings Projections | ccat :
+
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter |
+nfcpin : C&E Industry News Filter
+
+RE austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+PUB FN Arena Ltd.
+AN Document FNAREN0020141005eaa60002t
+
+Page110of335©2018Factiva,Inc.Allrightsreserved.

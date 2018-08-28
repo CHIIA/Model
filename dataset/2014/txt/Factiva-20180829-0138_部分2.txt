@@ -1,0 +1,176 @@
+Press Release: Tintri Raises $75 Million to Bring Application-Aware Storage to Every Data Center and Cloud
+
+HD
+
+WC
+PD
+ET
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Press Release: Tintri Raises $75 Million to Bring Application-Aware Storage to Every Data Center
+and Cloud
+1,229 words
+13 February 2014
+22:00
+Dow Jones Institutional News
+DJDN
+English
+Copyright © 2014, Dow Jones & Company, Inc.
+
+Tintri Raises $75 Million to Bring Application-Aware Storage to Every Data Center and Cloud
+
+Oversubscribed Pre-IPO Round Will Accelerate Global Expansion and Product Innovation
+
+MOUNTAIN VIEW, CA--(Marketwired - Feb 13, 2014) - Tintri, Inc., the leading producer of storage for
+virtualization and cloud environments, today announced it has closed an oversubscribed $75 million
+Series E funding round led by Insight Venture Partners, with participation from existing investors
+Lightspeed Venture, Menlo Ventures and NEA. The new funding brings the company's total capital
+raised to $135 million and puts the industry's only application-aware storage pioneer on-track for a
+future initial public offering. The funding will accelerate continued global expansion and technology
+innovation as well as help the company further scale operations and support its rapidly growing
+customer base.
+
+Tintri also announced that Jeff Horing, co-founder and managing director of Insight Venture Partners has
+joined the Tintri board of directors. "We meet with thousands of companies each year, selecting a
+handful to invest in," said Horing. "Tintri stands out as a company that has turned a bold thought-leading
+vision into an exceptional market-leading product. We are pleased to partner with Tintri to help the
+company scale and make application-aware storage ubiquitous in the datacenter and the cloud."
+
+"Much has been said about how flash is the disruptive technology in the storage industry these days,"
+said David Cheriton, a Tintri investor who is also renowned as one of the earliest investors of Google
+(NASDAQ: GOOG) and VMware. "Flash is great, but it's only one of the ingredients to making storage
+more useful to end-users. Far more important is whether flash-powered storage has the intelligence to
+make applications run better. This is where the Tintri application-aware storage is in a league of its own.
+As the only application-aware storage platform, Tintri storage is intelligent, self-learning and adaptive to
+the needs of the virtualized applications it supports."
+
+Since launch, Tintri has consistently exceeded triple digit growth year over year and has an expanding
+global enterprise customer base of hundreds of companies, close to half of which have revenues of $1
+billion or more. The company completed 2013 with 115 percent year over year growth while more than
+doubling its enterprise customer base worldwide.
+
+Tintri achieved 99.999 percent uptime in 2013. With a 330 percent increase in number of VMs in one
+year, customers have deployed more than 100,000 VMs. Storing more than 7 petabytes of user data,
+these VMs are running large scale private cloud deployments, business critical databases, enterprise
+applications and VDI environments that host tens of thousands of desktops and mobile devices.
+Additionally, close to 70 percent of Tintri customers made repeat purchases averaging 2.5x of their initial
+order.
+
+"We are honored to be partnering with such a high-quality investor group that has previously invested in
+category setting companies such as Box, Salesforce.com (NYSE: CRM) and Twitter (NYSE: TWTR),"
+said Ken Klein, chairman and CEO for Tintri. "It's our strong belief that applications drive business and
+infrastructure exists only to support applications. The concept of application-aware storage goes way
+beyond merely replacing some disks with flash. As more customers discover the "yellow brick road" to
+freeing them from traditional storage or generic flash solutions, there is no going back. For Tintri
+
+Page14of29©2018Factiva,Inc.Allrightsreserved.customers, the unmistakable passion they have expressed for our products borderlines NPS perfection.
+With the additional funding, we are excited to offer our solutions to an ever larger audience."
+Tintri is aggressively expanding its global presence and establishing operations in numerous new
+countries. In a separate announcement today, Tintri and the Victorian Government in Australia
+announced the company's new Australian headquarters in Melbourne.
+
+About Tintri
+
+Tintri Zero Management Storage(TM) helps IT organizations eliminate storage complexity, and minimize
+costs and scale their virtualized environments. Designed from the ground up for virtualization and cloud,
+Tintri addresses the mismatch between storage and virtualization with the industry's first VM-Aware
+Storage architecture. Tintri VMstore(TM) and Tintri Global Center(TM) together improve performance by
+as much as 10x, make virtualization predictable and easily scalable, and enable higher IT productivity --
+all while slashing costs. Production-proven in hundreds of global enterprises, Tintri helps customers such
+as AMD, F5 Networks and Kawasaki Motors maximize their virtualization investments. For more
+information, visit www.tintri.com and follow us on Twitter: @tintriinc.
+
+About Insight Venture Partners
+Insight Venture Partners is a leading venture capital and private equity firm investing in eCommerce,
+Internet, on-premise and SaaS-based software and data-services companies. Founded in 1995, Insight
+has raised more than $7.6 billion and made more than 200 investments worldwide. Our mission is to
+find, fund and work successfully with visionary executives who are driving change in their industries. We
+provide founders with practical, hands-on growth expertise to foster long-term success.
+
+About Lightspeed Venture Partners
+Lightspeed Venture Partners is a leading global venture capital firm with over $2 billion of committed
+capital under management. Lightspeed's investment professionals and advisors are located in Silicon
+Valley, India, Israel and China with Lightspeed China Partners. Over the past two decades, the
+Lightspeed team has backed more than 200 companies, many of which have become leaders in their
+respective markets, including Blue Nile, Brocade, Calista, Ciena, DoubleClick, eHealth, Fusion-io,
+Galileo Technology, Growth Networks, Informatica, Kiva Software, Kosmix, Link-A-Media, LivingSocial,
+Lucky Pai, Maker Communications, Phone.com, Playdom, Pliant, Provigent, Riverbed Technology,
+Solazyme, TutorVista, Virsa Systems, Waveset, and XtremIO. For more information, visit
+www.lightspeedvp.com.
+
+About Menlo Ventures
+
+Menlo Ventures provides capital for seed through growth technology companies in the consumer and
+enterprise sectors. For decades, the firm's market-driven research analysis has led to the identification
+of and successful exits in innovative technology markets. Notable research areas of investment include
+Mobile (Siri, MobiTV, Telenav), Enterprise Storage (3Par), Communications (Acme Packet, Cavium
+Networks), and Consumer (Carbonite, Roku). Founded in 1976, Menlo's portfolio includes 70 public
+companies and more than 100 mergers and acquisitions. Menlo Ventures has $4 billion under
+management and is currently investing Menlo Ventures XI, a $400M fund with $20M allocated to the
+Menlo Talend Fund for fast seed funding. For more information, visit www.menlovc.com.
+
+About New Enterprise Associates (NEA)
+NEA is a leading venture capital firm focused on helping entrepreneurs build transformational
+businesses across multiple stages, sectors and geographies. With about $11 billion in committed
+capital, the firm invests in information technology, healthcare and energy technology companies at all
+stages in a company's lifecycle, from seed stage through IPO. NEA's long track record of successful
+investing includes more than 170 portfolio company IPOs and more than 290 acquisitions, including
+investments in technology leaders like Advertising.com, Data Domain, CareerBuilder, Diapers.com,
+Fusion-io, Groupon, Juniper, Macromedia, Millennial Media, Salesforce.com and TiVo. For additional
+information, visit www.nea.com.
+
+Additional Resources
+
+-- Download the
+
+Tintri VMstore Technology Validation by the Taneja Group
+
+-- View the Tintri "Virtualize More with Less" Infographic
+
+Page15of29©2018Factiva,Inc.Allrightsreserved.-- Follow Tintri on Twitter
+-- Like Tintri on Facebook
+-- Read the Tintri blog
+
+Press contact
+
+Katie Halloran
+
+SHIFT Communications
+
+Email Contact
+
++1 415 591 8459
+
+(END) Dow Jones Newswires
+
+February 13, 2014 06:00 ET (11:00 GMT)
+
+CO
+IN
+
+NS
+
+RE
+
+insivp : Insight Venture Partners | pesvmg : Tintri Inc.
+i330202 : Software | i3302 : Computers/Electronics | icomp : Computing | itech : Technology | i81502 :
+Trusts/Funds/Financial Vehicles | i8150203 : Private Equity | i8394 : Computer Services | ialtinv :
+Alternative Investments | iappsp : Cloud Computing | ibcs : Business/Consumer Services | ifinal :
+Financial Services | iinv : Investing/Securities | iventure : Venture Capital
+neqac : Equities Asset Class News | npress : Press Releases | ncat : Content Types | nfact : Factiva
+Filters
+austr : Australia | usa : United States | apacz : Asia Pacific | ausnz : Australia/Oceania | namz : North
+America
+
+PUB Dow Jones & Company, Inc.
+AN
+
+Document DJDN000020140213ea2d001s6
+
+Page16of29©2018Factiva,Inc.Allrightsreserved.

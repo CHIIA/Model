@@ -1,0 +1,197 @@
+How the staples can stabilise a portfolio
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Portfolio
+How the staples can stabilise a portfolio
+
+James Dunn
+1,787 words
+5 November 2014
+The Australian Financial Review
+AFNR
+First
+25
+English
+Copyright 2014. Fairfax Media Management Pty Limited.
+
+Commodities Investing in wheat, corn, oil or gold may lower your risk if rates jump.
+
+Australian investors like to think they have good exposure to commodities: after all, BHP Billiton and Rio
+Tinto are heavyweights of both the global commodities world and the Australian sharemarket. The
+theory is BHP and Rio deliver great exposure to the China story, and all the commodities exposure an
+investor would need.
+
+The problem is that despite being big, diversified miners – and a petroleum producer in BHP's case –
+the pair don't give access to the return from commodities as an asset class, says Jodie Gunzberg,
+global head of commodities for S&P Dow Jones Indices, who was in Australia on a roadshow in
+October.
+"The dry bulk commodities like coal and iron ore are not yet part of the global futures markets that
+make up the asset class," Gunzberg says. "Nor do these companies produce agriculture. Their
+correlation to the commodities asset class is actually quite low.
+
+"There is a great barrier to overcome the perception the Australian sharemarket is highly correlated to
+global commodities."
+
+Surprisingly, Gunzberg says, the US sharemarket is more than three times more correlated to
+commodities than Australia's.
+
+This has implications for diversification – the major attribute that commodities investment delivers as an
+asset class (meaning investment in a commodities index that covers the futures markets for
+commodities). The other main reason for using commodities is as an inflation hedge.
+
+"Commodity prices themselves are very sensitive to inflation. With things like 'soft' commodities, for
+example, the reason why bread gets more expensive over time is because commodity producers are
+able to pass prices on to the consumer," Alex Vynokur, managing director of exchange-traded fund
+(ETF) issuer BetaShares, says.
+
+By including them in a portfolio in the form of an ETF, investors have the exposure to the underlying
+commodities and benefit as prices of those commodities rise with inflation, he says.
+
+Vynokur says global commodity indices give different protection from local inflation in different markets,
+and while Australia's inflation protection is not as strong as that for Europe or the US, Australia still has
+an inflation beta of more than 10 to the S&P GSCI commodity index.
+
+"That means that a $10 investment in a commodity index ETF that follows that index can give you close
+to $100 worth of inflation protection in the Australian market," he says.
+
+"Which means a 10 per cent allocation to commodities could shield the whole portfolio from inflation
+risk."
+
+Page161of247©2018Factiva,Inc.Allrightsreserved.Traditionally, Australian investors have sought commodity exposure through stocks, Tim Bradbury,
+executive director of ETF Consulting and Portfolio Solutions, says .
+
+"That has been largely broker-driven, and brokers tend to think about stocks when they think of a
+commodity. For example, if they like the idea of gold, they might buy a gold stock, but while that does
+give you exposure to gold, there are a whole lot of considerations that are specific to that stock:
+management, business risk, mine life, hedging policy, geopolitical risk, etc. It's by no means precise
+exposure."
+
+Nor is an actively managed fund that buys and holds resource stocks: like all active funds, it could
+certainly outperform the market, but can also underperform.
+
+Exchange-traded products (ETPs) have given investors a simple, cheap and transparent means of
+gaining exposure to commodities, through a single listing on the ASX. The first Australian ETP, the
+Gold Bullion Securities (ASX code GOLD), launched by ETF Securities in March 2003, was the world's
+first exchange-traded commodity, allowing retail investors to buy securitised ownership of gold, without
+having to own actual bullion. Each GOLD security gives the investor ownership of one-tenth of an ounce
+of gold bullion, held in the London vaults of custodian bank HSBC Bank USA. The price of a GOLD unit
+is one-tenth of the $A gold price.
+The GOLDs were quickly followed onto the ASX by the Perth Mint Gold Quoted Product (PMG), which
+give the investor the right to buy one-hundredth of an ounce of gold on, or before, 31 December, 2013.
+The PMGs trade under the ASX code of PMGOLD: at any time, their price is simply one-hundredth of
+the $A gold price.
+Investors find these "trackers" more simple to use than bullion and less risky than gold company
+stocks: there are no company-specific factors like mine life, resource security or hedging activity to
+complicate matters. The stocks simply track the $A gold price very closely, and may be sold at any
+time on the ASX. There is normal brokerage on the purchase or sale, and the management expense
+ratio (MER) of the investment is 40 basis points (0.40 per cent) a year. The next step was ETPs over
+physical silver, platinum, palladium and a basket of the three, plus gold. But the development that really
+fostered the view of commodities as an asset class was the introduction in 2011 of "synthetic" ETPs,
+which use derivatives – for example, indices over futures contracts or swaps – to generate returns.
+
+Vynokur says synthetic was the only way the "broad asset class" of commodities could be accessed.
+"You can do the precious metals through ETPs, because it's possible to physically hold the gold or
+silver, for example, to back them. But in most of the commodities that make up the major commodity
+indices – the agricultural commodities, the industrial metals, the energy commodities – a retail investor
+cannot own the physical commodity, so you have to do it through derivatives.
+
+"You can't own and store the agricultural commodities – wheat or corn or soy beans, or even livestock –
+and that's why you get exposure through commodity futures, and that's why they're called "synthetic".
+Same with the energy commodities: it would be totally cost-prohibitive to deal in the physical
+commodities, to take delivery of cargoes and store them. But having those commodities is what gives
+your portfolio the diversification and the protection against inflation," he says.
+
+Andrew Spence, senior investment adviser at Hillross CBD in Sydney, uses the BetaShares
+broad-based currency-hedged ETP (with the ASX code QCB) – which gives exposure to energy,
+agriculture, industrial metals, livestock and precious metals – as a portfolio diversifier and inflation
+hedge.
+
+"We have it in our 'alternatives' bucket, where we put anything that shows low or negative correlation to
+the core building blocks of the portfolio, which are equities and fixed-interest. We were getting that
+exposure through a long-short fund, but we found that didn't deliver, and we were looking for something
+that was more simple, cheaper and more diversified," he says.
+
+Most of Spence's clients are SMSFs, but the portfolio also serves non-super wealth accumulators.
+
+He says Hillross wants an "alternatives" allocation that will "hold the portfolio together", and make it
+more robust in a downturn or a left-field event like the GFC.
+
+"The story for us is one of low-to-negative correlation, and protection from inflation. We don't expect the
+current low-interest-rate environment to prevail much longer: we wouldn't pretend that we could pick
+when, but at some point in the near future, interest rates will start to rise, and we think commodities will
+give some protection from that," he says. "We've got a 'best-of-breed' portfolio and we're using the QCB
+in that, currently about 3 per cent of the portfolio." Over the past 18 months the return from the strategy
+has been negative, he says, but he expects that when US interest rates start to rise it will come into
+
+Page162of247©2018Factiva,Inc.Allrightsreserved.its own. "We'd expect to look at lifting that allocation when that happens," Spence says.
+
+Bradbury of ETF Consulting and Portfolio Solutions says this kind of use is "what ETPs were built for",
+but it's "still rare" in the Australian market.
+
+"There's a lot of choice of ETPs in the commodity space, but really, there has not been a lot of take-up.
+There are 22commodity ETPs listed, with a bit over $500 million of assets, but of that, $430 million is
+in the GOLD ETP. It is one of the exposures people across the board understand better than most, and
+there is a pretty strong attachment to gold on the part of a lot of investors. Apart from that, there's not a
+lot of interest spread across the other products." The major problem, he says, is that the education on
+how to use them "doesn't seem to have penetrated to the right parts of the buying market".
+
+"The variety of exposures is certainly there, but it's hard to get investors to take some of them up.
+They're all valid exposures, but they probably tend to be more of a trading-type exposure – you can slice
+into a whole range of precious metals, industrial metals, gas, oil, agricultural commodities, but they
+probably look more like short-term trading ideas or portfolio 'tilts' than perhaps a long-term allocation."
+
+Advisers need to understand how ETPs might be used, he says. One, they need to have an asset
+allocation that caters for commodities, they have to understand how to use those products, whether it's
+strategic long-term or tactical – the tactical advisers tend to be more broker-oriented, and they're often
+coming out of morning meetings with a trading idea based on the in-house research. They then look for
+the tool to implement that and in many cases the ETP is the best one.
+
+"The long-term story, of diversification and inflation protection, is not as well-understood as it should be
+– because broad-based commodities exposures have a role to play in portfolios," Bradbury says.
+
+Vynokur says the conversation about commodities is a "pretty timely one".
+
+"We're finding a lot of adviser interest in the broad commodity-basket products, with asset flows starting
+to pick up, coming off a couple of quiet years on that front. The key things that advisers are starting to
+see is low correlation to equities and fixed income. If you allocate 5 per cent to 10 per cent of the your
+portfolio to commodities, we say you will see a significant improvement in risk-adjusted return, with
+lower volatility."
+
+Inflation expectations are also driving interest, he says.
+
+"We've gone through a very significant period of quantitative easing, of very accommodating monetary
+policy, the US has just ceased but Japan is still pumping money into the system, and one of the natural
+consequences of that is inflation." Whether it's as a diversifier or as an inflation hedge, he says
+commodities "fit the picture".
+
+CO
+IN
+
+NS
+RE
+PUB
+AN
+
+bkhlp : BHP Billiton Ltd | craaus : Rio Tinto Ltd | bltplc : BHP Billiton PLC | rtz : Rio Tinto PLC
+i22472 : Precious Metals | i22 : Primary Metals | i224 : Non-ferrous Metals | ibasicm : Basic
+Materials/Resources | i211 : Metal Ore Mining | imet : Mining/Quarrying
+ccat : Corporate/Industrial News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+Fairfax Media Management Pty Limited
+Document AFNR000020141104eab50002y
+
+Page163of247©2018Factiva,Inc.Allrightsreserved.

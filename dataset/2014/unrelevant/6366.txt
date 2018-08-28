@@ -1,0 +1,786 @@
+The Final Report of the Financial Services (Murray) Inquiry: it aint broke, it just needs a good tune-up
+
+HD The Final Report of the Financial Services (Murray) Inquiry: it aint broke, it just needs a good
+
+tune-up
+
+BY Nuncio D'Angelo
+WC 6,838 words
+PD 12 December 2014
+SN Mondaq Business Briefing
+SC BBPUB
+LA English
+CY (c) 2014 Mondaq Ltd
+LP
+
+Introduction
+
+TD
+
+On Sunday 7 December 2014 the Federal Treasurer, Mr Joe Hockey, released the Final Report of the
+Financial System Inquiry (or 'Murray Inquiry' after its Chair, David Murray) having received it at the end of
+November in accordance with the Terms of Reference. The Inquiry was established by the Treasurer in
+December 2013 to review Australia's financial system in the aftermath of the global financial crisis.
+
+In the press release which accompanied the Final Report the Treasurer stated that it 'lays out a blueprint
+for the financial system over the next decade.' He went on to say that the Government intends to consult
+with industry and consumers before making any decisions on the recommendations. This consultation will
+take place until 31 March 2015.
+
+It is fair to say that the Report contains no real surprises and, perhaps a little disappointingly, no new 'Big
+Ideas' of the scale of the so-called 'twin peaks model' suggested by the Wallis Report in 1997 and adopted
+soon afterwards. The overall theme seems to be 'it ain't broke so all it needs is a good tune-up'. This was
+not unexpected after statements in the Interim Report of July 2014 that 'the Australian financial system has
+performed reasonably well in meeting the financial needs of Australians and facilitating productivity and
+economic growth' and 'many areas of the financial system are operating effectively and do not require
+substantial change'.
+
+Readers will recall that the Interim Report contained the Inquiry's preliminary observations following the
+first round of submissions and consultations, but it made no firm or formal recommendations (see our
+bulletin on it here). Interested parties were invited to make further submissions to be considered for the
+Final Report. By the closing date of 26 August 2014 some 6,500 further submissions were received (on top
+of the almost 300 original submissions).
+
+The Final Report contains 44 recommendations and these are set out below. We then include
+observations from Norton Rose Fulbright specialists on some of the highlights.
+
+Primary themes
+
+The Inquiry asserts that Australia's financial system has performed well since the Wallis Inquiry and has
+many strong characteristics. But it also has a number of weaknesses: taxation and regulatory settings
+distort the flow of funding to the real economy; it remains susceptible to financial shocks; superannuation is
+not delivering retirement incomes efficiently; unfair consumer outcomes remain prevalent; and policy
+settings do not focus on the benefits of competition and innovation. As a result, the system is prone to calls
+for more regulation.
+
+The Final Report focuses on seven primary themes:
+
+Funding the Australian economy: reduce distortions that impede the efficient market allocation of financial
+resources like taxation, information imbalances and unnecessary regulation.
+
+Competition: strengthen competition by removing impediments to its development.
+
+Resilience: strengthen the economy by making the financial system more resilient.
+
+Page58of304©2018Factiva,Inc.Allrightsreserved.Superannuation and retirement incomes: lift the value of the superannuation system and retirement
+incomes.
+
+Innovation: drive economic growth and productivity through settings that promote innovation.
+
+Consumer outcomes: enhance confidence and trust by creating an environment in which financial firms
+treat customers fairly.
+
+Regulatory system: enhance regulator independence and accountability, and minimise the need for future
+regulation.
+
+The recommendations
+
+The Final Report states that its recommendations seek to improve efficiency, resilience and fair treatment
+in the Australian financial system, to allow it to achieve its potential in supporting economic growth and
+enhancing standards of living for current and future generations. The recommendations are as follows:
+
+Chapter 1: Resilience
+
+Set capital standardssuch that Australian authorised deposit-taking
+
+institution capitalratios are unquestionably strong.2 Narrow mortgage risk
+weight differences: 
+Raise the average internal ratings-based (IRB) mortgage risk weightto narrow
+the difference between average mortgage risk weights forauthorised
+deposit-taking institutions using IRB risk-weight modelsand those using
+standardised risk weights.3 Loss absorbing and recapitalisation
+capacity: 
+Implement a framework for minimum lossabsorbing and recapitalisation
+capacity in line with emerginginternational practice, sufficient to facilitate
+the orderlyresolution of Australian authorised deposit-taking institutions
+andminimise taxpayer support.4 Transparent reporting: 
+Develop areporting template for Australian authorised
+deposit-takinginstitution capital ratios that is transparent against the
+minimumBasel capital framework.5 Crisis management toolkit: 
+Complete theexisting processes for strengthening crisis management powers
+thathave been on hold pending the outcome of the Inquiry.6 Financial Claims
+Scheme: 
+Maintain theex post funding structure of the Financial Claims Schemefor
+authorised deposit-taking institutions.7 Leverage ratio: 
+Introduce a leverageratio that acts as a backstop to authorised
+deposit-takinginstitutions' risk-weighted capital positions.8 Direct borrowing
+by superannuation funds: 
+Remove the exception to the general prohibition on direct borrowingfor
+limited recourse borrowing arrangements by superannuationfunds.
+
+Chapter 2: Superannuation and retirement incomes
+
+Seek broad political agreement for, and enshrine in legislation,the
+
+Require superannuation trustees to pre-select a comprehensiveincome product
+
+objectives of the superannuation system and report publicly onhow policy
+proposals are consistent with achieving these objectivesover the long term.10
+Improving efficiency during accumulation:
+Introduce a formal competitive process to allocate new default fundmembers
+to MySuper products, unless a review by 2020 concludes thatthe Stronger Super
+reforms have been effective in significantlyimproving competition and
+efficiency in the superannuationsystem.11 The retirement phase of
+superannuation: 
+for members' retirement. The product wouldcommence on the member's
+instruction, or the member may chooseto take their benefits in another way.
+Impediments to productdevelopment should be removed.12 Choice of fund: 
+Provide all employeeswith the ability to choose the fund into which their
+SuperannuationGuarantee contributions are paid.13 Governance of superannuation
+funds: 
+Mandate a majority of independent directors on the
+board ofcorporate trustees of public offer superannuation funds, includingan
+independent chair; align the director penalty regime withmanaged investment
+schemes; and strengthen the conflict of interestrequirements.
+
+Page59of304©2018Factiva,Inc.Allrightsreserved.Chapter 3: Innovation
+
+16 Clearer graduated payments regulation: 
+
+Establish a permanent public-private sector collaborativecommittee, the
+'Innovation Collaboration', to facilitatefinancial system innovation and
+enable timely and coordinatedpolicy and regulatory responses.15 Digital
+identity: 
+Develop a nationalstrategy for a federated-style model of trusted
+digitalidentities.
+Enhance graduation of retail payments regulation by clarifyingthresholds for
+regulation by the Australian Securities andInvestments Commission and the
+Australian
+Prudential RegulationAuthority.  Strengthen consumer protection by mandating
+theePayments Code. Introduce a separate prudential regime with twotiers for
+purchased payment facilities.17 Interchange fees and customer
+surcharging: 
+Improve interchange fee regulation byclarifying thresholds for when they
+apply, broadening the range offees and payments they apply to, and lowering
+interchangefees.  Improve surcharging regulation by expanding itsapplication
+and ensuring customers using lower-cost payment methodscannot be
+over-surcharged by allowing more prescriptive limits onsurcharging.18
+Crowdfunding: 
+equity and,over time, other forms of financing.19 Data access and use: 
+of data,taking into account community concerns about appropriate
+privacyprotections.20 Comprehensive credit reporting: 
+Supportindustry efforts to expand credit data sharing under the newvoluntary
+comprehensive credit reporting regime. If, over time,participation is
+inadequate, Government should consider legislatingmandatory participation.
+
+Graduate fundraisingregulation to facilitate crowdfunding for both debt and
+Review the costs andbenefits of increasing access to and improving the use
+
+Chapter 4: Consumer outcomes
+
+22 Introduce product intervention power: 
+
+Removeregulatory impediments to innovative product disclosure
+
+Introduce a targeted andprinciples-based product design and distribution
+obligation.
+Introduce a proactive product intervention power that would enhancethe
+regulatory toolkit available where there is risk of significantconsumer
+detriment.23 Facilitate innovative disclosure: 
+andcommunication with consumers, and improve the way risk and fees
+arecommunicated to consumers.24 Align the interests of financial firms and
+consumers: 
+Better align the interests of financialfirms with those of consumers by
+raising industry standards,enhancing the power to ban individuals from
+management and ensuringremuneration structures in life insurance and
+stockbroking do notaffect the quality of financial advice.25 Raise the
+competency of advisers: 
+register of advisers.
+insurance: 
+Improve guidance (including tools andcalculators) and disclosure for general
+insurance, especially inrelation to home insurance.
+
+Raisethe competency of financial advice providers and introduce anenhanced
+
+26 Improve guidance and disclosure in general
+
+Chapter 5: Regulatory system
+
+Create a newFinancial Regulator Assessment
+
+Provide regulatorswith more stable funding by adopting a three-year funding
+
+Board to advise Government annuallyon how financial regulators have
+implemented their mandates. Provide clearer guidance to regulators in
+Statements of Expectationand increase the use of performance indicators for
+regulatorperformance.28 Execution of mandate: 
+modelbased on periodic funding reviews, increase their capacity to
+paycompetitive remuneration, boost flexibility in respect of staffingand
+funding, and require them to undertake periodic capabilityreviews.29
+Strengthening ASIC's funding and
+powers: 
+
+Page60of304©2018Factiva,Inc.Allrightsreserved.Introduce an industry funding model for ASICand provide ASIC with stronger
+
+30 Strengthening the focus on competition in the
+
+Review the state of competition in thesector every three years, improve
+
+regulatory tools.
+financial
+system: 
+reporting of how regulatorsbalance competition against their core objectives,
+identifybarriers to cross-border provision of financial services andinclude
+consideration of competition in ASIC's mandate.31 Compliance costs and policy
+processes: 
+change.  Conduct post-implementation reviews ofmajor regulatory changes more
+frequently.
+
+Increase the time available for industry to implement complexregulatory
+
+Appendix 1: Significant matters
+
+Explore ways tofacilitate development of the impact investment market
+
+Publishretirement income projections on member statements from
+
+Update the 2009 CyberSecurity Strategy to reflect changes in the threat
+
+Clearly differentiatethe investment products that finance companies and
+
+andencourage innovation in funding social service delivery.
+Provide guidance to superannuation trustees on the appropriatenessof impact
+investment.  Support law reform to classify aprivate ancillary fund as a
+'sophisticated' or'professional' investor, where the founder of the fundmeets
+those definitions.33 Retail corporate bond market: 
+Reducedisclosure requirements for large listed corporates issuing'simple'
+bonds and encourage industry to develop standardterms for 'simple' bonds.34
+Unfair contract term provisions: 
+SupportGovernment's process to extend unfair contract term protectionsto
+small businesses.  Encourage industry to develop standardson the use of
+non-monetary default covenants.35 Finance companies: 
+similar entitiesoffer retail consumers from authorised deposit-taking
+institutiondeposits.36 Corporate administration and bankruptcy: 
+Consult on possible amendments to the external administrationregime to
+provide additional flexibility for businesses infinancial difficulty.37
+Superannuation member engagement: 
+definedcontribution superannuation schemes using ASIC regulatoryguidance. 
+Facilitate access to consolidated superannuationinformation from the
+Australian Taxation Office to use withASIC's and superannuation funds'
+retirement incomeprojection calculators.38 Cyber security: 
+environment,improve cohesion in policy implementation, and
+progresspublic-private sector and cross-industry collaboration. Establish a
+formal framework for cyber security information sharingand response to cyber
+threats.39 Technology neutrality: 
+Identify, inconsultation with the financial sector, and amend priority areas
+ofregulation to be technology neutral.  Embed consideration ofthe principle
+of technology neutrality into development processesfor future regulation. 
+Ensure regulation allows individualsto select alternative methods to access
+services to maintain fairtreatment for all consumer segments.40 Provision of
+financial advice and mortgage
+broking: 
+Rename 'general advice' and requireadvisers and mortgage brokers to disclose
+ownership structures. 41 Unclaimed monies: 
+Define bank accountsand life insurance policies as unclaimed monies only if
+they areinactive for seven years.42 Managed investment scheme regulation: 
+Consumer detriment, including illiquid schemes and freezing of
+funds. Regulatory architecture impeding cross-border transactions and
+mutual recognition arrangements.
+Support Government's review of the Corporations and MarketsAdvisory
+Committee's recommendations on managed investmentschemes, giving priority to
+matters relating to:43 Legacy products: 
+Introduce a mechanism tofacilitate the rationalisation of legacy products in
+the lifeinsurance and managed investments sectors.44 Corporations Act 2001
+ownership
+restrictions: 
+
+Page61of304©2018Factiva,Inc.Allrightsreserved.Remove market ownership restrictionsfrom the Corporations Act 2001 once the
+current reforms tocross-border regulation of financial market infrastructure
+arecomplete.
+
+Norton Rose Fulbright expert observations
+
+Here are our thoughts on specific highlights (in no particular order):
+
+Bank capital
+
+The recommendations include an increase in the amount of capital held by ADIs so that those institutions
+rank in the top 25% globally on regulatory capital levels, potentially requiring ADIs to hold a further 1% in
+regulatory capital. This is likely to lead to further equity capital raisings by ADIs to achieve what the Final
+Report calls "a safety buffer to absorb losses". ADIs have already successfully raised further capital this
+year, so finding investors is unlikely to be too great a challenge. However, there may well be a cost passed
+on to business and consumers. If ADIs do pass on the cost of holding this further capital, an estimated
+additional 10 bps will be added to funding costs.
+
+At a time when we have most likely reached an inflection point between bank lending rates and costs of
+equivalent funding in the debt capital markets, these additional bank costs will encourage borrowers to
+seek funds from the debt capital markets. The Final Report is encouraging greater issuance of corporate
+bonds (see below), so we assume that the Inquiry is not concerned at the potential shift in risk from the
+banking to the debt capital markets sector.
+
+The recommendation to implement a framework for minimum loss absorbing and recapitalisation capacity
+in line with emerging international practice is driven by the "too big to fail" concern. This is about "bail-in"
+capital. The Inquiry has enunciated a lingering worry that investors in ADIs will rely on an implicit
+guarantee by the government of Australian ADIs and that the taxpayer may suffer as a result. Loss
+absorbing or recapitalisation measures will have already found their expression in "non-viability"
+conversion triggers on certain types of subordinated debt or other similar debt instruments. If investors
+have bought on this basis without requiring a commensurately higher return, then ADIs may not find this
+requirement too troublesome.
+
+The recommendation to raise the average internal ratings-based (IRB) mortgage risk weight to narrow the
+difference between average mortgage risk weights for authorised deposit-taking institutions using IRB
+risk-weight models and those using standardised risk weight should be welcomed by regional banks and
+other ADIs that have been using a standardised risk weighting system. This is because it should reduce
+the competitive disadvantage they have been under by having to hold more capital to mortgage exposures
+than IRB-based banks. Conversely, the IRB-based banks will consider this an unnecessary increase in
+capital for institutions whose mortgage books performed very well, particularly compared to offshore
+banks, during the GFC. If implemented, the increased costs are likely to be passed on to the long-suffering
+consumer.
+
+Finance companies and shadow banking
+
+Notably, the Final Report did not recommend the regulation of shadow banking but has left that sector to
+be reviewed annually by the Council of Financial Regulators. There is to be ongoing reliance on the
+Financial Claims Scheme and the depositor protection regime, with a hint that perhaps the $250,000 level
+of protection currently provided for each account with each institution, should be revisited. The absence of
+a recommendation on shadow banking will be welcomed by the non-bank financial sector, as it seeks to
+increase competition and choice for consumers. However, that may not be the end of it. The Final Report
+acknowledges that alignment with international developments will be important in relation to shadow
+banking. The US has already begun to regulate some bank-type entities that do not take deposits (eg. GE
+Capital and AIG) and recent comments from the ECB and BIS indicate that the EU may well follow the
+same path for European shadow banking entities.
+
+International competitiveness and the funds management sector
+
+The Report brings good news for the funds management sector and its desire to compete internationally.
+This is described as a priority area of reform and Government action as it is a key component of getting the
+blueprint right for the Australian financial system into the future. The Inquiry's rationale for supporting this
+area of reform is based upon its philosophy that the primary means of improving the efficiency of our
+financial system is through competition, noting that developments and opportunities in Asia make change
+imperative.
+
+The Inquiry's recommendations in this area are intended to rebalance ASIC's regulatory focus towards
+competition and remove barriers to cross border provision of financial services and the free flow of capital
+into and out of Australia. In addition the Inquiry also recommended:
+
+Page62of304©2018Factiva,Inc.Allrightsreserved.that the Government should treat as a priority area of action the recommendations of CAMAC in their 2012
+and 2014 reports including in relation to removing impediments in Australia's regulatory architecture which
+make it harder for our funds sector to do cross border business; and
+
+that the Government consider the introduction of alternative collective investment vehicles such as
+corporate tax flow-through vehicles to facilitate the growth of our management of foreign funds.
+
+Superannuation
+
+Borrowing prohibition
+
+The proposal to remove the exception to the borrowing prohibition may have the unintended consequence
+of closing down the market for instalment warrants and other structured products that involve in-built forms
+of leverage, as well as closing down the residential property asset class for SMSFs.
+
+Improving efficiency
+
+The Inquiry clearly has reservations about the effectiveness of the Stronger Super reforms to bring down
+fees. While recognising that those reforms should be allowed to run their course, the Report recommends
+that a Parliamentary Committee inquiry should commence as early as next year to test the design features
+for a new competitive tender process for the super industry. The successful bidders will be a smaller
+number of super funds (with no hint as to the number) that will receive the super guarantee contributions of
+new entrants. The catch is that those funds must also offer the same fees and other features to their
+existing members. This recommendation could result in massive industry consolidation as funds seek to
+gain the necessary scale in order to compete on fees and brings Australia more in line with compulsory
+pension regimes overseas.
+
+Retirement phase of super
+
+Tilting the retirement product bias away from account-based pensions towards a default income stream
+chosen by trustees will be welcome by the super industry. However, as many of the submissions pushed
+for some element of compulsion, it is arguable that the Report does not go far enough. Rather, it
+encourages the development of retirement income products with pooled longevity risk protection and the
+removal of tax and other barriers to the development of such products. While these recommendations are
+welcome, it is unclear whether they will change consumer behaviour as consumers will continue to be able
+to choose to take their super benefits as lump sums, and then fall back on the age pension.
+
+Majority of independent directors
+
+The Inquiry is strongly supportive of a governance model of a majority of independent directors for public
+offer super funds as well as introducing civil and criminal penalties for director misconduct and
+recommends that equal representation (the current model) be restricted to defined benefit funds where
+employers bear the investment risk.
+
+Taxation of super
+
+The Report dodges the bullet on tax reform and leaves it to the Tax White Paper to recommend changes
+to the taxation of super. In its sights will be the concessional contribution caps and the taxation of earnings
+in the retirement phase (which are currently tax free) as well as the taxation of high super balances.
+
+Consumer outcomes
+
+Facilitating innovation
+
+The Inquiry has effectively deferred making a policy recommendation on the use of consumer data
+pending a further Productivity Commission review by the end of 2015, and perhaps with good reason. The
+use of consumer data is a double-edged sword. Consumer data can be used to create and promote
+personalised products tailored to a consumer's specific needs. This data can also be used to predict
+customer needs, making marketing and customer service for existing customers more efficient - which
+ought to result in cost savings that can be passed on to the consumer. On the other hand, some
+consumers have legitimate privacy concerns about the use of their private data for the commercial gain of
+financial institutions. For consumers that financial institutions deem less desirable, tailored products can
+also have a damaging effect, making it harder for them to access credit, or requiring them to access credit
+through products designed to prey on their tendency to make payments late or overdraw.
+
+The Report recommends the establishment of a permanent public-private sector collaborative committee,
+the 'Innovation Collaboration', to facilitate financial system innovation. This is similar to the 'Innovation Hub'
+
+Page63of304©2018Factiva,Inc.Allrightsreserved.initiative by the UK's Financial Conduct Authority established earlier this year, indicating that a close
+monitoring of UK developments will provide valuable insights into the future of regulation in Australia.
+
+Following the lead of the UK regulator, the Report recommends the facilitation of innovative forms of
+disclosure, noting consumer behavioural biases and commercial disincentives currently limit the
+effectiveness of our current disclosure regime. While the Report is scant on detail, it is echoing the
+consistent need for reform to facilitate innovation in financial services.
+
+Technology neutrality
+
+Consistent with recent ASIC announcements, the Report clearly endorses the principle of "technology
+neutrality" in the regulation of financial services. It is encouraging that the reform dial is moving in the right
+direction but it is not just about allowing electronic delivery. Regulation needs to adjust the bias away from
+paper, page and document type formats to facilitate the use of interactive multi-media personalised
+engagement with customers and allow the disclosure to be adaptive for use with all types of mobile
+devices.
+
+Such reform should result in significant cost savings for financial services providers as well as improve the
+customer experience and reduce the risk of misselling products and services.
+
+However, much depends on the regulators and how facilitative they are prepared to be. The Report
+recognises that the regulators need to adopt a flexible approach to respond to future developments in the
+market and technology. However, the regulators may need more resources and potentially new and
+different skill sets, in order to quickly identify both the opportunities and risks that new technology poses for
+financial services providers and consumers.
+
+Conduct regulation
+
+The Report's explicit and implicit endorsement of the UK approach also extends to its recommendation to
+introduce the UK FCA style product intervention powers into the Australian regulator's toolkit. By making
+issuers and distributors of financial products more accountable for design and distribution, the Report
+believes that such conduct regulation will lead to positive consumer outcomes and strengthen consumer
+confidence and trust in the system. These powers include bans on specific products, product terms,
+distribution channels, mandated warnings and product labelling. If implemented, these wide ranging
+powers will significantly strengthen the intrusive reach of ASIC into product development and distribution.
+
+Intervention powers of this sort could mean a new era of conduct regulation in Australia, where the focus of
+regulation will shift from enforcement action to preventative action by ASIC. Currently, this is the realm of
+APRA, which has the power to impose prudential standards (in addition to its enforcement powers).
+Prudential regulation has the objective of preventing the failure of institutions that can have a significant
+systemic impact on the whole economy.
+
+Rather than conferring "standards making" powers on ASIC, the Report recommends ASIC be given the
+power to impose licence conditions that require the applicant to strengthen their internal systems to
+address misconduct risk. Currently, ASIC can only do so through enforceable undertakings, which come
+too late for investors who have already suffered loss. By recommending the introduction of these
+preventative powers through licence conditions, it is clear that the Inquiry is aligning ASIC's powers with
+the new UK FCA. It will be interesting to see how ASIC will seek to transform itself, if these
+recommendations are ultimately adopted by the Government.
+
+Introduce a targeted and principles-based product design and distribution obligation
+
+The Inquiry proposes that this obligation would require product issuers to consider the consumer whose
+financial needs will be met by the product, and how the product should be distributed to those consumers.
+The obligation would also require ongoing review of products (including post the point of sale) to ensure
+that they continue to meet the needs of target consumers. The Inquiry has recommended that breach of
+this obligation should result in a civil penalty.
+
+This approach to product design regulation won out over two alternatives: an individual appropriateness
+test (similar to those used in Japan, Hong Kong and Singapore) which was deemed to be too expensive
+for product issuers; and industry self-regulation, which was rejected as ineffective, given the failure of
+industry self-regulation to improve the conduct of financial advisers.
+
+Even without an individual appropriateness test, an ongoing obligation to review financial products will
+increase compliance costs for product issuers (assuming the obligation cannot be discharged by a mere
+gestural review), and we expect to see a push back from the banking and financial advice industry on this
+aspect of the recommendation.
+
+Page64of304©2018Factiva,Inc.Allrightsreserved.Introduce a proactive product intervention power
+
+This recommendation reflects ASIC's submissions to the Inquiry, seeking a greater regulatory toolkit. If
+adopted, ASIC would have the power to temporarily ban products, restrict their distribution and change the
+way the products are marketed and communicated to consumers.
+The Inquiry has recognised that such a power would have "significant commercial impact", and has
+indicated that the power would be subject to judicial review, as well as requiring ASIC to consult with
+APRA and the proposed Financial Regulator Assessment Board on its use. The Inquiry has also
+suggested a review of the power after 5 years.
+
+By making this recommendation, it seems that the Inquiry has also recommended improved funding for
+ASIC, another request made by ASIC in its submissions to the Inquiry. Certainly, the change would have
+little real impact without increased funding for the regulator.
+
+Remove regulatory impediments to innovative product disclosure
+
+This will be a change welcomed by financial institutions - in its submissions, the Australian Bankers'
+Association called for simplifications to disclosure rules, which it asserted do not take into account the
+persistent availability of information online and other advantages of electronic delivery of information.
+Absent from this recommendation is the concept of 'layered disclosure', the provision of information to
+consumers as and when it becomes appropriate, which was previously considered by the Inquiry's interim
+report, and advocated for by consumer protection groups in their submissions.
+
+There is no guarantee that ASIC-granted individual exemptions, and broader legislative exemptions
+without more, will promote the development and use of novel and user-friendly disclosure materials. The
+Inquiry is hoping that competition in financial services, and the disruptive influence of 'new entrants', will
+bring innovation. But in an industry dominated by a small number of large, well-established institutions, it
+remains to be seen where these new entrants will come from. One potential source of new competition
+could be large players in other markets expanding into financial services, such as the major supermarket
+chains' foray into insurance products.
+
+Better align the interests of financial firms with those of consumers
+
+While the Inquiry has recommended improving the culture of financial firms, it is hard to see exactly how
+the Inquiry proposes to accomplish this aim. However, the Inquiry addresses the real cause of
+misbehaviour by financial advisers - which it identifies as incentive-based remuneration - in respect of only
+2 discrete areas, life insurance and stockbroking. As a response to phoenix activity, the Inquiry has also
+recommended that ASIC be given enhanced powers to ban individuals from managing financial firms.
+
+Raise the competency of financial advice providers
+
+The Interim Report considered a number of proposals about improving the education of financial advisers,
+and it is no surprise to see a number of them here. The Inquiry has proposed a minimum level of tertiary
+education for financial advisers, consistent with similar efforts in other jurisdictions to improve the
+competency of advisers. However, the final report is silent on specialist training requirements for trustees
+of SMSFs, which was considered by the interim report and which ASIC asked for in its submissions, noting
+that SMSF promotion models are a top enforcement priority for the regulator.
+
+Better minimum education standards are welcome, though the Inquiry's decision not to recommend a
+national exam is perhaps a missed opportunity to clearly establish a uniform competency baseline. The
+final report has also not completely addressed the inevitable increase to the cost of financial advice that
+will accompany the shrinking of the financial adviser profession when less qualified advisers leave the
+industry. The Inquiry has recognised the risk of an 'advice gap', and has given a nod to "cost effective
+market developments" such as scaled advice, limited scope advice, and advice delivered online, but has
+not made a policy recommendation on how to implement these - nor, more importantly, a policy
+recommendation on how to make sure that these forms of delivery still provide customers with sound and
+effective advice.
+
+Improve guidance (including tools and calculators) and disclosure for general insurance, especially in
+relation to home insurance
+
+Underinsurance and inappropriate insurance was a big area of concern for consumer groups making
+submissions to the Inquiry, and this recommendation seeks to address those concerns. The Inquiry reports
+that these problems can be resolved primarily through better disclosure, such as requiring insurers to help
+consumers to determine an appropriate level of insurance by providing information about replacement
+costs. The Inquiry has noted that some insurers provide this information to a limited degree through online
+calculators, and has proposed improving disclosure through better electronic and on-line tools.
+
+Page65of304©2018Factiva,Inc.Allrightsreserved.Curiously, the Inquiry has rejected solutions such as standardised or default insurance products and total
+replacement policies in favour of better disclosure tools, despite its comments about the need for
+regulation of product design for other financial products.
+
+Retail corporate bond market
+
+The expansion of debt capital markets funding by corporates has been on the agenda of both this present
+and previous governments, as they seek to encourage diversification of funding sources and create
+investment products for retail and institutional investors. The Report's recommendation should be
+welcomed and supported by the industry which has long advocated for some template-style issuance.
+
+Disappointingly, there is no specific recommendation for standardised terms and reduced disclosure
+requirement for some types of asset-backed issuance, or "simple securitisation". The resurgence of the
+RMBS market and greater simplification and consistency of those transactions present an ideal
+opportunity for the extension of this approach to that type of securitisation. An opportunity missed.
+
+Payment systems
+
+Two of the recommendations by the Inquiry were directed at payment systems:
+
+Clearer graduated payments regulation
+
+The Inquiry noted that Australia has a complex, fragmented and less than clear framework for regulating
+payments which is administered in various respects by ASIC, APRA and the Payment Systems Board
+(PSB). It proposed that the regulators should publish a clear guide to the framework for industry, in
+particular for new entrants, that outlines thresholds and regulatory requirements. Changes were suggested
+to consumer protection regulation for retail payment service providers with a view to simplification and
+improvement. The Inquiry also foreshadowed the problems with the current regulatory regime in not
+accommodating future innovation in payments, such as digital currencies. A review of current legislation
+was recommended as it was not clear that the PSB can regulate payment systems involving alternative
+mediums of exchange that are not national currencies. It is encouraging that the Inquiry did recognise
+issues with current system of regulation of the payments system. While some regulation is clearly
+warranted, it would have been pleasing to see some recognition of the possible benefits of stepping back
+from what some perceive as over-regulation in this area and whether, in some instances, there may be
+benefits in self-regulation.
+
+Interchange fees and customer surcharging
+
+A continuing issue arising from the introduction of regulations in 2003 allowing merchants to impose
+surcharges in relation to payment card transactions, so as to recover the cost of accepting payment
+cards, has been the problem of some merchants "over-surcharging" ie. recovering more than their
+reasonable costs. The proposal by the Inquiry that the PSB consider ways to simplify compliance and
+improve the accuracy of surcharging is a good one. However, irrespective of the regulatory means that
+may be adopted as a result, the Inquiry did not have a solution for enforcing any such regulation. It is
+suspected that we may not see an end to over-surcharging by some merchants any time soon. A major,
+and continuing, issue for the four-party credit card schemes in Australia was the introduction, in 2003, of
+restrictions on the amount of interchange fees that could be charged in credit card transactions. The
+recommendation by the Inquiry that the PSB consider, as a means of improving the transparency and
+efficiency of interchange fee regulation, reducing interchange fees in the short term, with a view to possible
+further lowering in the longer term, is likely to revive this issue.
+
+Technology and cybersecurity
+
+As with the Interim Report, the Final Report highlights cyber security and technology related fraud risks as
+an emerging trend for the financial services industry that presents many challenges. At the forefront of the
+risks that arise is the rapid pace of technological change that is occurring within the financial system and
+how the system operates. As a result, the emergence of new technology is placing demands on regulators
+to be more flexible, and raising issues relating to identity, privacy and cyber security. The Final Report
+highlights that Australia's regulators need the funding and skills to meet these challenges into the future.
+
+Specifically in relation to cyber security, the Committee recommends an update to the 2009
+whole-of-Government Cyber Security Strategy (CSS) to reflect changes in the threat environment, improve
+cohesion in policy implementation, and progress public-private sector and cross-industry collaboration. It is
+recommended that such an update be in conjunction with the establishment of a formal framework for
+cyber security information sharing and response to cyber threats.
+
+As noted in the Interim Report, due to the advances in technology and the sophistication of cyber-crime,
+even in the space of 5 years the CSS is now largely out of date and lags behind similar strategies adopted
+
+Page66of304©2018Factiva,Inc.Allrightsreserved.in the US, UK, Canada, New Zealand, France, Germany, Japan and Singapore. While financial institutions
+obviously retain ultimate responsibility for maintaining the security of their own systems, an updated CSS
+will provide a framework that will allow institutions to collaborate with Government and co-ordinate their
+efforts. Interestingly, the Inquiry did not go so far as to formally recommend a model that was under
+consideration at the time of the Interim Report - being the Financial Services Information Sharing and
+Analysis Center (FS-ISAC) in the US, which is a collaboration between financial institutions and
+government. Even so, it is likely that updates to the CSS will include a greater push for public and private
+sector collaboration. A current push for US-style legislative reforms here focussing on fraud risks in the
+private sector will also need to cover risks arising from cyber-crime, and this, coupled with updates to the
+CSS and the development of a formal mechanism for public-private sector collaboration, will further
+improve the resilience of the financial system.
+
+Taxation
+
+Consistently with the taxation comments foreshadowed in the Interim Report, and having regard to the
+major review of Australia's taxation system currently being undertaken, and the Tax White Paper due for
+release in 2015, the Inquiry did not purport to make any express recommendations so far as tax was
+concerned. However, it did identify a number of taxes that distort the allocation of funding and risk in the
+economy and indicated that the Tax White Paper should consider reform in these areas. Among the tax
+distortions identified by the Inquiry were the following:
+
+Negative gearing and capital gains tax
+
+Housing was identified as a potential source of systemic risk for the financial system and the economy.
+The combined effect of concessional rates of capital gains tax for assets held for longer than a year and
+the deductibility of interest on borrowings to acquire investment properties was seen as a tax subsidy.
+Since these tax breaks have long been a feature of the Australian tax system - apart from the short lived
+attempt to deal with negative gearing in 1985- there would be clear political implications in any attempt to
+remove this particular tax subsidy.
+
+Dividend imputation
+
+The Inquiry saw the case for retaining dividend imputation as being less clear than in the past. With
+Australia's economy becoming more open and connected to global capital markets, imputation is viewed
+as a subsidy for domestic investors, including superannuation funds, to invest in domestic equities. The
+benefits of imputation have been an important factor in investments decisions by many Australians -
+particularly retirees relying on superannuation. There would be a political dynamic associated with any
+attempted removal.
+
+Interest withholding tax
+
+Withholding taxes were said by the Inquiry to generally increase the required rate of return for foreign
+investors which, in turn, reduces the relative attractiveness of Australia as an investment destination.
+Where the tax cost is passed on to domestic borrowers this raises the cost of capital in Australia. Lower,
+more uniform, withholding taxes would reduce distortions. This observation has considerable merit. There
+do exist exemptions from interest withholding tax in a few tax treaties to which Australia in a party and,
+otherwise, some large scale borrowings can be structured to take advantage of domestic exemptions -
+such as the s128F ITAA 1936 exemption for public offers of debt securities. It would be more equitable if a
+lower interest withholding tax regime were more widely available rather than being confined to those
+foreign lenders who benefit under a tax treaty or where the borrowing can be structured to utilise an
+exemption.
+
+Corporate Administration and Bankruptcy
+
+The Report accepts that "Australia's external administration provisions are generally working well and do
+not require wholesale revision".
+
+ASIC is to retain its supervision of corporate insolvency with recommendations that it be better resourced
+and "should devote more attention to industry supervision including more proactively identifying and
+weeding-out misconduct". This approach is consistent with the intentions of the recently released
+Insolvency Law Reform Bill and stated public intention of ASIC.
+
+One recommendation that should have impact in the insolvency industry is Recommendation 39 that
+"priority areas of regulations" be made "technology neutral" and that future government policy and
+regulation adopt the principle of "technology neutrality". The aim of the recommendation is to avoid
+regulation that "assumes or requires the use of certain forms of technology", for example, a paper based
+environment. The Report considers that efficiencies should be available from "digital processes that are
+not being used" in external administration and bankruptcy regulation.
+
+Page67of304©2018Factiva,Inc.Allrightsreserved.The Report refers to proposals for a US Chapter 11 style framework and protection for directors by a "'safe
+harbour' to permit restructuring firms in financial difficulty without invoking external administration
+processes". The Report recognised that more work needs to be done on these proposals without reaching
+any tentative conclusions on the direction of further enhancement and made a recommendation that
+further consultation should be undertaken for possible amendments to provide additional flexibility
+(recommendation 36). This recommendation follows the general thrust of the report of not making major
+recommendations as the Australian financial system has generally performed well.
+
+Start-ups and crowdfunding
+
+The Report describes certain tax distortions in relation to start-ups and notes the need for better targeted
+tax settings to facilitate innovation, acknowledgement of the barrier to fundraising caused by existing tax
+uncertainty around venture capital limited partnerships and recognition of the benefits of more flexible
+access to R&D tax offsets.
+
+The Report cites stakeholders as suggesting that Australia is already lagging other jurisdictions in the
+facilitation of crowdfunding, meaning time is of the essence. Equity investment is a critical aspect of the
+viability of seed-stage and early-stage ventures as banks traditionally do not lend to pre-revenue
+companies. The costs of preparing a prospectus for most seed-stage and early-stage enterprises would
+normally be prohibitive. We see meaningful benefit in creating a new special category of small scale
+offering for crowdfunding which:
+
+recognises the 20 cap on investors is not appropriate and that there is a strong argument that no cap on
+the number of investors should apply
+
+reassesses the cap of $2m and considers a graduated cap depending on the risk factors associated with
+the issuer, and
+
+balances these additional risks with a pragmatic basic disclosure regime (where no regime might otherwise
+apply) as well as reporting with minimal red-tape to ensure an appropriately informed market.
+
+Conclusion
+
+The Final Report is of great significance for the financial sector as its recommendations have the potential
+to significantly affect how business is done in and by Australia, as well as the cost of doing business. It
+should also further enhance confidence in the Australian economy and financial system. Of course, we are
+left with the question of how many of the recommendations are adopted and implemented, and that is as
+much a question of politics as one of economics.
+
+Dr. Nuncio D'Angelo
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: Alex.boxsell@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO nortrb : Norton Rose Fulbright LLP
+
+Page68of304©2018Factiva,Inc.Allrightsreserved.IN
+
+ibnk : Banking/Credit | ifinal : Financial Services | i835 : Legal Services | ibcs : Business/Consumer
+Services
+
+NS ccat : Corporate/Industrial News | c16 : Bankruptcy | c22 : New Products/Services | reqrbc : Suggested
+
+Reading Banking/Credit | cactio : Corporate Actions | ccfd : Corporate Financial Difficulty | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter | redit : Selection of Top
+Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+
+RE austr : Australia | uk : United Kingdom | apacz : Asia Pacific | ausnz : Australia/Oceania | eecz : European
+
+Union Countries | eurz : Europe | weurz : Western Europe
+
+IPD Finance and Banking
+PUB Mondaq Limited
+AN Document BBPUB00020141212eacc000b6
+
+Page69of304©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,224 @@
+The Australian Financial Review - Nick Abrahams - tech M &A and investment activity
+
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+The Australian Financial Review - Nick Abrahams - tech M&A and investment activity
+
+1,565 words
+8 August 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+Partner Nick Abrahams authors an article in The Australian Financial Review about recent trends in tech
+M&A and investment activity.
+
+This article was originally published by The Australian Financial Review and is reproduced with
+permission.
+
+Australian tech millionaire production line gathers pace
+
+By Nick Abrahams
+
+I spent Saturday night as the odd man out surrounded by the young and beautiful. This was a crowd who
+would not be out of place at the Ivy or even the Logies. But no, it was The Australian Startup Awards - a
+group of early-stage technology companies brought to fever pitch by uber-disruptor Ruslan Kogan who
+gave a rousing speech in favour of the pursuit of profits and success. They are right to be enthusiastic.
+The opportunity has never been bigger. The first half of this year has delivered great riches to Australian
+tech entrepreneurs. Here are the hot spots.
+
+US venture capital loves us
+Australian tech entrepreneurs used to shoot for a $20 million to $40 million exit and after that, it was
+Byron Bay time. But the stakes have changed - Australia is growing tech companies to massive
+valuations in timespans as short as those seen in Silicon Valley. This has been spotted by US venture
+capitalists and seven or eight of the main Silicon Valley VCs are on regular trips to Australia looking for
+the next Atlassian.
+Insight Venture Partners led a $250 million investment into quiet achiever, Campaign Monitor. While the
+valuation was not officially released, it is rumoured to be about $US600 million ($644 million).
+
+This is one of the largest US VC deals of recent years anywhere in the world, only bested by funding
+rounds into Airbnb, Uber and Dropbox.
+It was the first capital raise for the 10-year-old company and a great tribute to the founders, Ben
+Richardson and Dave Greiner.
+
+Insight Venture Partners gave the cheque book another nudge, with one of its investees, Unitrends,
+acquiring NICTA spin-out and cloud integrator, Yuruware for $10 million.
+
+Facebook and Expedia investor Technology Crossover Ventures* made its first foray into the Australian
+market with a $30 million Series B investment into SiteMinder, a global force in online hotel booking.
+
+Online video provider, Viocorp, got an injection from niche US funder Partners for Growth.
+PFG offers a novel form of debt/equity funding specifically for tech companies. It is unlike any funding
+available in Australia and they have completed a substantial number of transactions over here with
+relatively mature companies.
+
+Other US deals are due to be announced in the not distant future.
+
+What we do well in Australia
+
+Page138of269©2018Factiva,Inc.Allrightsreserved.The internet has overthrown the tyranny of distance that kept Australia from being a global tech player.
+Recent deals like Campaign Monitor and US giant Fleetmatic's acquisition of online field force
+management platform, Connect2Field* show Australia can build globally competitive companies that
+solve a problem for small and medium businesses at a low price point.
+
+Look to the remarkable market cap of Xero - the Russell Crowe of the tech world. Born in NZ, matured in
+Australia and now experiencing great success on the US stage.
+
+The key thing US investors are looking for in Australian tech companies is an overseas customer base.
+Getting product/solution fit in Australia then expanding to a global market is sure to raise the interest of
+major investors.
+
+Online Consolidation
+
+The internet is maturing and consolidation is rife. Sydney-based task-sourcing website Airtasker acquired
+Melbourne's Occasional Butler. Fairfax expanded its Domain business across Canberra and rural NSW
+by ponying up $50 million for All Homes.
+When listed web host Melbourne IT bought up rival domain registry NetRegistry Group, $50 million was
+also the magic number.
+
+Love was in the air as Australia's two largest dating sites, Oasis Active* (part owned by the Ten Network)
+and RSVP hooked up in a $90 million merger.
+APN, after its acquisition of brandsExclusive two years ago*, left the online fashion world by selling its
+stake in that company to IPO aspirant Aussie Commerce and Australian Associated Press* left the
+media monitoring world with the well-timed sale of that business to iSentia.
+
+The search for scale online is always important. Matt Barrie's Freelancer acquired Ukraine-based digital
+content marketplace fantero.com. An interesting geographic expansion at this time in Ukraine's history.
+
+Financial services - always a winner for Australia
+
+Financial services is one of our strongest industries and is the focus of many online players.
+
+Classifieds giant Carsales.com made a big move into the financial services sector by buying a 50.1 per
+cent stake in online lender Stratton* for $60 million.
+ASX-listed financial services firm Rubik acquired two mortgage broking software companies, Stargate
+Information Systems for a reported $20 million upfront and Infinitive for $2.4 million. The two companies
+between them handle around 25 per cent of all Australian broker-originated mortgage settlements.
+
+Not keen to sit back and wait for the disruptors, Westpac, has shown it wants to get closer to them.
+Through its venture capital arm Reinventure, Westpac invested $5 million into Australia's first
+peer-to-peer lender, SocietyOne. They were joined in the investment by German internet powerhouse
+Rocket Internet and Justin Reizes, Australian head of KKR.
+
+Telstra continues to be active
+Telstra had a big start to the year selling 70 per cent of Sensis to PE fund, Platinum Equity for $450
+million and using $50 million of spare change to joint venture in the monitored security industry with
+SNP and $40 million for network integrator O2 Networks. Offshore, Telstra invested in US mobile phone
+authentication provider TeleSign.
+
+Overseas exits
+There were some great exits to overseas companies. The world's largest travel site, TripAdvisor, paid
+$US200 million for Sydney-founded online tour agency Viator.
+
+But British companies are also picking up Australian companies at a great rate. UK gambling giant
+Ladbrokes acquired Alan Eskander's Melbourne online bookmaker, Betstar, for something north of $20
+million.
+Tribal Group, a UK government-focused education support provider acquired Human Edge Systems, an
+Aussie provider of student management systems for $15 million.
+Not to be left out, GB Group, a UK-listed identity intelligence business bought Australian fraud detector,
+DecTech for $37 million.
+
+Page139of269©2018Factiva,Inc.Allrightsreserved.Forget mining - get into the cloud
+
+With the decline in the resources sector, we have seen numerous listed shells (and their ready-made
+register of shareholders) become available for backdoor listing. And the tech companies have really
+responded - feels just like old dotcom times.
+Bulletproof Networks did a reverse takeover of mining company Spencer Resources. Macro Energy
+had been trading at 2¢ a share. It acquired bitcoin trading house digitalBTC, changed its name to Digital
+CC and its stock shot up 42 per cent.
+Cloud financial planner Decimal Networks backdoored into mineral exploration companyAviva
+Corporation. Information security player Cocoon Data integrated with uranium explorer Prime Minerals.
+
+Cloud applications builder PRM Clouds integrated with miner Minerals Corporation. Q&A social network
+Spring.me integrated with property player GRP Corporation. Cloud platform provider Cloud Central
+integrated with wine companyDromana Estate. PieNetworks bolstered its ASX standing with the
+acquisition of leading crowd-sourced journalism platform Newzulu.
+Australian-founded mobile gaming company Mig33 got a $10 million investment from tech
+manufacturing giant Foxconn ahead of its integration with Mineral explorer Latin Gold.
+
+However, one of the most remarkable deals is where Silicon Valley HR startup 1-page is doing a reverse
+takeover of ASX listed InterMet Resources.
+
+1-page has no specific link to Australia but is hoping to use the listing as a springboard to a NASDAQ
+listing. We may see more US start-ups coming to Australia to tap our capital markets.
+
+The next six months
+We will continue to see strong tech M&A and investment activity, especially with US venture capitalists
+looking to invest in companies with a global customer base and enterprise value of $80 million plus.
+
+While the backdoor to the ASX will continue to swing, we may see more IPOs from the likes of Amaysim,
+Ingogo and Yatango.
+
+We also see IT services businesses searching for acquisitions to bolster their cloud capabilities. These
+businesses are struggling with the death of the 5-year software replacement cycle as their customers
+move to "as-a-service" models.
+
+Cloud businesses that solve a problem for SMBs at a low price point will continue to be attractive
+acquisition targets as a result.
+Telstra will also continue to buy and invest, especially in healthcare and mobile-related high-tech out of
+Silicon Valley.
+
+Elsewhere, media companies are more prepared to write cheques than they have been for a while.
+
+For example, Nine just upped its investment in Quikflix by taking out HBO. Hopefully, this will continue.
+The consolidation of online businesses will continue to occur, especially in the business to consumer
+space and financial services.
+Further afield, the massive size and appetite for acquisitions of Chinese internet companies like TenCent
+and Alibaba means it can't be too long before we see them coming down here.
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Page140of269©2018Factiva,Inc.Allrightsreserved.Fax: 293308000
+
+E-mail: clair.simpson@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO
+IN
+
+NS
+
+RE
+
+nortrb : Norton Rose Fulbright LLP
+i8150203 : Private Equity | iventure : Venture Capital | i81502 : Trusts/Funds/Financial Vehicles | ialtinv :
+Alternative Investments | ifinal : Financial Services | iinv : Investing/Securities | i835 : Legal Services |
+ibcs : Business/Consumer Services
+ccat : Corporate/Industrial News | c18 : Ownership Changes | cactio : Corporate Actions | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | melb : Melbourne | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz :
+Australia/Oceania
+
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020140808ea880005l
+
+Page141of269©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,104 @@
+UPDATE 1-Australian competition regulator blocks AGL's $1.34 bln MacGen purchase
+
+HD
+WC
+PD
+ET
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+UPDATE 1-Australian competition regulator blocks AGL's $1.34 bln MacGen purchase
+
+582 words
+4 March 2014
+10:35
+Reuters News
+LBA
+English
+(c) 2014 Reuters Limited
+
+* Ruling is a blow to New South Wales asset sale program
+
+* NSW says power firm won't go ahead in current form
+* AGL shares slip as company and NSW assess decision (Adds government and AGL reaction, share
+price, deal context)
+
+By Byron Kaye and Lincoln Feast
+SYDNEY, March 4 (Reuters) - An Australian regulator blocked a A$1.5 billion ($1.34 billion) deal by
+New South Wales to sell a power company on competition concerns, dealing a blow to the state's plans
+for a series of asset disposals this year to fund new road and rail projects.
+
+In a widely expected ruling, the Australian Competition and Consumer Commission said on Tuesday the
+state government's plan to sell Macquarie Generation to AGL Energy Ltd would have stifled competition
+in the country's most populous state.
+As shares in AGL fell on the news, the New South Wales government said the sale "will not proceed in
+its current form". "We are not involved in a desperate fire-sale," New South Wales treasurer Mike Baird
+said in a statement, sticking to the state's previous stance that the company will only be sold for more
+than its book value.
+
+The state government last month ruled out rival bids from Brisbane-based ERM Power Ltd and Japan's
+Marubeni Corp , saying only AGL offered to pay more than the asset's retention value. AGL said it was
+reviewing the regulator's reasoning before deciding on its response.
+New South Wales has already earmarked smaller energy firmDelta Electricity, which owns two power
+stations, and the Port of Newcastle for sale this year to fund its plans to improve the state's transport
+infrastructure. The state government has identified a total of about A$85 billion in potential asset sales
+over the next five years.
+
+The regulator's decision on Macquarie Generation comes a year after the New South Wales
+government netted A$5 billion from the sale of Port Botany in Sydney and Port Kembla in Wollongong.
+
+In its ruling on Tuesday, the regulator said allowing AGL to buy Macquarie Generation, which supplies
+27 percent of New South Wales's electricity, would mean the state's three biggest energy retailers
+would own up to 80 percent of its energy generators. That would raise "barriers to entry and expansion
+for other electricity retailers," the regulator said.
+The decision comes as a blow to AGL. The company was counting on the acquisition to step up its
+competition with Sydney-based Origin Energy Ltd and Hong Kong-based CLP Holdings Ltd's Energy
+Australia on selling power to retail customers. AGL shares were down 2 percent in early trading while
+the benchmark index was flat.
+
+In a Feb. 26 interview with Reuters, AGL Chief Executive Michael Fraser said he was confident the
+company cleared regulatory hurdles and it was "premature" to say if he would take the commission to
+court in relation to Macquarie Generation.
+
+Page241of251©2018Factiva,Inc.Allrightsreserved.In 2003, the company successfully mounted a Federal Court challenge of the regulator's ruling against
+its purchase of one-third of a Victorian power station.
+
+"If we need to defend it in court, we will," the regulator's chairman Rod Sims told a local television
+station in an interview on Tuesday morning.
+
+($1 = 1.1194 Australian dollars) (Reporting by Byron Kaye and Lincoln Feast; Editing by G Crosse and
+Kenneth Maxwell)
+
+RF
+CO
+IN
+
+NS
+
+RE
+IPD
+IPC
+PUB
+AN
+
+Released: 2014-3-7T00:35:32.000Z
+agkega : AGL Energy Limited | macgen : Macquarie Generation
+i61 : Wholesalers | i64 : Retail/Wholesale | i16 : Electricity/Gas Utilities | i16101 : Electric Power
+Generation | ieutil : Electric Utilities | iutil : Utilities
+c131 : Regulatory Bodies | c181 : Acquisitions/Mergers/Takeovers | c34 : Anti-Competition Issues |
+ginda : Independent Agencies/Regulatory Bodies | c13 : Regulation/Government Policy | c18 :
+Ownership Changes | cactio : Corporate Actions | ccat : Corporate/Industrial News | gcat :
+Political/General News | gpir : Politics/International Relations | gpol : Domestic Politics | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | nswals : New South Wales | apacz : Asia Pacific | ausnz : Australia/Oceania
+Business
+SERVICE:ABX
+Thomson Reuters (Markets) LLC
+Document LBA0000020140304ea34000um
+
+Page242of251©2018Factiva,Inc.Allrightsreserved.

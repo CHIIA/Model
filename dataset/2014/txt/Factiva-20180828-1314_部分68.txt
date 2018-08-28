@@ -1,0 +1,371 @@
+Weekly Recommendation, Target Price, Earnings Forecast Changes
+
+HD Weekly Recommendation, Target Price, Earnings Forecast Changes
+BY By Rudi Filapek-Vandyck, Editor
+WC 3,385 words
+PD 28 July 2014
+SN FN Arena
+SC FNAREN
+LA English
+CY Copyright 2014. FN Arena Ltd.
+LP
+
+Guide:
+
+The FNArena database tabulates the views of eight major Australian and international stock brokers:
+BA-Merrill Lynch, CIMB, Citi, Credit Suisse, Deutsche Bank, JP Morgan, Macquarie and UBS.
+
+TD
+
+For the purpose of broker rating correlation, Outperform and Overweight ratings are grouped as Buy,
+Neutral is grouped with Hold and Underperform and Underweight are grouped as Sell to provide a
+Buy/Hold/Sell (B/H/S) ratio.
+
+Ratings, consensus target price and forecast earnings tables are published at the bottom of this report.
+
+Summary
+
+Period: Monday July 21 to Friday July 25, 2014 Total Upgrades: 8 Total Downgrades: 14 Net Ratings
+Breakdown: Buy 39.32%; Hold 44.05%; Sell 16.64%
+
+The week ending Friday, July 25, proved once again a continuation of the pattern witnessed for a number
+of weeks now. At face value, it appears the trend is negative for Australian equities, with FNArena
+registering more downgrades for ratings on individual stocks than upgrades. But dig deeper and a positive
+trend emerges in support of ongoing positive sentiment. Positive observation number one remains that
+analysts are very reluctant to lower their valuations and price targets, maybe with the exception of specific
+resources stocks. Positive observation number two is that resources stocks, bulk commodity producers
+and explorers in particular, remain the main targets of any negative revisions to profit estimates. On the
+positive side we find insurers, energy companies and selected cyclicals including Incitec Pivot, Western
+Areas and BlueScope Steel, while Alumina Ltd continues to enjoy renewed interest and upwards
+momentum for aluminium. Negative revisions appear large at face value, but this side of the trend remains
+heavily dominated by smaller iron ore producers, gold stocks and companies issuing disappointing
+(operational) market updates, such as Sims Group and Sandfire Resources.
+
+Upgrades
+Atlas Iron ((AGO)) upgraded to Neutral from Underperform by BA-Merrill Lynch. B/H/S: 0/5/3
+Merrills is upgrading to Neutral from Underperform as weak results have now been laid bare and iron ore
+prices have stabilised, limiting near-term downside. That said, the broker thinks material upside will
+continue to be limited by oversupplied iron ore markets and uncertainty regarding future growth plans. The
+target is raised to 60c from 50c.
+
+See also AGO downgrade.
+A2 Milk ((ATM.NZ)) upgraded to Neutral from Underperform by Credit Suisse. B/H/S: 1/1/0
+The signal for the resumption of exports for a2 Platinum infant formula from the Chinese authority is a
+positive step, in the broker's view. This has not changed the sales trajectory Credit Suisse had assumed
+but the recent pull back in the stock price has led to an upgrade to the rating to Neutral from Underperform.
+Target is unchanged at NZ73c.
+
+Page207of300©2018Factiva,Inc.Allrightsreserved.Ausenco ((AAX)) upgraded to Neutral from Underweight by JP Morgan. B/H/S: 0/3/0
+
+The broker is upgrading to Neutral from Underweight following recent falls in the share price. The target is
+rolled forward to 62c from 65c.
+Drillsearch Energy ((DLS)) upgraded to Neutral from Underweight by JP Morgan. B/H/S: 2/2/0
+
+The broker is upgrading to Neutral from Underweight based on the improved sector-relative valuation as
+the stock retreats from its April highs. The target is raised to $1.60 from $1.56 and JP Morgan increases
+FY15 earnings forecasts by 8%. The quarterly result beat on revenue, capex and cash flow. Further
+improvements will depend on the longer-term outlook and the broker awaits the investor briefing on August
+1.
+Henderson Group ((HGG)) upgraded to Outperform from Neutral by Macquarie. B/H/S: 4/2/0
+
+The broker notes 80% of Henderson's funds are outperforming over one and three years but this is not
+reflected in the current share price given, the broker suspects, concerns around European political risk.
+The broker believes performance and inflows offset macro and regulatory risks. The broker has increased
+forecast earnings by 4-5% in 2014-15 and lifted its target 11% to $4.90. Upgrade to Outperform.
+IOOF ((IFL)) upgraded to Buy from Neutral by Citi. B/H/S: 3/3/1
+Given recent weakness in the share price, Citi is upgrading to Buy from Neutral and reducing the target to
+$9.15 from $9.30. The broker expects June reports should deliver another quarter of strong flows into the
+company's flagship platforms. The broker thinks some of the market scepticism regarding the Shadforth
+acquisition is misplaced. Additional revenue should be able to be generated in a way that Shadforth in
+isolation could not achieve.
+Ramsay Health Care ((RHC)) upgraded to Buy from Neutral by BA-Merrill Lynch. B/H/S: 3/4/1
+The broker is upgrading to Buy from Neutral after reviewing the acquisition of Generale de Sante. The
+target is raised to $52.10 from $49.10. A more positive view of the value of the French business is based
+on procurement savings in the next three years and greater margin leverage from volume growth. Merrills
+thinks Ramsay can leverage a comparable lower cost now that it has purchasing power in France and
+drive up to $100m in savings in Ramsay Australia over the next 2-3 years.
+Sims Metal Management ((SGM)) upgraded to Outperform from Neutral by Macquarie. B/H/S: 4/2/2
+
+The broker believes overcapacity in the scrap metal market will remain an issue and turning Sims around
+will take some time. However if the new CEO can deliver on even a part of his ambitious new strategy for
+the company the risk is skewed to the upside, the broker believes. SGM should return to net cash by
+FY16 on the broker's estimates, which allows some room for the odd stumble along the way. It's enough
+for the broker to lift its target to $12.23 from $10.74 and upgrade to Outperform.
+
+Downgrades
+Atlas Iron ((AGO)) downgraded to Underperform from Neutral by Macquarie. B/H/S: 0/5/3
+
+The good news is Atlas' preliminary June quarter shipment numbers beat the broker's forecast by 25%,
+including increases to both standard and low-grade ores, and that impressive testing results from Corunna
+Downs suggests higher grades than nearby McPhee Creek. While the broker expects Atlas to ship less
+lower grade ore ahead, it has adjusted its grade discount forecast to 10% from 5%. Forecast earnings fall
+45% and 78% in FY14-15. Target falls to 50c from 75c. Downgrade to Underperform.
+
+See also AGO upgrade.
+Australian Pharmaceutical ((API)) downgraded to Neutral from Outperform by Macquarie. B/H/S: 2/2/0
+
+With supermarkets moving more aggressively into the health and beauty space, which the broker
+estimates represents around 30% of pharmacy sales, more pharmacy insolvencies and distributor bad
+debts may result and Aust Pharma's own Priceline franchises will come under increased competitive
+pressure, the broker suggests. Cost controls and sales growth mean API should hit the top end of
+guidance in the short term, the broker notes, but longer term the outlook is less certain. Downgrade to
+Neutral. Target falls to 64c from 65c.
+Australand ((ALZ)) downgraded to Neutral from Outperform by Credit Suisse. B/H/S: 1/4/0
+Residential margins drove a 30% increase in earnings in the first half. The company has reiterated
+guidance for 20-25% earnings growth in 2014 and 10-15% in 2015 and 2016. Credit Suisse expects an
+
+Page208of300©2018Factiva,Inc.Allrightsreserved.11% fall in FY17 residential earnings as the cycle moderates. The broker thinks the Frasers' offer will be
+hard to beat and a counter offer from Stockland ((SGP)) is unlikely. Credit Suisse sets the target at the bid
+price of $4.48, which is above the broker's takeover valuation of $4.40, and lowers the rating to Neutral
+from Outperform.
+Bendigo & Adelaide ((BEN)) downgraded to Neutral from Buy by BA-Merrill Lynch. B/H/S: 1/6/0
+The broker is downgrading to Neutral from Buy. The bank is fundamentally attractive and better positioned
+from a regulatory perspective compared with the majors but its recent performance is reflected in the share
+price, in Merrills' view. The stock is up 14% since April while the sector is up 3%. The broker acknowledges
+a key risk in relation to the Great Southern class action has now been removed, as an agreement has
+been concluded with investors. The target is steady at $12.20.
+Blackmores ((BKL)) downgraded to Neutral from Overweight by JP Morgan. B/H/S: 0/1/0
+
+The broker downgrades to Neutral from Overweight and trims earnings forecasts slightly for the outer
+years, leading into the FY14 result. The target is rolled forward to $26.10 from $25.49.
+Insurance Australia ((IAG)) downgraded to Neutral from Outperform by Macquarie. B/H/S: 0/6/2
+
+IAG has pre-announced an insurance margin well ahead of guidance. But notwithstanding synergies from
+the incorporation of the Wesfarmers' business, the rate of premium growth is slowing and IAG's share
+price is currently reflecting a favourable claims environment, the broker notes. Having pre-released its
+result "surprise", there'll be no more surprises at the actual result release, the broker suggests. Downgrade
+to Neutral. Target unchanged at $6.20.
+Iluka Resources ((ILU)) downgraded to Underperform from Neutral by Credit Suisse. B/H/S: 5/1/2
+
+Disappointing sales in the first half have led Credit Suisse to downgrade its rating to Underperform from
+Neutral. The company has advised that 2014 sales may only match 2013's 370,000t. The broker slashes
+zircon sales forecasts across the forward estimates with a view that 300-500,000 tonnes per annum is
+looking like the new norm. Titanium dioxide is picking up but still disappoints. The broker continues to wait
+for a recovery in the price of mineral sands to consider Iluka attractive. The target is reduced to $8.50 from
+$9.00.
+Investa Office ((IOF)) downgraded to Neutral from Buy by BA-Merrill Lynch. B/H/S: 2/4/1
+The broker is downgrading to Neutral from Buy following the stock's performance over the past year. While
+speculation of a possible takeover may underpin the share price the broker thinks the current trading range
+factors most upside into the stock. Merrills has analysed the potential impact if either GPT ((GPT)) or
+Mirvac ((MGR)) acquired Investa. In both instances the broker envisages limited capacity to pay above the
+current share price. The price target is raised to $3.61 from $3.23.
+Macquarie Atlas Roads ((MQA)) downgraded to Neutral from Overweight by JP Morgan. B/H/S: 1/4/0
+The broker continues to view the stock as an investment company leveraged to improving economic
+conditions in the Eurozone, particularly France, as well as the US state of Virginia. With the stock now
+trading above the target the broker downgrades to Neutral from Overweight. The $3.22 target is retained. A
+sustained reversal in Australian dollar strength would be a potential positive catalyst.
+Nufarm ((NUF)) downgraded to Neutral from Outperform by Credit Suisse. B/H/S: 2/6/0
+
+A month ago the broker was confident in its Outperform rating for Nufarm, driven by growth in Brazil. But in
+the interim, soft commodity prices have fallen in the region and may yet fall further, pressuring farmers to
+turn to cheaper pesticides, the broker suggests. The broker has thus cut earnings forecasts, its target to
+$4.90 from $5.00 and its rating to Neutral from Outperform.
+Orora ((ORA)) downgraded to Neutral from Outperform by Macquarie. B/H/S: 7/1/0
+
+Ahead of Orora's maiden result, the broker has reduced FY15 forecast earnings by 6% to reflect a slower
+Botany ramp-up but rolled forward discounted cash flow to produce a target increase to $1.51 from $1.40.
+The broker notes ORA is trading on a premium multiple to international peers and given a preference for
+Amcor ((AMC)) and Pact Group ((PGH)) in the space, the broker downgrades ORA to Neutral.
+Sandfire Resources ((SFR)) downgraded to Reduce from Hold by CIMB Securities. B/H/S: 3/3/2
+
+CIMB has had to downgrade FY15 estimates following guidance for lower grades and higher costs than
+previously modelled. The target is reduced to $5.50 from $6.00 and the rating downgraded to Reduce from
+Hold. The broker acknowledges there were some strong results on the operational front in the June quarter
+
+Page209of300©2018Factiva,Inc.Allrightsreserved.but lower milled copper grades and a dip in recoveries caused production to miss forecasts. This
+highlights the challenges for single mine companies in delivering to high market expectations, in CIMB's
+opinion.
+SEEK ((SEK)) downgraded to Sell from Neutral by UBS. B/H/S: 2/4/2
+UBS has initiated coverage of SEEK's 67% owned Chinese subsidiary Zhaopin following its IPO. The
+broker has put a Buy rating on Zhaopin, but has downgraded parent SEEK to Sell on the local market. The
+Zhaopin IPO has left the stock in a stronger position to drive growth, the broker notes, but it failed to
+crystallise value for shareholders. The local market is valuing SEEK at a 22 times FY15 price/earnings but
+Zhaopin is valued only at 10.3 times, yet SEK already boasts 70% market penetration while Zhaopin offers
+plenty of upside from 15%, the broker points out. SEEK target falls to $13.50 from $14.50.
+Sigma Pharmaceuticals ((SIP)) downgraded to Neutral from Outperform by Macquarie. B/H/S: 0/6/1
+
+With supermarkets moving more aggressively into the health and beauty space, which the broker
+estimates represents around 30% of pharmacy sales, more pharmacy insolvencies and distributor bad
+debts may result. Sigma has nevertheless reduced the potential impact through various measures
+including tighter credit controls. The broker remains positive on Sigma's longer term outlook but near term
+structural headwinds are making current valuation look a bit stretched. Target retained at 74c but rating
+downgraded to Neutral.
+
+ 
+
+Total Recommendations | Recommendation Changes
+
+ 
+
+Broker Recommendation Breakup  
+
+Broker Rating
+Order | Company | Old Rating | New Rating | Broker
+
+Upgrade
+1 | ATLAS IRON LIMITED | Sell | Neutral | BA-Merrill Lynch
+
+2 | AUSENCO LTD | Sell | Neutral | JP Morgan
+3 | DRILLSEARCH ENERGY LIMITED | Sell | Neutral | JP Morgan
+4 | HENDERSON GROUP PLC. | Neutral | Buy | Macquarie
+5 | IOOF HOLDINGS LIMITED | Neutral | Buy | Citi
+6 | RAMSAY HEALTH CARE LIMITED | Neutral | Buy | BA-Merrill Lynch
+7 | SIMS METAL MANAGEMENT LIMITED | Neutral | Buy | Macquarie
+8 | The a2 Milk Company Limited | Sell | Neutral | Credit Suisse
+
+Downgrade
+9 | ATLAS IRON LIMITED | Neutral | Sell | Macquarie
+10 | AUSTRALAND PROPERTY GROUP | Buy | Neutral | Credit Suisse
+11 | AUSTRALIAN PHARMACEUTICAL INDUSTRIES | Buy | Neutral | Macquarie
+12 | BENDIGO AND ADELAIDE BANK LIMITED | Buy | Neutral | BA-Merrill Lynch
+13 | Blackmores Limited | Buy | Neutral | JP Morgan
+
+14 | ILUKA RESOURCES LIMITED | Neutral | Sell | Credit Suisse
+15 | INSURANCE AUSTRALIA GROUP LIMITED | Buy | Neutral | Macquarie
+16 | INVESTA OFFICE FUND | Buy | Neutral | BA-Merrill Lynch
+17 | MACQUARIE ATLAS ROADS GROUP | Buy | Neutral | JP Morgan
+
+Page210of300©2018Factiva,Inc.Allrightsreserved.18 | NUFARM LIMITED | Buy | Neutral | Credit Suisse
+19 | ORORA LIMITED | Buy | Neutral | Macquarie
+
+20 | SANDFIRE RESOURCES NL | Neutral | Sell | CIMB Securities
+
+21 | SEEK LIMITED | Neutral | Sell | UBS
+22 | Sigma Pharmaceuticals Ltd | Buy | Neutral | Macquarie   Recommendation
+
+Positive Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous Rating | New Rating | Change | Recs
+1 | DLS | DRILLSEARCH ENERGY LIMITED | 25.0% | 50.0% | 25.0% | 4
+
+2 | IFL | IOOF HOLDINGS LIMITED | 14.0% | 29.0% | 15.0% | 7
+
+3 | SHL | SONIC HEALTHCARE LIMITED | 50.0% | 63.0% | 13.0% | 8
+
+4 | RHC | RAMSAY HEALTH CARE LIMITED | 13.0% | 25.0% | 12.0% | 8
+
+5 | SGM | SIMS METAL MANAGEMENT LIMITED | 13.0% | 25.0% | 12.0% | 8
+
+6 | WES | WESFARMERS LIMITED | - 25.0% | - 13.0% | 12.0% | 8
+7 | SKE | SKILLED GROUP LIMITED | 50.0% | 60.0% | 10.0% | 5
+8 | HGG | HENDERSON GROUP PLC. | 60.0% | 67.0% | 7.0% | 6 Negative Change Covered by > 2
+Brokers
+Order | Symbol | Company | Previous Rating | New Rating | Change | Recs
+1 | MQA | MACQUARIE ATLAS ROADS GROUP | 50.0% | 17.0% | - 33.0% | 6
+
+2 | API | AUSTRALIAN PHARMACEUTICAL INDUSTRIES | 75.0% | 50.0% | - 25.0% | 4
+3 | ALZ | AUSTRALAND PROPERTY GROUP | 29.0% | 14.0% | - 15.0% | 7
+
+4 | IOF | INVESTA OFFICE FUND | 29.0% | 14.0% | - 15.0% | 7
+
+5 | NUF | NUFARM LIMITED | 38.0% | 25.0% | - 13.0% | 8
+
+6 | ORA | ORORA LIMITED | 100.0% | 88.0% | - 12.0% | 8
+
+7 | BEN | BENDIGO AND ADELAIDE BANK LIMITED | 25.0% | 13.0% | - 12.0% | 8
+
+8 | SFR | SANDFIRE RESOURCES NL | 25.0% | 13.0% | - 12.0% | 8
+9 | IAG | INSURANCE AUSTRALIA GROUP LIMITED | - 13.0% | - 25.0% | - 12.0% | 8
+
+10 | ILU | ILUKA RESOURCES LIMITED | 50.0% | 38.0% | - 12.0% | 8   Target Price
+
+Positive Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous Target | New Target | Change | Recs
+
+1 | SGM | SIMS METAL MANAGEMENT LIMITED | 10.986 | 11.313 | 2.98% | 8
+2 | DLS | DRILLSEARCH ENERGY LIMITED | 1.778 | 1.825 | 2.64% | 4
+
+3 | SHL | SONIC HEALTHCARE LIMITED | 18.078 | 18.434 | 1.97% | 8
+
+4 | IOF | INVESTA OFFICE FUND | 3.336 | 3.390 | 1.62% | 7
+5 | IAG | INSURANCE AUSTRALIA GROUP LIMITED | 5.775 | 5.848 | 1.26% | 8
+
+6 | NUF | NUFARM LIMITED | 4.663 | 4.719 | 1.20% | 8
+
+7 | SFR | SANDFIRE RESOURCES NL | 6.594 | 6.669 | 1.14% | 8
+
+8 | BEN | BENDIGO AND ADELAIDE BANK LIMITED | 11.691 | 11.809 | 1.01% | 8
+
+Page211of300©2018Factiva,Inc.Allrightsreserved.9 | RHC | RAMSAY HEALTH CARE LIMITED | 47.320 | 47.658 | 0.71% | 8
+
+10 | ORA | ORORA LIMITED | 1.564 | 1.575 | 0.70% | 8 Negative Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous Target | New Target | Change | Recs
+
+1 | ILU | ILUKA RESOURCES LIMITED | 10.088 | 10.038 | - 0.50% | 8
+
+2 | WES | WESFARMERS LIMITED | 41.399 | 41.270 | - 0.31% | 8
+
+3 | API | AUSTRALIAN PHARMACEUTICAL INDUSTRIES | 0.660 | 0.658 | - 0.30% | 4
+
+4 | IFL | IOOF HOLDINGS LIMITED | 9.327 | 9.306 | - 0.23% | 7
+5 | SKE | SKILLED GROUP LIMITED | 3.080 | 3.074 | - 0.19% | 5   Earning Forecast
+
+Positive Change Covered by > 2 Brokers
+Order | Symbol | Company | Previous EF | New EF | Change | Recs
+
+1 | WSA | WESTERN AREAS NL | 10.000 | 10.729 | 7.29% | 7
+2 | SUN | SUNCORP GROUP LIMITED | 84.975 | 89.988 | 5.90% | 8
+3 | OSH | OIL SEARCH LIMITED | 38.396 | 39.690 | 3.37% | 7
+4 | IAG | INSURANCE AUSTRALIA GROUP LIMITED | 52.550 | 53.913 | 2.59% | 8
+
+5 | WPL | WOODSIDE PETROLEUM LIMITED | 327.402 | 332.368 | 1.52% | 7
+
+6 | BSL | BLUESCOPE STEEL LIMITED | 19.910 | 20.139 | 1.15% | 7
+
+7 | MIN | MINERAL RESOURCES LIMITED | 126.725 | 127.725 | 0.79% | 3
+8 | TWE | TREASURY WINE ESTATES LIMITED | 16.460 | 16.563 | 0.63% | 8
+9 | AWC | ALUMINA LIMITED | 0.201 | 0.202 | 0.50% | 8
+
+10 | IPL | INCITEC PIVOT LIMITED | 19.763 | 19.850 | 0.44% | 8 Negative Change Covered by > 2
+Brokers
+Order | Symbol | Company | Previous EF | New EF | Change | Recs
+1 | AGO | ATLAS IRON LIMITED | 8.510 | 1.850 | - 78.26% | 8
+2 | NCM | NEWCREST MINING LIMITED | 53.273 | 23.638 | - 55.63% | 8
+
+3 | GRR | GRANGE RESOURCES LIMITED | 2.300 | 1.775 | - 22.83% | 3
+
+4 | SFR | SANDFIRE RESOURCES NL | 66.616 | 53.030 | - 20.39% | 8
+
+5 | SGM | SIMS METAL MANAGEMENT LIMITED | 44.511 | 36.374 | - 18.28% | 8
+
+6 | BDR | BEADELL RESOURCES LIMITED | 15.240 | 13.640 | - 10.50% | 4
+7 | MQA | MACQUARIE ATLAS ROADS GROUP | 13.450 | 12.100 | - 10.04% | 6
+8 | MGX | Mount Gibson Iron Limited | 12.570 | 11.320 | - 9.94% | 7
+
+9 | ARI | ARRIUM LIMITED | 23.830 | 22.388 | - 6.05% | 8
+
+10 | STO | SANTOS LIMITED | 67.783 | 64.520 | - 4.81% | 7   Technical limitations
+
+If you are reading this story through a third party distribution channel and you cannot see charts included,
+we apologise, but technical limitations are to blame.
+
+Find out why FNArena subscribers like the service so much: "Your Feedback (Thank You)" - Warning this
+story contains unashamedly positive feedback on the service provided.
+
+Page212of300©2018Factiva,Inc.Allrightsreserved.FN Arena is building the future of financial news reporting at www.fnarena.com . Our daily news reports
+can be trialed at no cost and with no obligations. Simply sign up and get a feel for what we are trying to
+achieve.
+
+Subscribers and trialists should read our terms and conditions, available on the website.
+
+All material published by FN Arena is the copyright of the publisher, unless otherwise stated. Reproduction
+in whole or in part is not permitted without written permission of the publisher.
+
+30166D6A-0EC6-89F4-BA190387950CF5DD
+
+RF
+CO sk : Credit Suisse Group AG
+IN
+NS c1521 : Analyst Comments/Recommendations | c152 : Earnings Projections | c15 : Performance | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter |
+nfcpin : FC&E Industry News Filter
+
+i814 : Banking | i81402 : Commercial Banking | ibnk : Banking/Credit | ifinal : Financial Services
+
+RE adelai : Adelaide | austr : Australia | saustr : South Australia | victor : Victoria (Australia) | apacz : Asia
+
+Pacific | ausnz : Australia/Oceania
+
+PUB FN Arena Ltd.
+AN Document FNAREN0020140728ea7s0002t
+
+Page213of300©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,1555 @@
+IT & High Technology - Asia Pacific
+
+HD IT & High Technology - Asia Pacific
+WC 14,706 words
+PD 1 July 2014
+SN Mergent Industry Reports
+SC MIRAUS
+LA
+English
+CY Copyright 2014 Mergent, Inc. All Rights Reserved
+LP
+
+Scope of this report
+
+The Scope of This Report
+
+TD
+
+This report looks at the information technology and high technology industries across the Asia-Pacific, with
+a focus on Australia, China and Hong Kong, India, Japan, South Korea and Taiwan. A number of industry
+segments are examined, namely: IT services; computer hardware and equipment; software and;
+semiconductors. Key financial results are presented in the comparative data tables on proceeding pages.
+Research analysts draw on a range of credible industry and company data sources as well as news and
+information services to research and analyze the current trading environment, industry landscape and
+market trends and outlook for a particular sector. Primary sources are used, unless otherwise indicated,
+and include company data, e.g. annual reports and company financial results; macroeconomic and trade
+data; data and information from global and country regulatory, industry and trade bodies; government
+data; and reports from industry organizations and private research organizations.
+
+Industries covered by the industry reports are defined by standard industry classification systems and
+leading companies are identified on this basis. The relevant SIC codes used to search for companies in
+these sectors are as follows: 3674 (Semiconductors and Related Devices); 5045 (Computers Peripherals
+and Software); 7371 (Computer Programming Services); 7372 (Prepackaged Software); 7373 (Computer
+Integrated System Design); 7374 (Data Processing and Preparation); 7375 (Information Retrieval
+Services); 7376 (Computer Facilities Management); 7378 (Computer Maintenance and Repair); 7379
+(Computer Related Services).
+
+Current Environment
+
+Sector Overview
+
+The Asia-Pacific information communication technology (ICT) sector improved over the six months under
+review. China's economy picked up after the Government reframed its economic policy, while the
+Japanese economy continued its recovery with an increase in consumption spurred by a last-minute rise in
+demand. Japan also raised its consumption tax, with ongoing quantitative and qualitative monetary easing
+and fiscal stimulus booting the sector. India's ICT sector meanwhile was affected by the economy, delayed
+reforms, the freefall of the rupee against major currencies and political gridlock. This was partially offset by
+improvements in Australia, Japan and South Korea.
+
+Market researcher Forrester expects the Asia-Pacific ICT market to grow by 4.5% to be worth US$516
+billion in 2014. It also forecasts mixed business and government purchases of IT goods and services -
+strong in countries such as China, India and Thailand, where it was weak in 2013, weak in Japan, where
+ICT market growth was better in 2013, and improving but still subdued in Australia and South Korea.
+Asia-Pacific countries focused their spending mostly on software-as-a-service apps, mobile devices
+analytics and big data, and smart process apps.
+China's growth slowdown could be short-lived as the country continued to attract intense vendor interest
+thanks to its size and growth potential, while big exporters Taiwan and South Korea still looked to expand
+in China. Australia's ICT companies were cautious with their IT budgets until China - the biggest market
+for Australia's natural resource exports - returns to a solid growth path. There was a moderate rise in IT
+spending in Japan, thanks to monetary easing by the Bank of Japan, rises in share prices, and further
+
+Page112of298©2018Factiva,Inc.Allrightsreserved.exports due to yen depreciation. However, Japanese companies continued to take a cautious stance on
+ICT investments.
+
+ICT spending in emerging countries such as Vietnam, Indonesia, Malaysia and the Philippines was
+healthy, with governments budgeting to further develop high-tech ICT infrastructure such as cloud
+computing and the rollout of fiber-based high-speed broadband networks. The Asia-Pacific's reputation for
+providing ICT growth opportunities continued to attract global players from the US and Europe.
+
+Sector Performance
+
+The ten leading Asian IT stocks saw mixed performances over the six months to May 13, 2014, but most
+of them saw growth, with prices up by an average 19.6%. Fujitsu Ltd (TSE: 6702) had the largest share
+price rise, 51.72%, as it swung to a third-quarter profit of Y12 billion (US$116.6 million), thanks to
+improved sales. NEC Corp's (TSE: 6701) share price also rose, by 30.91%, after it announced plans to
+sell its internet service provider Biglobe Ltd to investment fund Industrial Partners for about Y70 billion
+(US$680 million). Asustek Computer's (TWN: 2357) share price rose by 32.29%, due to further demand
+for its products and strong foreign institutional interest.
+Samsung Electronics' (KSE: 005930) share price fell by 1.34%, as the company faced growing
+competition from Apple's iPhones and budget devices from Chinese producers. Japanese IT
+companyToshiba Corp's (TSE: 6502) share price slipped by 1.23%, due to the negative impact of the
+reassessment of the asset value of a US developer of nuclear power plants, discontinuation of its optical
+disc drive (ODD) business, and abolition of the special corporate tax for reconstruction.
+
+%
+
+32.29%
+17%
+
+Stock Performances of Leading Asia-Pacific IT and High-Tech Companies
+company
+Ticker
+November 13, 2013 May 13, 2014
+Asustek Computer Inc
+TWN: 2357
+Taiwan Semiconductor Manufacturing Co Ltd (TSMC) TWN: 2330
+Samsung Electronics Co Ltd
+Quanta Computer Inc
+Hon Hai Precision Industry Co
+Compal Electronics Inc
+Acer Inc
+NEC Corp
+Toshiba Corp
+Fujitsu Ltd
+
+(US$9.68)
+(US$3.96)
+(US$1,309.82) -1.34%
+23.34%
+(US$2.62)
+(US$2.89)
+18.15%
+5.74%
+(US$0.73)
+19%
+(US$0.63)
+(US$2.80)
+30.91%
+-1.23%
+(US$3.91)
+(US$6.41)
+51.72%
+
+Closing Price
+(US$7.32)
+(US$3.38)
+
+KSE: 005930 (US$1,327.60)
+TWN: 2382
+TWN: 2317
+TWN: 2324
+TWN: 2353
+TSE: 6701
+TSE: 6502
+TSE: 6702
+
+(US$2.12)
+(US$2.44)
+(US$0.69)
+(US$0.53)
+(US$2.14)
+(US$3.95)
+(US$4.23)
+
+Source: Mergent analysis
+
+Leading Companies
+
+Personal Computers (PC)
+Global PC shipments totaled 76.6 million in first quarter 2014, a 1.7% decline from a year earlier,
+according to market researcher Gartner. The decline was not as severe as in the previous past seven
+quarters, due to the end of Windows XP support on April 8, 2014, which caused many people to buy
+computers with the latest operating system. Asia-Pacific PC shipments totaled 24.9 million, a 10.8%
+decline from the previous year, as pressure on traditional notebooks continued because the installed base
+transitioned to alternative devices and replaced only on an as-needed basis. Japan was greatly affected
+by the end of XP support, recording a year-over-year 35% increase in PC shipments. Lenovo (HKSE:
+0992) continued to lead the market, accounting for 18.5% of global shipments in the quarter. The
+company's shipments grew in all regions except the Asia-Pacific, where growth in China slowed, partly
+because of the long Lunar New year holiday in the middle of the quarter.
+
+Page113of298©2018Factiva,Inc.Allrightsreserved.Taiwan's struggling PC maker Acer (TWN: 2353) continued to suffer weak consumer demand for its PCs,
+including its high-priced ultrabooks. Its net profit of NT$1 million (US$32,800) was down from NT$515
+million (US$17 million) a year earlier, but ended three consecutive quarterly losses due to better cost
+and inventory control. Revenue totaled NT$127 million (US$4.2 million), down by 16.6% from the
+previous year, despite effective control of inventory and costs.
+
+Acer, which holds a 7.3% share of the global PC market and makes most of its revenue from netbook
+sales continued its restructuring efforts and is betting on cloud computing technology to boost its revenue,
+gross margin and operational efficiency. The company has adopted a build-your-own-cloud (BYOC)
+strategy, which allows users to build their own cloud services for purposes such as managing music and
+photos on all Acer PCs and mobile devices.
+
+The world's second largest PC maker Lenovo remained in a virtual tie for the top position with HP, with
+shipments of 32.6 million in the quarter, or almost five devices every second. Lenovo shipped 15.3
+million PCs, while 17.3 million shipments of smartphones and tablets, a 47% rise from a year earlier,
+surpassed those of PCs, giving it a 4.8% share and solidifying its position as the world's fourth largest
+smartphone supplier. Gartner estimates the company's shipments grew in all regions except the
+Asia-Pacific.
+
+Semiconductors
+
+The global semiconductor industry continued to be driven by growth in electronic applications as almost
+every electronic item uses semiconductors. The mobile era has changed the dynamics of the industry,
+particularly for fabless companies, foundries, and outsourced semiconductor assembly and testing
+(OSAT). The demand for mobile chips gathered momentum, driving investment in advanced technologies
+and manufacturing capacities. Spurred by countries such as China, South Korea, India and Taiwan, the
+Asia-Pacific led the global semiconductor market with a share of more than half.
+
+Taiwan was a prime example of a country riding the tide of mobile demand. Leading foundry supplier
+TSMC (TWN: 2330) worked on an enhanced transistor version of 16 FinFET plus, which will deliver
+performance improvement of around 15%. The company's revenue totaled NT$148.22 billion (US$4.9
+billion) in the first quarter of 2014, up 11.6% from a year earlier, mainly due to strong demand for its
+wafers across all segments, which was more pronounced in mobile-related applications.
+
+Semiconductor Equipment and Materials International (SEMI) expected foundries to continue their hefty
+investment throughout 2014 with the ramp-up of 20nm production. Foundry capacity could account for
+70% of Taiwan semiconductor capacity by the end of 2014. China's consumption of semiconductors has
+grown in recent years, due to the continuing transfer of global electronic equipment production and the
+above-average semiconductor content of electronic products. The Asia-Pacific should continue to control
+the global semiconductor market as demand for products containing semiconductors is growing in
+developing countries. Emerging economies will become the most attractive markets for semiconductor
+consumption due to strong demand from a broad range of industry verticals.
+
+IT Services and Outsourcing
+
+The number of outsourcing contracts in the Asia-Pacific rose in the second half of 2013, but annual
+contract value remained flat at US$1 billion, reflecting a trend toward smaller deals, according to IT
+information firmInformation Services Group (ISG). The Asia-Pacific suffered from a lack of large deals,
+particularly in Australia and India. ISG expects that the Asia-Pacific market will remain soft throughout the
+first half of 2014, but that service providers will continue to offer more varied solutions, such as system
+integration, transformation, project services and automation.
+
+Top tier Indian players continued to expand from mass generic production by adding capacity and ability in
+higher-value services, while outsourcing companies strengthened their competitive positions by
+establishing expanding long-term client relationships in key markets in Europe and the US. India's biggest
+IT services firmTata Consultancy Services (TCS) (BSE: 532540) and second largest software firmInfosys
+Ltd (BSE: 500209) reported positive results, mainly due to strong demand from the US, the UK and
+emerging markets. As Europe recovered from its economic crisis, firms on the continent worked with
+Indian IT players to save costs and, more importantly, Indian IT firms took on more consulting work and
+delivered high-value services.
+
+Although India-based providers were hampered by poor government policies, delayed reforms and the
+free fall of the rupee, they reported positive growth thanks to steady demand from European and many
+first time outsourcers. TCS's revenue for the fiscal fourth quarter ended March 31, 2014, rose 15.2% from
+a year earlier to US$3.5 billion, thanks to higher growth in the US - the long-time dominant market. The
+company stepped up efforts to expand its European market share to reduce dependence on the US,
+which is by far the largest market for India's US$108 billion IT service industry.
+
+Page114of298©2018Factiva,Inc.Allrightsreserved.Infosys' fiscal fourth quarter 2014 revenue rose 7.9% from a year earlier to US$2.1 billion. The company
+signed four large deals worth US$700 million, two in the Americas and two in Europe. Indian IT players
+made further headway in Europe, which ranked second in contribution to the export revenues of the more
+than US$118 billion Indian IT-BPO market.
+
+TCS and Infosys invested in different European markets, promising a strong deal pipeline and signs of
+demand momentum that contributed to a confident outlook. After seeing the growth potential of African
+economies and their growing interest in technology, the ambitious software services companies continued
+to invest big in Africa, eager to win customers and market share in a continent that is home to fast-growing
+enterprises and has an under-developed technology infrastructure.
+Merger, Acquisition and Alliance Activity
+Asia-Pacific merger and acquisition (M&A) activity improved in both volume and value over the past six
+months. There were more acquisitions by Japanese companies, which have suffered from unprofitable
+consumer electronics businesses and uncertain market conditions. Many troubled electronics giants,
+which once ruled the world, were overtaken by the digital revolution and switched their focus to industrial
+businesses and moved production to low-cost countries to boost their profit margins. It is expected that
+2014 will be a better growth year for technology M&A, with the long-term outlook strong. The growing
+popularity of smart technologies was expected to spur more deals throughout 2015.
+In January 2014, Chinese PC maker Lenovo acquired Motorola's (NYSE: MSI) smartphone business from
+Google (NASDAQ: GOOG) for US$2.91 billion in China's biggest technology deal. It gave Lenovo
+Motorola's portfolio of innovative smartphones such as the Moto X and Moto G and the DROID Ultra
+series. Lenovo has a strong PC and a fast-growing smartphone business and the acquisition should
+strengthen its position in the smartphone market. It should also give it a presence in North America, Latin
+America and Western Europe to complement its strong, fast-growing smartphone business in emerging
+markets. Google will maintain ownership of the vast majority of the Motorola mobility patent portfolio,
+including current patent applications and invention disclosures. As part of its continuing relationship with
+Google, Lenovo will receive licenses to this rich portfolio of patents and other intellectual property, as well
+as more than 2,000 patent assets, and the Motorola mobility brand and trademark portfolio.
+After announcing plans to combine their struggling system chip operations more than a year ago, Fujitsu
+and Panasonic (TSE: 6752) agreed to form a new merged company with the help of the Japanese
+Government. It will be capitalized at Y50 billion (US$486 million), with Fujitsu taking a 40% stake and
+Panasonic 20%, and the state-owned Development Bank of Japan investing up to Y20 billion (US$194
+million) and granting a Y10 billion (US$97 million) loan. The company will be a fabless operation
+contracting manufacturers to fabricate its semiconductors rather than having its own production
+equipment.
+
+Fujitsu has strength in wireless-communications and image-processing technologies, while Panasonic
+excels in control technology for household electronics. They will work together on semiconductors targeted
+at enhancing automobile and home functionality through better networked connectivity. The merged firm
+will focus on cloud computing and new growth areas such as medical equipment and energy.
+
+As part of Panasonic's global reorganization amid financial losses it plans to sell three chip assembly
+plants in Indonesia, Malaysia and Singapore to Singapore's United Test and Assembly Center Ltd.
+Panasonic, which had net losses of US$15 billion over the two financial years to March 2013, has been
+selling off or closing down unprofitable businesses and focusing on more promising lines such as
+supplying batteries and components to automakers. In December 2013, it announced a joint venture to be
+majority owned by Israeli chipmaker TowerJazz Semiconductor Ltd that will acquire Panasonic's three
+semiconductor factories in Japan and will manufacture Panasonic's products.
+In January 2014, Toshiba completed the acquisition of OCZ Storage Solutions, a failed Silicon Valley
+maker of solid-state drives (SSD), for US$35 million, making it a wholly owned subsidiary. The
+acquisition provides Toshiba with OCZ's enterprise and client SSD business and allows the established
+OCZ brand to continue producing its current serial advanced technology attachment (SATA) and
+Peripheral Component Interconnect Express (PCIe) consumer drives for high-performance and
+mainstream applications. OCZ's storage solutions will leverage Toshiba's cutting edge NAND and combine
+it with the company's proprietary controllers, firmware and software to provide client and enterprise
+customers with innovative and cost-effective solid-state storage solutions.
+In March 2014, NEC succeeded in its second attempt to acquire the A123 Energy Solutions business unit
+of A123 System LLC, an American green-energy technologies provider that was funded by the Obama
+administration before filing for bankruptcy protection in 2012. NEC paid US$100 million to acquire the
+business from Chinese companyWanxiang Group Corp, which bought A123, including its automotive
+battery business, for US$257 million.
+
+Page115of298©2018Factiva,Inc.Allrightsreserved.The acquisition will strengthen the energy storage capability of NEC's smart energy business, making
+NEC the world's leading supplier of lithium-ion grid energy storage systems (GSS). NEC's high quality,
+cost-effective lithium-ion technology adds to the ever-growing portfolio of energy storage technologies for
+future use in A123 Energy Solution's GSS platform. The acquisition will leverage A123 Energy Solutions'
+experience in commercial batteries to serve NEC's telecommunication carrier, enterprise and government
+customer base, helping to drive the global expansion of NEC's smart energy business.
+
+Industry Profile
+
+Industry Size and Value
+
+The Asia-Pacific ICT sector has grown rapidly during the past decade, accounting for a greater share of
+the global ICT market each year. The sector grew in almost all major Asia-Pacific economies, especially
+those of emerging countries, although at a slower rate as the global economy continued its unsteady
+recovery. A Mergent analysis shows the market capitalization of the nine leading Asia-Pacific IT
+companies totaled US$199.38 billion as of May 6, 2014, with 50.4% held by TSMC, 19.3% by Hon Hai
+Precision Industry, 8.2% by Toshiba and 6.6% by Fujitsu Ltd. TSMC remains the biggest foundry player
+and will continue to dominate as it has the biggest capacity and best foundry technology.
+
+IT and High Technology Components
+
+Semiconductors
+
+A semiconductor is usually a solid chemical element or compound that can conduct electricity under some
+conditions but not others, making it a good medium for the control of electrical currents. In the Asia-Pacific,
+the semiconductor industry is driven by growth in electronics applications as almost every electrical item
+uses semiconductors in some way or another. Emerging economies such as China, South Korea, India
+and Taiwan are leaders of and control more than half of the global semiconductor market.
+Asia-Pacific semiconductor sales totaled US$53.36 billion in the first quarter of 2014, compared with
+US$48.98 billion a year earlier, according to the Semiconductor Industry Association (SIA). This is an
+encouraging sign for the region's industry. The global semiconductor industry picked up steam through the
+first quarter of 2014, with sales totaling US$78.47 billion, its highest-ever first quarter sales. It is likely to
+enjoy further growth in 2014, as mobile devices become slimmer and demand for more data processing
+and power-saving features rise. Semiconductor companies are trying to cram more power into tinier chips
+and building futuristic factories to meet global demand.
+
+TSMC, which holds a 50% market share, has reaped profits in the past two years from its dominance in
+offering its cutting-edge 29nm process technology. It is moving to the more advanced 20nm process and
+plans to start mass production using 16nm multi-gate or tri-gate architectures, also known as FinFET
+technology, in 2015. The smaller the process the more transistors can be included in a chip, making it
+more powerful and efficient. TSMC had the third-largest capital spending of around US$10 billion in the
+chip industry in 2013, trailing Samsung and Intel, which spent around US$22 billion and US$11 billion,
+respectively.
+
+Integrated Chips
+
+An integrated chip (IC) or monolithic integrated circuit is an electronic circuit manufactured by diffusion of
+trace elements on to the surface of a thin subtract of semiconductor material. IC plays a significant part in
+IT products that are specially made for a specific task and contain thousands of transistors, diodes and
+resistors.
+
+Thanks to the mobile handset manufacturing market, IC vendors in the region should see continuing
+market growth in 2014, especially in China, which is the world's largest producer of several electronics
+products. According to China's National Bureau of Statistics IC production volumes rose 10.5% to 86.71
+billion in 2013, while sales revenue rose 16% to RMB250 billion (US$40.2 billion). The integrated circuit
+industrial chain, including silicon wafer production, packaging, testing, design and high-end application,
+rose in 2013 boosted by increased demand from domestic smartphone manufacturers such as Xiaomi and
+Huawei (SSE: 002502), which accounted for 20% of global sales.
+
+The IC design industry has created strong demand for chip original equipment manufactures (OEMs),
+which local manufacturers are unable to satisfy due to lack of advanced technology and investment, weak
+R&D capabilities and insufficient production experience. It still relies heavily on the import of core
+techniques and technologies, with chip imports totaling US$231.34 billion in 2013, up by 20.4% from a
+year earlier. China will invest RMB120 billion (US$19.3 billion) in its domestic IC industry to boost
+development by reducing reliance on imported chips, the core product for high-tech and manufacturing
+industries.
+
+Page116of298©2018Factiva,Inc.Allrightsreserved.Wire and Cable
+
+The electrical wire and cable segment is one of the most significant in the ICT sector, and is often
+considered an indicator of the industry's progress. The Asia-Pacific is the largest and the fastest growing
+regional market for insulated wire and cable, which is gradually recovering from the global recession,
+thanks to growing demand for telecommunications, data wire and cable products, particularly in China and
+India.
+China's aluminum wire and cable exports increased in February 2014 due to a saturated domestic market
+and quicker payment by overseas buyers, according to the Shanghai Metals Market (SMM), with outbound
+shipments of the materials soaring by 65% year on year to 6,982 tonnes in February. However, excess
+capacity and soaring raw material prices have made Chinese aluminum cable and wire less attractive in
+overseas markets. Low R&D capabilities have also weakened domestic producers' competitiveness
+against foreign rivals.
+
+India's wire and cable industry comprises 40% of the entire electrical industry, which could double in size
+by 2017. India has great potential in the mining, power, oil and gas, metro railways, cement and steel
+industries, and in other sectors. Different types of cables such as extra high voltage and elastomer cables
+are being used for special applications in the mining, oil and shipbuilding industries, for crane and solar
+power plant cables, and for new generation motor vehicles, windmills, security systems and data
+distribution. The Indian Government plans to provide rural regions with broadband connection, and the
+rapid growth of the sector will continue to underpin the demand for wire and cables.
+
+Sector Investment
+
+Globally, companies are investing in mobility, cloud-based services and collaboration tools, and demand
+for memory chips is rising, thanks to the introduction of smartphones with ever-higher memory capacity.
+Taiwan's TSMC and South Korea's Samsung and SK Hynix (KSE: 000660) dominate chip making but,
+while some Japanese companies, notably Toshiba, are still in the game, others, including Panasonic, have
+decided to scale back because building high-tech plants is expensive. There were no cash-burning
+business projects in chips over the six months under review, due to their increased complexity, as the
+market is approaching scaling limits.
+China is driving the industry's rapid shift to cheaper smartphones, helping chipmakers to broaden their
+customer base beyond Samsung and Apple. The partnership between Toshiba and SK Hynix to produce
+the next-generation memory device will not be affected by Toshiba suing SK Hynix for the theft of data
+surrounding NAND flash memory technology. SK Hynix is seeking new business opportunities in China to
+capitalize on increasing demand for high-end devices supporting long-term evolution (LTE) wireless
+technology. Accelerating investment is led by the Asia-Pacific, where most companies are investing more
+in new technologies than are their European counterparts.
+
+Samsung, the world's top supplier of memory chips, plans to cut its investment in components by at least
+30% in 2014, as it does not plan to build new fabrication facilities due to industry consolidation, increasing
+uncertainty surrounding technology and sluggish demand. Total investment in components will remain
+under KRW10 trillion (US$9.4 billion) throughout 2014. Samsung's primary target for its semiconductor
+business is to mass-produce advanced flash memory chips including vertical NANDs to meet demand for
+NAND-intensive digital devices such as smartphones, tablets and solid state drives. Samsung may cut
+processor chip production and investment in its plant in Austin, Texas, due to sluggish demand from Apple
+and rising inventory, and its failure to win any major orders. Apple is cutting its reliance on
+Samsung-manufactured processors, and has started using TSMC products.
+
+South Korea's already impressive internet speeds are about to move further ahead of the rest of the world
+through the introduction of next-generation 5G wireless services capable of downloading full-length films in
+a second. The South Korean Government will triple its budget for the 5G industry and bet heavily on
+securing global leadership for the next generation ICT industry by investing KRW1.6 trillion (US$1.5
+billion) over the next seven years. The Government and private sector will invest jointly in developing the
+terminal market, to gain a 20% share of the communications equipment market, to secure the highest
+competitive power in international standard patents, and to create 16,000 jobs by 2020.
+
+Policy and Regulatory Environment
+
+The Japanese Government plans to start certifying companies that tap into big data, including information
+about consumer purchases, to deal with privacy concerns. Big data is seen as a promising growth field
+but corporations may hesitate to buy and sell information for fear of lawsuits. The Ministry of Economy,
+Trade and Industry hopes to introduce a certification framework by the end of 2014 to address these
+issues. It will check whether companies acquire information properly and take steps to prevent data leaks,
+
+Page117of298©2018Factiva,Inc.Allrightsreserved.as well as allowing firms to simplify their often overly complex terms of services, which they are legally
+required to disclose whenever personal information is used for business.
+
+South Korea's Ministry of Science, ICT and Future Planning has banned the common practice of mobile
+manufacturers and networks including un-removable apps, also known as bloatware, in smartphones,
+which causes inconvenience to smartphone users and unfair competition among industry players. Telcos
+must make all pre-installed apps deletable or removable, except for those that enable Wi-Fi connectivity,
+near field communication, customer service and an app store. The users will benefit from the move by
+gaining longer battery life and increased data storage capacity.
+
+Key Points
+
+Current Environment
+
+The overall Asia-Pacific information communication technology (ICT) sector improved over the six months
+under review.The ten leading Asian IT stocks had mixed performances over the six months to May 13,
+2014, but most saw growth, with prices rising by an average of 19.6%.The end of Windows XP support
+somewhat boosted the sales of PCs with the latest operating system, but PC shipments continued to
+decline in first quarter 2014.Asia-Pacific merger and acquisition (M&A) activity improved in both volume
+and value over the past six months, with more acquisitions by Japanese companies.
+
+Industry Profile
+
+Albeit at a slower rate, the Asia-Pacific IT and high technology sector held up well on a worldwide basis,
+accounting for a greater share of the global ICT market.A Mergent analysis shows the market
+capitalization of the top nine major Asia-Pacific IT companies tracked totaled US$199.38 billion, as of
+May 6, 2014.Semiconductor sales in first quarter 2014 rose by 8.9% to US$53.36 billion, reflecting
+encouraging signs for the region's industry.IT giants continued to focus investment on chip production, but
+there were no major business projects in chips over the past six months.
+
+Market Trends and Outlook
+Chinese firms aim to conquer the smart TV space to draw customers' attention with impressive large
+screens and a range of internet-based entertainment services.South Korea hopes to be the global
+tele-health leader by promoting the tele-health market as a new growth engine.The Asia-Pacific is still an
+exceptionally strong mobile advertising market, thanks to the growing popularity of free mobile content,
+largely in the form of apps.
+The Asia-Pacific could lead global expansion of cloud markets, providing ICT vendors with strong and
+sustainable growth.
+
+Market Trends & Outlook
+China's Smart TV Market Booms
+China is not only eyeing a greater share of the smartphone market but is also aiming to conquer the smart
+TV space. Since 2013, a flurry of Chinese firms, especially internet companies, have rolled out smart TVs,
+hoping to draw customers' attention with impressive large screens and a range of internet-based
+entertainment services. Smart TV sales are growing thanks to the rise of on-demand video streaming and
+the interaction of TV with mobile devices. The internet has transformed TVs into portals to cyberspace with
+more potential for applications. Applying software to traditional TVs has allowed third-party application
+developers to capture a larger audience.
+
+When Xiaomi, the increasingly popular startup phone maker, moved beyond handsets with the September
+2013 launch of a 47-inch 3D smart TV retailing for RMB2,999 (US$483), it sold 3,000 sets in less than two
+minutes. In May 2014, the company launched the second generation of the TV, Mi TV 2, which most
+notably supports 4K resolution. Priced at US$640, the 49-inch TV is in line with Xiaomi's aim to launch
+devices that undercut the prices of rivals' similar products.
+In July 2013, Chinese e-commerce giant Alibaba joined the smart TV race, unveiling a smart TV operating
+system (OS) and set-top box. It hopes to create its own ecosystem of TV-related assets and be involved in
+digital content, providing a platform for users to share content with mobile devices. A few large Chinese
+manufacturers have agreed to incorporate Alibaba's OS in their devices, including consumer electronics
+companies Skyworth, Haier and Changhong. The TV OS was designed by its AliCloud subsidiary, which
+developed the Linux-based Alibaba mobile OS in 2011, allowing users to use their mobile phones to
+control Alibaba TVs and connect with TVs to stream content to their handsets. The company plans to
+have an app store for video games and will incorporate its music streaming service into the TV ecosystem.
+
+Page118of298©2018Factiva,Inc.Allrightsreserved.Its smart TV also takes advantage of the company's e-commerce and online payment assets such as
+Tmall, Taobao and Alipay by enabling users to shop and pay bills via their phones.
+
+More than a month after Alibaba unveiled its smart TV OS, its fierce rival Baidu launched its own smart TV
+to compete with Alibaba, Xiaomi, Samsung and Apple. Known as TV+, Baidu's first smart TV is
+manufactured by Chinese electronic firms TCL Multimedia and features content and branding from its
+online video platform iQiyi. Baidu plans to mergeiQiyi with online video provider PPS, which it acquired for
+US$370 million in May 2013, to create China's largest online video provider, unseating Youku-Tudou and
+giving TV+ an edge in content.
+
+To drive the adoption of TVs and capture a latent audience, manufacturers need to ensure that the
+hardware performance of smart TVs can match that of desktop computers and smartphones. The demand
+for smart TVs is likely to keep increasing in China, with vendors promoting smart TVs to capture possible
+opportunities by introducing value-added services, while internet companies are keen to be in the market
+to better provide content and OS as they may be weak in manufacturing.
+
+South Korea to Foster Tele-health Market
+
+The global tele-health market could grow by more than a factor of ten from 2013 to 2018, IT researcher
+IHS Technology (NYSE: HIS) predicts, as medical providers increasingly utilize remote communications
+and monitoring to cut costs and enhance the quality of care. South Korean President Park Geun-hye is
+promoting the tele-health market as a new growth engine, hoping that the country will become a global
+tele-health leader with a strong domestic use of the technology. Tele-health, which involves the remote
+monitoring of diseases and symptoms using telecommunications technology, will be used mostly by small
+hospitals.
+
+It will allow the country's largest conglomerate Samsung to transform itself into a healthcare giant as the
+smartphone market reaches maturity. Among South Korean players, Samsung may be best fitted to meet
+strict tele-health requirements. It also has the capital strength, manpower, brand value and technology
+expertise plus the will to invest in the healthcare sector. Samsung will invest KRW23.3 trillion (US$21.8
+billion) by 2020 across all its growth sectors, including biomedicine and medical equipment. It already
+produces major hospital equipment such as ultrasound and digital radiography systems, operates a
+massive hospital and cancer center in Seoul, and is active in the health app market. In September 2013,
+Samsung rolled out its first-generation wearable device Galaxy Gear smart watch that could be used as a
+tele-health device.
+
+Previously, tele-health in South Korea was restricted by laws that permitted medical consultations only
+when the doctor could examine the patient in person. In March 2014, the South Korea Cabinet passed a
+bill allowing doctors to employ tele-health technology to diagnose and treat patients remotely. The
+Government will implement a six-month pilot program before enacting a bill allowing tele-medicine.
+Patients with chronic diseases such as hypertension and diabetes, people with disabilities and those living
+in remote areas will be main users of these services. They will also be able to consult doctors, receive
+diagnoses, and prescriptions for medications without an in-person visit. If the pilot program is successful,
+the tele-medicine bill would become effective in 2015.
+
+The Asia-Pacific Leads Mobile Advertising Spending
+
+The growing popularity of free mobile content, largely in the form of apps, is having a big impact on mobile
+advertising and many developers and publishers are monetizing the content. The Asia-Pacific continues to
+be an exceptionally strong mobile advertising market, primarily in South Korea and Japan, slightly
+surpassing North America and far ahead of Europe. This is partially because many mobile device users,
+unlike consumers in the developed markets, go mobile directly without earlier having a PC or laptop. The
+decline of more traditional advertising, such as in newspapers and magazines, is boosting the popularity of
+mobile advertising as media buyers and brands are turning to tablets and smartphones on which more
+consumers are viewing.
+
+The Asia-Pacific region is a strong market largely thanks to Japan and South Korea being early-adopting
+and mobile-crazy countries. As mobile advertising is becoming more mature in Japan, growth will be
+largely in two of the world's biggest mobile markets - China and India. The latter continues to grow rapidly
+and has become one of the largest mobile advertising markets in the region due to its improving ad
+ecosystem. An independent mobile advertising network InMobi estimates smartphones remain relatively
+promising with 88% of all mobile advertisements served on sophisticated phones, especially from Nokia,
+while Android and iPhones are not as popular in India.
+
+The uptake of the audio or video format of advertisements could be higher because the tablet form will
+drive video, while search/map advertisement types will benefit from increased use of location data
+gathered from users. Gartner predicts the Asia-Pacific will keep its dominant position in mobile advertising
+
+Page119of298©2018Factiva,Inc.Allrightsreserved.for the next three years, as the global mobile advertising market grows by 400% to US$24.5 billion
+between 2013 and 2016. However, it says the growth in mobile advertising spending could slow due to ad
+space inventory supply growing faster than demand as the number of mobile websites and applications
+rises faster than brand request advertising space on mobile devices.
+
+Market Outlook
+
+Major Asia-Pacific IT and high technology sectors continued to grow in 2013 but at a slower pace, due to
+sluggish growth in China and India, but their ICT markets should start to improve in 2014. IT researcher
+Ovum estimates that the highest growth in the Asia-Pacific will be in the small to mid-sized enterprise
+sub-sector and in business intelligence and analytics solutions. Domestic demand for high-value products
+is growing as Asian companies move up the value chain, while western manufacturers are likely to see
+margins squeezed by increasing competition from lower-cost Asian rivals and cuts in government support.
+The growing demand for IT products and services in China and India, and in other developing countries
+such as Vietnam and the Philippines, continues to generate spending and boost local companies.
+Large-scale IT and high technology infrastructure spending by several countries in the region will provide
+good opportunities for sector-related companies and industries.
+The Asia-Pacific could lead global expansion of cloud markets, providing ICT vendors with strong and
+sustainable growth. Big cloud platform providers are slowly building out their support in the region, with
+Amazon active in Japan, Singapore and Australia, while Microsoft is investing heavily and made its cloud
+platform Azure available in China in March 2014. Google has launched its first two compute engine zones
+in the region, allowing more developers to experience the speed and scale of Google's infrastructure with
+the expansion of support for cloud platforms. The Asia-Pacific will continue to leverage cloud technologies
+as a major enabler for future growth and innovation strategy.
+
+Country Profiles
+
+Australia
+
+Sector Overview
+
+Most IT companies grew over the six months under review, with spending across all major technological
+areas, despite caution due to federal election uncertainty. Gartner estimated 2013 IT spending at A$76.9
+billion (US$71 billion), an increase of 2.54%. Government spending dropped due to budget constraints,
+but technologies that support real productivity improvement and those that can support new models for
+citizen engagement and service delivery will continue to receive government investment.
+Amid worries about the decline in manufacturing and the fading of the mining boom there are
+diversification opportunities in the digital revolution in emerging markets. The tech start-up and biotech
+sectors are at the forefront of a push to transform Australia from an iron ore exporter to an idea exporter.
+More than 21,000 new IT jobs are expected to be filled in the next three years but the industry is still falling
+short in its efforts to meet manpower demand.
+
+Industry Size and Value
+Australia's ICT market totaled A$91 billion (US$84 billion) in 2012, accounting for around 7.74% of GDP,
+making it the fifth largest in the Asia-Pacific after Japan, China, India and South Korea, and the 15th
+largest globally. There are more than 30,300 ICT businesses, mostly in property and business services,
+finance and insurance, government administration and defense, communications services and
+manufacturing, employing around 540,000 ICT professionals, of whom, some 250,000 work in IT support
+functions in other industries.
+Australia had more than 12.4 million internet subscribers at the end of December 2013, comprising
+almost three million business and government subscribers and more than nine million household users,
+according to the Australian Bureau if Statistics (ABS). Thanks to the wider availability of fast internet
+technology, Australian internet subscribers are seeking faster access speeds, with more than two million
+subscribers accessing download speeds of 24Mbps or greater as of December 2013, an increase of
+443,000 from a year earlier. Smartphone penetration totaled 65% in 2013, up from 52% a year earlier,
+according to Google's 2013 Our Mobile Planet Smartphone Research.
+
+Leading Companies
+
+Data #3 (ASX: DTL)
+IT solutions company Data #3's revenue for the first half of fiscal 2014, ended December 31, 2013,
+dropped by 1.8% to A$399.1 million (US$368.7 million), with product revenue falling by 1.7% to A$332.7
+
+Page120of298©2018Factiva,Inc.Allrightsreserved.million (US$307.4 million) and services revenue decreasing by 2.3% to A$65.1 million (US$60.1 million)
+from a year earlier. The company blamed the competitive nature of the market and changes in some
+partner incentive programs for the decline. Total gross profit fell by 6.8% to A$57.5 million (US$53.1
+million), with product gross profit decreasing by 11.7% to A$28.7 million (US$26.5 million), due to
+weaker software sales in Queensland and reduced hardware sales in Western Australia. Services gross
+profit decreased by 1.3% to A$28.8 million (US$26.6 million) as the services mix changed slightly.
+
+While product sectors were challenged, Data #3 recorded a number of strategic wins with outsourcing and
+cloud services at Brisbane Airport Corp, British-Swedish pharmaceutical and biologics company
+AstraZaneca, project delivery and consulting services provider Worley Parsons, Queensland-based law
+firm McInness Wilsons Lawyers and global natural resources company Vale Australia that strongly
+endorse the company's hybrid IT strategy. These wins will help improve second half performance but,
+with the shortfall in the first half, it will be difficult for the company to achieve its full year target. However,
+Data #3's pipeline is strong and well positioned to increase revenue and profit as its customers continue to
+transition to hybrid IT, the combination of on premises, outsourced and cloud services.
+
+TechnologyOne (ASX: TNE)
+
+TechnologyOne, a leading supplier of powerful integrated enterprise software solutions and one of
+Australia's largest publicly listed software companies, reported revenue growth of 7% to A$180.6 million
+(US$166.9 million) in fiscal 2013, ended September 30, 2013. Net profit tax totaled A$27 million (US$25
+million), up 15% from a year earlier. The performance was boosted by the ongoing success of its
+enterprise suite and its commitment to its preconfigured solutions for targeted vertical markets such as
+local government, financial services and health.
+TechnologyOne invested A$35.6 million (US$32.9 million) in R&D, up 6% from a year earlier. With the
+release of its next generation enterprise suite Ci? in 2014, momentum in new license fees will increase in
+coming years. A key focus of Ci? is to incorporate smart mobile devices including iPad, iPhone and
+Android devices into its product. By enabling all of its enterprise software to be operated on all smart
+mobile devices, it will open up a new world of possibilities for its customers, allowing them to abandon the
+traditional PC or laptop and access data anywhere, anytime. Another focus is the TechnologyOne Cloud,
+which delivers its enterprise suite to customers through the cloud, which will become a major platform for
+growth, with strong demand building up in e coming years.
+
+Market Outlook
+
+Australia's IT market should continue growing against a backdrop of steady but unspectacular economic
+growth in the customer, government and business segments in 2014. While IT spending on servers and
+PCs has been falling, Australian business spending on emerging technologies such as big data, cloud,
+mobility and social business will continue to grow. However, Gartner estimates that spending on mobile
+devices to drop by more than US$4 billion to US$3.7 billion in 2014, as prices for smartphones fall,
+cheaper alternatives to the ubiquitous iPhone become available, and bring your own device (BYOD) gains
+popularity.
+
+IDC says that, as enterprises seek to mobilize their business processes, there could be a shift away from
+BYOD to choose your own device (CYOD). Under BYOD, employees can access business files, e-mails
+and apps from their own devices, while with CYOD, employees can choose from a range of company
+provided smartphones or tablets. The CYOD model allows companies to mobilize their processes and
+deliver tangible business value to organizations.
+The opportunities for Australian cloud services are immense, with spending of A$2.2 billion (US$2 billion)
+in 2012, which could grow to A$10.4 billion (US$9.6 billion) by 2017. Cloud offerings are adopted across
+an increasingly wide range of industries. Cloud computing in Australia's mining sector, which contributes
+4.5% of GDP, is likely to continue growing as cloud data collection and storage expands, allowing
+investors to follow more closely the progress of their mining operations.
+China
+
+Sector Overview
+China's economic growth slowed, there were market fluctuations throughout 2013 and there is likely to be
+downward pressure in 2014. Nevertheless, Forrester expects IT spending to grow by 8% to RMB752
+billion (US$4.671 trillion) in 2014, lower than the 11% growth in 2011 and 9% in 2012. China is still
+largely a hardware-driven market but spending on software and IT services is slowly gaining prominence
+in the current economic climate. Local vendors such as Huawei, Inspur (SSE: 600756) and Lenovo are
+likely to benefit from the National Security Agency (NSA)/Snowden leak issue, gaining share mostly in the
+hardware market, including servers, storage and networking, as US tech companies including Cisco
+
+Page121of298©2018Factiva,Inc.Allrightsreserved.(NASDAQ: CSCO) and IBM (NYSE: IBM) are facing unprecedented difficulties selling their goods and
+services in China.
+
+The Ministry of Science and Technology has made supporting the ICT industry a major national priority
+since 2000 and IT is one of the most significant sectors in the National 12th Five Year Plan to enhance
+China's economic and social development by 2015. The Government is fostering the construction of the
+next generation national information infrastructure, including next generation internet, the convergence of
+internet, telecom and TV broadcasting, the Internet of Things (IoT), cloud computing, new display
+equipment, high-end software, servers and information services. The China National Broadband Plan will
+also build next generation information infrastructure to meet the increasing demands for data throughput.
+
+Industry Size and Value
+China has become the world's second-largest economy and third-largest IT market after the US and
+Japan, but IT spending per capita is still less than 5% of that in the US. The Ministry of Industry and
+Information Technology (MIIT) said that the ICT market totaled US$1.79 trillion in 2012, with the hardware
+and telecommunications segments having the dominant share, but software and IT services showing the
+greatest growth over the past few years. Local software products comprise less than 30% of the market,
+as foreign brands enjoy the largest share.
+
+With the rapid development of 3G, wireless and smart terminal technology, the internet and mobile device
+markets have developed rapidly during the past ten years. China has the most internet and mobile phone
+users in the world, with the number of web users climbing by 9.5% to 618 million in 2013, with almost 250
+million accessing the internet via their smartphones, up by 83.8% from a year earlier. By the end of the
+12th Five Year Plan, 3G and wireless broadband networks are likely to cover most urban and rural areas,
+and 4G is expected to be commercialized across most cities. However, the penetration rate remains low
+compared to that in Germany, France and the UK, so there is significant potential for further market
+expansion.
+
+Leading Companies
+Lenovo Group Limited (HKSE: 0992)
+The world's second largest PC vendor Lenovo reported revenue of US$10.8 billion in the third fiscal
+quarter ended December 31, 2013, a 15% increase from a year earlier, driven by strong global execution,
+an innovative product portfolio and an increasing mix of PC Plus revenues. Lenovo shipped a record 32.6
+million devices in the quarter or almost five devices every second. Sales from its mobile internet and
+digital home division, which develops PC Plus products such as smartphones, tablets and smart TVs, was
+15% of total revenues, up from 11% a year earlier.
+Lenovo shipped 15.3 million PCs, retaining its position as the world's largest PC vendor, giving it its
+highest-ever quarterly market share, 18.5%. Combined shipments of smartphones and tablets of 17.3
+million surpassed those of PCs, with a 47% rise from a year earlier, giving it a 4.8% share and solidifying
+its position as the world's fourth largest smartphone supplier. Lenovo shipped a record 3.5 million tablets,
+a year-over-year rise of more than 300%, following the launch of the Yoga, the world's first multimode
+tablet. These results illustrate success of the company's PC Plus transformation, with the PC at the heart
+of an ecosystem of tablets, smartphones and smart TVs.
+
+The recent investment in Motorola mobility and the IBM server business are logical next steps in the PC
+Plus strategy, and will make Lenovo the third biggest server player globally in a business with higher
+margins than PCs, and a strong number three smartphone maker. The company believes that the
+investment will accelerate the geographical reach and competitiveness of its existing smartphone, tablet
+and server businesses, while ensuring that future growth is stronger and more sustainable.
+
+Great Wall Technology Co Ltd (HKSE: 0074)
+
+Great Wall Technology researches, develops, manufactures PCs and information terminals, and sells
+storage devices, power supply products, monitoring terminals, LCD TVs and electronics manufacturing
+services (EMS). Although its revenue declined by 3.2% to RMB92.816 billion (US$576.55 billion) in
+2013, net profit improved from a loss of RMB160 million (US$994 million) in 2012 to a gain of RMB73.91
+million (US$459 million). This was mainly due to a provision for the impairment of assets of RMB117
+million (US$726.8 million) in relation to its business partner companySatcon Technology Corp and a
+provision by its subsidiary Shenzhen Kaifa Magnetic Recording Co Ltd for the impairment of assets of
+RMB47 million (US$292 million) a year earlier.
+
+In 2014, Great Wall Technology will actively encourage its member enterprises to accelerate industrial
+transformation and development. Its monitors section will continue to reinforce and enhance its current
+position in the global market. The company aims to overcome the adverse effects of a slow global
+
+Page122of298©2018Factiva,Inc.Allrightsreserved.economy, and strengthen its position in the EMS business. Its LED section will speed up the development
+and industrialization of epitaxies/chips and application systems and expand its business scale to ensure
+steady profits. The power supply section will focus strategically and selectively on powering sectors such
+as servers, communication equipment and LED devices, and will speed up its transition to the high-end
+market.
+
+Market Outlook
+China's ICT market outlook is expected to remain positive through 2014, with a growing market and solid
+uptake of technologies such as cloud computing, smart terminals, 4G LTE and 3D printing. Cloud
+computing has made a breakthrough with the rapid growth of IoT; 4G, as the successor to 3G, brings
+faster speeds and better use experience, while 3D printing is a cutting edge technology that can be used
+for making prototypes and in customized tasks in many manufacturing industries. China's IT companies
+are in the midst of an ambitious spending spree, helping to push the industry into new businesses and
+potentially changing large swathes of the country's economy.
+China is the world's largest market for computer products and the Government makes great efforts to
+support the development of computer, integrated circuit and display technologies. Domestic companies
+are catching up with their international rivals due to accumulation of experience, increases in skills and
+government support. Software-as-a-service (SaaS) is an on-demand IT trend, with Gartner estimating that
+China's SaaS market will total US$336 million in 2014. E-commerce is also highly developed in China,
+with 243 million e-shoppers, an annual increase of 30 million users, and a market likely to total US$800
+billion in 2015. Driven by growing internet and broadband coverage, mobile apps and online gaming have
+quickly become the industry's highest revenue earners.
+
+India
+
+Sector Overview
+
+India endured a tough 2013 due to poor policy, delayed reforms, the free fall of the rupee against major
+currencies and political gridlock, which negatively affected the country's growth and all industries. Despite
+slower growth in the ICT market, 2013 was a year of rapid transition and transformation, leading the
+industry into the newer verticals and geographies, attracting new clients, and transforming technology
+partners to strategic business partners.
+
+It was the year of the internet in India, with more people accessing the web via mobile phones. The
+Internet and Mobile Association of India (IAMAI) estimates the number of internet users grew by 43% to
+213 million in 2013, from 150 million a year earlier, and is likely to total 243 million by June 2014. Of the
+total user base, mobile internet users accounted for 130 million, and are expected to total 185 million by
+June 2014. The growth in internet use has led to a substantial growth of other digital industries such as
+e-commerce and digital advertising. Investors are pumping large sums of money into India's e-commerce
+firms, hoping that they will gain sizeable market share as a younger generation with higher disposable
+income starts purchasing online over the next five years.
+
+As part of the National Electronics Policy, the Government has taken major initiatives to promote the ICT
+sector, planning to set up 15 laboratories under the public-private-partnership (PPP) model for hardware
+and software testing. Under the 12th Five Year Plan (2012-17), the Department of Information Technology
+proposes to strengthen and extend existing core infrastructure projects to provide more horizontal
+connectivity, build redundancy connectivity, and undertake energy audits of state data centers (SDCs).
+
+Industry Size and Value
+
+India has established itself as a global leader in the sector, capitalizing on its talent pool, lower costs and
+its innovative remote delivery model. Despite challenges in the global market, the National Association of
+Software and Services Company's (Nasscom) estimated 2013 export revenue from India's IT-business
+process management (BPM) industry at US$75.8 billion, with a year-on-year growth rate of 10.2%, and
+that domestic market revenue rose by 14.1% to Rs1,047 billion (US$17.5 billion). It expects 2014 export
+revenue of US$84-87 billion, maintaining a growth rate of 12-14%, while domestic revenues should grow
+by 13-15% to Rs1,180-1,200 billion (US$19.7-20 billion). The sector continues to be one of the largest
+employers in the country, directly employing nearly three million professionals, adding more than 180,000
+employees in 2013.
+
+India is the only country that offers depth and breadth of offerings across different segments of the
+industry, such as IT services, BPM, engineering and R&D, internet and mobility, and software products. IT
+services is a US$50 billion sector, with BPM worth US$20 billion and engineering US$10 billion, while
+software products, internet and mobility are emerging opportunities. More companies are expanding their
+offerings to make India a hub for analytics, mobility, cloud, social collaboration and emerging verticals
+such as healthcare and medical devices.
+
+Page123of298©2018Factiva,Inc.Allrightsreserved.Leading Companies
+
+Tata Consultancy Services Ltd (BSE: 532540)
+
+Leading multinational IT services, business solutions and outsourcing provider Tata Consultancy Services
+(TCS) reported revenue in the fiscal fourth quarter ended March 31, 2014, of US$3.5 billion, up 15.2%
+from a year earlier. Sales for the year totaled US$13.4 billion, up 16.2% from the previous year, handily
+beating the Nasscom's growth target of 12-14%. The encouraging results were mainly driven by demand
+from mature markets, led by Europe, the US, and the UK, alongside growth in emerging markets such as
+Latin America and the Asia-Pacific. There was holistic growth across all industry segments, led by retail,
+manufacturing, life sciences and healthcare and banking, financial services and insurance. Strong
+international demand for its services and discipline in execution should help TCS maintain its momentum
+and robust growth.
+
+Infosys Ltd (BSE: 500209)
+India's second largest IT services provider Infosys performed well in 2014, passing the US$2 billion
+revenue mark in Europe for the first time, driven by strong demand for consulting and system integration
+(CSI) services. Fiscal fourth quarter 2014 revenue rose by 7.9% from a year earlier to US$2.1 billion, and
+annual revenue totaled US$8.2 billion, up 11.5% from fiscal 2013. North America accounted for 59.8% of
+revenue, down by 0.8%, as the harsh winter in the US made selling difficult. Europe contributed 25.2%, up
+by 1% from a year earlier.
+Infosys signed four large deals worth a total of US$700 million, with two deals each in the Americas and
+Europe. Large outsourcing deals are expected to come from the US as clients spend more on IT and
+outsourcing than in the past few years. Indian IT players are also making headway in Europe, which
+ranked second in contribution to the export revenues of the more than US$118 billion Indian IT-BPO
+market. However, activity was limited to the UK and Nordic countries, and the rest of the Continent
+remains largely untapped. Infosys expects annual revenue to grow by between seven to 9% in 2014/2015,
+a slower rate than in 2013/2014.
+
+Market Outlook
+
+Investments in ICT are becoming highly selective as the Indian economy continues to feel pressure. The
+tech market is also being affected by a slowdown in government and public sector undertakings because
+of national elections in April 2014. Nonetheless, the long-term outlook for India's ICT market continues
+positive. Some of the key growth drivers such as smart computing, anything-as-a-service, technology
+enablement in emerging verticals and the SMB market should continue to gain momentum amid optimism
+that 2014 will bring further innovation and growth, with Forrester expecting Indian IT purchases to grow by
+8% in 2014.
+
+Indian organizations are likely to increase spending on business intelligence and real-time customer and
+business analytics, as well as continue to focus heavily on optimizing their infrastructure capacity by
+implementing virtualizations and incorporating newer data center designs. As demand for cloud-based
+services such as storage, disaster recovery, and cloud-bursting continues to increase, India will see a
+faster and wider adoption to create a strong cloud strategy and implementation plan. However, legacy
+systems, unvirtualized infrastructure, inconsistent download speeds and latency issues will hinder the
+widespread migration of enterprise applications to the cloud in India.
+
+Japan
+
+Sector Overview
+
+Japan's economy has improved dramatically since Prime Minister Shinzo Abe took office on December
+2012. Employee incomes have improved and consumer spending increased steadily due to a rush in
+demand before a rise in consumer tax. Monetary easing by the Bank of Japan, a recovery in corporate
+earnings, especially among exporters who have benefited from the rapid weakening of the yen, and the
+rise in stock prices have contributed to recovery. Although boosted by large application modernization
+projects in banking, manufacturing and the public sector, Forrester expects IT spending growth to slow to
+around 2% in 2014, due to the consumer tax increase planned for April 2014 and the weakening effects of
+the government stimulus package.
+
+The Government has tried to revive the economy by promoting the use of public data stored in
+administrative agencies. In response to global open data initiatives, the Government launched a test
+version of its own public data site, data.go.jp, on December 20, 2013, hoping to catch up with the US and
+European countries in developing uses for such data by the end of 2015. The Government also plans to
+begin certifying companies that tap into big data, including information about consumer purchases, to
+
+Page124of298©2018Factiva,Inc.Allrightsreserved.address privacy concerns. Conservative Japanese companies are cautious about using their gathered
+data due to fears of their business reputations being jeopardized by misuse of data.
+
+Exports and Imports
+
+Although Japan's ICT market improved in 2013, foreign rivals overtook it, with many introducing faster
+improvements with integrated products and user-friendly software and online services. ICT and electronics
+sector production in second half 2013 fell by 7.14% from a year earlier to Y6.93 trillion (US$67.34 billion).
+
+Japan's IT and electronics exports and imports increased in second half 2013, with exports rising by 8.7%
+to Y5.59 trillion (US$54.28 billion) and imports increasing by 26.72% to Y6.12 trillion (US$59.48 billion),
+according to Japan Electronics and Information Technologies Industries Association (JEITA). Japan's
+economy is in continuing recovery, bringing increases in production, the recovery of capital investment and
+rising exports thanks to the depreciation of the yen.
+Japan's ICT and Electronic Production (Y/US$ millions)
+Second Half 2013 Second Half 2012 % Change
+type
+(US$5,040)
+Consumer electronic equipment
+(US$21,360.92)
+Industrial electronic equipment
+Electronic components and devices (US$40,942.45)
+(US$67,343.45)
+Total
+
+(US$5,347)
+(US$21,679.55)
+(US$35,826.56)
+(US$62,853.07)
+
+-5.74%
+-1.47%
+-14.28%
+-7.14%
+
+Source: Japan Electronics and Information Technologies Industries Association
+Japan's IT Exports and Imports (Y/US$ millions)
+Second Half 2013 Second Half 2012 % Change
+type
+Exports from Japan
+(US$4,002)
+-14.36%
+Consumer electronic equipment
+10.78%
+(US$7,855.89)
+Industrial electronic equipment
+Electronic components and devices (US$42,419.97)
+11.13%
+8.70%
+Total
+(US$54,277.86)
+Imports Into Japan
+Consumer electronic equipment
+(US$4,062.90)
+25.72%
+23.86%
+(US$29,403.60)
+Industrial electronic equipment
+30.31%
+Electronic components and devices (US$26,015.27)
+Total
+(US$59,481.78)
+26.72%
+
+(US$4,672.83)
+(US$7,091.35)
+(US$38,170.14)
+(US$49,934.33)
+(US$3,234.41)
+(US$23,740.12)
+(US$19,963.45)
+(US$46,937.97)
+
+Source: Japan Electronics and Information Technologies Industries Association
+
+Leading Companies
+
+NEC Corp (TSE: 6701)
+Japan's largest PC maker NEC's consolidated net sales totaled Y700.4 billion (US$6.8 billion) in third
+quarter fiscal 2014 ended March 31, 2014, a decrease of 3% from a year earlier. This was mainly due to
+lower sales of mobile phones and electronic components, despite increased sales in the public and system
+platform businesses. Its net loss totaled Y11.1 billion (US$107.9 million), an improvement of Y7.6 billion
+(US$73.8 million) from a year earlier. System platform business enjoyed the largest increase in sales, by
+11% to Y185.7 billion (US$1.8 billion), mainly due to increased sales of hardware. Public business sales
+rose by 9.9% to Y164 billion (US$1.6 million), due to steady demand from government offices and public
+services. NEC's business has begun to improve thanks to increased production, the recovery of capital
+investment and increasing exports due to a depreciation of the yen, contributing to a trend of continuing
+recovery.
+
+Fujitsu Ltd (TSE: 6702)
+
+Fujitsu, a leading provider of ICT-based business solutions for the global market, reported revenue of
+Y1.201 trillion (US$11.67 billion) in third quarter fiscal 2013, an increase of 14.5% from a year earlier. Net
+income totaled Y12 billion (US$116.6 million), up by Y92.8 billion (US$901.7 million) from a loss of
+Y80.8 billion (US$785 million) in fiscal 2012. Net sales in Japan rose by 9.2%, with sales of system
+integration services increasing, primarily in the public and financial services sectors, and PC sales also
+rising, primarily to enterprise customers. Sales outside Japan rose by 24.9%, thanks to increased sales of
+car audio and navigation systems in North America, and improved sales of large-scale integration (LSI)
+devices.
+
+Page125of298©2018Factiva,Inc.Allrightsreserved.Fujitsu's business has improved along with Japan's economy and a moderate increase in consumer
+spending. ICT investment is gradually increasing on signs of a rebound in corporate capital investment.
+The company is optimistic as it begins to see the positive impact of structural reforms in its LSI business,
+in businesses outside Japan, and of various workforce-related measures.
+
+Market Outlook
+
+There was a moderate increase in consumer spending in the period under review, thanks to monetary
+easing by the Bank of Japan and rises in share prices. Exports also rose due to yen depreciation, and the
+improved economy caused consumer spending to grow steadily amid rising confidence. Despite the signs
+of recovery, Japanese companies continue to take a cautious stance on ICT investments.
+
+IT spending on services has been solid, but spending on hardware remains stagnant due to deteriorating
+market conditions. As restoration occurs, IT vendors are likely to play an active role in developing products
+such as smart grid and home energy management systems to resolve power supply issues in eastern
+Japan. Leading banks, retailers and services firms are increasingly initiating mobile strategies and
+investing in analytics to improve the customer experience.
+
+South Korea
+
+Sector Overview
+
+South Korea has become one of the leading economies in Asia and has established itself as a global ICT
+powerhouse, creating an ICT-based society, with the highly developed sector accounting for 28% of the
+nation's total exports. About 30% to 40% of South Korea's total GDP comes from the ICT industry, which
+has greater volatilities than other sectors. However, there are concerns that growth in South Korea is too
+dependent on big companies and is largely driven by government spending rather than private industry.
+
+The active ICT market is backed by strong government support, with the Ministry of Science, ICT and
+Future Planning reporting that the Government will pour KRW4.9 trillion (US$4.58 billion) into the
+country's ICT sector in 2014 to fuel economic growth and enhance competitiveness. The funds will be
+used to finance numerous projects, including KRW1.12 trillion (US$1.05 billion) to strengthen IT research
+and KRW1.84 trillion (US$1.72 billion) to upgrade ICT infrastructure. Key projects include the nation's
+digital infrastructure and initiatives to increase its presence in cloud computing, mobile services and
+next-generation mobile wireless technology.
+
+Exports and Imports
+
+IT and high technology is one of the most lucrative sectors in South Korea, which is at the forefront of key
+industry developments in terms of growth potential, trade and added value, and is one of the world's
+leading IT producers and exporters. Production in the sector in 2013 is estimated to have increased by
+5.1% from a year earlier to KRW391.5 trillion (US$366.3 billion), and 2014 production could grow by 3.8%
+to KRW406.4 trillion (US$380.3 billion), according to the Korea Information Society Development Institute
+(KISDI).
+
+Although demand for information devices and digital TVs declined, exports were driven by the increased
+global market shares of communications devices, especially smartphones, greater demand for memory
+semiconductors and by price increases.
+Shipments of semiconductors surged by 13.3% to US$57.15 billion, making them the largest export item,
+accounting for 10.2% of total exports in 2013. Exports of mobile devices jumped 23% to US$24.87 billion,
+while those of software rose by 54.3% to US$3.45 billion on growing demand for mobile and cloud-based
+services. Shipments of ICT products to China, including Hong Kong, rose by 8.2% from a year earlier to
+US$85.55 billion.
+
+Leading Companies
+
+Samsung Electronics Ltd (KSE: 005930)
+
+Global leader in semiconductor, telecommunication, digital media and digital convergence technologies
+Samsung's first quarter 2014 revenue grew by 1.5% from a year earlier to KRW53.68 trillion (US$50.22
+billion). However, profits slipped by 3.3% to KRW8.49 trillion (US$7.9 billion), due the global slowing of
+smartphone growth. Although market demand for electronic devices in the first quarter is traditionally slow,
+profit margins for its IT and mobile communication (IM) division were driven by steady smartphone
+shipments, efficient management of marketing expenses and a positive impact from adjustments of one-off
+expenses.
+
+Page126of298©2018Factiva,Inc.Allrightsreserved.Despite the weak seasonality, the semiconductor business continued its solid profitability momentum
+boosted by the expansion of the 20-nanometer-class process migration and a greater appetite for dynamic
+random-access memory (DRAMs) used in servers and for graphics solutions. The NAND business
+maintained profitability by actively responding to market demand for high-density cards and rising sales in
+high value-added 3-bit NAND.
+
+Samsung continued to enjoy solid sales of its Galaxy S4 and Galaxy Note 3 tablet, while strengthening its
+premium product portfolio through the introduction of a new flagship smartphone the Galaxy S5. The
+company is pinning hopes on the latest phone to help boost earnings, as it has been ordered by a US
+court to pay US$119 million to Apple for patent infringement. Samsung is expected to see profits rally in
+the second quarter and beyond, thanks to improved sales of display panels and home appliances.
+Demand for display panels for premium smartphones and TVs are likely to increase, as new mobile
+devices are rolled out to enable consumers to view the upcoming World Cup in Brazil. House appliances
+sales should also pick up on seasonal demand for air conditioners.
+
+LG Electronics (KSE: 066570)
+
+Global leader and technology innovator in consumer electronics, mobile telecommunications and home
+appliances company LG reported solid positive financial results in first quarter 2014. Revenue totaled
+KRW14.27 trillion (US$13.35 billion), up by 1.2% from a year earlier, while net profit soared by 319% to
+KRW92.6 billion (US$86.64 million), mainly due to strong sales of large-screen TVs and better cost
+structure resulting from declining material prices. LG's home entertainment business posted the highest
+revenues, KRW4.95 trillion (US$4.63 billion), a 3% increase from a year earlier.
+The mobile communications unit shipped 12.3 million smartphones, an increase of 19% from a year
+earlier. The shipment of five million LTE smartphones was the most in a single quarter, up by 79% from
+the previous year, accounting for 41% of all smartphone shipments in the quarter. Revenues rose by 6%
+to KRW3.41 trillion (US$3.19 billion) due to the launch of the G Pro 2 smartphone in the domestic market
+and more efficient marketing spending. The home appliance business posted strong sales in the Korean
+market, but revenue of KRW2.72 trillion (US$2.54 billion) was lower due to greater competition in North
+America and unfavorable foreign currency exchange in developing markets.
+
+Higher revenues are expected in the second quarter with the release of the flagship LG G3 smartphone
+and wider rollout of the cheaper L Series III. LG will continue to diversify its premium ultra HD TV and
+OLED TV lineup with more sizes and price levels to offset greater competition. The company also expects
+revenues for home appliances to increase with the launch of market-leading washing machine and
+refrigerator products.
+
+Market Outlook
+
+The competitive edge of domestic premium smartphones is expected to be maintained, and exports will
+likely to continue growing as smartphone makers strengthen their marketing efforts with a variety of
+product portfolios including strategy phones and wearable devices to maintain their competitiveness.
+Nonetheless, as the global smartphone market approaches maturity, demand in more mature markets,
+particularly North America, Europe, South Korea and Japan, is expected to decline. Competition has
+intensified as consumers in developing nations tend to buy cheaper devices, especially from China's
+Huawei, Lenovo and Xiaomi, which are expanding in South East Asia and China, forcing down prices.
+Export growth could soften due to sluggish demand for semiconductors and display panels and declining
+replacement demand for digital TVs.
+
+Sustained high growth trends in software and increased provision of next-generation services by IT service
+providers, coupled with ongoing global expansion by domestic firms, are likely to strengthen South Korea's
+position as a leading enterprise IT market. The package software segment could record high growth on the
+back of sustained demand for cloud computing, big data analytics and security, as well as increasing
+demand from the public sector. A gradual increase in IT consulting associated with next-generation
+models and system integration is also likely to drive IT service market growth.
+
+Taiwan
+
+Sector Overview
+
+Taiwan's ICT sector has long held a significant global position and accounts for 75% of the world's
+production of PCs, about a quarter of the world's semiconductors and about a fifth of its mobile phones.
+The sector's 2013 production value was estimated to have jumped by 20.5% from the previous year to
+US$181 billion. This was due to ongoing rapid growth in global shipments of tablet PCs and investment in
+cloud computing data centers by large multinational service providers and other corporations, which
+stimulated demand for customized server products. The development of new, touch-screen notebook PC
+products also helped to ensure some degree of growth in demand for laptops.
+
+Page127of298©2018Factiva,Inc.Allrightsreserved.As the price disparity between notebook and desktop PCs shrunk, desktop PCs continued to lose their
+previous price advantage and many consumers bought laptops or mobile devices rather than desktop
+PCs. However, with competition from tablets rising, manufacturers slowly cut back on notebook original
+design manufacture (ODM) and OEM, and shifted their focus to the cloud computing, server and mobile
+device segments.
+
+With telecommunications service providers throughout the world investing in 4G LTE technology, demand
+for related communications equipment continued to grow, with competition between telecommunication
+service providers and cable TV system operators to expand bandwidth, creating more demand for
+broadband access equipment. The Government fast-tracked the issuance of 4G technology licenses as
+part of its undertaking to assist Taiwan companies in keeping abreast of the rapidly changing ICT sector.
+
+Exports and Imports
+Taiwan's export orders in 2013 hit a record US$442.9 billion, a 0.4% increase from a year earlier,
+according to the Ministry of Economic Affairs (MOEA). Thanks to higher demand for semiconductor
+high-end production facilities and electronic chips orders in the information and communication, and
+electronics industries also hit all-time highs of US$116.19 billion and US$106.01 billion, respectively.
+
+Taiwan's IT industry researcher Market Intelligence and Consulting Institute (MIC) estimates shipments of
+Taiwanese branded mobile phones totaled about 4.33 million in fourth quarter 2013, and grew to about
+4.51 million in first quarter 2014, buoyed by further shipments by Asus and Acer. Asus began shipping its
+three ZenFone series of smartphones, while Acer began supplying Thailand's largest mobile operator
+Advanced Info Service (AIS). Struggling HTC, which accounts for more than half of Taiwan's annual
+mobile phone shipments, is relying on its new products, including flagship HTC One (M8) and mid-tier
+flagship Desire 816, to return to profitability.
+
+Leading Companies
+
+Taiwan Semiconductor Manufacturing Co (TSMC) (TWN: 2300)
+
+TSMC is the world's largest dedicated semiconductor foundry, providing the industry's leading process
+technology and the largest portfolio of process-proven libraries, IPs, design tools and reference flows. Net
+revenues totaled NT$148.22 billion (US$4.9 billion) in first quarter 2014, an 11.6% increase from a year
+earlier, mainly due to strong demand for its wafers across all segments. This was more pronounced in
+mobile-related applications. About 34% of wafer revenues came from 23nm process technology, while
+40/45nm wafers accounted for 21%. Advanced technologies, defined as 40/45nm and below, accounted
+for 55% of total wafer revenues, up 51% from the previous quarter.
+
+The popularity of smartphones and tablets boosted demand for smaller and more powerful chips to make
+devices sleeker and more energy efficient. High-end phones equipped with LTE wireless technology will
+also drive TSMC's revenue, as will phones with advanced features such as image and fingerprint sensors
+that require more chips. Low supply chain inventory has prompted the country to begin actively restocking.
+There was a strong rebound of demand for the leading nodes extending beyond the first quarter, thanks to
+the better performance and higher yield and reliability of its advanced technologies. TSMC expected
+second quarter revenue of between NT$180 billion (US$5.9 billion) and NT$183 billion (US$6 billion).
+
+Asustek Computer Inc (TWN: 2357)
+Notebook PC pioneer Asustek's consolidated revenue totaled NT$463 billion (US$15.2 billion) in 2013,
+up 3.3% from a year earlier, while net income dropped by 0.13% to NT$27 billion (US$886 million). Its
+tablet products contributed 18% of total revenue, up from 13% in 2012, while notebook and hybrid
+business revenue fell by a percentage point to 59% in 2013. The company is in competition with Lenovo,
+which achieved stronger unit sales and revenue growth and is also aiming at the 2-in-1 PC and mobile
+devices segments. Asustek's US market share has increased, and it is exclusively partnering with US
+telecommunications companyAT&T to release its PadFone X smartphone/tablet combo device in the US
+in 2014.
+
+Best known for its notebooks, Asustek is tapping into new PC forms, such as the newly launched hybrid
+3-in-1 upgrade of its 2-in-1 Transformer (T100) tablets and ultrabooks. Asustek remains optimistic about
+the desktop and laptop market, which contributes most of the company's revenue, but its priority is to
+make the smartphone business profitable and increase production from one million units a year to five
+million units in 2014. The company uses highly aggressive pricing to capture mobile device market share
+from Apple and Samsung, and is likely to continue using competitive pricing to attract cost-conscious
+consumers in mature markets.
+
+Market Outlook
+
+Page128of298©2018Factiva,Inc.Allrightsreserved.The Industrial Economics and Knowledge Center (IEK) believes Taiwan's ICT sector will keep booming
+through to 2015 on the strength of globally hot-selling electronics devices, such as smartphones, tablet
+PCs, ultrabooks, smart TVs, e-book readers and cloud computing applications. Global sales of these
+products are likely to shoot up by 200-300% in 2015 from 2011 figures. Taiwan's ICT sector, which houses
+some of the world's leading upstream and downstream manufacturers, could benefit from sales in major
+product categories over the next three years.
+
+Smartphone sales growth could be sustained by greater use of newer technologies, including near field
+communication (NFC), mobile payments systems, LTE and quantum dot (QD) displays. Mid-priced
+smartphones and tablets will continue to boost Taiwan's IC design industry, helping the country to gain
+market leadership by providing communications IC and processors for mid-range and premium mobile
+devices. Most local firms provide system integration services and act as agents for overseas software
+products and services, giving them a competitive edge over overseas corporations. The ongoing trend
+toward digital convergence should drive continued growth in demand for smartphone and tablet PCs.
+
+Currency Conversion Table
+Units per US$ US$ per Unit
+currency unit
+1.0824
+Australian Dollar (A$)
+Chinese Renminbi (RMB)
+6.2117
+Hong Kong Dollar (HK$)
+7.7573
+59.89
+Indian Rupee (Rs)
+102.92
+Japanese Yen (Y)
+1,068.85
+South Korean Won (KRW)
+New Taiwanese Dollar (NT$) 30.46
+
+0.9239
+0.1610
+0.1289
+0.0167
+0.0097
+0.0009
+0.0328
+
+Sources: Federal Reserve Bank of New York
+
+Key References
+
+Key References
+
+Global
+
+Semiconductor Equipment and Materials Institute (SEMI)
+
+global industry association serving companies that develop and provide manufacturing technology,
+materials and services to make semiconductors, flat panel displays (FPDs), micro-electromechanical
+systems (MEMS) and related microelectronics.
+
+http://www.semi.org
+
+Semiconductor Industry Association (SIA)
+
+The SIA represents the US semiconductor industry. It also conducts research and publishes statistics and
+forecasts.
+
+http://www.sia-online.org
+
+World Semiconductor Trade Statistics (WSTS)
+
+WSTS is an independent non-profit organization representing around 90% of the world's semiconductor
+industry. It also collects data and publishes forecasts on semiconductor trade.
+
+http://www.wsts.org
+
+World Information Technology Services Alliance (WITSA)
+
+WITSA is a consortium of information industry, software and IT associations around the world. The
+alliance also carries research and forecasts on the IT industry globally.
+
+http://www.witsa.org
+
+Consumer Electronics Association (CEA)
+
+US. It is an industry authority on market research and forecasts, consumer surveys, legislative and
+regulatory news, engineering standards and training resources.
+
+Page129of298©2018Factiva,Inc.Allrightsreserved.http://www.ce.org
+
+Asia-Pacific
+
+Asian-Oceanian Computing Industry Organization (ASOCIO)
+
+A federation of computing industry associations from the Asian-Oceania region established with the
+objective of developing the computing society and industry in the region while promoting trade between its
+member organizations.
+
+http://www.asocio.org
+
+Australia
+
+Australian Computer Society (ACS)
+
+Founded in 1966, the ACS is an association for ICT professionals from all levels of the ICT industry and a
+member of the Australian Council of Professions.
+
+http://www.acs.org.au
+
+Australian Electrical and Electronic Manufacturers' Association (AEEMA)
+
+is an industry body that represents Australia's information and communication technology (ICT),
+electronics and electrical manufacturing industries.
+
+http://www.aeema.asn.au/
+
+Australian Information Industry Association (AIIA)
+
+The AIIA represents Australia's software and IT industries.
+
+http://www.aiia.com.au
+
+Australian Government Information Management Office (AGIMO)
+
+AGIMO oversees the promotion and coordination of the use of new information and communications
+technology to deliver government policies, information, programs and services.
+
+http://www.finance.gov.au/agimo/index.html
+
+Department of Broadband, Communications and the Digital Economy
+
+The department advises the Government on trends in the global information economy and assists with the
+development of policies and legislation relating to the online environment. It also administers a number of
+programs to help promote take-up of ICT technology.
+
+http://www.dbcde.gov.au/
+China and Hong Kong
+
+Ministry of Commerce
+
+The ministry is responsible for overseeing the development strategies, guidelines and policies of domestic
+and foreign trade and international economic cooperation in China.
+
+http://english.mofcom.gov.cn/
+
+Ministry of Information Industry
+The ministry is responsible for administering mainland China's IT industry.
+http://www.mii.gov.cn (Chinese language)
+
+MOST)
+activities in China.
+
+http://www.most.gov.cn/
+
+India
+
+Page130of298©2018Factiva,Inc.Allrightsreserved.Department of Information Technology (DIT)
+
+The DIT oversees national policy and development matters relating to India's IT, electronics, and internet
+industries.
+
+http://www.mit.gov.in/
+
+National Association of Software and Service Companies (NASSCOM)
+
+NASSCOM is India's software and IT service industry body.
+
+http://www.nasscom.org
+
+Manufacturers' Association for Information Technology (MAIT)
+
+MAIT is an association representing the IT hardware, training and R&D services industry in India.
+
+http://www.mait.com/index.jsp
+
+Japan
+
+Information and Communications Statistics Database
+
+A statistics database on Japan's IT industry administered by the Ministry of Internal Affairs and
+Communications (MIC).
+
+http://www.johotsusintokei.soumu.go.jp/english/
+
+Strategic Headquarters for the Promotion of an Advanced Information and Telecommunications Network
+Society (IT Strategic Headquarters)
+
+The IT Strategic Headquarters was established within the Japanese Cabinet in January 2001 with the
+purpose of promoting and facilitating measures towards the formation of an advanced information and
+telecommunications network society.
+
+http://www.kantei.go.jp/foreign/policy/it/index_e.html
+
+Japan Electronics and Information Technology Industries Association (JEITA)
+
+JEITA's main objective is to promote the manufacturing, international trade and consumption of electronics
+products and components for the development of Japan's electronics and information technology
+industries.
+
+http://www.jeita.or.jp/english/
+
+Japan External Trade Organization (JETRO)
+
+JETRO is a government-related organization that aims to promote mutual trade and investment between
+Japan and the rest of the world.
+
+http://www.jetro.go.jp
+
+Japan Information Technology Services Industry Association (JISA)
+
+JISA is a national organization that aims to promote Japan's IT Services industry in line with the
+advancement of IT infrastructure within the context of contributing to the development of the Japanese
+economy. Its members include software developers, information processing and database/VAN service
+suppliers.
+
+http://www.jisa.or.jp/en/index.html
+
+Ministry of Economy, Trade and Industry
+
+Japan's government agency for trade related matters.
+
+http://www.meti.go.jp/english/index.html
+
+Ministry of Internal Affairs and Communications (MIC)
+
+Page131of298©2018Factiva,Inc.Allrightsreserved.MIC is responsible for creating the fundamental national systems of Japan. These systems include the
+national administrative organizations, the public service personnel system, local tax/finance, the election
+system, fire/disaster prevention, information and communications, postal services, and statistical systems.
+
+http://www.soumu.go.jp/english/
+
+http://www.soumu.go.jp/joho_tsusin/eng/
+
+National Information Security Center (NISC)
+
+The NISC is a major participant in the formulation of national information security policies for the public
+and private sectors, as well as development and protection strategies pertaining to national information
+infrastructure.
+
+http://www.nisc.go.jp/eng/index.html
+
+Semiconductor Equipment Association of Japan (SEAJ)
+
+The SEAJ is a national organization representing the interests of major semiconductor manufacturing and
+flat panel display (FPD) panel manufacturing equipment manufacturers and related equipment
+manufacturers.
+
+http://www.seaj.or.jp/english/index.html
+
+Statistics Bureau
+
+Japan's Statistics Bureau conducts various socio-economic surveys and census for the Japanese
+Government, and promotes the use of statistics in national policy and economic planning initiatives. It is
+administered by the Ministry of Internal Affairs and Communications.
+
+http://www.stat.go.jp/english/index.htm
+
+South Korea
+
+Invest KOREA
+
+Invest KOREA is the Korean national investment promotion agency established with the sole purpose of
+facilitating the entry and successful establishment of foreign business into Korea.
+
+http://www.investkorea.org
+
+Korea Information Society Development Institute (KISDI)
+
+KISDI was founded in 1985 as a government-funded think-tank tasked with helping to develop national
+policies for the advancement of the South Korean ICT industry.
+
+http://www.kisdi.re.kr/
+
+Korea Semiconductor Industry Association
+
+The association aims to develop and promote South Korea's semiconductor industry.
+
+http://www.ksia.or.kr
+
+Ministry of Information and Communications
+
+The ministry oversees the promotion and development of South Korea's IT industry.
+
+http://www.mic.go.kr
+
+National Internet Development Agency of Korea (NIDA)
+
+NIDA is South Korea's representative internet authority responsible for consolidating a stable framework
+for internet address resource management and leading the development of next-generation internet
+technologies.
+
+http://www.nida.or.kr/english/
+
+Ministry of Knowledge Economy (MKE)
+
+Page132of298©2018Factiva,Inc.Allrightsreserved.Government concerned with regulating economic policy, especially with regard to the industrial and
+energy sectors.
+
+http://www.mke.go.kr/language/eng/
+
+Taiwan
+
+Industrial Development Bureau, Ministry of Economic Affairs (IDB)
+
+The IDB is responsible for formulating policies, strategies and measures for industrial development in
+Taiwan, including developing and managing industrial parks and administering general industrial affairs.
+
+http://www.moeaidb.gov.tw/portalen/
+
+Institute for Information Industry (III)
+
+The III is a non-profit organization involved in research and development in Taiwan's information industry
+sector.
+
+http://www.iii.org.tw
+
+Invest in Taiwan
+
+Invest in Taiwan is the country's investment information and services initiative administered by the
+Department of Investment Services, formerly known as the Industrial Development and Investment Center,
+under the Ministry of Economic Affairs. The department is responsible for promoting Taiwan as an
+investment destination and is tasked with implementing industrial assistance programs to help Taiwanese
+companies develop and operate their businesses at a local and international level.
+
+http://investintaiwan.nat.gov.tw
+
+Ministry of Economic Affairs
+
+The ministry is responsible for economic matters, trade and industry policy development.
+
+http://www.moea.gov.tw
+
+Market Intelligence Center (MIC)
+
+Since 1984, Market Intelligence Center (MIC) has been serving as a strategic policy think-tank for senior
+decision makers in industries, governments, academic sectors, and investment communities. MIC is part
+of the Institute for Information Industry.
+
+http://www.mic.iii.org.tw
+
+National Science Council (NSC)
+
+The NSC oversees the promotion of science and technology development in Taiwan, including support for
+academic research and the development of science and technology parks. The NSC also administers the
+National Science and Technology Survey.
+
+http://www.nsc.gov.tw
+Republic of China National Statistics
+
+The bureau is Taiwan's national statistical body.
+
+http://eng.stat.gov.tw
+
+Taiwan Semiconductor Industry Association (TSIA)
+
+Founded in 1996, the TSIA seeks to promote the development of the local semiconductor industry.
+
+http://www.tsia.org.tw
+
+Sales Contacts
+
+RF
+IN
+
+Report Number 1366
+i3302 : Computers/Consumer Electronics | iappsp : Cloud Computing | i8394 : Computer Services | ibcs :
+Business/Consumer Services | itech : Technology
+
+Page133of298©2018Factiva,Inc.Allrightsreserved.NS
+
+RE
+
+c133 : Patents | ccat : Corporate/Industrial News | c32 : Advertising | c31 : Marketing | cgymtr : Intellectual
+Property | cinprp : Industrial Property Rights (Patents/Trademarks) | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : FC&E Industry News Filter
+asiaz : Asia | austr : Australia | jap : Japan | skorea : South Korea | apacz : Asia Pacific | ausnz :
+Australia/Oceania | easiaz : Eastern Asia
+
+IPD IT & High Technology
+PUB Mergent, Inc.
+AN Document MIRAUS0020140915ea7100005
+
+Page134of298©2018Factiva,Inc.Allrightsreserved.

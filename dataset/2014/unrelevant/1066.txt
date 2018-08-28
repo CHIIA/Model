@@ -1,0 +1,970 @@
+Preliminary 2014 CSL Ltd Earnings Presentation - Final
+
+HD Preliminary 2014 CSL Ltd Earnings Presentation - Final
+WC 12,366 words
+PD 12 August 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+MARK DEHRING, IR, CSL LIMITED: Okay, ladies and gentlemen, we will make a start. Good morning and
+welcome to CSL's full year results briefing for fiscal 2014. I have with me here in the room Paul Perreault,
+Chief Executive Officer of CSL, and Gordon Naylor, Chief Financial Officer.
+
+TD
+
+As with past practice, Paul will be providing an overview of the results and operations and Gordon will be
+picking up on some of the financials. Please note, this is being webcast and we have quite a number of
+people online, so during Q&A I do ask that you use the microphones.
+
+And before we start, I draw your attention to the forward statement disclaimer contained in your packs. And
+with that, I'll hand over to Paul.
+
+PAUL PERREAULT, CEO, CSL LIMITED: Thank you, Mark. Good morning everyone. It's a pleasure to
+present the CSL results to you all this morning. As Mark said, Gordon will be filling in on some of the
+financials, detailed financials as we go forward.
+
+Please do note the forward-looking statement slide. Obviously these are the forward-looking statements
+are identifiable and we have called out the risks and the caveats around the representations in this
+presentation.
+
+So I'm very pleased to report that CSL has produced a strong result this year across all of our financials in
+what remains a very competitive marketplace. When we take a look at the revenues of $5.5 billion, it's up
+8% at constant currency.
+
+The EBIT line at $1.637 million, up 11%, up 10% at constant currency and NPAT at $1307, up 8% and the
+same at constant currency. And this all is -- this result does include the one-off for the US anti-trust class
+action settlement that we had earlier last financial year -- this past financial year.
+
+R&D investment was up again, to $466 million, that's 11% at constant currency. We continue to invest in
+the future of the organisation as part of our strategy and I'll talk more about R&D in a little bit. And our final
+dividend increased to $0.60 unfranked and that's up 15%.
+
+For the operational highlights we had a number of things happening obviously this year and one of the
+highlights was Hizentra and the approval for flexible dosing for Hizentra. What this means is that you can
+dose Hizentra once every two weeks as opposed to once a week, and we actually have some flexible
+dosing that's being submitted to the agencies around -- even going to more -- a longer dosing interval than
+once every two weeks. So the final cokinetics of this product really support the dosing flexibility, which is
+great because it does give patients additional options to infuse subcutaneous immunoglobulin with Hizentra
+at a high concentration.
+
+Kcentra was approved for surgical use, so you know the year before last we had Hizentra approved for the
+reversal of severe bleeding on patients with -- taking Warfarin or Coumadin, and this past year we had the
+additional indication for those patients in surgery that also were on Coumadin or Warfarin that had severe
+bleeds during surgery. So an expansion of the label that has shown significant growth for this particular
+product that I'll talk about in a minute.
+
+We continued to expand our facilities to support our growth. Obviously you have to plan these things well
+ahead of time. Facilities don't pop up overnight and so you have to do your planning years in advance, and
+we've done that on the back of really demand. So when we see the market demand we start to invest and
+
+Page114of207©2018Factiva,Inc.Allrightsreserved.make sure that we have enough capacity to supply these lifesaving and life-extending products to patients.
+CSL362, we had a license agreement with Janssen Biotech this year. This produce is for acute myeloid
+leukaemia and actually has utility we believe in expanded indications beyond that.
+
+BioCSL, our Australian vaccines pharmaceutical business, is in the middle of what we termed the
+turnaround process. We separated this business over a year ago to really get a close look at the financials
+and the health of this business here in Australia, and Gordon will talk a little bit more about that later in the
+presentation.
+
+In terms of capital management, we're in the process of completing the current share buyback of about
+AUD950 million, that's about 93% complete at this particular point. And we will have a new foreshadowing
+of a buyback by the Board of up to another AUD950 million once this share buyback is complete and the
+Board makes a determination.
+
+We also are doing a private placement that we're foreshadowing of up to EUR300 million. And of course,
+we did settle that class action suit which we were able to move on with the business. I think the litigious
+nature of the US was such that it was really of benefit to the Company to settle and move on with the rest
+of our business.
+
+In terms of the facilities expansion that I mentioned, many of you may have visited Broadmeadows in
+March. We had a bit of a tour back in March and I hope you enjoyed the tour there. Certainly the biotech
+manufacturing facility that we have opened in Melbourne to really supply our clinical trial material for our
+recombinant proteins as well as early stage commercial launch has a fantastic new facility that is currently
+in the process of manufacturing those clinical trial materials. We did announce recently that we are going to
+be putting in a new recombinant coagulation manufacturing plant for full commercialisation in Lengnau,
+Switzerland.
+Our plasma business, we -- in the commercial start-up of Broadmeadow's Privigen facility, we expect that
+to open in 2016. The multi-site capacity expansion that we've had across the rest of our sites, including an
+expansion of base fractionation and additional albumin capacity is well underway and we expect some
+approvals in the Kankakee area later this year.
+
+In terms of collections of plasma, we opened 18 centres this past year in the United States. Again, you
+have to collect this plasma well ahead of when you may need it because it takes time to ramp these
+centres up and really get the donors flowing through the centre. But with 18 facilities that takes our fleet
+globally to 106 centres and we also opened a second plasma logistics centre in the United States. This is
+the area where we store the plasma and then ship it out to the manufacturing facility once it's ready for
+production.
+
+We did expand our laboratory in Knoxville, Tennessee, where we will now be able to perform 64 million
+tests per year, quite a large facility for testing of the plasma, and we have transitioned to in-house nucleic
+acid testing in the Europe lab. We did do that in the US in fiscal 2013, so we've in-sourced all of our NAT
+testing.
+In terms of the Group revenue and through the product groupings you can see that we have a bit of a
+broad mix in terms of the products. Somebody hit a slide, go back. You can see that the IG area
+contributes to quite a number of -- actually, 43% of our revenues in terms of IG. Mark, I think I did miss a
+slide, didn't I? Okay.
+
+The albumin at 13% of our revenues now as well as our coagulation portfolio that's -- okay, so I don't think
+I'm hitting anything, and I'll see where we go. Mark, is there -- excuse us just for a second as we get the
+technology right. Okay. So albumin at 13% and our specialty products which account for 15% of our
+revenue. I'll try to move it.
+So we do have a broad sales reach in terms of where the products obviously are sold and you can see that
+we've called out bioCSL as a segment with seven -- okay -- with 7% of our sales, but North America
+contributing 41%, Europe you can see the numbers there at 29% and Asia at 10%.
+
+In terms of our outlook for this financial year we expect revenue growth of around 8% as well as reported
+EBIT of around 15%, which is important because it really highlights the underlying growth of the business,
+and the reported NPAT of around 12%. And I think that as we continue to look at our EPS growth we think
+that that will exceed NPAT growth going forward, and that's driven not only by our underlying growth in the
+business but also by some benefit from our capital management initiatives. I mentioned before, and we are
+foreshadowing that the Board will consider a further buyback to help us maintain that capital management
+discipline that we've had in the past.
+
+In terms of the product sales, digging into this a little bit you can see that we had growth in pretty much all
+the segments. We had significant growth in specialty products, significant growth in immunoglobulin,
+
+Page115of207©2018Factiva,Inc.Allrightsreserved.significant growth in albumin. Our plasma-derived and our recombinant haemophilia portfolio was slightly
+down and we'll delve into a few of the details on these segments now.
+
+So in terms of immunoglobulins, normal IG was up about 13%. IG growth in total was 12%, that's
+diminished a little bit by the hyper immune area but in terms of normal IG, 13% growth which I think was
+extremely strong. This was driven by a number of factors including the fast adoption of additional patients
+in Europe with Privigen due to our new indication with CIDP, as well as a strong demand in Latin America.
+We had a very strong demand for IG and Privigen specifically in Latin America this year, so our Latin
+American operations continue to help us drive forward.
+
+Certainly the Hizentra, as I mentioned before, is a key factor in terms of our growth. Hizentra was up 19%
+this year in terms of growth, so again very strong growth in the subcutaneous space, and I think the flexible
+dosing option in the US has really assisted us in that growth as well. So having that option to be more
+flexible with the dosing and the label has ensured physicians that this is a product that does have a bit of
+flexibility in terms of how patients are able to adapt and use it in their treatment. So we see ongoing
+demand for Hizentra in the US and Europe and certainly Privigen, as I said, has shown some very good
+growth in the second half as well.
+
+When we take a look at albumin sales, up 16%. You would expect that albumin would be growing quite
+strongly because IG is growing, and as you know with our economics of our business the albumin growth
+will come with the IG growth and so as we continue to grow IG, albumin should grow, and it did.
+We were very happy to see that we had very strong demand in China. Our albumin growth in China was
+up 29% this year. It's a huge number, but it just shows that there's a real need and a demand in China for
+albumin. Certainly, our ability to manage our distribution quite effectively, the changes we made in
+distribution last year with the addition of Cardinal as a partner in our distribution in China, and our ability to
+actually deliver in China through the changes in serialisation and the way that the product flows through
+the ports has been extremely beneficial. We have a very strong logistics team that really helps us in the
+China marketplace.
+
+In Europe, the solid demand for albumin was [still there]. There is still a flow-on effect from the starches
+and the downplay of the starches in a number of indications and the addition of albumin in terms of
+treatment therapies. And in the rest of the world we had strong demand. Again LatAm, Latin America was
+strong in albumin and Brazil particularly we saw some great strength in albumin this year.
+
+Haemophilia was down 4% at constant currency. A number of factors here in terms of the plasma-derived
+segment and the recombinant segment. For plasma-derived, as you know a lot of the plasma-derived
+utilisation is in countries that are not switched over to recombinant.
+
+A lot of the emerging markets and some of the Eastern European markets, most of these tend to be tender
+markets, government markets and the tenders are a bit lumpy. The timing is not always aligned with our
+fiscal years for the issuance of these tenders so we kind of go up and down a bit, depending on our ability
+to compete in the tenders with our competitors. Again, a very competitive space.
+
+But we do see growth in the emerging markets and we also did have some impact, we had a number of
+high utilisation patients that were on a immune tolerance therapy that resolved the inhibitors and came off
+of the high dose therapies in plasma-derived and these patients can actually use millions of units a year so
+it does have an impact when they resolve the inhibitor. We're happy they resolve the inhibitor certainly but
+it does impact sales at some point.
+
+In terms of Helixate, I think the movement in sales mix, the multiple clinical trials that our competitors are
+running which allows patients to go on product free of charge because they're on the clinical trial material,
+eats into the commercial markets. This is not commercial product that the patients are currently on when
+they're in the clinical trials, so that has an impact across the marketplace in terms of the recombinants.
+
+Oobviously we've had some new entrants, and people that have not currently been in our space that are
+now entering the market like the biogenetics of the world. So a lot of competition in this space but I have to
+say we're well-placed for the future with our recombinant portfolio and we still have a strong plasma-derived
+portfolio as well. So we'll continue to push forward and we don't mind the competition; we're just ready to
+get into the game.
+
+In terms of specialty products, another very, very strong performance this year in our specialty products
+portfolio, up 18%, which was a tremendous effort. Kcentra and Beriplex, so it's -- the name in other markets
+is Beriplex, in the US it's Kcentra -- grew by 98% this past year. So a tremendous effort in terms of the
+growth of Kcentra; it just shows the actual medical need of these products in terms of resolving patients'
+bleeds when they didn't have options prior.
+
+Page116of207©2018Factiva,Inc.Allrightsreserved.The other thing about the specialty products was Berinert continues to grow. We saw 25% increase in
+Berinert sales this past year across the globe. Zemaira grew at 10%, fibrinogen was in the 6% range. So
+the specialty products continued to show this growth based on the medical need of these rare diseases that
+these products actually help resolve.
+
+So I can't say enough about the specialty product portfolio. We certainly -- with our broad breadth of
+products in our portfolio it's a real advantage to have this great cadre of specialty products to be able to
+continue growing over the next number of years.
+
+BioCSL, this is in Australian dollars, just to remind you now that we're switching back to bioCSL which is
+really the Australian business for pharmaceuticals and vaccines, and flu vaccines, so we do look at in the
+Australian dollar terms. The business turnaround is underway. The influenza sales this year were AUD125
+million. We did see increased US demand.
+
+We did have a partner, (inaudible) exit the market in the EU and they were a good customer for us in terms
+of antigen sales, so that went away, which depressed our flu sales a bit. But the seasonal flu business
+continues to go well and so far this year we've seen strong demand in the US and Europe for the northern
+hemisphere season which is just underway.
+Next I'll move on to the IP segment and intellectual property. When we take a look here you can see that
+the HPV royalties were $119 million, that was down on an annual basis of about 7%. As you vaccinate
+more and more people obviously the opportunity to vaccinate people as they come into age is lessened
+based on the catch up programs which we've had in the past.
+
+So the royalties from the HPV were down about 7% however we are excited that the 9-valent vaccine was
+submitted this past February to the US authorities and will be submitted in other jurisdictions. This will
+cover five new potential cancers with the 9-valent, which is I think a great growth opportunity. So we expect
+to hear something within this financial year back from the agency, or Merck does, on the 9-valent.
+
+CSL362 I mentioned briefly earlier, and certainly in AML we think this is a fantastic opportunity. Janssen is
+a great partner and they certainly have the expertise in oncology to take this product and really develop it
+the way it should be developed. I think that when you take a look at the benefit that you get from CSL362
+you actually are able to take and generate killer cells from the natural immunity system within the body
+against the AML, the cancer cells. So it's a fantastic product really.
+
+When we take a look at the AstraZeneca arrangement that we have in rheumatoid arthritis, this program
+continues to advance and we've completed, or AstraZeneca has completed, multiple Phase II studies. So
+far the results have been extremely promising so we're looking forward to the continuation of those
+programs within AstraZeneca. Then in terms of ISCOMATRIX, we continue to see benefit, the Merck
+Dengue Study is ongoing and there is a New England Journal of Medicine article that show the effects that
+ISCOMATRIX is able to generate, not only on antibodies but in terms of dose sparing. So a very good
+outcome so far for ISCOMATRIX.
+
+Quickly I'll move just to look a bit of the R&D update and the highlights there. Certainly our recombinant
+portfolio in terms of recombinant factor IX fusion protein, our recombinant VIIa fusion protein and our
+recombinant factor VIII-SingleChain product are all moving through development and many in the later
+stage. So the factor IX program, which the pivotal phase III study enrolment was completed this past year,
+the pharmacokinetic data supports 14 day treatment regimen.
+
+So again a very significant change from the market leader today, BeneFIX, and I think we can compete
+quite readily with the (inaudible) product as well. So we're looking forward to putting that submission
+through, hopefully this fiscal year and we'll see where we go. But certainly the data is very, very strong.
+
+The recombinant factor VIII program, the phase I/III study support twice weekly dosing. The first patient
+was enrolled in the paediatric study and we do have to have some paediatric patients as well, so that
+continues to move. Our recruitment is strong in this particular product as well, so very pleased with the way
+our clinical group has been performing there. With recombinant VIIa fusion protein, we have -- the phase
+II/III trial is due to commence this year, so this calendar year, and we're moving that forward as well. Very
+exciting product because, again, the fusion protein technology is very similar to what we're using for our
+factor IX product where we've seen the every two week dosing. So we're looking for some excellent results
+there.
+
+In terms of Hizentra, the administration options in the EU and the US, in terms of that flexible dosing, has
+been really helpful for patients and we see the growth that we experienced with Hizentra this year. That
+was done with pharmacometric modelling which was quite a unique way to approach the agency without
+having to do a full scale clinical trial, because the data actually works.
+
+Page117of207©2018Factiva,Inc.Allrightsreserved.We have some very intelligent scientists in our group here in Australia that took a look at the modelling
+from the data that was in the clinical trials and were able to put a submission together that the agencies
+were well prepared to receive. In terms of the approval in Japan for primary immune deficiency and
+secondary immune deficiency, this also has another way of the expansion obviously of our portfolio across
+our geographies. This is the first and only subcutaneous IG available in Japan.
+
+Kcentra I've talked about and certainly the expanded indication in surgery was extremely helpful in terms of
+driving additional utilisation in the hospitals. Zemaira we have the efficacy data from our phase III/IV study
+and that submission has been put into the US regulators and the EU regulators. In the EU we're looking for
+approval of Zemaira and in the US we're looking for expanded labelling with the data that we have.
+Berinert, the pivotal phase III subcutaneous prophylaxis study has started. Berinert has, as I mentioned
+before, grown at 25% this past year. When we look at a high concentration and a subcutaneous
+administration it would be of big benefit to patients that currently today only have the IV option with a
+C1-esterase inhibitor.
+
+Going into CSL112, another very exciting program for us in terms of development. The phase IIa data
+supports our mechanism of action and we presented that at the American College of Cardiology this past
+year. Our global phase IIb program is initiated now, so we're initiating the phase IIb program that will have
+approximately 1200 patients and we'll look to drive that as quickly as possible.
+
+This is a unique product that can actually cause the efflux of cholesterol out of plaque after a heart attack
+and that's really when patients are most susceptible for a second event and potentially death. So in this
+time period after the first heart attack, patients really need to be stabilised and that's where we see a lot of
+utility for CSL112, assuming that all of the trials continue to progress as we've seen thus far. Risk is always
+in R&D, but certainly exciting in terms of the opportunities.
+
+Then with that I'm going to hand it over to Gordon and Gordon will take you through some of the financial
+detail.
+
+GORDON NAYLOR, CFO, CSL LIMITED: Thanks Paul, good morning everyone. As Mark mentioned I'll
+talk you through some of the financial detail behind the results that Paul has announced this morning. In
+addition to the accounting result I'll also cover some thoughts on the development of margin structure,
+which is always a popular topic, and talk about management of the balance sheet cashflow and then finish
+up by talking about progress we're making with bioCSL.
+
+So you're all aware now that our reported NPAT result was a shade over $1.3 billion for the full year. On a
+reported basis that's up 8% on the last financial year and pretty much the same growth in constant
+currency terms. You will recall the FY13 was especially strong, helped by a few special items including the
+boost in albumin sales in China following the change in distributor model at the beginning of that financial
+year.
+
+By far the most significant influence on the FY14 result was our settlement of the long running US class
+action. The cost of the settlement was $64 million, or $39 million after tax as the expense was tax
+deductible in the US. Our EBIT growth for the full year was 11% or 10% in constant currency terms.
+Obviously EBIT was also adversely affected by the class action settlement.
+
+The main reason that EBIT grew more strongly than NPAT in FY14 was due to a step-up in the reported
+effective tax rate from 17.1% to 18.5%. As I foreshadowed a year ago, and confirmed in February, we did
+successfully complete the strategic decision making around manufacturing of the recombinant haemophilia
+portfolio which was followed by migration of the ownership of these assets to Switzerland.
+
+The transfer itself nets out in the consolidated accounts but there is a tax effect that you can see in the
+reported ETR. Similarly our current thinking, in expectation of ongoing clinical success with CSL112, or
+RHDL, is to make the strategic manufacturing decision for that asset in FY15 and to follow that decision
+with migrating the asset to the appropriate location. This will also net out in the consolidated accounts but
+again will tend to inflate the effective tax rate due in that year of migration. That's the main reason our EBIT
+growth guidance is stronger than NPAT growth guidance for FY15.
+In light of these one offs EBIT is probably more indicative of underlying profit growth and the Company's
+operational performance. In past years when we reported in Australian dollars, we saw significant volatility
+caused by currency fluctuations. In the main the change to US dollar reporting, as well as our active
+management of our natural currency hedges, continues to dampen these effects in the reported accounts.
+So that a moderate transaction headwind in this year, for the year just completed, has been more than
+offset by a translational tailwind to give us a small net tailwind of only $3.3 million at the NPAT line.
+
+Different parts of the accounts are affected differently by currency. For example the general depreciation of
+the US dollar against our other major currencies has inflated the balance sheet slightly by about 4%. You
+
+Page118of207©2018Factiva,Inc.Allrightsreserved.can see this in the movement of the foreign currency translation reserve. In these accounts, as at the half
+year, we've adopted AASB 119, the accounting standard which deals with our defined benefit plans.
+
+The standard has a modest net effect upon the reported figures but also required us to restate the prior
+period, reducing the FY13 reported profit by about $5 million. Finally you'll note in the accounts that the
+inventory write-downs are up a little this year but still within the usual 5% of COGS. The write-down is
+already in the reported cost of sales and, as it's mainly the result of an accounting shift in plasma cost
+allocation, the cost will continue to occur in the future.
+So moving onto margin, we always get a lot of questions about the strategic development of the Group's
+margin structure. Broadly speaking however there are two confounding factors that are important to
+understand. The first is that half year figures tend to move round a bit. Not surprising given that the working
+capital cycle of the business is about nine months, so about one and a half times the six monthly reporting
+periods. As usual we do recommend that you focus upon the full year margin figures which tend to be more
+reflective of the underlying trends.
+
+The other issue that plays out in the short run margin structure is the influence of the investments that we
+make back into the business to ensure long run sustainability. From a financial perspective these
+investments are mainly into R&D and also operating assets. As you know we expense R&D investments in
+the period in which they're incurred and capitalise investments in operating assets.
+
+These investments are many and varied but have two common characteristics. They tend to be lumpy in
+nature, as they're driven by business needs rather than accounting periods. Secondly, they tend to be long
+term, investment projects typically take three to 10 years to implement and the useful lives of these assets
+can span decades. So this chart is a rough attempt to show a pre-investment view of the profit structure of
+the Group.
+
+We've used US dollar reported figures over the last 10 or so semesters and simply backed out the whole
+R&D expense from EBITDA to give us this chart of EBITDAR&D, which is the pre-tax profit of the
+Company if we hypothetically ceased reinvestments in the business. So it's clearly unsustainable but it's
+still interesting to look at the chart and make some observations.
+
+So I've got two comments to make about the trend line. Firstly, although there is some noise around the
+accounting periods, the effect is relatively muted. Secondly, you can clearly see the long run benefits of
+operating leverage as we gradually improve operations over time to lower unit costs, broaden the product
+portfolio and gain the benefits of business scale.
+
+If I can now turn to the classic EBIT margin view, which we've presented a few times in the past, but now
+updated with the FY14 reported results. This is now a more sustainable pre-tax and financing view of the
+business. So all of the reinvestments are now incorporated in these figures. The basis of the calculation is
+the same but the curve is more bumpy, corresponding particularly to the timing of R&D investments and
+when large operating assets come online.
+
+Over the long term and looking through the short run volatility you can see that, whilst it's fairly meaningless
+to consider half year margins in isolation, we are sustaining, and maybe even expanding slightly, the
+operating margin structure over time. This is quite remarkable given the growth of the business in such a
+strongly competitive environment.
+
+If I can move now onto the balance sheet and cashflow, we do continue to be very focused on the financial
+fundamentals of the business. Operating cashflow of $1.4 billion, so exceeding NPAT, was strong for the
+year especially in the second half. At the period end we've got good cash balances to support operational
+needs, the buyback and dividends.
+
+CapEx for the year came in a little over $400 million, consistent with our expectations. Paul has given you
+some details of our current capital investments. Looking forward I anticipate that capital investment for
+FY15 will be approximately $450 million, driven by the ongoing capacity expansion programs and what we
+anticipate will be the early spend on the new recombinant haemophilia facility in Lengnau in the canton of
+Bern in Switzerland. I'll provide an update on this at the half year.
+
+We have continued to keep the balance sheet efficient by managing working capital carefully. You can see
+that the modest reduction in working capital cycle which we achieved was driven by more efficient inventory
+management and that cash, beyond what we need for liquidity, is being returned to shareholders. As a
+result of these measures free cashflow was particularly impressive for the year.
+
+As Paul mentioned, the current AUD950 million buyback is going well. We're now 93% complete and we
+will resume buying sometime in the next few days. This program fits into the strategic context of working
+toward a loose target of net debt to EBITDA ratio of about 1 times, to ensure that the balance sheet is
+
+Page119of207©2018Factiva,Inc.Allrightsreserved.prudently efficient. The chart shows our steady progress toward this target over the last few years so that
+we're now sitting at about 0.7 times.
+
+As Paul's mentioned, we do anticipate that during the coming financial year we'll look to tap the US private
+debt markets again as part of this strategy. It's also interesting to note that if we look back over all the
+buybacks that we've undertaken since 2005, and excluding the [Telequest] transaction that was roughly a
+net wash, you can see that the accumulated buybacks have boosted earnings per share by about 19%
+which is real value to our shareholders.
+
+As Paul mentioned, the turnaround of bioCSL does continue to make good progress but we do have a little
+way to go. We've taken over responsibility for the distribution of flu in the important northern hemisphere
+markets, and as Paul has mentioned, this season's distributions are running well to date.
+
+In the second half we were successful in gaining two important new in-licensing agreement and two
+logistics customers that will help to secure those parts of the business. Behind the scenes we are working
+hard to reduce the unit cost base of the business, especially in flu and in business infrastructure within
+bioCSL. These initiatives are key to making the business, especially flu, more nimble and competitive in a
+demanding global landscape.
+
+It's especially important that we're efficient, given that the majority of our production operations are in
+Australia, which as you know has a consistently strong currency. These changes are all expensive through
+the transition phase and we expect it may take a few more periods before the business is fully performing
+as a whole. But I'm very confident that we can return bioCSL to sustainable profitability.
+So I'll hand over now to Paul who'll run you through our strategic framework for the Group.
+
+PAUL PERREAULT: Thank you Gordon, I appreciate the excellent job that you did explaining all of the
+financials in detail and I hope everybody was as excited as I was to hear about them, not that I didn't hear
+about them before.
+Certainly the strategy for the Company is solid. When I take a look at the strategy that's been employed
+over the past number of years and look at what's paying off today, it's really a credit to the people in our
+organisation that are focused every day on making sure that we deliver these life-saving and life-extending
+therapies to patients.
+
+It really starts with the base of the business. So at the bottom of the triangle, in terms of our core products,
+this relentless commitment to our -- really being efficient and productive in everything that we do, and to
+really build on our core of albumin and IG growth. But also continuing to expand into our recombinant and
+specialty products, I mentioned the specialty products, earlier which have been a real benefit to CSL in
+terms of our ability to access new patient therapies and new patient markets and additional markets around
+the globe.
+
+So the continued development of our recombinant portfolio, our investment in R&D which needs to
+continue because in this business you have to innovate and you have to product differentiate. By doing
+those things in our strategy at that next level, it's going to help sustain CSL in our growth tracks that we've
+had in the past.
+
+Certainly it's a competitive market and you also have to look for new things that are in the horizon and so
+our biotech, our antibodies, the research that we do here at Bio21 where we share space at Melbourne
+University is extremely important to our future of longer term investment in R&D. Things like CSL112 which
+we think can be transforming in a market where patients continue to pass away based on this horrible
+disease in the cardiovascular area, is a real opportunity for us should it continue to progress the way that
+the early trials have gone.
+
+So really building from our base of strengths, continuing to focus on the basics of the business. Sometimes
+people say, well, it's a bit boring and I say that's okay. It's a very strong boring business so it's boring in the
+sense that maybe from a strategic perspective that we've talked about our strategy for a number of years.
+The nice thing is that we're able to deliver on it and that really does talk about the credit of the people that
+are focused on making sure that we hit all of these individual items day in and day out and commit to the
+patients that we serve.
+It's a wonderful company. I appreciate all of your support and your interest in CSL and with that I think
+Mark will move to questions.
+
+Questions and Answers
+
+MARK DEHRING: Ladies and gentlemen, we'll take some questions here first in Melbourne and then we'll
+take them online. So we'll just pass the microphones around. So Ian, why don't you go first?
+
+Page120of207©2018Factiva,Inc.Allrightsreserved.IAN ABBOTT, ANALYST, GOLDMAN SACHS: Great, yes thanks. Ian Abbott from Goldman Sachs.
+Kcentra was one of the standouts in the result. Just wondering where you are in the launch of that product
+in terms of the ramp up. Have you got to a point where you'd regard it as a reasonably steady state or do
+you still see a fair bit of ramp in that through fiscal 2015?
+
+PAUL PERREAULT: I would say Ian, that we continue to see growth in Kcentra because there is over -- in
+the US, for instance, there is about 5000 hospitals. We focus the first year out of the gate on the largest
+institutions which take an awful lot of time because the approvals that they have, the committees that they
+have to go through, they have these pharmacy and therapeutic committees that you have to get approvals
+for, for any new product that comes into these institutions so there's a process you have to go through. So
+we've accessed hundreds of those main hospitals and we're moving into the second tier but it's going to
+take time before you get everywhere.
+
+The problem with these patients that bleed is that they just don't live around all the big hospitals and so you
+have to then expand and get to all of the hospitals around the country. The other thing is it's a new therapy.
+There hasn't been anything like this in 50 years and so you have to get physicians understanding exactly
+what the product is. There has to be awareness of the product and you have to get the science out there in
+terms of what this product actually does for patients. So it is spreading well.
+
+I would say it's -- certainly the uptake has been strong but there's still more room to grow and we are
+continuing to register and launch in new countries as well so there is room for growth in Kcentra.
+
+IAN ABBOTT: Thank you and just to switch topics, [subcu] was a big area of growth as well. One of your
+competitors has had some initial positive news -- hasn't had the final positive news but it has had initial
+positive news. To what extent does your guidance capture some of that risk into 2015?
+
+PAUL PERREAULT: Thank you Ian. In terms of the guidance, we certainly have taken [High Q] into
+account. So we don't assume that competitors won't be successful and so when we look at our numbers
+and we look at our growth and our strategy, we take competitors' activities into account. So I would say it's
+covered and, as you say, the final approval from the agency hasn't come yet but they had a good response
+from the BPAC committee.
+
+IAN ABBOTT: Thank you.
+
+MARK DEHRING: Thanks Ian. Andrew Goodsall.
+
+ANDREW GOODSALL, ANALYST, UBS: Andrew Goodsall from UBS. Sorry, (inaudible). Andrew Goodsall
+from UBS. Just trying to understand volume growth. Historically I think you've told us, look at albumin, it
+gives you a bit of an indication. Obviously China and higher priced China has helped that so I guess if we
+were to strip out China could you give us a sense of where your volumes were for the year?
+
+PAUL PERREAULT: Across just albumin or all products?
+
+ANDREW GOODSALL: I think just overall fractionation throughput --
+
+PAUL PERREAULT: I would say, Andrew, that most of the growth was volume so when you look at our
+growth pricing is fairly steady. It's up and down in different markets but I'm always cautious about talking
+about price gains because I think that in this environment, in the health care environment, where
+governments are big payers and you've got especially distributors and pharmacies as well that are under
+pressure to deliver to patients, the pricing is going to move around a bit. But I wouldn't look to our growth
+and say it's going to come from price.
+
+We assume pricing to be fairly flat. In our projections it's all about the volume which is why we have the
+major capacity expansions under way because we see the demand. We still think IG is growing globally in
+the 6% to 8% range. You can look at snippets of data at PPTA and others and see where you get the ups
+and downs. I think the most recent data was somewhere around 10% but there's lagging indicators in those
+numbers as well but still a strong demand for these products overall.
+
+The key aspects are, do you have enough plasma to manufacture these products and do you have enough
+capacity to actually put the plasma through your plants? So I think we're well placed.
+
+ANDREW GOODSALL: I guess if we strip out the second half, it looks to us like your IG was actually up
+close to something like 17% in the second half. So, again, just trying to understand how much of that was
+volume or just mixed shift amongst --
+
+PAUL PERREAULT: It's mostly volume and it's based on a number of initiatives that we had under way in
+terms of our penetration into the IDN market in the US. We had some very good growth in Brazil as well in
+the second half and others areas of Latin America that we didn't have in the first half. So I think that there
+
+Page121of207©2018Factiva,Inc.Allrightsreserved.were a number of factors around that. Some of it was part of the strategy, some of it was really some
+opportunities that arose in markets where we had infrastructure.
+
+ANDREW GOODSALL: Just a final one from me, just on Kcentra, picking up from Ian's comment. We're
+actually hearing that some people wanted more supply and I know you're building out another unit in
+Germany. Were you constrained at all during that half or early year?
+
+PAUL PERREAULT: It's hard to see 98% growth as constrained but I would say that we have certainly
+been looking at where the product is placed. So we manage it because this is a product that because of the
+success that we've had, some people want more than others and most of it's in the distribution channel and
+we want it in the hospitals because that's where the patients are going to show up. So we've been watching
+it very closely.
+
+ANDREW GOODSALL: Thank you.
+
+MARK DEHRING: Thanks Andrew. We'll now take a few questions online. So we have David Low from
+Deutsche Bank.
+
+DAVID LOW, ANALYST, DEUTSCHE BANK: Thanks Mark. Just touching on the pricing comment that you
+made Paul, it looks to me that the revenue growth was dramatically above what your larger competitors
+have reported from their plasma businesses and Gordon's obviously touched on margins. Would it be fair
+to say that average pricing is down in the second half because of the geographic mix and product mix
+versus what we saw a year ago or in the first half?
+
+PAUL PERREAULT: David, there's always mix in the markets and mix in the products. We did see
+Carimune, for example, if you look at that area that's our fighting brand and there are some competitors
+trying to move into the US market and discounting. So we use Carimune in that so there's some pricing mix
+there. That probably was a bit different than Privigen, for instance, which stayed mostly flat.
+
+So there is some price mix that goes on but the bulk of it is volume. When you're seeing volume demand in
+the marketplace at 6% to 8% on a global basis that's pretty significant on a base of IG volume that's
+currently out there today.
+
+DAVID LOW: The growth in countries like Brazil and Latin America, I mean are emerging markets typically
+at lower price points?
+
+PAUL PERREAULT: It just depends. Some yes, some no. It just depends on the marketplace and really the
+treatment methodology that physicians are using in those markets and what the governments are willing to
+pay for because, again, all the governments have a different aspect. So for instance, if you look across
+Europe we know that the IG prices in Europe are traditionally less than they are in the US. The products
+are used for the same indications but that's where the market had evolved to at that particular point. So
+Japan still has some very good pricing. Even though they put a lot of pressure each year on manufacturers
+to lower price, or mandate it actually, they still start at a higher base so it just depends on the market.
+
+DAVID LOW: Great, thanks and just the other question I had was on the haemophilia products in
+development, particularly the SingleChain factor VIII, we've now seen a fair bit of data and pricing from
+Biogen. I was just wondering if you could talk in terms of what the latest data that CSL's seeing from their
+product, how it compares in terms of dosing with the extended half-life products that we see out there and
+we see coming?
+
+PAUL PERREAULT: I think we compete extremely well. I say it would be a very competitive product to
+what's out there in terms of the data that's being presented. We understand coagulation extremely well. It is
+in our heritage, all the way back to the Behringwerke days in Germany. That's where our coagulation
+expertise really started and when you look at the data in detail and you start to sort through the actual
+results and certainly our people look closely at that, I'd say we compete extremely well.
+
+DAVID LOW: The (technical difficulty) extended half-life therapy effectively the dosing looks comparable.
+
+PAUL PERREAULT: I'm sorry you broke up. I didn't hear the whole question.
+
+DAVID LOW: I just wanted to make sure I understood that you see the dosing as comparable to what
+Biogen's presented and is out there in the market.
+
+PAUL PERREAULT: Yes, I would say based on what we've seen, it's going to be very competitive and I
+would say that long-acting factor VIII is something that everybody continues to work on. It's not like factor
+IX where we've already demonstrated 14 day dosing intervals. Factor VIII is a very difficult molecule to
+characterise and to actually develop into a longer acting vein. That's why we're seeing that you're reducing
+a dose or so a week but you're still dosing every week.
+
+Page122of207©2018Factiva,Inc.Allrightsreserved.It's a tough molecule to work with and so everybody is -- nobody's gotten there yet so we'll keep after it.
+Certainly we have programs ongoing but in the first step, it's to reduce the dosing at least once a week
+which is important for a family where they have a child with haemophilia or multiple children with
+haemophilia which a number of families do. Trying to get them out in the morning and onto the bus when
+they have to stop and put a needle in their vein, sometimes it's not the most convenient thing for mothers
+and kids to be doing. So it's one of those things where even one less dose per week is significant in terms
+of patient convenience.
+
+DAVID LOW: Right, thanks very much.
+
+MARK DEHRING: Thanks David. We also have Sean Laaman from Morgan Stanley online. Do you have
+some questions Sean?
+
+SEAN LAAMAN, ANALYST, MORGAN STANLEY: Yes, thank you Mark and good morning gents. Just a
+couple. The first one, just on some of the dynamics in the albumin market in China. We understand that
+surprisingly, I suppose, Baxter had some missteps in that market. I'm wondering if you could just describe,
+if you've seen any benefit based into your numbers as a result of those missteps, is the first question, and
+whether that's sustainable. Secondly, just first [cut of] numbers, so excuse me if they're wrong, but I'm
+getting about 40% or so second half growth in your POB franchise and ex that, I see that you've stopped
+reporting separately the wound healing but ex the perioperative bleeding, it seems that we're getting about
+mid-single digit growth in the second half.
+
+So I'm wondering ex-Kcentra, essentially what's the sustainable growth for specialty products going
+forward? Thanks.
+
+PAUL PERREAULT: I don't think I caught the number that you said about the growth at first where you said
+you calculated a growth of --
+
+SEAN LAAMAN: 40 -- around 40%, four-zero, in the second half.
+PAUL PERREAULT: For which group?
+
+SEAN LAAMAN: The perioperative bleeding.
+
+PAUL PERREAULT: Okay, so that's mostly in the Kcentra area and, as you know, the full year we were up
+98% so it's about half of it, I guess. So it's about right but I would say that I continue to see growth in that
+franchise. The wound healing is mainly a Japanese marketplace for us in terms of wound healing and there
+are new competitors in Japan in the wound healing. Not everything grows in specialty products so when I
+said 98% growth in Kcentra and 25% in Berinert you say, well, geez maybe you should be growing it 40%
+in specialty products but indeed Zemaira grew at 10%, fibrinogen was growing at 4% to 6%. Fibrinogen
+also is in the perioperative space as well in a number of countries.
+
+So how you characterise these products in terms of the categories is one thing but I would say it is
+sustainable. The specialty products are a growth driver force clearly and I think there's a lot more to be
+done as we move into new countries and continue to expand the labelling on some of these products as
+well. So it's a very good franchise for us and I continue to see that.
+In terms of your other question around China, I really can't comment on my competitors and what's
+happened there. I don't know any of the details really. All I can say is that when I look at where we started
+in China 10 years ago and I look at where we are today, there weren't really other competitors there that
+may have had a problem. We've been competing with locals in China as well as additional people that
+have come into China and we really haven't missed a beat in terms of our growth. So I think there's still
+sustainability. There's a lot of people in China as people continue to move out of the agricultural areas and
+into the urban areas. The tier two hospitals are getting more and more business.
+
+There is a migration into the cities and so we continue to see growth and access to products in albumin is
+certainly one of them.
+
+SEAN LAAMAN: Right, thank you Paul.
+
+MARK DEHRING: Thanks Sean. We have David Stanton from CSLA next.
+
+DAVID STANTON, ANALYST, CLSA: Thanks very much for taking my question. Just perhaps to ask in a
+different way from what Sean said, should we be thinking specialty products can continue to grow at about
+double system in line with historic, would be my first question.
+
+PAUL PERREAULT: I think we still have room to grow in the double digits with specialty products. When
+we look at the numbers and we've said for the last couple of years we should be growing around 15%, 16%
+
+Page123of207©2018Factiva,Inc.Allrightsreserved.in specialty products. For the last few years we've been able to deliver that and I do think that we'll continue
+to see opportunities there. Will it be dropped to 12% or 11% versus 15% or 16% or 17% or 18%? It'll move
+around clearly but there is opportunity because, again, inherently in the term specialty is the fact that they
+are special.
+
+These are products that people have not had access to. They're for rare diseases and specialty utilisation
+areas and when you need it you need to have it and if you don't know about it and now you get access to it,
+you'll see the growth continue. I have a very -- I'm quite bullish on our specialty product portfolio. I look at
+the utilisation and the need and the benefit that patients have from these products and very, I would say,
+strong opinion that we'll continue to perform in that space.
+
+DAVID STANTON: Thanks, and my second question -- wouldn't want Gordon to miss out. So could he give
+us any colour in terms of DNA and tax rate for FY15, that would be great? Thank you.
+
+GORDON NAYLOR: Thank you David, for thinking about me. I think on DNA, it might go up a little bit
+because we do have a few assets coming online. I can't quantify that off the top of my head but I think that
+would be the trend. It's one of those lumpiness things that I talked about where these assets come online
+and you get hit by the depreciation. Just an accounting effect. The economic cost is different of course and
+then on effective tax rate, I think I implicitly -- you can work out the numbers from the difference between
+the NPAT growth numbers and EBIT growth numbers.
+
+We do expect, and I've forgotten exactly how it works, but it'll tend to be a bit elevated I think in the coming
+year because of that transfer that we anticipate for 112.
+
+DAVID STANTON: Sorry, just lastly then, so we should [break] that in probably as an ongoing thing, at
+least for the next couple of years in terms of that elevated tax rate?
+
+GORDON NAYLOR: Yes, I think I've said in the past that we had expected over the longer run that our
+effective tax rate will probably sit 18%, 19%, 20%, something in there, and that's the way it's been playing
+out. We've got a few moving pieces there. You get a bit of mix effect, for example, as these specialty
+products that Paul talks about, we're growing faster than the rest of the company. So that tends to carry
+with it a higher tax rate, so you get a little bit of mix there but overall I think you're pretty comfortable
+somewhere in that 18%, 19%, 20% is quite a reasonable number to use as your base (inaudible).
+
+DAVID STANTON: Thank you.
+
+MARK DEHRING: Thanks Dave. We have some questions from Craig Collie at Macquarie.
+CRAIG COLLIE, ANALYST, MACQUARIE GROUP: Thanks guys. Can you hear me okay?
+
+MARK DEHRING: We can.
+
+CRAIG COLLIE: Great. Just to dive a little bit deeper on the competitive environment, Paul, you've said that
+you see market growth IG very strong. Recent data is as good as can be expected of -- in the longer term.
+Just to look at the competitive dynamics, you've had a couple of competitors who have had supply capacity
+issues in the past and there's a bit of chatter out there that those are resolved and some of those
+competitors are now competing pretty aggressively especially in the US. Can you talk to that assumption
+and elaborate on whether or not that's accurate or not?
+
+PAUL PERREAULT: Well, sure Craig. I'm not sure how much time you have but we can give it a go. I
+would say that, as I've said during the presentation and as I continue to say, it is a competitive market. I
+also don't mind. Competition drives people, it forces you to innovate, to differentiate, to really try to come
+up with something that's unique for patients in terms of the product proposition, in terms of convenience, in
+terms of availability. Some of the competition out there have -- are well placed to compete really strongly,
+others are struggling to compete with those types of advantages.
+
+So you look at a skilled player like ourselves and you look at what we're investing in our R&D and you look
+at what we're doing in the business in terms of our ability to expand to meet demand, in terms of our
+investments in capital. You look at our expansion of our plasma collection because without the raw material
+you're not going to be able to grow. And you look at when we started all that, it was well before everybody
+started talking about these issues. I think it just goes to the strength and the understanding that we have in
+the industry.
+
+So I look at our game plan and I say, look here's where I see the competition. Obviously I look at that
+landscape, but I try to execute extremely well within the organisation on the things that we need to focus on
+and as I said with the strategy slide, people might say, because many of you have been following us for a
+while, boy it looks kind of the same. You've changed the picture but it looks kind of the same. It is the same
+
+Page124of207©2018Factiva,Inc.Allrightsreserved.but there's nuances. There's nuances behind all of those areas that we're working on in terms of
+innovation, product differentiation, patient convenience and impact in terms of our R&D portfolio.
+
+So look, it is competitive and it will become more competitive because you've got government pressures in
+terms of payers. You've got new people entering the space, like the Biogens and the Novos that are really
+expanding into the recombinant haemophilia space. But you also have to be able to really understand
+what's driving the economics behind the business and when you look at our underlying financials I feel very
+strongly that we're well placed to compete in a competitive market place.
+
+I think our results this year show that. I think that people should have confidence in the game plan and the
+underlying aspects of what we're doing, so that would be my comment.
+
+CRAIG COLLIE: Great and then just to dig a little bit deeper on plasma-derived factor VIII, so plenty of
+positive points across your result. One potential weakness perhaps was that number going backwards a
+little. You highlighted a few one offs, does that mean that your expectations going forward are, I guess
+better than what you've printed this year?
+
+PAUL PERREAULT: Well again it depends. The tender market is lumpy and that's also a competitive
+market because the competition has plasma-derived factor VIII as well. So depending on what you see in
+the various tender markets, I would say that until we really are fully entrenched with our new recombinant
+therapies it will be a battle in the trenches on plasma-derived factor VIII.
+
+Again, our ability to manufacture with our multiple sites around the globe have product available because
+the other part of these tenders is not just pricing. It's actually when you can deliver the product against the
+tender, because there is many nuances in terms of what the tenders require in terms of delivery and the
+amount that needs to be delivered within a certain timeframe. I think we'll continue to do okay. There might
+be a few percentage points down over the next year or so or a few percentage points up, depending on
+timing of some of the opportunities, but what's really going to drive us forward is our recombinant portfolio
+in the haemophilia space.
+
+CRAIG COLLIE: Okay, thanks Paul, just one quick question for Gordon. I think Gordon, in the past you've
+given us some guidance on R&D, any I guess guidance for next year?
+
+GORDON NAYLOR: Look I think it will continue to grow in line with the business. I think we're running at
+about 9.1% revenue in the year just gone. The last two or three years it's been about the same, maybe a
+tad less in the past. So I'd expect it just to continue to grow with the business. The -- obviously it's
+influenced by the progress on these different clinical programs. So it might move around a little bit.
+Obviously those figures are inside the guidelines that we've given.
+
+CRAIG COLLIE: Great, thanks a lot guys.
+
+MARK DEHRING: Thanks Craig, we'll now take some questions from Steve Wheen at JP Morgan.
+
+STEVE WHEEN, ANALYST, JP MORGAN: Yes, thanks very much. Just a question following on from that,
+on R&D. The guidance that you previously gave was for it to grow by about 13% in the constant currency
+basis. I take your point about the long term nature and the lumpiness and the difficulty to predict the timing
+around R&D, but the fact that you came in less than that guidance for R&D this year, does that mean
+there's a little bit of catch up that will take place next year in terms of what you're expecting?
+
+PAUL PERREAULT: Hi Steve, how are you doing? Look in terms of the R&D, I think that you will see some
+movements around, but because we're increasing our R&D spend this year again, I'm not sure you'll be
+able to ferret out what it is, whether it was just a transfer over or whether it's the additional movement of our
+trials into the later stage development process.
+
+So I think our guidance is that we will increase our R&D this year. The timing of some of those payments
+and such are interesting but we've also been able to get some efficiencies in R&D this year as well through
+some changes we've made in our clinical operations group.
+
+So for instance we've had some sites in the past that we opened to try to get additional patients that
+actually had never recruited a patient. In the past we would keep running them and now we actually are
+shutting them down. Which -- it costs money to keep them open. You still have to monitor, you still have to
+go, so we've taken a look at our operations. So when we talk about efficiencies and productivity, we look
+across the whole business. So I wouldn't say it's impacting at all our investment in R&D. We're just trying to
+also make sure that we're efficient in everything we're doing.
+
+STEVE WHEEN: Great, and then just one other thing about the guidance, just trying to tease out what the
+base is. Included in FY13 there was obviously a license payment with Janssen. With that not there, would
+
+Page125of207©2018Factiva,Inc.Allrightsreserved.that suggest the underlying growth is stronger, or is there expectations of further milestone payments for
+Janssen within the FY15 year?
+
+GORDON NAYLOR: Yes look, I think be careful not to overanalyse this one Steve. I think there's no doubt
+that was in the first half of the FY14, but there's a few other things as well, which move. I think we have an
+ongoing program, we've got obviously the arrangements with Janssen, but we've got other things we're
+doing as well. So I'd be a bit cautious about drawing that one out as being a one-off. I think you'll see
+similar things in the future.
+
+STEVE WHEEN: Is that a comment specifically about FY15, or is that further out than that?
+
+GORDON NAYLOR: It's a general comment, but it's a broader, longer range comment. So FY15, you
+should just refer to the guidance, which we've given.
+
+STEVE WHEEN: Yes sure. Okay and just another follow on question on the recombinant factor VIII, have
+you quoted the half-life that you're now looking at? It suggests that given you're now looking at twice
+weekly dosing, that half-life has actually improved a bit.
+
+PAUL PERREAULT: We have published a few papers and presented a few conferences, so off the top of
+my head Steve, I can't tell what we've quoted publicly. So I'd have to go back and come back to you.
+
+STEVE WHEEN: Okay, that's all from me, thanks.
+
+MARK DEHRING: Thanks Steve, next question comes from Alex Smith at Citi.
+
+ALEX SMITH, ANALYST, CITIGROUP: Yes thanks, just a question the margins. If I strip out the $64
+million, I'm still looking at EBITDA margins in CSL Behring down a little bit. Given the really strong sales
+growth that that group has achieved and that a lot of growth is coming from a really high margin product
+and specialty and Hizentra and so forth, can you help me understand why margins haven't expanded quite
+considerably in the period? Is R&D spend a head wind there, COGS, additional expenses or is there pricing
+pressure? Can you sort
+
+of -- I would have anticipated margin expansion would have been a lot stronger?
+
+GORDON NAYLOR: I think you've answered your own question Alex. There's a whole lot of things going
+on there. The other -- like pricing pressures and so on. The other thing I would point you to is currency. So
+Behring in particular is the most probably exposed part of the group with respect to the movement between
+the Swiss franc and the US dollar and that will directly impact margin. So there was -- that directly
+squeezed it, so be careful about that.
+
+ALEX SMITH: Okay so things like the COGS -- it's obviously cost more to [collect those] when you're
+opening new centres and pricing pressure in the marketplace -- features that will continue into FY15?
+
+GORDON NAYLOR: That's probably true. I don't think we're expecting that the marketplace is going to get
+a whole lot less competitive or that our customers are going to get much more -- much less price sensitive.
+So I think that's probably fair.
+
+ALEX SMITH: Maybe just a second question on Kogenate sales reported by Bayer were down 20% in the
+second quarter and they commented that they were using capacity for their long acting product. How does
+that impact your ability to source Helixate supply into FY15? Do you have adequate inventory to continue to
+grow that product et cetera? Just trying to understand how that impacts CSL.
+
+PAUL PERREAULT: Thank you, I think certainly we're working closely with Bayer, they've been a great
+partner and there is some pain that has to be shared when we're trying to develop new products and the
+manufacturing process being impacted by the development of these new agents. So I think that also is a
+point to some of our -- you saw that Helixate was down about 1% this year versus last year. A lot of that is
+due to the fact that it's difficult if the product is not flowing fully. We're not short on product, but I don't
+expect that it will impact FY15 significantly. We're working with Bayer quite closely on these inventory
+levels.
+
+ALEX SMITH: Terrific, thanks for that.
+
+MARK DEHRING: Thanks Alex. We'll take one more question online and then we'll come back to the room
+here in Melbourne. So we have Saul Hadassin from Credit Suisse.
+
+SAUL HADASSIN, ANALYST, CREDIT SUISSE: Thank you, good afternoon. Paul, just if I could explore
+US IVIG growth in a little bit more detail. So excluding Hizentra, do you think you managed to grow in line
+with market there? Do you see any material share shift in those particular product categories of Privigen
+and Carimune?
+
+Page126of207©2018Factiva,Inc.Allrightsreserved.PAUL PERREAULT: Thanks Saul, look, I think we're more in line with the market when you look at the IV
+growth of Privigen and Carimune in the US marketplace. Hizentra is the driver, clearly, it's differentiated, it's
+a phenomenal product, but we were still able to show some very good growth in the second half in Privigen
+and some of that is part of our strategy with the -- some of the customers there in the US, which has been
+helpful.
+
+The US market is very, very competitive in IG. It's the largest market in the world, there's tens of millions of
+grams going into that marketplace and competitors that are looking to expand really look at where the
+growth is being driven from. It's being driven from the largest market, so the competition is quite fierce in
+the US, but again that's okay. We'll manage with it and continue to grow, is my view.
+
+It's an interesting environment in the US with IG, but again with differentiated products and with a premium
+product like Privigen, we've been able to do okay.
+
+SAUL HADASSIN: Right thanks and is it your assessment that the PPJ data is an accurate reflection of
+volume growth in the US?
+
+PAUL PERREAULT: It's one data point and it's a lagging data point, so I think it's okay to look at if you're
+trying to get some trending going, but I wouldn't rely 100% on that for your models.
+
+SAUL HADASSIN: Cool, okay, just moving on to fibrinogen quickly, so you mentioned a 4% to 6% growth
+rate. I was just wondering if there's been any progress on trying to get that product -- in terms of into clinical
+programs in the US?
+
+PAUL PERREAULT: Yes.
+
+SAUL HADASSIN: So what does that consist of?
+
+PAUL PERREAULT: So we've been in discussions with the agency around the clinical trial design for
+fibrinogen in the US and I think those discussions are progressing well. Our trial that we're running across
+Europe and Japan has recruited. So we're anxiously putting all of the data together there as well. So that's
+been a big success. When we opened the trial for cardiac bleeding in Japan we recruited quite rapidly.
+There's a number of physicians in Japan who were quite excited about having the opportunity for fibrinogen
+and they really moved quickly to recruit patients in the aortic bleeding trial we have running. So that was
+very helpful because they were able to significantly improve our timelines on that trial.
+
+SAUL HADASSIN: Right, thanks and final question, just on albumin. I haven't had a chance to try and pull
+out the China sales, but are you able to comment on what that growth was ex-China for albumin in fiscal
+2014 and the starch effect, again is that again something that we should see temper in terms of growth into
+FY15?
+PAUL PERREAULT: Look ex -- well so we were up 16% in albumin and China's about 40% of our albumin
+sales today and we were up 29%, so I haven't backed out the number. I'm sure you can.
+
+GORDON NAYLOR: I'm sure Saul's got a spread sheet.
+
+PAUL PERREAULT: Probably. So from that perspective I think it was still strong demand. I think the
+starches still do have that hangover effect. So we've been able to see some growth, as I said, in Europe
+and we actually had some very good growth again in Latin America. You know our Latin American affiliates
+are really starting to come online. Argentina, Brazil, Mexico have been -- they're strong this year, so we're
+very pleased with the growth we've seen there.
+
+SAUL HADASSIN: Right thank you, that's all I had.
+
+MARK DEHRING: Great, thanks Saul. Look we have no further questions, so with that I'll draw the meeting
+to a close and thank you very much for your interest in the company, good bye.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+Page127of207©2018Factiva,Inc.Allrightsreserved.THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO cslabs : CSL Limited
+IN
+
+i2569 : Biotechnology | i257 : Pharmaceuticals | i951 : Health Care/Life Sciences | ibioph :
+Biopharmaceuticals | idrugty : Drugs/Medication
+
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+
+Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | nfcpin :
+FC&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | melb : Melbourne | victor : Victoria (Australia) | apacz : Asia Pacific | ausnz :
+
+Australia/Oceania | austr : Australia | namz : North America
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020140815ea8c001e1
+
+Page128of207©2018Factiva,Inc.Allrightsreserved.

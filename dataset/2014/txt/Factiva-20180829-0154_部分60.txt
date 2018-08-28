@@ -1,0 +1,485 @@
+Regional Report: Australia/Southeast Asia - Newcomers vie with region’s heavy hitters to meet
+soaring demand
+Ian Lewis
+
+Regional Report: Australia/Southeast Asia - Newcomers vie with region’s heavy hitters to meet soaring demand
+
+HD
+
+1 January 2014
+
+BY
+WC 5,358 words
+PD
+SN World Oil
+SC WOIL
+LA
+CY
+LP
+
+English
+© 2014 Euromoney Institutional Investor PLC
+
+Vol. 235 No.1
+
+TD
+
+Woodside’s venerable, five-train, 16.3-MMtpa North West Shelf Venture (left) is Australia’s oldest LNG
+project, operated since 1989 (photo courtesy of Woodside Energy). Two Conoco Phillips workers stroll a
+gangway between platforms at the company’s Bayu-Undan field complex, offshore Timor Leste and
+Australia in the Timor Sea JPDA, where output was 195 MMcfgd and 27,000 bpd of liquids during 2012. A
+third development phase is slated this year (photo courtesy of ConocoPhillips). Onshore, in the East
+Coast basin of New Zealand’s North Island, TAG Oil has initiated a  widespread drilling campaign, in
+hopes of  establishing the country’s first unconventional oil and gas production directly from the source
+rock (photo courtesy of TAG Oil).
+
+Fig. 1. Australia’s multitude of LNG projects, both operating and in development, are strung across the top
+half of the country (map courtesy of Australian Petroleum Production & Exploration Association).
+Fig. 2. Australia’s total oil production has fallen considerably over the last 10-plus years, due to a lack of
+sufficient new crude discoveries.
+Fig. 3. New Zealand’s premier gas field, Maui, which has been produced by Shell Todd Oil Services since
+1979, is represented by the venerable Maui A platform (photo courtesy of Shell Todd Oil Services Ltd).
+
+Fig. 4. In Malaysia, Shell’s E11 integrated field complex has been producing gas from several fields
+offshore Sarawak in relatively shallow water. Now, the firm is set to begin putting deepwater output
+onstream, further offshore of Sabah (photo courtesy of Shell Malaysia).
+
+Fig. 5. Over the 11 years between 2000 and 2011, Indonesian crude output fell 44%, to 794,000 bpd,
+while condensate production slid 24%, to 108,000 bpd (chart courtesy of SKK Migas).
+
+Fig. 6. Although Indonesian gas output rose 34% between 2001 and 2011, to 8.4 Bcfd, the increase has
+not been enough to keep up with exports and rising domestic demand (chart courtesy of SKK Migas).
+
+Fig. 7. With the exception of Service Contract 38, containing Malampaya gas field, this map of PNOC
+holdings represents the majority of promising exploration areas in Philippines territory (map courtesy of
+Philippines National Oil Company).
+
+Gauges boost CSG monitoring in Queensland
+Origin Energy is an integrated energy company in Australia, with operations encompassing areas as
+diverse as gas exploration and production, power generation and energy retail. The company is heavily
+invested in Queensland coal seam gas (CSG) production. Origin Energy’s CSG operations personnel
+were looking for a way to improve production, and they wanted to expand their well-monitoring system so
+that, ultimately, they could make more-informed production decisions. The goals were to use real-time
+data to continually expand the company’s exploration and appraisal program; assist in controlling the
+flowing BHP and fluid level of the wells; assist in optimizing progressing cavity pumps; and fulfil the
+Queensland governmental requirement that operators provide baseline and ongoing data for reservoir
+pressure and water levels across fields.
+
+Page185of210©2018Factiva,Inc.Allrightsreserved.Origin chose Weatherford for permanent, real-time, downhole pressure/temperature gauges—part of the
+Omniwell solution. The solution for Origin was electronic gauges that help recover methane, at optimum
+rates, while maintaining positive well economics. This includes providing the data needed to facilitate
+proper drawdown of the fluid column, while avoiding pump-off.
+After collaborating with Origin’s CSG team, the service company reservoir monitoring engineers installed
+piezo-resistive gauges in more than 50 wells. The team has installed single sPOD gauges in 45 wells,
+and also installed mPOD gauges in 6 wells—multiple gauges deployed on a single, permanent electrical
+cable. The successful collaboration led to the ability to manage this significant ramp-up in activity over the
+last year without major disturbances.
+
+The sPOD gauges measure pressure and temperature below artificial lift pumps. The mPOD gauges,
+however, allow multiple gauges to be installed on a single communication line, which facilitates
+measurements both above and below the pump. They also can add downhole vibration measurements to
+the standard capabilities of a P/T gauge. This extra data point enables real-time monitoring for potentially
+destructive levels of vibration, allowing the operator to choke back on the wells and avoid pump damage.
+Origin Energy and Weatherford collaborated on this project to ensure a customized solution. Though the
+project is less than one year old, Origin’s engineers have acquired useful reservoir information from the
+P/T data:
+
+Production and development wells.Downhole pressure and temperature data can be used to assist in
+controlling the flowing BHP and fluid level from the wellhead. The data also can be used to assist in
+optimizing progressing cavity pumps, including information on well drawdown and prolonging pump life.
+Real-time data allow engineers to confidently run pumps at high rates, while avoiding pump-off conditions.
+
+Exploration and appraisal wells.Reservoir monitoring data—including BHP and properties during shut-in
+for pressure build-up—is integral to reservoir modeling and making informed production decisions. This
+information feeds into field development plans and, ultimately, a final investment decision. Origin uses
+these data sets to continually expand its exploration and appraisal program.
+
+Water monitoring wells.The Queensland government requires that operators provide baseline and
+ongoing data for reservoir pressure and water levels across fields. The goal is to ensure CSG drilling
+does not affect underground water. Monitoring pressure and temperature data can be used to increase
+the history matching process for reservoir simulation models.
+
+Origin plans to continue installing electronic gauges in hundreds of wells over the next two decades. 
+
+REGIONAL REPORTAustralia/Southeast AsiaNewcomers vie with region’s heavy hitters to meet soaring
+demandIAN LEWIS, Contributing Editor
+Australian and Southeast Asian oil and gas producers are benefiting from soaring demand, both
+domestically, and through exports to thirsty Asian economies, such as China, India, Japan and South
+Korea. Australia’s gas and LNG sector is the biggest investment magnet, attracting hundreds of billions
+of dollars, but some of the region’s smaller producers are also on the rise.
+
+Countries, such as the Philippines and Vietnam, have raised hydrocarbon production from next-to-nothing
+to become respectable players over the last decade or so. Those with longer production histories have
+had mixed fortunes. While Indonesia has struggled to maintain oil output as its biggest fields mature,
+Malaysia has managed to stabilize production.    
+
+AUSTRALIA
+
+Australia is poised to become the world’s largest LNG exporter within five years. Construction of a slew of
+offshore gas and LNG projects is absorbing hundreds of billions of dollars, and creating labor and
+equipment shortages that push costs higher. These costs, together with uncertainties over long-term
+global gas demand and Australia’s own requirements, are causing companies to re-assess further LNG
+expansion. But in the short-term, the sector remains buoyant.
+Oil production is declining, as explorers struggle to find reserves to replace maturing older fields. Shale
+oil explorers in Australia’s interior hope to offset some of the decline. Efforts to boost offshore gas and oil
+supplies are taking explorers into deeper waters of the Timor Sea. Onshore, coalbed methane (CBM) is
+being exploited to feed Queensland’s LNG projects.
+
+Natural gas.Australia remains an LNG investment magnet. The three projects already operating produce
+around 24 MMtpa between them, while another six under construction, and Prelude, the world’s first
+large-scale floating LNG (FLNG) project, should boost total capacity to more than 80 MMtpa by 2017,
+according to the Australian government. That should make the country the world’s largest exporter.
+
+Page186of210©2018Factiva,Inc.Allrightsreserved.Two-thirds of recent LNG investment globally has gone to Australia, supported by a possible tripling of its
+annual gas production to around 5.4 Tcf by 2035 from 1.8 Tcf in 2011, according to an International
+Energy Agency (IEA) forecast.
+
+Spiraling costs, inflated by a tight labor market and a strong Australian dollar, are already cutting into
+margins and putting a lid on commitments to new Australian hydrocarbon projects. Meanwhile, the
+looming prospect of North American LNG exports heading into Asia is forcing buyers in the region to push
+for longer-term, lower-cost supply agreements.
+
+LNG projects.The three existing LNG facilities, all based on offshore reserves, include the North West
+Shelf Venture, the Darwin LNG project, and the Pluto plant, Fig. 1.Western Australia’s five-train,
+16.3-MMtpa North West Shelf Venture(NWS) has been operated by Woodside Petroleum since 1989.
+Faced with dwindling supply from NWS’s existing reserves, Woodside, in October, completed a $5-billion
+redevelopment of North Rankin and Perseus fields to extract low-pressure gas. The development
+provides 5 Tcf of new supply to NWS. 
+
+The single-train, 3.5-MMtpa, Darwin LNGproject in Northern Territory began production in 2006. The
+ConocoPhillips-operated project is based on Timor Sea reserves.
+
+Woodside’s single-train, 4.3-MMtpa, PlutoLNG plant near Karratha, Western Australia, shipped its first
+LNG cargo during April 2012, based on gas from an offshore project operated by the company. The
+$15-billion project experienced an unplanned shutdown earlier this year, due to technical issues. 
+
+Among the six LNG projects under construction, (Fig. 1) three are tied to offshore gas reserves, and three
+are based on onshore CBM. Those based on offshore reserves include Gorgon, Wheatstone and Icthys.
+Chevron’s $15-billion-plus Gorgonproject, on Barrow Island off Western Australia, should start up in
+2015. It comprises a three-train, 15.6-MMtpa LNG plant and a domestic gas facility. Gas for this project
+comes from Gorgon and Jansz-lo offshore fields, estimated to hold around 40 Tcf of recoverable
+resources. Fast-rising costs have caused the project to exceed budget by around 20%. 
+
+In Western Australia’s Pilbara region, Wheatstoneis Chevron’s second major Australian investment. The
+$29-billion-plus project should go onstream in 2016, initially producing 8.9 MMtpa from two trains, with
+plans to add two trains later.
+Inpex’s $34-billion Ichthysproject will start up during 2016, in Darwin. The two-train, 8.4-MMtpa plant will
+take gas from offshore fields through an 800-km pipeline, and also produce 100,000 bcpd and 1.6 MMtpa
+of LPG.
+The CBM projects under construction are on Curtis Island, near Gladstone on the Queensland coast.
+They include Queensland Curtis LNG (QCLNG), Australia Pacific LNG (APLNG) and Gladstone LNG
+(GLNG). The BG-operated QCLNGproject is based on CBM reserves held by the company’s QGC unit.
+BG expects to have drilled some 2,000 wells in the basin by 2014, when the two-train, 8.5-MMtpa facility
+goes online. First gas was delivered to the plant in December 2013.
+
+Similar to other LNG projects, QCLNG has been hit by budget overruns and is now expected to cost more
+than $20 billion. In November, China’s CNOOC increased its stake in train 1 to 50% from 10%, for $1.93
+million. CNOOC now has an option to take a stake of up to 25% in a further train, should it be built.
+Origin’s $24.7-billion, two-train APLNGproject is based on gas piped 530 km from the Surat and Bowen
+basins. The first train should be operational in mid-2015, while the second is expected to be running by
+the end of that year, at which point the project will have an 8.4-MMtpa capacity. Sinopec and Japanese
+power companyKansai Electric have signed 20-year deals to take 7.6 MMtpa and 1 MMtpa, respectively. 
+The Santos-operated, two-train, GLNGProject is due to start production in 2015. The $18.5-billion,
+7.8-MMtpa venture is also based on gas from the Bowen and Surat basins, and will share some pipeline
+structure with APLNG.  
+Another possible CBM-based LNG project on Curtis Island, Arrow LNG,received governmental approval
+in December 2013. However, the fate of the $10-billion-plus project remains in the balance, as Shell is
+striving to cut its global investment budget.    
+
+Floating LNG.As the cost of land-based LNG spirals, floating LNG (FLNG) is coming into its own. The
+Shell-pioneered technology is set to make its debut at the company’s Preludegas field off Western
+Australia, where the world’s largest floating structure is due to start producing LNG in 2017. While the
+Preludevessel will produce only around 3.6 MMtpa, it also costs considerably less to build, and get
+running—around $13 billion or so. 
+
+Page187of210©2018Factiva,Inc.Allrightsreserved.The benefits are such that Woodside seems poised to adopt Shell’s FLNG model for its
+Browsedevelopment off Western Australia.
+Oil production.Australian oil output has declined sharply since 2000. According to U.S. Energy
+Information Administration (EIA) data (Fig. 2), the country produced 406,000 bopd in 2012, compared with
+a peak of around 722,000 bopd in 2000, as yields from mature basins fall away, with few new discoveries
+to replace them. Hopes for reviving conventional oil production lie in efforts to boost condensate output;
+commercialization of smaller fields; and enhanced exploration in the deeper waters of the Timor Sea.
+Australia’s proven oil reserves total more than 1.4 billion bbl. The Carnarvon basin off northwestern
+Australia provides almost 75% of national liquids production. Several companies are studying the viability
+of producing shale oil onshore.
+
+TIMOR-LESTE (EAST TIMOR)
+
+This impoverished country is fighting in international courts to protect its involvement in developing
+reserves that straddle its maritime border with Australia.
+
+The Timor Leste government wants gas from Greater Sunrise field to be sent via undersea pipeline to an
+LNG facility that would be built onshore Timor-Leste. Field operator Woodside prefers a plan to develop
+the field using FLNG, claiming that the pipeline option would be too expensive, and that Timor-Leste’s
+infrastructure is insufficient to handle the project.
+
+The dispute is tied to debate over the terms of international treaties governing Greater Sunrise and the
+maritime border, which determine how much oil belongs to each country. In 2013, Timor-Leste filed for
+arbitration, claiming that Australia carried out espionage during negotiations for one of the treaties, which
+came into force in 2007, insisting that this had made it invalid. In December 2013, proceedings began in
+the Permanent Court of Arbitration in The Hague, The Netherlands.
+
+Greater Sunrise comprises the Sunrise and Troubadour gas/condensate fields, 150 km southeast of
+Timor-Leste and 450 km northwest of Darwin, Australia. The fields hold gross contingent resources of 5.1
+Tcf of gas and 225.9 MMbbl of condensate.
+
+NEW ZEALAND
+A fresh wave of exploration licensing reflects the New Zealand government’s desire to boost flagging oil
+and gas production. Oil production totaled 16.6 MMbbl in 2012, according to governmental data.
+Remaining reserves (on a P50 basis) are estimated at 149 MMbbl for producing fields, mainly Maari,
+Pohokura and Tui fields.
+New Zealand relies heavily on oil imports, but is self-sufficient in gas. The giant offshore Maui gas field
+(Fig. 3) was one of the world’s largest when discovered in 1969, but this is depleting. Most gas now
+comes from Pohokura field, which went online in 2006. New Zealand produced 163 Bcfg in 2012.
+Taranaki basin covers some 100,000 km on the North Island’s west coast, most of it offshore. Yet, most
+producing fields are onshore, where it is cheaper to drill. In December 2013, 10 new exploration licenses,
+representing $62 million in committed expenditures, were issued. They include a permit for the
+deepwater Reinga-Northland area, off the North Island’s northern tip, plus three onshore and two
+offshore areas in the Taranaki basin, two onshore areas on the North Island’s east coast and two  areas
+in the Great South-Canterbury basins off the South Island’s east coast. 
+Meanwhile, asset management companyCarlyle Group said it would invest $200 million over three
+years in Discover Petroleum’s New Zealand Taranaki/Canterbury basin program with operator Anadarko. 
+
+PAPUA NEW GUINEA
+
+Papua New Guinea’s proven natural gas reserves total 5.58 Tcf, according to EIA. These form the basis
+for one LNG plant already under construction and possibly another one, still under review.
+
+The first gas from PNG LNG, which is being developed by Exxon Mobil, will ship during second-half 2014.
+The project’s two-train plant is 20 km northwest of Port Moresby and supplied by gas from the onshore
+Hides, Angore and Juha fields, as part of an integrated development linked by over 700 km of pipelines.
+As with similar projects in Australia, costs for the 6.9-MMtpa development have climbed, and are
+expected to reach $19 billion. The plant is forecast to produce more than 9 Tcf of gas over its lifetime.
+Exxon could make an investment decision on a third train in 2015.
+
+Another LNG plant may now be built, following December’s announcement by InterOil, that it had signed
+a $3.6-billion deal, under which Total would take a 61.3% stake in Elk and Antelope fields, which may
+
+Page188of210©2018Factiva,Inc.Allrightsreserved.hold up to 5 Tcf of gas. Total says it could then farm out up to 19.3% to another firm. A final investment
+decision on the project is not expected until 2016.
+
+The move provides InterOil with a strategic partner to develop a proposed one-train, 3.8-MMtpa facility,
+Gulf LNG. Oil Search also said in December that it has been in talks over the possible acquisition of a
+stake in Elk and Antelope.
+
+MALAYSIA
+In contrast to Indonesia, Malaysia is reversing oil production declines, while continuing to boost gas
+output. A $30-billion investment program during 2008-2011, which implemented EOR in mature fields,
+and developed deepwater and marginal fields, is paying dividends. Total oil production rose to 643,000
+bpd in 2012 from 626,000 bpd in 2011, after several years of decline, according to EIA. Proved oil
+reserves are estimated at 4 billion bbl.
+While production is unlikely to rise to the peak, 800,000-bopd level of a decade ago, state firm Petronas
+says it could reach 700,000 bopd for a time, as new fields go onstream over the next five years. Much of
+the new production will come from Shell-operated fields offshore Sabah, Fig. 4.Gumusut-Kakap field
+could add some 120,000 bopd, when a new terminal is completed in 2014.
+
+Gas production has climbed steadily for 30 years, now reaching 6 Bcfgd, supplying the world’s second
+largest LNG export industry. A string of recent discoveries could push output to around 7 Bcfgd by 2018,
+according to consultancy Wood Mackenzie. Malaysia’s proved gas reserves total around 83 Tcf. 
+
+Malaysia exports around 24 MMtpa of LNG from its plant at Bintulu in Sarawak. The plant is being
+expanded, with a further 6.3 MMtpa of capacity due to become operational by 2016. Petronas is also
+building a 1.2-MMtpa FLNG vessel, for Kanowit field, 180 km off Sarawak, set for commissioning in 2015.
+
+Petronas awarded a record 13 PSCs in 2012, spurred by fiscal incentives for E&P that have encouraged
+several firms to take acreage. On the other side of the equation, U.S. firmNewfield Exploration said in
+October that it was selling its Malaysian interests for $898 million to local firm SapuraKencana
+Petroleum. 
+
+Recent E&P developments.Petronas and Hess started gas production from the North Malay basin project
+offshore peninsular Malaysia. The start-up was confirmed in December by EOC Ltd., the Norwegian firm
+that supplied the project’s FPSO. The partners are exploiting nine stranded gas fields off Terengganu.
+They have 50% stakes, each, in Blocks PM302, PM325 and PM326b, and plan to invest more than $5
+billion in the project over the next five years. Reserves are estimated at 1.7 Tcf of gas. Production should
+reach 100 MMcfgd in the first development phase, and 300 MMcfgd in the second phase after 2017.
+
+Offshore Block 320, 240 km northwest of Bintulu in Sarawak, has now yielded three discoveries for
+operator Mubadala Petroleum. In October, Petronas said the Pegaga-1 well, in 108 m of water, was
+drilled to a 2,029-m TD and encountered a 247-m gas column. In December, Petronas said that the
+Sintok-1 well had been drilled to a depth of 2,775 m and found a 292-m gas column. Drillers found gas in
+another well on the block during 2012.
+In January, Malaysia’s first onshore discovery since 1989 was unveiled. Operator JX Nippon Oil & Gas
+Exploration found oil and gas in the Adong Kecil West-1 well. Some 349 m of net hydrocarbons were
+encountered in the well, drilled to 3,170 m. 
+
+INDONESIA
+Indonesia seeks to boost production from declining, mature oil and gas fields, and explore for fresh
+reserves. The serious declines have transformed the country from Southeast Asia’s largest oil exporter to
+a net importer. Indonesia has proved oil reserves of 4.04 billion bbl, according to upstream regulator
+SKK Migas.
+
+A similar transformation is happening in the gas sector. The country remains the world’s third largest LNG
+exporter, sending some 18 MMt abroad in 2012. Early in 2013, BP said that its plans to add a third train to
+its Tangguh LNG project by 2019 were still on track. But Indonesia’s largest gas fields are depleting,
+forcing it to turn to LNG imports to balance exports committed under long-term contracts. Indonesia has
+proven gas reserves of around 104.7 Tcf.
+
+Much foreign E&P involvement is done under PSCs granted by SKK Migas. The agency was established
+by the energy ministry to carry out regulation temporarily, after its predecessor, BP Migas, was declared
+to be unconstitutional in November 2012.  
+
+An unsettled investment climate has led to poor responses in recent licensing rounds.
+
+Page189of210©2018Factiva,Inc.Allrightsreserved.Oil E&P.Indonesia’s crude production has slid from around 1.6 MMbpd in 1991 to less than 857,000 bpd
+in 2012, Fig. 5.EOR techniques and new finds have failed to offset dwindling supplies from mature fields.
+SKK Migas estimates that Indonesia’s oil reserves will only be enough for 10-11 years of production.
+
+The government hopes to reverse this trend by developing the Cepu Block in eastern and central Java,
+where oil was struck in 2001. Operated by Exxon Mobil, the block contains several sizeable fields,
+including Banyu Urip, Jambaran and Cendana, whose combined output could peak at 165,000 bopd,
+compared to around 24,000 bopd in early 2013. However, the project has been hit by delays. The
+regulator expects full production from a 25-well expansion to be achieved by the end of 2014.
+
+The country’s largest producing fields, which are also the oldest, are Duri and Minas, on the east
+Sumatran coast. Duri produces some 185,000 bopd, while Minas produces about 70,000 bopd. Chevron,
+the license-holder for both, has employed steamfloods across Duri since the 1970s, and they now are
+used on about 80% of the field. In October 2012, Chevron embarked on the $500-million North Duri
+Development (NDD) Area 13 project, which could add 17,000 bopd to Duri’s production, when completed.
+The project includes 358 producing wells, 145 steam injectors and 36 temperature observation wells.
+Plans are also in process to boost oil production at Minas field through EOR. SKK Migas has suggested
+that the field’s output could be raised to 180,000 bopd by 2021, according to media reports. Another main
+oil producing area is the East Java basin, where Pertamina and PetroChina have a joint operating
+agreement. The area produces around 43,000 bopd, with plans to raise production by up to 10,000 bopd
+in coming years.
+
+Gas E&P.Traditionally, Indonesia has been a major gas exporter, but surging demand at home, coupled
+with production setbacks, has forced the country to turn to LNG imports on the spot market to
+compensate in recent years. Indonesia produced around 2.7 Tcf of gas in 2011, over 40% more than a
+decade earlier, Fig. 6.  During the same period, domestic gas consumption rose more than 80% to 1.33
+Tcf, and local demand is growing around 10% annually. Accordingly, Pertamina signed its first, long-term,
+LNG import contract to take supply from Cheniere Energy’s new project in Texas. Pertamina will buy
+800,000 tpa of gas, beginning in 2018, under a 20-year deal. 
+
+Indonesia needs new reserves urgently, as some of its biggest gas fields are depleting. In December,
+Total said production from the 46-year-old Mahakam Block in East Kalimantan, which produces almost a
+third of total Indonesian gas output, would fall by around a third by 2017. The block is expected to
+produce 1.66 Bcfgd in 2014, compared with 1.76 Bcfgd in 2013.
+
+Exploration offshore, where over 60% of conventional gas reserves may be located, will become
+increasingly important to offset declines. The Arafura Sea in eastern Indonesia holds the Inpex-operated
+Abadi gas field, holding up to 14 Tcf of reserves, which could be exploited with FLNG technology. In
+October, Abu Dhabi’s Mubadala Petroleum said that it had started production from Ruby gas field
+offshore East Kalimantan. Ruby’s flow may peak at 100 MMcfgd for four years, and it should produce 214
+Bcf over 10 years.
+
+VIETNAM
+
+Vietnam has developed into one of Southeast Asia’s leading hydrocarbon producers and is a net
+exporter, having attracted foreign explorers to the country by loosening investment restrictions and
+reforming markets. Following a string of discoveries, proved oil reserves have shot up to 4.4 Bbbl in
+2013, compared to 600 MMbbl in 2011. There is potential for more to come.
+State oil firmVietnam Oil & GasGroup (PetroVietnam) says the country will maintain current oil
+production levels of around 340,000 bpd for “the next few years.” Crude production was 347,000 bpd in
+2012, while total oil production averaged 363,000 bpd, down from a peak of around 400,000 bpd in 2004,
+but up 12% from 2011’s figure. Vietnam produced 272 Bcf of gas in 2011, and has 24.7 Tcf of proven gas
+reserves.
+
+As the industry regulator, PetroVietnam participates in all E&P projects, and IOCs must negotiate licenses
+with the company. Vietnam’s production comes from fields off the southern coast, mainly in the Cuu Long
+basin. However, recent finds have been made in increasingly remote locations. 
+
+In October, a well at Te Giac Trang field on the H5 Block of Cuu Long basin tested at more than 27,600
+boed. Operator Soco International said the test had increased the resource estimate to 150 million-200
+million bbl, from a prior estimate of 50 million-100 million bbl. Te Giac Trang production averaged
+45,132 bopd during Jan.-Oct. 2013.
+
+PHILIPPINES
+
+Page190of210©2018Factiva,Inc.Allrightsreserved.Rising oil and gas production, while still modest, reflects a major push to develop the country’s resources
+since the turn of the millennium. Despite the gains, the Philippines will remain a net oil importer for the
+foreseeable future, while all gas is used domestically.
+Oil production averaged around 25,240 bpd from proved reserves of around 14 million bbl in 2012. Gas
+production stood at 102.41 Bcf in 2011, with proved reserves estimated at 3.48 Tcf, according to EIA.
+Most oil comes from the southeastern edge of the South China Sea. There, Galoc field, 60 km northwest
+of Palawan Island, is the main source of new output. In December, operator Otto Energy said that Phase
+II of the development had boosted production to more than 4,000 bopd, and that field life had been
+extended to around 2020.  
+
+Shell operates the country’s biggest gas field, Malampaya, near Galoc. The project’s Phase 3 aims to
+maintain supply of natural gas to Luzon’s electricity grid by adding a new platform by 2015. Malampaya
+has estimated reserves of around 2.7 Tcf. A number of promising exploratory tracts lie south and east of
+Malampaya Field (SC 38), Fig. 7.
+The Department of Energy failed to attract bids from IOCs for new blocks in parts of the South China
+Sea, where the Philippines is disputing maritime ownership with China. Bidding round results, announced
+in mid-2013, showed interest mainly from local firms.
+A Philippines energy ministry official, quoted by international media in October, said Forum Energy, a
+subsidiary of Philex, was trying to work around the problem by holding talks with China’s CNOOC on a
+possible joint exploration venture in Sampaguita field, estimated to hold 20 Tcf of gas in the disputed
+Reed Bank area.
+
+THAILAND
+Despite rising oil and gas production, a heavy reliance on imports has prompted state energy firm PTT
+to embark on an international expansion strategy. The company is spending $12 billion on capital
+investments during 2012-2016, of which 50% goes to overseas projects. Of that latter amount, $3 billion
+is earmarked for oil and gas projects in Myanmar. PTT’s upstream arm, PTT Exploration and Production
+(PTTEP), is an increasingly prominent player across Southeast Asia and further afield. 
+
+Thailand produced 433,000 bopd in 2012, with proved reserves of 450 MMbbl. Gas production amounted
+to 1.3 Tcf in 2011, while proved reserves are around 10 Tcf, according to EIA data.
+Thailand’s largest oil fields lie in the Pattani Trough of the Gulf of Thailand. Chevron has boosted its E&P
+effort there, as supply from existing fields declines. In 2012, the company installed 12 wellhead platforms
+and drilled 325 development wells, along with six exploration wells. Most of the country’s gas also comes
+from the Pattani Trough. The largest field, Bongkot, went onstream in 1993. The Greater Bongkot South
+(GBS) gas/condensate field, which started production on April 2012, can process 350 MMcfg and 15,000
+bcpd. GBS is operated by PTTEP, with partners Total and BG Group.
+
+Chevron’s Platong II project came online in late 2011 and should ramp up to 330 MMcfgd. Meanwhile, the
+Chevron-operated Ubon gas/condensate project is also progressing, with a decision on contracts for a
+central processing platform due shortly. Ubon could start producing in 2016, at 130 MMcfgd. Thailand
+also receives gas from the Malaysia-Thailand Joint Development Area (JDA). 
+
+MYANMAR
+The Ministry of Energy said at the end of November that 30 companies had bid in the final phase of
+Myanmar’s debut offshore licensing round, about half the number that were qualified to bid. Previously,
+blocks had been allocated through direct talks with companies. Among bidders were groups led by Exxon
+Mobil, BG, Daewoo, Total, PTTEP, Eni, Shell, ConocoPhillips, Woodside, Petronas, Statoil and Repsol. 
+
+Details of which firms bid for which blocks were not revealed, although some firms bid for more than one
+block. On offer were 19 deepwater tracts and 11 shallow water blocks, in the Rakhine, Moattama and
+Tanintharyi offshore areas of the Andaman Sea and Bay of Bengal.
+
+Myanmar already produces gas, totaling 420 Bcf in 2011. Proved reserves are about 10 Tcf. Roughly
+three-quarters of gas output is exported to Thailand via pipeline. These exports will grow with the
+development of PTTEP-operated Sawtika field in the Gulf of Martaban. First gas is expected soon, with a
+peak rate of 345 MMcfd targeted.  
+A pipeline carrying gas from Shwe field (operated by Daewoo) to China was reported by Chinese media
+in October to have become fully operational. The pipeline can carry up to 500 MMcfd, when Shwe’s peak
+production is achieved. A crude pipeline along the same route has also been built. 
+
+Page191of210©2018Factiva,Inc.Allrightsreserved.CAMBODIA
+
+Cambodia has yet to agree with Chevron over development of its first hydrocarbon field project, in Block
+A offshore. Chevron applied for a production permit in 2010, having declared the block commercial in the
+Khmer Trough of the Gulf of Thailand, following successful exploration.
+
+Cambodian National Petroleum Authority is reportedly still in talks with Chevron and says it expects to
+issue a production permit shortly. The country has designated six offshore blocks (A to F) and 19 onshore
+blocks (I to XIX), plus further acreage in an area disputed with Thailand.
+
+ 
+
+CO
+
+IN
+
+NS
+
+RE
+
+drmenc : TAG Oil Ltd | philp : ConocoPhillips | wodpet : Woodside Petroleum Ltd | socal : Chevron
+Corporation
+i13 : Crude Oil/Natural Gas | i1 : Energy | i1300003 : Crude Petroleum Extraction | iexplo : Natural Gas/Oil
+Exploration | iextra : Natural Gas/Oil Extraction
+cnatrd : Natural Reserves/Resources Discovery | ccat : Corporate/Industrial News | c24 :
+Capacity/Facilities
+austr : Australia | indon : Indonesia | surat : Surat | waustr : Western Australia | apacz : Asia Pacific | asiaz
+: Asia | ausnz : Australia/Oceania | bric : BRIC Countries | devgcoz : Emerging Market Countries | dvpcoz
+: Developing Economies | gujar : Gujarat | india : India | indsubz : Indian Subcontinent | sasiaz : Southern
+Asia | seasiaz : Southeast Asia
+
+PUB Euromoney Institutional Investor PLC
+AN
+
+Document WOIL000020140204ea1100015
+
+Page192of210©2018Factiva,Inc.Allrightsreserved.

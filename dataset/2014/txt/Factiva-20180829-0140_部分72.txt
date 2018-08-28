@@ -1,0 +1,289 @@
+Excessive pricing: Will antitrust authorities intervene?
+
+HD
+BY
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Excessive pricing: Will antitrust authorities intervene?
+
+Martin Coleman
+2,440 words
+31 January 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+It is an oddity of antitrust and competition law that - although one of the main benefits of competition, and
+of competition laws, is supposedly to keep prices down - in reality competition law is very rarely deployed
+to combat excessive pricing by businesses with monopolistic or dominant market positions. Just recently,
+however, in 2013, there have been two significant cases of interventions against excessive pricing - by
+competition authorities in China and in South Africa.
+
+Context
+
+Competition is supposed to benefit consumers by keeping prices down - that is, as low as possible
+consistent with a reasonable rate of return for the businesses supplying the goods or services concerned.
+Although it is clearly in the interests of any business to make as much money as possible, and although
+this might be thought to involve the business charging its customers as much as possible, the fact that the
+business faces competition acts as a constraint on overcharging its customers. Where there are effective
+competitors, the business dares not keep its prices too high, because it fears it would then lose customers
+to its competitors, which could reduce its profits. It is this "competitive constraint" - the fear of losing
+customers to competitors - that keeps prices down where there is effective competition.
+
+Antitrust and competition laws intervene where the competitive constraint is weakened. This will arise
+where competitors collude with each other, rather than competing with full vigour - at which point antitrust
+prohibitions on agreements restrictive of competition "bite". Similarly, where there is a merger of
+businesses that had previously been significant competitors of each other (e.g., by way of M&A
+transactions or joint ventures), antitrust authorities will apply merger control law to examine whether there
+is a significant reduction in competition that would weaken the competitive constraint. The point is that
+where competitors enter into an agreement or a merger that restricts competition, the competitive
+constraint is weakened, the businesses concerned are therefore no longer so worried about losing
+customers to competitors if they raise their prices, and accordingly there is a concern that prices will go
+up (to the detriment of consumers).
+
+In addition, even without an agreement or merger between competitors, antitrust laws will intervene in a
+third situation where the competitive constraint is weakened. This is where the business concerned has a
+monopoly or dominant position in a market, often also called "market power" - i.e., the business is so
+strong in the market that, when it sets its commercial strategy (including pricing decisions), it is not
+constrained by the fear of losing customers to its competitors. The weakness of the competitive constraint
+removes or lessens the deterrent to putting prices up too high (i.e. higher than is consistent with a
+reasonable rate of return), and that is detrimental to consumers.
+
+To combat this, antitrust laws around the world have rules to control businesses with monopolistic or
+dominant market positions - for example, in the United States, Section 2 of the Sherman Act controlling
+"monopolisation", in Australia the prohibition on abuse of market power, and in the European Union and
+its member countries the Article 102 prohibition on abuse of a dominant position.
+
+Strangely, however, there is a reluctance to deploy these antitrust laws against abuse of dominance or
+monopoly or market power to intervene where the business possessing the monopoly or market power or
+dominance (and therefore not subject to the competitive constraint that would deter it from raising prices)
+actually does abuse that power to raise prices. In other words, antitrust authorities rarely intervene
+against excessive pricing. The US and Australian prohibitions on conduct by businesses with monopolistic
+
+Page224of307©2018Factiva,Inc.Allrightsreserved.or market power tend to focus more on "exclusionary" conduct (i.e., using market power to reduce
+competition still further) than on exploitation of market power to impose high prices.
+
+In the EU (and in the national competition laws of EU member countries, which typically reflect EU
+competition law), there is no doubt that the prohibition on abuse of a dominant position can in principle be
+invoked to combat excessive pricing. Article 102 of the Treaty on the Functioning of the EU, which sets
+out the prohibition, specifically states that the prohibition covers "directly or indirectly imposing unfair...
+selling prices". Indeed, the EU's Court of Justice explicitly confirmed, in the 1976 United Brands case, that
+a business having a dominant market position abuses that position where it is
+
+In practice, cases where the EU prohibition on abuse of a dominant position has actually been deployed
+to combat excessive pricing are few and far between. It should be noted, however, that direct intervention
+against excessive pricing does often occur in the context of the special regulatory regimes that apply to
+utility services - such as gas, electricity, water and telecoms - which are often natural monopolies or
+quasi-monopolies, and which are subject to price caps and price controls imposed by sector regulators.
+This is less a matter of antitrust and competition law, and more a matter of direct State controls of pricing.
+
+So we have a paradox. On the one hand, competition is considered beneficial largely because the
+resultant fear of losing customers to competitors has the effect of deterring excessive pricing. At the same
+time, antitrust and competition laws (against anti-competitive agreements, abuse of monopolistic or
+dominant market positions, and anti-competitive mergers) are designed in large part to protect consumers
+from a weakening of competition that would result in excessive pricing. On the other hand, businesses
+having market power operate with less fear of losing customers to their competitors, but antitrust and
+competition laws are reluctant to intervene to combat excessive pricing.
+
+Why is this?
+
+In practice - what constitutes an excessive price?
+
+A large part of the answer lies in the difficulty of determining what constitutes an excessive price.
+
+Case law on excessive pricing by dominant undertakings - particularly where, as in the EU and its
+member countries, the prohibition on abuse of a dominant position is (at least in principle) designed to
+cover excessive pricing - suggests that there are broadly three classes of evidence that a price charged
+by a dominant business is "excessive" and hence unlawful:
+
+first, where the price of the product very significantly exceeds the cost of producing it (this applies to
+services as well as goods);
+
+second, where the profit margin on sales of the product is exceptionally high; and
+
+third, where the price is significantly higher than the price for comparable products ("benchmarks") either
+in the same country or in other countries.
+
+The practical problems of determining excessive pricing
+
+Each of the above classes of evidence of excessive pricing has its difficulties - and these difficulties have
+often inhibited the application of antitrust and competition law to excessive pricing.
+
+First, it is difficult to establish whether price vastly outstrips production costs, in large part because it is
+difficult to measure production costs. For example:
+
+If the costs were incurred a considerable time before the product is sold (e.g., in the case of investment in
+plant and machinery, or in the purchase of raw materials that take a long time to convert into the finished
+product), it is hard to know whether the relevant cost is the historic cost (i.e. the cost actually incurred at
+the time) or the cost that would be incurred for the same inputs at current prices.
+
+Where a business produces a range of different products, it is often hard to determine how to apportion
+"common" costs that are relevant to all products (e.g., the cost of its premises, machinery, and so on) -
+and therefore hard to determine the cost of the particular product concerned.
+
+Second, the difficulty of declaring a profit margin (or rate of return) to be excessive lies in the fact that
+high profits are sometimes perfectly explicable as a result of good competitive behaviour, rather than the
+abuse of a dominant position. For instance:
+
+A higher profit margin on sales of a product might reflect increased efficiency, rather than excessive
+pricing - and increased efficiency is a commendable outcome in a competitive market, which antitrust
+authorities should not be constraining; and
+
+Page225of307©2018Factiva,Inc.Allrightsreserved.Likewise, where innovation is a feature of the market concerned - as is typically the case in sectors such
+as technology, pharmaceuticals and life sciences - high profits might be necessary to finance (and to give
+incentives for) the research and development investment necessary to innovate. As the UK's competition
+authority, the Office of Fair Trading, put it in its draft guideline on assessing conduct under the prohibition
+on abuse of a dominant position:
+
+It would be perverse if antitrust law were deployed to inhibit innovation, which is one of the outcomes that
+competition is supposed to promote. Indeed, in the UK, similar concerns have arisen in the context of
+recent increases in consumer prices for gas and electricity, where the opposition Labour Party has
+proposed a "freeze" on these prices, but critics have warned that such a freeze could inhibit investment in
+security of supply of energy.
+
+Third, there are real problems in determining that a price is excessive by comparison with "benchmarks"
+in the same country or internationally.
+
+Within a country, an obvious problem is that, because the business concerned has a monopoly or
+dominant market position, there are few if any competitors in the same country to compare it with.
+
+Internationally, the difficulty is that competitive conditions in other countries are often so different as to
+make any benchmarking meaningless.
+
+For all these reasons, antitrust authorities have often been reluctant to intervene against excessive
+pricing. But that does not mean that businesses with market power need not worry about price levels. And
+this point has been reinforced by two new cases - in China and in South Africa - that show that, whatever
+the practical difficulties, concerns about excessive pricing have not gone away.
+China - Guangdong river sand
+
+In September 2013, companies controlled by a single individual together accounting for 75 per cent of
+sales in the Qujiang district of Shaoguan City were fined over 500,000 Chinese yuan renimbi (about GB
+£55,000 or €65,000 or US $85,000) - 2 per cent of their annual turnover - for excessive pricing in the sale
+of river sand, on the grounds that this was an abuse of dominance in violation of Article 17 of China's
+Antimonopoly Law and Article 11 of China's Regulation prohibiting Monopolistic Pricing.3
+
+There was no doubt that the relevant companies had a dominant position; because of the high cost of
+transporting river sand, the market was local, and a 75 per cent market share is clearly a dominant
+position.
+
+As for the excessive pricing, the authority relied on the fact that the prices (or, at least, the price increase)
+was vastly disproportionate to the production cost (or, rather the production cost increase). The
+companies had faced a production cost increase of 20 per cent - but implemented pricing increases of
+about 50 per cent.
+
+By way of remedy, the companies were ordered to sell all the river sand that they had hoarded within six
+months of the decision and to do so below a specified price ceiling.
+
+South Africa - polypropylene and propylene
+
+South Africa's Competition Tribunal is hearing a case against the chemicals producer Sasol, which is
+accused of excessive pricing in breach of the country's Competition Act, which includes a prohibition on
+the abuse of a dominant position. This is only the third case of excessive pricing that the Competition
+Tribunal has heard in the 14 years since its inception. South Africa's Competition Commission is asking
+the Tribunal to impose a fine of 10 per cent of Sasol's turnover.
+
+The claim relates to pricing on the domestic markets for polypropylene and propylene. There are
+essentially two grounds for the claim of excessive pricing:
+
+The profit margins involved were an average of 162 per cent a year from 2004 to 2008, which the
+Competition Commission described as an "astonishing average return on capital"; and
+
+The price vastly outstrips comparable prices - in particular, Sasol's price for the product on domestic
+markets was 30 per cent higher than the prices for the products sold to international customers.
+
+What do we learn from the two cases?
+In practical terms, a number of lessons can be learned from the China and South Africa cases.
+
+Page226of307©2018Factiva,Inc.Allrightsreserved.First, and most obviously, the two cases show that, in spite of the difficulties, antitrust and competition
+authorities are prepared to take action against excessive pricing. Businesses with market power need to
+bear this in mind in setting their prices.
+
+Second both cases arose in emerging markets. It may be that, in countries where competition (and
+competition law) is less developed, there will be greater readiness to take direct action against excessive
+pricing.
+
+Third, both cases concern the pricing of goods sold to business customers (rather than to consumers); in
+the Chinese case, river sand is used for major infrastructure projects while in the South African case, the
+chemicals concerned are used for plastics. Clearly, when the products that are excessively priced are
+inputs into other goods, the excessive pricing has a multiplier effect across a wider range of products, and
+is therefore (arguably) more damaging.
+
+Footnotes
+
+1 Case 27/76 United Brands v Commission [1978] ECR 207.
+
+2 UK Office of Fair Trading, Assessment of conduct - draft competition law guideline for consultation, OFT
+414a, April 2004, paragraphs 2.18 and 2.20.
+
+3 Guandong Price Bureau press release of September 4, 2013.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+"charging a price which is excessive because it has no reasonable relation to the economic value of the
+products supplied".1 "Prices and profits may be high in markets where there is innovation. Successful
+innovation may allow a firm to earn profits significantly higher than those of its competitors. However, a
+high return in one period could provide a fair return on the investment in an earlier period required to bring
+about innovation. These costs include investment in research and development and should take into
+account the risk at the time of the investment that the innovation might have failed. ... In particular,
+competition law should not undermine appropriate incentives for undertakings to innovate."2
+
+Mr Martin Coleman
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: clair.simpson@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+CO
+IN
+NS
+
+RE
+
+nortrb : Norton Rose Fulbright LLP
+i835 : Legal Services | ibcs : Business/Consumer Services
+c34 : Anti-Competition Issues | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | safr : South Africa | africaz : Africa | apacz : Asia Pacific | ausnz : Australia/Oceania |
+devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | souafrz : Southern Africa
+
+Page227of307©2018Factiva,Inc.Allrightsreserved.Anti-trust/Competition Law
+
+IPD
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020140131ea1v00005
+
+Page228of307©2018Factiva,Inc.Allrightsreserved.

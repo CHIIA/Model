@@ -1,0 +1,109 @@
+Google’s smart-home strategy starts with smoke alarms
+
+Ronald Klingebiel, Assistant Professor of Strategy at Warwick Business School
+
+HD Google’s smart-home strategy starts with smoke alarms
+BY
+WC 852 words
+PD
+SN
+SC
+LA
+CY
+LP
+
+17 January 2014
+The Conversation
+CONVAU
+English
+Copyright 2014. The Conservation Media Group.
+
+TD
+
+Google is set to pay £1.9 billion (US$3.2 billion) for Nest, a manufacturer of “smart” thermostats and
+smoke alarms. Though Nest is still relatively unknown, the buzz around smart homes – where all manner
+of devices are automated and controlled remotely – is growing.
+
+A thermostat maker might not be the most obvious choice for a conglomerate built around web services,
+but Google is not the only firm diversifying into seemingly unrelated territory. Rumour has it that Apple
+was also interested, not least because Nest’s leadership used to work there, and telecom operators,
+phone makers, electronics firms, utilities, and a plethora of new upstarts are all trying to join the market
+too.
+
+Though the sector is set to grow strongly, no one is quite sure yet how to make money from it. But the
+various competitors seem to agree that selling individual pieces isn’t enough: control of an overall
+ecosystem is required.
+
+Such control might be established through the central hub connecting your smart burglar alarm, your
+smart thermostat, your smart baby monitor, and, perhaps, your smart egg minder. That’s why at the
+moment you will find it hard to buy many gadgets without having an entire hub system foisted upon you
+from the likes of Honeywell (electronic goods), RWE (utilities), or Gigaset (phone maker).
+
+Over time, however, unbundling increases and common standards emerge, freeing you from proprietary
+systems and allowing you to mix and match more easily. For example, you could then connect a Nest
+smoke detector, a smart plug from Belkin, and smart bulbs from Philips to a device-agnostic hub such as
+that from SmartThings. Such flexibility of course reduces the profit opportunities for Honeywell and co.
+
+That’s why a second strategy might be more attractive in the long run: establishing dominance through the
+software that links up devices. As the internet of things is becoming a reality, with many everyday objects
+connecting to the internet, it is reasonable to assume that people will prefer to control them via an
+integrated multi-purpose app rather than bothering with different programmes for each device. This is
+where Google can help Nest and vice versa.
+If you used Google to organise your smart home, the company might be able to steer you towards other
+suitable smart devices and offer a host of complimentary services over the net. Early service propositions
+included PowerMeter, intended to monitor power consumption, visualise usage, and highlight options to
+save energy, and Android@Home, an attempt to create a communication interface for alarm clocks,
+dishwashers and so on.
+
+Google often struggles to monetise its web services directly, having to rely on advertising revenue instead.
+For each service, there is a free alternative, and switching costs are low. Hardware, on the other hand,
+elicits greater loyalty and can draw people into a company’s ecosystem; the most notorious example is
+the iPhone.
+
+Although the markets for many tech devices are commoditising, leaving less room for substantive
+differentiation and thus profits, devices are still a useful way for manufacturers to make money from
+add-on services.
+Chinese handset maker Xiaomi has learned this lesson, selling great devices cheaply and then promoting
+services on top. The same logic is behind Microsoft’s takeover of Nokia, and Google’s acquisition of
+Motorola, even if results are still to show. Similarly, Google recently decided to make its own laptop, the
+
+Page106of297©2018Factiva,Inc.Allrightsreserved.Pixel, to steer users towards its web services. Buying a Pixel gets you a high-end laptop but also a
+subscription to Google’s cloud storage service.
+
+It is not only Google going all this way to provide discounted hardware to get people hooked to its service
+portfolio; Amazon does the same with its Kindle, and HTC is rumoured to become its smartphone maker.
+Tesco sells its Hulu pad to further other products such as video-on-demand service Blinkbox. Devices
+enable commerce and guide the consumer’s perception of value, which then extends to the service
+ecosystem behind.
+
+Something similar might be happening in smart homes. Samsung not only sells fridges that can tweet and
+video-call your friends, it also aims to provide the software backend for all your smart-home appliances.
+Google’s magnificent IT capabilities might lead to something similar, using Nest devices as an entry point.
+Expect Apple to come up with its own smart-home devices too – in anticipation, Haier, a home appliances
+manufacturer released an air conditioner certified with the “made for iPhone/iPod/iPad” seal.
+
+The smart-home market is still wide open and chances are that lessons learned in other consumer
+technology sectors will apply there too. Control of the ecosystem is a route to profits. Hardware can be
+used as bait for software and services. Nest furnishes Google with a key to your smart home, with which it
+hopes to steal a march on its rivals.
+
+Ronald Klingebiel researches and advises companies in the telecommunications industries. His work
+attracts support from both corporate and government funding sources.
+
+CO goog : Google Inc.
+IN
+
+i3433 : Alarms/Signaling Equipment | i32 : Machinery | i3302 : Computers/Electronics | ielec : Consumer
+Electronics | iindstrls : Industrial Goods | itech : Technology | i8395464 : Internet Search Engines | iint :
+Internet/Online
+gcat : Political/General News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+NS
+RE
+PUB The Conversation Media Group Limited
+AN
+
+Document CONVAU0020140118ea1h0000f
+
+Page107of297©2018Factiva,Inc.Allrightsreserved.

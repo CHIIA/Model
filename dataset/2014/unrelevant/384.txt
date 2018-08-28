@@ -1,0 +1,733 @@
+Q1 2015 Singapore Telecommunications Ltd Earnings Call - Final
+
+HD Q1 2015 Singapore Telecommunications Ltd Earnings Call - Final
+WC 9,913 words
+PD 13 August 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+TD
+
+SIN YANG FONG, VP GROUP IR & COMMUNICATIONS, SINGAPORE TELECOMMUNICATIONS
+LIMITED : A warm welcome to all investors and analysts. You're listening to SingTel 's earnings conference
+call for the first quarter ended June 30, 2014. My name is Sin Yang Fong and let me introduce
+management on the call. Ms. Chua Sock Koong , Group CEO; Mr. Allen Lew , CEO of Group Digital Life;
+Mr.Bill Chang, CEO of Group Enterprise; Mr. Paul O'Sullivan , CEO of Group Consumer; Ms. Jeann Low ,
+Group CFO. They are also assisted by other members of the management team from Australia and
+Singapore. Before we starting taking questions, I would like to invite Sock Koong to share some highlights
+from this set of results.
+
+CHUA SOCK KOONG, GROUP CEO, SINGAPORE TELECOMMUNICATIONS LIMITED : Thanks, Yang
+Fong, and very good morning to all of you. We announced our results for the first Q ended June 30 this
+morning so let me just share some highlights. The Group delivered very resilient operating performance.
+Earnings were however impacted by currency movements, investments to support business transformation,
+and also some significant exceptional items. Revenue and EBITDA in constant currency was stable with
+continued momentum in Singapore while Australia results were affected by lower fixed revenue and
+equipment sales. Group Consumer EBITDA growth was offset by lower Group Enterprise EBITDA and
+share of pre-tax profits from the regional mobile associates grew very strongly on the back of strong Airtel
+results and very robust base of growth across the associates.
+
+Had regional currencies remained stable, underlying net profit would have increased 5% and net profit on
+constant currency declined 12% on three key items. A one-off gain of SGD150 million on the dilution of
+stake in Airtel with the same quarter last year; staff restructuring costs in Australia of AUD34 million, I
+think that translates to about SGD27 million; and the Group share of Airtel's exceptional losses for various
+disputes and provisions. Free cash flow increased by 33% on strong cash flow from both Singapore and
+Australia. And on the FX movements, I will just highlight that during on the year-on-year basis the
+Indonesian rupiah actually depreciated by more than 18% and of course the A dollar depreciated by about
+5.4%. However, on a sequential quarter basis, currency movement has stabilized.
+
+So maybe I'll stop there and we'll be happy to take Q&A.
+
+SIN YANG FONG: Thank you, Sock Koong. We will now invite questions from participants. Our operator
+will now assist you to put through your questions.
+
+Questions and Answers
+
+OPERATOR: Luis Hilado, HSBC .
+
+LUIS HILADO, ANALYST, HSBC SECURITIES (SINGAPORE) PTE LTD.: Congrats on the results. I have
+three questions, all on the Singapore mobile business. The first question was regarding ARPUs. We've
+seen that blended ARPUs continued to be flat QonQ. This quarter you launched your new WiFi bundled
+plans that could help that. But just wondering given the first year or so of the WiFi unlimited, would that help
+also cap your upside in the short to medium term? Second question is we've seen that fixed broadband
+subs have continued to grow quite healthily, but wondering if you can give us insight on what's happening
+with ARPUs or were there any impact from the new entrants and upstarts that have got into the fiber
+broadband business? And last question is there has been headlines in the past about a potential fourth
+entrant to the mobile sector, if we could get any insights from what you think how the entrant would be
+accommodated, whether there would be any concessions given to it or whether it will have to be a true
+startup?
+
+Page327of351©2018Factiva,Inc.Allrightsreserved.CHUA SOCK KOONG: Let me take this last question on your question on the fourth player in Singapore. I
+think I believe clearly consistently we were prepared to meet a fourth mobile player. I think each time when
+they do a spectrum auction, they would always first invite players to set up the mobile business in
+Singapore or mobile network. I think so far there has been no success. I think they are now looking at it.
+The recent consultation phases seem to indicate the use of more IT promotion of MVNO, how encouraging
+the MVNO platform you will take. I don't think that there's a lot of clarity at this stage so I'm not going to
+speculate whether they are going to set aside spectrum that is where you get preferential treatment if you
+do MVNO et cetera.
+
+I think that will be purely speculative, I wouldn't go there at this stage. But I think what I would like to
+emphasize that SingTel through its operations both in Singapore and Australia and also the regional
+markets have significant experience dealing with new entrants into a highly competitive market. And I think
+we will be able to bring some of our learnings to bear if a fourth entrant, whether in the form of network
+operator or a MVNO is to operate in Singapore. With that, I'm going to pass over to Moon to talk about the
+ARPU trends and to talk about the fiber broadband market in Singapore.
+
+KUAN MOON YUEN , CEO CONSUMER SINGAPORE, SINGAPORE TELECOMMUNICATIONS LIMITED
+: Thank you, Sock Koong. Luis, this is Moon Yuen from SingTel Singapore. First of all, I think the ARPU, if
+you look at the year-on-year decline, ARPU reported a 4% decline on postpaid mobile ARPU from last
+year. Half of the decline, 2% actually comes from the dilution of mobile broadband as well as mobile share
+plan. So as you are aware that we have introduced mobile sharing plans where we offer an extra SIM card
+for existing customers to put into their tablets and additional devices. The ARPU for such plans is only
+SGD10 a month and comparing this with the traditional smartphone plans of SGD40, SGD50, SGD60, you
+see that there's a dilution effect. So, half of the decline of ARPU arise from this dilution effect.
+
+The other 2% decline actually comes from two other factors. Firstly, comes from the reduction in
+interconnect charges for SMS that we charge M1 and StarHub for sending SMSes to them. But of course
+correspondingly, we also pay less from our cost side figures a reduction in SMS from our customers sent to
+them as well. And the last part on the decline in ARPU year-on-year is also due to the decline in outbound
+roaming traffic on voice when our customers go overseas to roam and because they are switching to data
+as well. So, the combination of this effect actually brought down ARPU on a year-on-year basis. Maybe I'll
+move on to the second question on the fixed broadband.
+
+You see that the industry as a whole is actually being deprived in terms of the overall revenue for fixed
+broadband and this is not just SingTel , but across the board. If you look at all the established players and
+new players, I think the overall revenue pool for the fixed broadband has been on the decline for the last
+few quarters. This is primarily due to more new players all coming into the market building up their own
+opco and building up a lot of new capacity and trying to loop the network by giving huge discounting and
+giving promotional prices. And for all of us, especially for SingTel , who have got existing customer base of
+ADSL and fiber; we do want to ensure that we maintain certain market share in the market and therefore
+we also participate in some of these promotional activities.
+
+So we continue to see some price pressure on the fixed broadband, but at the same time, we are also
+seeing some easing of pricing from the smaller players because I think that the model that is going on may
+not be sustainable because there is too much of a heavy discounting. They only give them the initial crop of
+new customers, exceeding certain scale they will have to invest again to build a bigger network and that will
+require more CapEx. So, I think it is really a question of whether the market is sustainable if you continue to
+give huge discounts at the retail level.
+
+LUIS HILADO: Thanks, Moon. Thanks, Sock Koong. Very clear.
+
+OPERATOR: Peter Milliken, Deutsche Bank .
+
+PETER MILLIKEN, ANALYST, DEUTSCHE BANK AG : First question is in Singapore following on from
+what Luis was just asking about the ARPU there. Now if I track postpaid ARPU, it has been trending down
+for about the last four years from a peak of SGD70 down to SGD52. This quarter it actually ticked up a little
+bit. Do you think that that can be held at that level or will the increased number of people with multiple SIM
+cards continue to erode that? And then second one is at Optus, we saw EBITDA fall sequentially
+quarter-on-quarter from SGD657 million to SGD597 million so obviously about 40% of that was from the
+restructuring cost. But given that acquisition costs also fell, I'm a bit surprised that the EBITDA was down
+that much. Is there something I'm missing?
+
+CHUA SOCK KOONG: Yes, Moon?
+
+KUAN MOON YUEN : Maybe let me just give a bit more light on the ARPU and how we look at the
+business. Firstly, I think when the dilution comes from the multi-SIM and the mobile share dilution effect, we
+are less concerned because while ARPU from this new set of customers were coming on slower than
+
+Page328of351©2018Factiva,Inc.Allrightsreserved.existing, we also have a lower cost of acquisition because we do not subsidize on devices for this multi
+share and data SIM. So, it is still value accretive and that's why we are tracking the revenue growth. Of
+course on the other hand, if you look at sequential quarter ARPU sort of flattening out and in fact improve of
+SGD1, this is really due to seasonality. Our roaming quarter for April to June is higher than January to
+March on a seasonality. So, you see this as more of a seasonal change as opposed to any change in the
+usage mix of a customer.
+
+PAUL O'SULLIVAN , CEO GROUP CONSUMER, SINGAPORE TELECOMMUNICATIONS LIMITED : It's
+Paul here with Murray in Sydney. So Peter, I think we pointed, to begin with, to the fact that we're 4.5% up
+year-on-year in terms of absolute EBITDA. So, our view would be that the key driver of the QonQ that
+you're seeing is the seasonality effect. Not sure what else there is that maybe made you query the EBITDA
+performance. But from my point of view actually, we'd be pointing to the fact that certainly from the
+consumer business this quarter, you're seeing in the mobile business a significant stabilization in revenues.
+Our outgoing mobile revenue was actually stable for the first time in quite some time. All of our declines in
+mobile come from either mobile termination rates or equipment sales. And as I said, we pulled through
+strength in the EBITDA percentage of 2.5% and also if you look at the percentage margin, it's up
+year-on-year as well, 31.1% this year versus 28.9% last year. So, I would expect that anybody looking at
+the numbers will hopefully see that there's actually some strength in the underlying performance of the
+business and you're starting to see mobile revenue stabilize and that's a very good platform for us as we
+now look to raise our voice above the line in the market and as we drive our new marketing campaigns,
+which only began in the last two weeks of the quarter.
+
+PETER MILLIKEN: Okay. Very good. So, the MyPlan isn't causing any noticeable pressure as people
+transition?
+
+PAUL O'SULLIVAN : You're talking about the launch we did last year, Peter, or the one we just launched in
+June this year?
+
+PETER MILLIKEN: The one you did last year in July.
+
+PAUL O'SULLIVAN : In fact if you have a look at it actually, what we're seeing is pretty good data
+utilization. So if you look at the MD&A, you can see that 41% of the base now are on tier data plan, 33%
+are coming through quarterly with some form of breakage; but that's a soft break in the case of Optus. It's
+AUD10 per gig if you need it and if you don't, you just revert back. Telling us really that people feel quite
+safe browsing and that there is not be rationing effect which we were seeing prior to the launch of My Plan.
+Likewise in terms of MyPlan Plus, it was launched in the last two weeks of the quarter and we've seen very
+encouraging signs and uptake on that.
+
+PETER MILLIKEN: Brilliant. Thanks a lot.
+
+OPERATOR: Sachin Mittal, DBS.
+
+SACHIN MITTAL, ANALYST, DBS VICKERS. SINGAPORE: The first one is on the Enterprise business,
+which actually saw 7% EBITDA decline and dragging the Group EBITDA by 3%. Now looking at your
+guidance, you are guiding for slight growth in Group EBITDA. So I'm wondering what does it mean for the
+Enterprise business given that it's facing a structural decline due to pricing pressure? So should we expect
+the decline should be lower, should it stabilize and what are the key drivers here? With the kind of 7%
+decline, it's a bit concerning for us. And is it the NetLink income or some new projects, what can actually
+slow the decline here so that you can meet your guidance for low-single-digit Group EBITDA growth?
+That's my question number one. Question number two is that you recently launched a bundled plan, which
+actually are offered in countries like South Korea and Hong Kong; however, they are offered free of cost.
+So what I'm wondering is, is there a difference in the way that you are offering these bundled services
+versus other operators that there's a separate or slightly higher charge for that? If you could explain that, it
+would be very useful. Thank you.
+
+CHUA SOCK KOONG: Let Bill take the Enterprise question and then maybe Moon can explain why WiFi
+service is a different service that what you see in Korea.
+
+BILL CHANG , CEO GROUP ENTERPRISE, SINGAPORE TELECOMMUNICATIONS LIMITED : Thanks,
+Sock Koong. On the Enterprise side, what we're seeing is a sort of intense competition in the core carriage
+business and primarily in the domestic prime MVN and to protect our market share, we basically are gliding
+some of our prices down to maintain that. So our market shares both domestically and internationally, we
+have maintained our leadership positions. And the other key driver to this EBITDA is actually a large
+transition project for the public sector and it's a huge project that we have and we are doing the
+transitioning now. And the project because of the scale of it and the margins and due to the competition,
+the margins are lower compared to what was the traditional IT business margins, but this would give uplift
+in the revenues as we have seen in the strong IT services pickup. There were some one-off items from last
+
+Page329of351©2018Factiva,Inc.Allrightsreserved.year due to one of our cable stocks failed and also in some of the traffic items, but those were largely the
+third factor. The two bigger factors were what I described, MVN and the IT services. We do not give
+guidance on sort of an overall. We give guidance on ICT services business. At the moment with our
+trajectory, the guidance for revenues are still on track for the revenue projections.
+
+JEANN LOW , GROUP CFO, SINGAPORE TELECOMMUNICATIONS LIMITED : Sachin, this is Jeann.
+One, we only give guidance for the core business, the core EBITDA, and we have not given fully for
+Enterprise nor Consumer. I think on your question about some of the margins impacted by MVN and do we
+see it in NetLink. I think if you look at our share of income from NetLink, which of course includes OpenNet,
+I think we have seen some growth there. The share of net profit from NetLink for the quarter is about SGD8
+million. So obviously if you alleviate that and as the penetration go up and (inaudible).
+SACHIN MITTAL: Just to follow-up on that, I'm not looking for guidance, but I'm looking for the drivers in
+this business because this is a very sharp decline. So with this kind of decline, it's difficult to meet the
+guidance, that's why I am asking for the drivers rather than the guidance for Enterprise.
+
+JEANN LOW : We have affirmed our guidance for the Group so there is no change to our guidance.
+
+KUAN MOON YUEN : Sachin, this is Moon here. In regards to the WiFi service offers in Korea, I would say
+different countries offer bundled WiFi for different reasons. In some countries they offer WiFi purely as a
+offload to their 4G LTE network because in some of the countries maybe they are offering unlimited 4G
+data and putting in WiFi as a possible maybe scheme that they do to actually remove the heavy loading on
+their 4G network. Whereas for SingTel , we offer our WiFi for a totally different reason. First of all, we are
+trying to offer the WiFi to ensure that we give our customers more data, that's first thing, as opposed to just
+purely using 4G data. Secondly, we offer it in a way that is managed network where the quality of the WiFi
+is different from the free public WiFi that you see in Singapore. And again in Singapore, you can also find
+quite a few options for free public WiFi that's being offered in the market. So the WiFi that we offer is really
+of a different grade as a managed WiFi service and therefore we look at it more similar to the type of 4G
+data that we are offering. So, it is for a totally different reason and it is more for managing the experience of
+our customers.
+
+SACHIN MITTAL: Okay, I got it. Thank you.
+
+OPERATOR: Roshan Raj, Merrill Lynch .
+
+ROSHAN RAJ, ANALYST, MERRILL LYNCH : First on Optus Satellite, revenue has been trending down
+for a few quarters now, I'm just trying to understand what's really leading to this and how should one look at
+the outlook for this segment. The second question is on your associate Telkomsel. Just a big picture level,
+how do you think or how do you guide them in terms of really investing in the network? To what extent
+should they be ahead of the market and when should they actually start moderating the investment? How
+do you take that call? Some color there, that will be very useful? Thank you.
+
+CHUA SOCK KOONG: Paul, you want to do the satellite question. And then I will get Moon to talk about
+Telkomsel.
+
+PAUL O'SULLIVAN : So, the main influence you're seeing in the Satellite numbers is that we had a contract
+with the NBN to help provide satellite broadband services to customers mainly in regional areas. Most of
+the revenue that has been reduced was for us providing CPE to customers and it was effectively a
+pass-through so you don't see a big impact on our profitability, but you do see an impact on the revenue
+line. In terms of guidance, we don't guide Satellite moving forward; but I think most people would know that
+we have a very strong position in the market. We effectively dominate the space of media and broadcast
+and we see that as a very strong business. I'll pass back to Singapore for the question on Telkomsel.
+
+KUAN MOON YUEN : This is Moon here. For Indonesia Telkomsel, if you look at the history of how the
+investment network, primarily you built the network in different parts of Indonesia and you expect the
+customers to come on. That was the traditional model where they were rolling out 2G. But in the last one or
+two years, you look at Telkomsel investment is primarily focusing on investing in 3G networks to capture
+the data market and the growth in data. So if you look at last year or the past one year of CapEx
+investment, 75% of their CapEx are primarily driven on 3G. And the way Telkomsel does it is really to look
+at which area or which region have got high data adoption rate. So they look at historical usage of the 2G
+and 3G network and they see that in this area have got higher demand of data network, they will then
+double down the investment in that area and at the same time obviously, they will perhaps ensure that
+there are enough devices that are 3G enabled in these regions to support the growth of data. So, it is a
+disciplined approach to look at where this demand for data and investing in the network to meet the
+demand there.
+
+ROSHAN RAJ: Thanks. If I may just follow-up on that. Given their market position in terms of coverage and
+capacity, are they already in a strong position to really start looking at moderating investments or do you
+
+Page330of351©2018Factiva,Inc.Allrightsreserved.think there is still ample room to invest to support potential growth in the market? What's the trend one can
+expect?
+
+KUAN MOON YUEN : I think if you look in general, Telkomsel has provided CapEx guidance for their
+Group so I will not repeat that. Telkomsel, I think if you look at Indonesia as a whole, the data penetration is
+still very low. I think it's flat [than] 50% or close to 50% so it is still growing and there is still a lot of potential
+growth. I think it is a question of pace and timing because you don't want to invest too fast ahead where the
+devices are not ready and the affordability of the consumers are not ready. So it is really about pacing the
+investment, but generally speaking if you look at the market, it is definitely not penetrated yet. There's still
+more than 50% of the market not data penetrated yet.
+
+ROSHAN RAJ: Okay. Thanks, Moon. Just going back to Paul's response. So should we expect the Satellite
+revenue to sort of stabilize at current levels or how should one look at it or you would not be able to share
+that guidance?
+
+PAUL O'SULLIVAN : We don't guide specifically so I'd love to answer the question, but I don't want to land
+myself in trouble with a selected guidance. So unfortunately we can't comment at the product level, but I
+just reinforce my comments that we have a very strong business.
+
+ROSHAN RAJ: All right. Thank you, Paul.
+
+OPERATOR: Sachin Gupta, Nomura Securities .
+
+SACHIN GUPTA, ANALYST, NOMURA SECURITIES : Firstly for Paul. In Australian business, obviously
+costs are fine, but revenues are still a struggle. Are you reasonably confident that with the new pricing
+plans, we should be able to see this turnaround? That's one. Secondly for Moon. If you look at the pay-TV
+business in Singapore, the sub addition or the sub numbers were flat for mio, we had 19,000
+cross-carriage. Is that a concern or does that actually make you rethink the content strategy given this
+impact? And I guess lastly as well on this new WiFi plans, I'm sure every market is different, but obviously
+the customer perception is that WiFi is free and WiFi is unlimited. What sort of reaction do you expect when
+you start charging for these services and you start capping WiFi?
+
+PAUL O'SULLIVAN : Sachin, this is Paul here on question one. I might guide you through the section of the
+MD&A, look at the Australia Group Consumer and let me give the exact page to you because I think it's
+worthwhile trying to highlight the specific numbers that get us there. So that would be page 26. So if you
+have a look at that, if you look at second tab of the page, you'll see our mobile revenues and if you look at
+mobile service revenue, you can see it's down 0.8%, of which outgoing is down 0.1%. There are two key
+points there. First one is total mobile service revenue if I look two quarters ago was declining minus 4%,
+last quarter was minus 2%, this quarter is minus 0.8%. So, you're seeing the number start to stabilize. And
+if you look at outgoing, it was two quarters ago minus 3%, last quarter minus 7%, this quarter minus 0.1%,
+almost flat. So the first thing I'd point you to is you're starting to see us stabilize the revenues.
+
+We did say quite clearly over the last two years that we were voluntarily getting rid of what we thought was
+unsustainable revenues like the AUD100 per gig that the industry was charging for anybody going over
+their data allowance or some of the hidden fees. So we had been quite open about saying that we were
+going to walk away from those and now what you're seeing is we're starting to stabilize the business and to
+pull it through, which I think is a positive thing. So, that's the first thing I would very much point to in terms of
+where mobile's at today. And the second thing I'd point out is that if you do look at the decline in mobile
+service revenues of 0.8%, all of the decline which is around about AUD24 million, AUD25 million there, all
+of the decline is in either equipment sales or mobile termination rates. Now, neither of those go through to
+EBITDA.
+
+Our mobile terminations are actually quite balanced on traffic these days and equipment as you know is
+simply us providing equipment to customers with no markup of any significance on it. So again, I'd point out
+the fact that actually what you're seeing is the underlying mobile numbers are now starting to be quite
+resilient. Moving forward, many outside Australia will not have seen our advertising, but Optus has been
+probably the most visible it's been in two to three years above the line in the last quarter. Equally
+importantly, we've been very active on social media, we'd be quite innovative and very much behaving in
+an un-carrier way not the way that we go to market and standing out from the crowd. That only began in the
+last two weeks of the quarter, but the early signs of that campaign are quite encouraging. So yes, as we're
+moving forward, I do believe we'll be able to bring the mobile business back to growth. But clearly I don't
+want to guide the market in any specific sense and we'll just let our results speak for themselves over the
+next 12 months.
+
+KUAN MOON YUEN : Sachin, this is Moon here. I think the first question on pay-TV. First of all, last quarter
+was a quarter that we focused a lot on leveraging on World Cup so a lot of our sales and marketing effort
+was really trying to get our customers, especially BPL customers, to recontract and to sign up for World
+
+Page331of351©2018Factiva,Inc.Allrightsreserved.Cup to give us the leverage of using World Cup. So, we were less focused last quarter on signing up new
+customers. And the 19,000 cross-carriage was primarily for World Cup only, that's why we call it out
+separately. And also traditionally if you look at our Q1 quarter, it's always been a low season for
+acquisition because it is the end of BPL season as well. So combining the two factors, you see that
+holding a flat QonQ subscriber base on pay-TV is actually a good outcome for us.
+
+And more importantly, we actually focus on selling more content to our existing base and that's why you
+can see a good improvement in ARPU even without the World Cup revenue contribution. So, it jumped up
+to SGD53 million on revenue on pay-TV. On your second question on WiFi. First of all, let me clarify that
+the WiFi service that we provide is actually a seamless WiFi service for all our mobile customers we find on
+the combo plan. What it means is that the customers do not need to have any lock-in credentials or lock-in
+password. So as long as the phone is switched on to WiFi enabler, once it goes into the hotspot, the phone
+automatically switches over to this WiFi service that we have configured.
+
+And secondly, this WiFi service is actually a managed WiFi where we are actually dimensioning the
+network to ensure that we give a much better speed and better throughput experience for our customers
+from the traditional using the free public WiFi. We projected that the speeds will be typically between 4 meg
+to 10 meg which is about five times faster than the free public WiFi. So combining the seamlessness and
+the higher quality of WiFi, we are putting this much more closer to the experience of mobile data
+experience and therefore, we are creating a new category of WiFi data allowance in our new combo plans
+package.
+
+OPERATOR: Just to inform, Sachin's line has dropped from the call. Janice Chong, CLSA.
+
+JANICE CHONG, ANALYST, CLSA: First of all for Singapore. You mentioned about the WiFi data
+allowance, I just wanted to understand whether in the long term will these WiFi access actually cannibalize
+into your potential data revenues. Basically you are actually allowing consumers to access unlimited WiFi
+whereby they could actually upgrade to a higher plan later on if their data consumption increases. That's
+question one for Singapore. Secondly, your prepaid subscribers have not been affected by the SIM card
+restriction. Unlike your two other competitors who have actually shown a decline in prepaid subs, you have
+not. Could you elaborate on that?
+
+And third question on Singapore, I just wanted to clarify whether wholesale pricing for mobile, is that
+regulated in Singapore? On Optus, I just wanted to get a better sense of competition in the Australian
+mobile landscape. Vodafone has recently come up to say that they will be refarming its existing 15
+megahertz. Just wondering whether do you see EBITDA growth sustainable by this year and also financial
+year 2016 or do you expect the next two years probably would be an investment year for you. That's all for
+now. Thank you.
+
+KUAN MOON YUEN : Moon here. Let me take the WiFi question again. I think first of all, there are many
+free public WiFi service available in Singapore. So I think the key question is if we do not build a quality
+WiFi product as seamless, there will be always be substitution itself. I think by introducing our own WiFi, we
+have the ability to take some of the traffic back on to our managed network to provide a consistent service.
+And the initial one year of free unlimited WiFi that is bundled with our premium WiFi service is really more
+as a rollout phase. As we built up all the hotspots in Singapore to reach 1,000 points of hotspots, we felt
+that it was not good to start metering so early when there are fewer hotspots.
+
+So by that time we will see really more nationwide coverage of 1,000 hotspots, that's the time that we will
+start to charge to meter the WiFi 2 gigs of data for everyone. We see this WiFi as completing our 4G
+networks to provide the seamless experience. We also expect consumers to continue to use their mobile
+phone and data growth will continue to increase. So while it may take away some traffic initially, but in the
+longer run, the growth will be able to sustain the loading on both networks. The second question on
+prepaid, I believe is related to the prepaid registration of 10 SIM cards to three SIM cards. We are equally
+impacted in terms of the regulation. So, our customers who have more than three SIM cards definitely
+cannot register for a fourth one.
+
+I think I can't comment on our competitors what's the impact. Of course our focus is really to then look at
+the quality of our customers to encourage them to do more top-ups, which we are seeing, instead of buying
+new SIM cards. Our focus has always been getting our customers not to throw away SIMs, but to reuse
+their existing SIMs by managing our promotional offers to make sure that we do not give a much better
+offer for new customers and existing customers. So we encourage our customers to top-up more, perhaps
+that's the reason why we are less impacted in the sense as compared to the other two. On your third
+question on wholesale mobile, wholesale mobile which are actually not regulated is competitive. We can
+actually offer and set our own pricing for wholesale prices.
+
+PAUL O'SULLIVAN : So Moon, I might pick up the question on Australia, which was a very broad ranging
+question, but I'll try and pick up what I think were three big themes in it. First of all on network, to just give
+
+Page332of351©2018Factiva,Inc.Allrightsreserved.you some context about network. This is actually quite an exciting time for Optus in terms of network build
+so we have acquired 700 megahertz frequencies in the recent auction, which become available to us on the
+January 1, which is only about four months away. We also have 2600 spectrum and we also have a
+massive amount of 2300 spectrum in the metro areas, which we acquired two years ago. We are
+pre-building our sites. There's a major rollout underway with a view to getting that frequency deployed and
+it will be used for 4G. Our publicly stated goal is to have 90% coverage of subscribers in 4G by April on a
+national basis. So, that's a very strong story.
+
+And certainly we've heard our competitors' network plans, I'll remind you as well of course that they have a
+smaller footprint than we have in terms of national coverage. Moving forward in terms of the market and its
+competitive dynamics, it's been interesting to watch the market over the last few months. We've seen that
+carriers in general have shifted the focus of competition less on handset and now more on data allowances
+and certainly we've seen Vodafone go very much aggressive on data allowances. But if I move forward and
+talk about Optus and where we're going, I can remark that if I look at this directly whenever Optus
+demonstrates peer differentiation on value, service, and provides a strong and competitive network; it does
+very well. And if you look at what we're currently executing, I've described our network sales and our
+network rollout.
+On net promoter score, we lead the three major carriers by a significant amount on net promoter score and
+that's independently gathered data. And if you look at our value, we have launched the first-ever data
+sharing plans that allow you to share your data allowance on a mobile across all your devices with no extra
+monthly charge. And in prepaid in the last week, we are the only carrier in the market with daily plans, you
+only pay for the days you use. We've gone right back to our challenger roots and this is the territory which
+Optus always does well. I've got no doubt the market will be very competition ongoing, it always has been,
+but I also would remark that I think Optus is well placed to face that competition and we'll certainly continue
+to focus very heavily on customer experience and value differentiation building on a strong network.
+JANICE CHONG: Okay. Thank you. I just got one more question, it's more on the PBTL. I'm just wondering
+what is SingTel 's plans on this associate and whether you have plans perhaps in the future or in the near
+term to actually divest?
+
+MARK CHONG , CEO INTERNATIONAL, SINGAPORE TELECOMMUNICATIONS LIMITED : This is Mark.
+On PBTL, we are managing it for cash so essentially that's it.
+
+JANICE CHONG: When you say that managing it for cash, you're saying that basically it's free cash flow
+positive?
+
+MARK CHONG : It's currently I think on a sustainable basis based on the funds that is obtained through
+various loans and [cash].
+
+CHUA SOCK KOONG: I think in Bangladesh, we do have a presence in mobile GSM presence in
+(inaudible). So with PBTL, we are not committed to any further investment so we are basically letting the
+partners run it, but making sure that the company is just managed for cash. There's no additional cash
+investment required from outside.
+
+JANICE CHONG: Okay. And if there is opportunity to diverse, suppose that you will be happy to look into
+that?
+
+CHUA SOCK KOONG: I think we are open to divestment opportunities.
+
+SIN YANG FONG: Janice, does that answer your question? Do you have further questions?
+
+JANICE CHONG: No, that's all. Thank you.
+
+OPERATOR: Arthur Pineda, Citigroup .
+
+ARTHUR PINEDA, ANALYST, CITIGROUP : Firstly, can I get some color in terms of the Digital Life
+operating losses as it seems to have narrowed notably quarter-on-quarter? There seems to be a significant
+reduction in the cost base and revenues are slightly down as well QonQ. Is this really a seasonal factor or
+is this linked to the reduction in spending? Second question I had is with regard to Singapore mobile.
+You've obviously been very active in the launch of all the new plans particularly on the WiFi bundling.
+These are slightly higher on the base price, but more generous of course on the minutes in data allocation.
+But based on the usage patterns that you've seen internally versus the plan allocations, do you see this as
+potentially ARPU accretive or neutral based on the more generous bundles? Last question I have is with
+regard to strategic investments. We've obviously seen the Chinese operators being more active across this
+space. I'm wondering what SingTel 's commitment is for the existing assets. You've mentioned PBTL that
+you may be open to that. Is the door open for the other assets as well? Thank you.
+
+Page333of351©2018Factiva,Inc.Allrightsreserved.CHUA SOCK KOONG: I think we'll talk about Singapore where it is not (inaudible). We are open to that
+obviously, all those got to be on the right terms. Maybe I'll get Allen to talk about Digital Life and then throw
+it back to Moon to talk about mobile in Singapore.
+
+ALLEN LEW , CEO GROUP DIGITAL LIFE, SINGAPORE TELECOMMUNICATIONS LIMITED : About the
+Digital Life, your question on the revenue QonQ is primarily because of seasonal effects. I think typically
+our Q1 of our fiscal year for mobile advertising is little bit lower than the previous quarter so I think that
+reflects customer spending. I think this Q also we had a little bit of deferred spending from European
+advertisers in particular deferring their ad dollars spend to the second half of the year and that's why we
+think it will start to come back a bit more. I think more importantly when you look at our mobile advertising
+business, if you look at the growth in revenue per quarter from SGD21 million to SGD35 million, [which is]
+about 80% growth.
+
+If you benchmark to some of the other independent advertising platforms out there in the mobile space,
+Rocket Fuel for example is growing at about 70% to 75%, Millennial Media which is very much US focused
+also a SingTelcompany without SingTel technologies differentiator that we have has been growing about
+45%, 50%. So, the relative performance of MOB in that market is very important. In terms of the EBITDA, I
+think there are some one-off impacts of the EBITDA primarily due to the acquisition costs associated with
+the two acquisitions that we've made that we've basically put into our operating expenses for the year. I
+think the rest reflects a business that we're building up to scale.
+
+KUAN MOON YUEN : Moon here. Let me just maybe explain a bit on the thinking behind the new combo
+plan package that we've just launched yesterday. First of all, I think the SGD3 increase in some of the
+plans, not all the plans, actually primarily because we are giving more value to the customer. We are giving
+more value on calls, we are giving more value on SMS, we are also introducing a WiFi data bundled plan.
+So, that's the only reason why it's a higher base price for that. And the question of giving more voice and
+then taking away the excess usage of voice is really a question of trend. If you look at the last one or two
+years, we are seeing a similar trend of how SMS have trended down when data is up. So, we are seeing a
+similar pattern on usage where customers are using lesser voice and also moving towards more data. So
+actually by repackaging, we are arresting this downward decline of voice and actually upward increase in
+data. So obviously, we do see that this new packaging allow us to better fit the changing usage behavior
+and obviously we wanted to be value accretive in the overall packaging of our price lines.
+
+ARTHUR PINEDA: I guess if I put it in a different way. When we look at it from a revenue perspective,
+should we expect this kind of strategy to actually improve your revenues going forward or is it more neutral
+because people who used to pay more for voice because of them budgeting their plans in voice more for
+data because of them budgeting their caps in data, you don't collect more from that. So that SGD3
+increment, is that to be viewed as an increase in ARPU down the road?
+
+KUAN MOON YUEN : Well, I guess consumers will have options as we introduce many different plans
+including earlier on, two months ago we introduced Easy Mobile. We are really creating plans that fit
+different segments of the market. The combo plan definitely has advantage of having a higher assured
+monthly fee and perhaps lower excess usage, but we believe that the continuous growth on data
+consumption will allow us to have a breakthrough in data usage in terms of on a [personal] basis. And if you
+look at the last few quarters, we have actually consistently grown the number of customers who have
+exceeded their data package; last quarter it was 16%, this quarter it's 18%. So we believe the data excess
+usage will continue to grow driven by better handsets, faster network, and more applications of video. So,
+that will continue and that will definitely overtake the usage on voice access usage. So raising the
+subscription fee will actually protect certain level of revenue for us in the switching behavior of consumers.
+
+ARTHUR PINEDA: Got it. Thank you.
+
+OPERATOR: Abhijit Attavar, Jefferies.
+ABHIJIT ATTAVAR, ANALYST, JEFFERIES & COMPANY: I just wanted to refocus on the Optus EBITDA
+and in particular, the sequential almost 10% decline we have seen in the first quarter as compared to fourth
+quarter last year. So if I look back, second quarter last year you had this big rationalization in selling and
+administrative cost, also your staff cost because of the restructuring exercise you took and cut out your
+third-party distribution cost and that kind of held through for about three quarters. But again this quarter I
+see a jump in your selling and administrative cost and also interestingly your staff costs. So, I'm just trying
+to understand are there any one-offs in this or is this a new trend going forward given that you're building
+back some of your brand visibility in Australia. So, if I could just get some flavor on that.
+
+MURRAY KING , CFO GROUP CONSUMER, SINGAPORE TELECOMMUNICATIONS LIMITED : It's
+Murray King here from Optus. In respect to the EBITDA sequential movement, I'll probably refer you to
+page 29 of the MD&A where we talk about Consumer Australia sequential performance. We clearly cite
+there a slight growth in revenues, but the selling costs were higher quarter-on-quarter. This is somewhat a
+
+Page334of351©2018Factiva,Inc.Allrightsreserved.reflection of seasonality because in Australia because the March quarter we have the January holiday
+period and February (inaudible), we normally see a lot lower level of activity in the marketplace. So you've
+historically seen our EBITDA higher in the fourth quarter versus quarter one. Your point about the staff
+costs is correct. As we've moved to the owned and operated number of stores of around about 160-ish
+shops, we are incurring those staff costs. But that's more than offset by lower commission cost in respect to
+the previous franchise arrangement. So essentially, as Paul indicated earlier, it's a result of the seasonality
+in the higher selling costs quarter-on-quarter.
+
+PAUL O'SULLIVAN : Paul here. I think we'd reinforce that the cost discipline remains very strong at Optus
+and it's the 4.5% expansion in EBITDA year-on-year. And the way management sees this challenge at the
+moment is to build off that platform and to make sure we get some momentum back in the topline.
+
+ABHIJIT ATTAVAR: Thank you. I just wanted to have another question on the Singapore Enterprise
+EBITDA side where you have seen an 8% decline year-over-year on the EBITDA side. Clearly with more
+NBN open access, there would be a lot more pricing pressure from your competitors. This is a really high
+margin business for you. So if you've got a different market share, don't you see a lot more pricing pressure
+in EBITDA declines and this is a business which contributes almost a third to your consolidated EBITDA.
+So, how do you protect earnings of this business?
+
+CHUA SOCK KOONG: Bill?
+
+BILL CHANG : Thanks, Sock Koong. So if you look at that, the NBN is a key factor on that and where we
+are seeing it is in terms of moving away from carriage and bundling more services on those carriage. And
+in the SME segment, we do quite a fair bit of that, we do have a very strong hold in that in our fiber
+broadband rollout. In fact we are leading the market in the space with a lot of access rollout to sort of
+stronghold the [skews] there. Given some of the government's grants and all that they have launched over
+the last few months announced for the Singapore to help SMEs, we're certainly taking advantage of that in
+the fiber rollout adoption and our WiFi adoption for SME. So, definitely those are sort of opportunities that
+we are pursuing to tap into that.
+
+In the large enterprise, we are also rolling out similar strategies in terms of more services primarily in the
+area around unified communications and collaboration and also cyber security being a very major focus.
+And finally in the area of cloud, pushing greater; for example the G-Cloud, we're getting a lot of attraction
+there and also the Enterprise Cloud for commercial accounts. So if you look at that, the transition of this is
+going to require us to move much faster into that. The managed services portfolio you're seeing that is
+picking up speed in the space given some of the strong contributions to Q1. So, we expect to continue to
+do that and continue to drive the growth into the sector and also try and latch on to the infrastructure that
+the managed services would need to ride on.
+
+ABHIJIT ATTAVAR: And this seems an interesting strategy and I guess it will take time for the services on
+top of the network to pick up. But in the interim, isn't there a big differential between your current pricing
+and what would be the wholesale open access pricing and will your competitors not want to arbitrage this
+down? So in the near term, do you foresee more pressures on the EBITDA from this business? I'm talking
+about the next couple of quarters.
+
+BILL CHANG : Next couple of quarters we will see some pressure, but again like I said, it's about the
+portfolio management and trying to shoot that and not forgetting that you would see the pick on the MVN is
+also going to represent value creation for us from an OpenNet standpoint. So that's what Jeann talked
+about earlier, it's going to go to a part of the Group earnings as well. So for us as an operating arm, we're
+definitely moving this so we probably see a couple of quarters of this and then after that, we expect to try
+and uplift that. The other piece that we see there is some kind of a pickup also in the international front
+where the US market seems to have good activity and that should also be something to uplift for us from
+primarily US at the moment.
+
+ABHIJIT ATTAVAR: Thank you. And can I just understand what exactly was the transition on this large
+government ICT project that you had and how exactly is it affecting your EBITDAs?
+
+BILL CHANG : The transition actually refers to the Singapore Government's what's called a Standard
+Operating Environment, SOE project, for all the government infrastructure. So, we used to be a
+subcontractor of that.
+
+CHUA SOCK KOONG: I think basically we moved into a contract renewal phase and ultimately there is a
+pricing reduction and that (inaudible).
+
+BILL CHANG : And beyond the contracts, also from a subcontractor to a prime contractor now for this
+contract in second phase.
+
+ABHIJIT ATTAVAR: Understood. Thank you very much.
+
+Page335of351©2018Factiva,Inc.Allrightsreserved.OPERATOR: Steven Liu, Standard Chartered .
+STEVEN LIU, ANALYST, STANDARD CHARTERED EQUITY RESEARCH: First, maybe on the VoLTE.
+Since you launched the service, what do you see the pickup in the customer for VoLTE? I mean what kind
+of reception from the customers. Secondly, regarding your enterprise in Singapore. With now M1 has
+launched the enterprises service and also StarHub expanding the network coverage and there is also some
+[all-in] coverage. Do we see the pressure really coming up in the domestic enterprise markets? Thank you.
+KUAN MOON YUEN : I'm going to answer the VoLTE question first. I think first of all, VoLTE is actually a
+very new technology that has been introduced into the LTE network. There are very few handset devices
+today that actually supports VoLTE. So the network is ready and we are progressively turning on VoLTE for
+customers who come in with the handset that are enabled for VoLTE. So, it will take a while longer before
+all devices introduced in the market are VoLTE enabled not just in Singapore, but it will also require the rest
+of the world to catch up with this devices that are VoLTE enabled. So, it's actually very early days. I think
+the numbers are actually very small today, but obviously for those who actually have it will be good to enjoy
+the better quality and clarity of the VoLTE voice.
+
+CHUA SOCK KOONG: The enterprise competition in Singapore.
+
+BILL CHANG : The enterprise competition in Singapore, specifically we see this in two main sectors. One in
+the telecom providers not so much as the players who are the domestic players, but also international
+players because we serve a large part of MNCs. The other part is because of our IT services piece so we
+do also compete with IT services companies like IBM and HP and to the likes of Accenture and also to the
+Indian outsourcers. So, for both the global service providers and global IT services providers as well.
+
+STEVEN LIU: Okay. Thank you.
+
+OPERATOR: Prem Jearajasingam, Macquarie.
+
+PREM JEARAJASINGAM, ANALYST, MACQUARIE BANK LIMITED : Firstly, to what extent have we
+already converted all our ADSL subscribers to fiber and is this the key drag on the ARPU side for your
+broadband business? And secondly with regards to all our investments in LTE, could you share with us
+what you see in terms of the ARPU uplift, the LTE versus 3G, and potentially how that changes your views
+with regards to handset subsidies going forward? Do we see a need to increase subsidies going forward to
+get more people onto LTE handsets or are we comfortable with things as they stand and there's room for
+further declines in the handset subsidy lines? Thank you.
+
+CHUA SOCK KOONG: Just to clarify when you're talking about LTE, you're referring to Singapore or
+Australia?
+
+PREM JEARAJASINGAM: Singapore first and to a lesser extent Australia as well.
+
+CHUA SOCK KOONG: Maybe Moon, you can go first.
+
+KUAN MOON YUEN : We actually disclosed in our MD&A the fiber base is actually now 347,000 customers
+and the ADSL is 201,000, basically a much smaller number. So, actually last quarter I mentioned that we
+crossed over more than 50% actually on fiber. I think we have progressed that even further now so almost
+60% of our base are actually on fiber now. With respect to LTE, I think our long-term strategy is definitely to
+migrate all our postpaid 3G customers into LTE. Firstly, because LTE is a much more efficient network to
+carry data and with data growth and usage, you would expect our customers who are on the 4G network,
+who have better opportunity to use more data because it's faster and it's of higher quality than the 3G
+network in terms of data throughput and experience.
+
+So over time if you look at the 18% of our customers who exceed their data usage as we reported in the tier
+plan, majority of them obviously are on the 4G LTE network. Therefore you can anticipate that more
+customers on 4G means more data usage and it's going to be good for the business. In terms of handset
+subsidy, I think there are two ways of looking at how we migrate. Obviously if you look at our shops, our
+own China selling phones and services together, more than 90% of the phones that we carry today are
+actually 4G phones. So by natural attrition and customer change out, you will see that all our customers are
+actually going to be on a 4G plan. And obviously the customers can still buy their own 3G phones in the
+market, but then they will not be able to enjoy the better experience on a 4G network.
+
+So, it is natural that more and more customers will move into 4G without us having to oversubsidize to
+encourage the switch. And if you look at yesterday's new price plan, one of the reasons why we remove
+away the LTE VAS charge is actually to encourage more 3G customers to move into a LTE plan because if
+you slap on an additional add-on LTE charge, you are actually slowing down by creating more inertias for
+customers to switch over into LTE. So by removing that and bundling it into the entire combo plan, we are
+actually facilitating the migration faster and encouraging migration faster.
+
+Page336of351©2018Factiva,Inc.Allrightsreserved.PREM JEARAJASINGAM: Paul, on Australia?
+
+PAUL O'SULLIVAN : I was just going to really just say not much extra to add other than a few local points,
+which is just as we've discussed previously, there is definitely a larger uptake of data browsing on a 4G
+device. For us, that's a combination of the work we've done on making it safe to browse, I described it
+earlier with our new MyPlans. Also the fact that we've got data sharing, but also the device and the speed
+of the network does drive that. You've seen that in Australia handset subsidies have been declining over
+time and customers have been willing to pay more and despite that, we're still seeing very good take-up of
+4G. We've got just under 2.5 million 4G customers on our network now. We also see a growing trend in
+Australia of customers buying their own device and then doing a BYO plan because they like the flexibility
+that it gives. So I would say that it certainly is in our interest to keep ceding 4G devices, however I don't
+think it necessarily follows that that needs to drive an increase in subsidy and if anything, we may see some
+relief longer term of the entry into the market of the low cost handset providers. But for now, I'd simply be
+noting no major departure from trend is how we see it today.
+
+PREM JEARAJASINGAM: Great. Thank you very much.
+
+CHUA SOCK KOONG: Thank you, everybody. We've had a lot of interesting questions, but due to time
+constrains, we are going to stop the call here. Well, call us if you have questions. We have your names, we
+will contact you. So thank you very much again for calling in. Should you have further questions, please
+don't hesitate to contact the IR team in Sydney or in Singapore. On behalf of everyone in SingTel , thank
+you and goodbye.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO telas : Singapore Telecommunications Limited | tmasek : Temasek Holdings Pte Ltd
+IN i7902 : Telecommunication Services
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE singp : Singapore | usa : United States | austr : Australia | apacz : Asia Pacific | asiaz : Asia | ausnz :
+
+Australia/Oceania | namz : North America | seasiaz : Southeast Asia
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020140816ea8d00692
+
+Page337of351©2018Factiva,Inc.Allrightsreserved.

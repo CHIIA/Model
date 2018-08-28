@@ -1,0 +1,883 @@
+Graphite: The six steps to striking success
+
+HD Graphite: The six steps to striking success
+BY Andrew Scogings
+WC 3,183 words
+PD 26 November 2014
+SN Industrial Minerals (IM)
+SC INDMIN
+LA English
+CY © 2014 Metal Bulletin Limited. All Rights Reserved.
+LP
+
+TD
+
+This report aims to compare and contrast 21 listed graphite plays (13 ASX, seven TSX and one AIM) and
+shed some light on important factors to consider when assessing graphite (and indeed other industrial
+mineral) projects1. Andrew Scogings, IM Consultant, and Jason Chesters, Resource Analyst at Patersons
+Securities, look into the listed companies using parameters set out by Patersons in August. The project list
+is by no means exhaustive, and should be seen as a general perspective on the current state of play.
+
+The graphite sector remains highly topical and the share prices of most of the listed stocks continue to
+react positively, although they are well off the highs seen a few months ago. This is illustrated by the graph
+in Figure 1, which compares the price performance of the ASX-listed graphite sector relative to the ASX300
+Resources index over the past 12 months.
+
+Speculation over the impact of Tesla Motors’ planned ‘Gigafactory’, announcements by Dongfeng on their
+electric vehicle and hybrid electric vehicle (HEV) expansion ambitions, production closures and export
+taxes implemented in China, coupled with continued talk of M&A interest and the potential growth in
+applications for graphene serves to maintain interest in the sector.
+
+There exists a growing window of opportunity for new supply to enter the market. That said, the extent of
+new discoveries and planned production globally is well in excess of this opportunity and it is looking
+increasingly likely that many projects will fail to reach production.
+
+Many graphite explorers seem to be fixated on ‘biggest is best’ and, although resource tonnes and graphitic
+carbon content (grade) are key metrics in evaluating mining projects, the evaluation of graphite projects is
+more complex. Out of the myriad considerations, key attributes (in addition to size of deposit and grade)
+are flake size distribution, purity of the graphite and the extent to which the company has signed binding
+sales agreements.
+
+With regard to graphite flake size and purity, attention is drawn to JORC 2012 (Clause 49), which requires
+that industrial mineral resources or reserves must be reported in terms of mineral specifications.
+Furthermore, according to the Canadian Institute of Mining, Metallurgy and Petroleum guide to Best
+Practice (CIM 2003), “Market considerations incorporate not only the requirement for detailed market
+analyses and/or contracts of sale, but also recognition that markets for many industrial minerals are
+relatively small, may have a high degree of producer concentration, or may have very high technical
+barriers to entry, thus imposing limits or constraints on achievable market volumes.”
+
+Bearing the above in mind, we have compiled a quantitative matrix of six key factors that we consider
+important in ranking graphite plays in the current market. These are i) deposit size, contained graphite and
+enterprise value; ii) location (country risk); iii) flake size distribution; iv) product purity; v) product off take
+agreements and vi) timeframe to production (Tables 1, 2 and 3).
+
+Table 1: ASX-listed graphite projects, as ranked in July 2014
+
+MRL
+
+Kibaran
+Code
+KNL
+
+MRF
+
+Talga
+
+TLG
+
+Syrah
+
+Archer
+
+SYR
+
+Bora Bora
+AXE
+
+BBR
+
+Valence
+Uranex
+VXL
+UNX
+
+Triton
+
+Sovereign
+
+TON
+
+SVM
+
+Lamboo
+Lincoln
+LMB
+LML
+
+Page141of244©2018Factiva,Inc.Allrightsreserved.Gully
+
+8
+
+Vein
+
+Project
+Epanko
+Country
+Tanzania
+Sri Lanka
+Mineralisation
+Flake
+Factor 1
+8
+3
+Factor 2
+3
+2
+Factor 3
+8
+Factor 4
+4
+Factor 5
+6
+Factor 6
+4
+2
+Score
+33
+
+20
+
+10
+
+0
+
+2
+
+7
+
+Balama
+
+Nunasvaara
+
+Uley
+
+Campoona & Wilclo
+
+Warakapola
+Sweden
+
+Matale
+Mozambique
+Sri Lanka
+
+Australia
+
+Nachu
+Australia
+Tanzania
+Flake
+Flake
+
+Flake
+
+Flake
+Vein
+
+Nicanda Hill
+
+Duwi
+
+Mozambique
+
+Malawi
+
+Flake
+
+Flake
+
+6
+
+3
+
+6
+
+0
+
+4
+
+2
+
+2
+
+8
+
+2
+
+2
+
+19
+
+16
+
+McIntosh
+Kookaburra
+Australia
+Australia
+Flake
+Flake
+2
+
+5
+
+9
+
+0
+
+2
+
+6
+
+8
+
+8
+
+0
+
+4
+
+2
+
+27
+19
+
+Flake
+
+6
+
+8
+
+0
+
+2
+
+16
+
+3
+
+2
+
+3
+
+6
+
+4
+
+8
+
+2
+
+6
+
+6
+
+2
+10
+2
+35
+19
+
+10
+3
+
+3
+
+2
+
+6
+
+8
+
+4
+
+6
+
+2
+37
+7
+
+10
+3
+
+3
+
+2
+
+6
+
+8
+
+1) Deposit size, contained graphite and enterprise value; 2) location (country risk); 3) flake size distribution;
+4) product purity; 5) product off take agreements and 6) timeframe to production
+
+Source: PSL, July 2014
+
+Table 2: ASX-listed graphite projects ranked in November 2014
+
+Syrah
+
+Talga
+
+Archer
+
+SYR
+
+Bora Bora
+AXE
+
+TLG
+
+BBR
+Balama
+Nunasvaara
+
+Gully
+
+Warakapola
+Sweden
+
+Matale
+Mozambique
+Sri Lanka
+
+Australia
+
+Campoona & Wilclo
+
+Flake
+
+Flake
+Vein
+
+MRF
+
+MRL
+
+Kibaran
+Code
+KNL
+Project
+Epanko
+Country
+Tanzania
+Sri Lanka
+Mineralisation
+Flake
+Factor 1
+8
+3
+Factor 2
+3
+2
+Factor 3
+8
+Factor 4
+4
+
+Vein
+
+10
+
+0
+
+7
+
+2
+
+Valence
+Magnis*
+VXL
+MNS
+Uley
+
+Nachu
+Australia
+Tanzania
+Flake
+Flake
+
+Flake
+
+7
+
+8
+
+0
+
+6
+
+3
+
+8
+
+4
+
+6
+
+2
+
+3
+
+10
+
+6
+
+Sovereign
+
+Triton
+Buxton
+TON
+SVM
+BUX
+Nicanda Hill
+
+Flake
+
+Duwi
+Yalbra
+Mozambique
+Malawi
+Australia
+Flake
+Flake
+10
+7
+3
+9
+6
+
+9
+
+2
+
+6
+
+8
+
+4
+
+Lamboo
+Lincoln
+LMB
+LML
+McIntosh
+Kookaburra
+Australia
+Australia
+Flake
+Flake
+2
+
+5
+
+9
+
+2
+
+2
+
+8
+
+0
+
+4
+
+Page142of244©2018Factiva,Inc.Allrightsreserved.Factor 5
+6
+Factor 6
+4
+2
+Score
+33
+
+7
+
+0
+
+2
+
+21
+
+4
+
+6
+
+2
+37
+7
+
+0
+
+4
+
+25
+
+2
+
+2
+10
+2
+33
+25
+
+0
+
+4
+2
+31
+18
+
+0
+
+2
+
+23
+
+8
+
+2
+
+0
+
+2
+
+25
+19
+
+1) Deposit size, contained graphite and enterprise value; 2) location (country risk); 3) flake size distribution;
+4)product purity; 5) product off take agreements and 6) timeframe to production
+
+*Uranex now reported as Magnis
+
+Table 3: TSX- and AIM-listed graphite projects ranked in November 2014
+
+Mason
+Code
+
+Alabama
+Northern
+ALP
+
+Energizer
+Zenyatta
+EGZ
+
+Flinders
+FDR
+
+StratMin
+
+Focus
+FMS
+
+LLG
+
+Lac
+
+10
+7
+2
+4
+0
+2
+25
+
+ZEN
+
+Albany
+
+NGC
+Guéret
+Canada
+Flake
+
+Canada
+Flake
+
+Project
+Country
+Mineralisation
+Factor 1
+Factor 2
+Factor 3
+Factor 4
+Factor 5
+Factor 6
+Score
+
+Coosa
+Bissett Creek
+US
+Flake
+7
+6
+8
+8
+0
+2
+31
+
+5
+7
+10
+6
+0
+4
+32
+
+4
+7
+
+10
+0
+2
+23
+
+STGR
+
+Molo
+Madagascar
+Canada
+Flake
+Hydrothermal
+9
+1
+6
+6
+0
+2
+24
+
+Madagascar
+Flake
+
+Woxna
+Loharano
+Sweden
+Flake
+4
+10
+6
+2
+0
+10
+32
+
+3
+1
+10
+4
+10
+10
+38
+
+Lac Knife
+Canada
+Flake
+7
+7
+8
+8
+6
+4
+40
+
+1) Deposit size, contained graphite and enterprise value; 2) location (country risk); 3) flake size distribution;
+4) product purity; 5) product off take agreements and 6) timeframe to production
+
+Each factor receives a maximum score of 10 points and we equally weight each compiled factor. This
+results in a maximum score for each listed stock under consideration out of 60. Naturally, earlier stage
+explorers may be detrimentally impacted by some of the quantitative factors (e.g., resource not yet
+estimated; no metallurgical results), however this partially compensates for some of the increased risk
+associated with the stage of development and illustrates the dynamics of the graphite space.
+
+At this juncture, it should be noted that the graphite market is dynamic and that project rankings could be
+impacted in a number of ways, including:
+
+• Changes in the political landscape of the region where the project is located;
+
+• Fluctuating commodity prices, which could be exacerbated by foreign exchange variations;
+
+• Non-availablity of funding for exploration and development, or funding at a premium;
+• An economic deposit (ore reserve) may or may not be delineated, especially when flake size, purity and
+processing characteristics are taken into account;
+
+• The lab or pilot process test methods may or may not not scale up to successful production and meet
+anticipated yields, flake size distribution or product purity.
+
+Page143of244©2018Factiva,Inc.Allrightsreserved.The three highest ranked ASX graphite projects based on updated quantitative analysis continue to be
+those held by Syrah Resources (SYR), Valence Industries (VXL) and Kibaran Resources (KNL) as
+previously reported in July 2014 (Tables 1 and 2). The three most interesting TSX graphite projects are
+owned by Flinders (FDR) Focus Graphite (FMS) and Northern Graphite (NGC), while AIM-listed StratMin
+Global Resources (STGR) looks equally attractive with its Loharano project (Table 3).
+
+However, given the recent spate of exploration updates, results and resource upgrades released to the
+markets since 20 July, e.g., Archer Exploration (AXE), Buxton Resources (BUX), Lamboo Resources
+(LMB), Kibaran Resources (KNL), Triton Minerals (TON) and Uranex (UNX), now known as Magnis (MNS)
+it is possible that the rankings will change as projects evolve.
+Figure 1: Patersons Graphite Index (
+ASX listed stocks)
+Source: PSL, Bloomberg
+
+Factor 1 - Deposit size and quality
+
+The first factor scores the size (20%) and grade (30%) of the deposit as well as the Enterprise Value per
+tonne (EV/t) of contained graphite (50%). This factor encompasses the traditional size and grade metrics of
+a ‘normal’ (non-industrial mineral) deposit (where bigger and higher is better) and adds an element of
+valuation to the mix with the EV/t metric. The size (tonnage) is given the lowest weighting of the three
+parameters, as this is considered to be less important than grade and that a resource of >20m tonnes is
+relatively academic given the present size of the global graphite market.
+
+Syrah, Triton and Mason score the highest (10) on this factor, mainly as a result of significant size and/or
+grade of resource and commensurately a low EV/t, while Sovereign and Energizer (9) and Kibaran (8), also
+score well. The lowest scoring stocks are Lamboo and Magnis (2) (in the case of Magnis this is as a result
+of not having scores for size or EV/t, although we have assigned a value based on exploration target
+grades of 4-9%C at Nachu.). Figures 2-5 below show the results of this comparison. Figure 2 and 3 show
+bubble charts comparing deposit grade, size of deposit (in contained graphite) and enterprise value. As a
+result of the current size of the Syrah and Triton resources and the distortion that creates, we have
+excluded these companies from Figure 3.
+Figure 2: Comparison of EV, Grade and Contained Graphite including Syrah and
+Triton
+
+Figure 3: Comparison of EV, Grade and Contained Graphite exluding Syrah and
+Triton
+
+Factor 2 - Location
+The second factor scores the risk of project location using the Fraser Institute Annual Survey of Mining
+Companies 2013 (Policy Perception Index), supplemented with a subjective score for non-ranked
+countries. Country risk is often underestimated until the risk is realised, often with significant consequences
+for investors.
+
+The top scoring stocks in this factor are Talga and Flinders (10), with deposits in Sweden (currently the top
+ranked country in the world according to the survey), while Lamboo and Buxton (9) scored well with their
+projects in Western Australia. Canadian and South Australian plays ranked fairly highly, well ahead of poor
+performers
+
+with projects in Africa, Madagascar and Sri Lanka.
+
+Factor 3 - Flake size distribution
+
+The third factor scores the flake distribution (relevant only in flake graphite deposits as opposed to
+amorphous deposits) or suitability, of the graphite produced to be used in higher value applications. This is
+one of the more debated project factors as some stress its importance, while others play it down (usually
+those that do not have high proportions of larger flakes in their deposit).
+
+However, a number of facts about flake size are true. Firstly, the larger the flake (in a given deposit) the
+higher the purity of the graphite and the higher the price (all else being equal). In addition, as certain end
+use applications require certain minimum specifications of graphite, the demand profile for different flake
+sizes (among other factors) is a key driver in project decisions. For that reason, projects with particularly
+
+Page144of244©2018Factiva,Inc.Allrightsreserved.large proportions of ultrafine flake graphite may not proceed into development as this is the segment of the
+market most at risk of over supply.
+
+Flake size is one of the more difficult factors to rank, given that not all explorers report comparable size
+fractions and also that many explorers have not progressed to the stage of detailed metallurgical testwork.
+
+Figure 6 shows the flake size distribution based on our interpretation of information currently available.
+Magnis, Northern and StratMin score the highest on this factor (10), slightly ahead of Kibaran, Alabama
+and Focus (8) owing to their greater proportions of larger flake sizes relative to ultrafine graphite. Although
+Buxton reports coarse flake size based on petrographic evidence, this is insufficient to score this project.
+The two Tanzanian projects (Kibaran and Magnis) score higher than the two Mozambique plays (Syrah and
+Triton), suggesting an underlying difference in geological conditions. This may be related to original host
+rock composition and/or metamorphic grade. Archer has two projects: Campoona (fine flake less than 75
+micron) and Wilco (medium to large flake). The current Archer score is based on a weighted value for the
+two projects; naturally this would change if based solely on Wilclo.
+
+Talga has two projects, Nunasvaara and Raitajärvi, of which Nunasvaara has, to date, been the
+company’s main project. However, Raitajärvi is predominantly medium-to extra-large flake, hence this
+could change the Talga score as the projects progress.
+
+It is also worth noting that Valence, which according to its market release dated 9 October 2014, has
+reportedly discovered material containing some of the largest flake sizes ever discovered (flake graphite
+exceeding 4 millimetres). The significance of this discovery to its Uley graphite project is still being
+quantified and therefore is not included in this analysis.
+Figure 4: Total graphitic carbon (TGC %)
+
+Figure 5: EV/t of contained graphite
+
+Factor 4 - Product purity
+
+The fourth factor scores the purity of the graphite after simple processing (ie., before acid or thermal
+upgrading). As with flake size, product purity is difficult to ascertain from public reports and we also draw
+attention to the potential dificulty of predicting the effect of scaling up from lab and trial testing to full-scale
+plant production.
+
+Graphite purity is particularly important for the higher value end uses like lithium-ion batteries and is a key
+determinant in saleability of the product. It is also a key factor in the cost of production, as if further
+processing is required to make the product saleable, this could dramatically increase the operating cost.
+There is also an environmental consideration in whether acid leaching or thermal treatment is required in
+the product beneficiation and whether this may impact the attractiveness of the product for certain end use
+applications (eco-friendly applications may be particular about how the feedstock was produced).
+
+Simple processing can be altered in certain cases by including further grinding and flotation to produce a
+purer concentrate (to a point), however this does decrease the proportion of larger flake sizes in the final
+concentrate and increase the cost of production. Some deposits such as Loharano (StratMin), Epanko
+(Kibaran), Duwi Soveriegn and Coosa (Alabama) are deeply weathered; for example, Epanko, to 80 metres
+depth. Weathering causes oxidation and hydration, which softens the rock and breaks down gangue
+minerals such as entrained carbonates, sulphides and silicates; this may enhance flake liberation and
+hence purity.
+
+Figure 7 shows the purity of the product after simple processing. Zenyatta (10) scores highest on this
+metric followed by Syrah, Triton, Alabama and Focus (8), while Lamboo, Talga and Flinders have the
+lowest scores (2). The high purity seen at the Zenyatta Albany project is probably related to the
+hydrothermal mineralisation style. Buxton could not be ranked as no metallurgical testwork has been done.
+
+Although not included in Figure 7 the vein graphite projects in Sri Lanka (MRL Corp and Bora Bora) often
+have such high %C grades to start with, that simple sorting and processing is all that is required to produce
+a very high purity product.
+
+Factor 5 - Product offtake
+
+Given that an industrial mineral deposit without a market is merely a geological curiosity, the fifth factor
+scores the company’s success in signing binding offtake agreements and memoranda of understanding
+(MoU) for substantial portions of intended production.
+
+Page145of244©2018Factiva,Inc.Allrightsreserved.The graphite market is largely one of contracted sales agreements between buyers and sellers for product
+meeting the buyer’s specific requirements. For this reason, a formal sales agreement with buyers for a
+substantial portion of the intended production is of particular importance (there have been cases of
+companies being forced to close because they could not sell a large enough portion of product produced).
+We have given greater weight in our scoring to binding off take agreements as opposed to MoU and have
+rewarded greater proportions of production covered by such agreements (although any agreement is better
+than none at all).
+
+On this factor StratMin (10) and Lamboo (8) score the highest, followed by Kibaran and Focus (6).
+Figure 6: Flake size distribution
+
+Figure 7: Purity of concentrate
+
+Factor 6 - Timeframe to production
+
+The sixth factor scores the expected time to commercial production.
+The interest in securing ex-China sources of supply coupled with Chinese closures and the growth in
+higher specification product demand has resulted in a window of opportunity to introduce new supply to the
+market. The race to bring the right product to the market and secure those sought-after offtake agreements
+means that those companies further advanced in their timeline to first commercial production have an
+advantage over those further behind (on the assumption that they have the required product
+specifications).
+
+This factor scores Valence, Flinders and StratMin the highest (10) as they are either operational, or very
+shortly expected to be in commercial production. It is worth noting that Valence and Flinders are brownfield
+projects with a record of previous production, which is likely to shorten time to production. StratMin was
+also previously mined on a small scale prior to 1947, while the Alabama Coosa project was mined until the
+1950s, which should assist timeframe to production.
+
+Conclusions
+
+Aside from the factors discussed above, it is worth bearing in mind the evolution of the graphite sector and
+the potential growth in the market for graphene applications, as many of the companies mentioned in this
+report either personally conduct or financially support R&D into future commercial applications using
+graphene. While the market is in its infancy (annual demand estimated at between 500-1,000 tonnes) the
+potential for growth in demand for this product stream is considerable. In this regard it should be
+highlighted that Talga (in its Vitangi scoping study) has highlighted its ability and intention to initially
+produce 1,000 tonnes (scalable) of graphene as part of its overall 47,000 tpa production rate.
+
+In summary, while the graphite sector is dynamic, analytical problems exist in comparing companies based
+on publicly available information and the fact that new applications and product specifications are
+continually evolving, we believe the factors and analysis contained in this study correctly encapsulate the
+key drivers of a successful graphite project. While many of the projects discussed above may continue
+through to successful development and expansion, we ultimately believe that more will be disappointed.
+
+1 This is an update on a previous report covering 12 graphite-focussed ASX-listed companies (Jason
+Chesters; Patersons Securities Ltd (PSL), 20 July 2014: Your Guide to the ASX Listed Graphite Sector
+Industry Report - Get Your Dose of Carbon), which was covered online in IM on 15 August 2014
+
+IN i231 : Non-metallic Mineral Mining/Quarrying | ibasicm : Basic Materials/Resources | imet :
+
+Mining/Quarrying
+
+NS e1111 : Industrial Production | e11 : Economic Performance/Indicators | ecat : Economic News
+RE waustr : Western Australia | apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia
+IPD Features
+PUB Metal Bulletin Limited
+AN Document INDMIN0020141215eabq00009
+
+Page146of244©2018Factiva,Inc.Allrightsreserved.

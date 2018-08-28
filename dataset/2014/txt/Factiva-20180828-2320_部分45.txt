@@ -1,0 +1,794 @@
+Q3 2014 United Continental Holdings Inc Earnings Call - Final
+
+HD Q3 2014 United Continental Holdings Inc Earnings Call - Final
+WC 9,596 words
+PD 23 October 2014
+SN CQ FD Disclosure
+SC FNDW
+LA English
+CY © 2014 by CQ-Roll Call, Inc. All rights reserved.
+LP
+
+Presentation
+
+OPERATOR: Good morning and welcome to United Continental Holdings earnings conference call for the
+third quarter 2014. My name is Brandon and I will be your conference facilitator for today.
+
+TD
+
+(Operator Instructions)
+
+This call is being recorded and is copyrighted. Please note that no portion of the call may be recorded,
+transcribed, or rebroadcast without the Company's permission. Your participation implies your consent to
+our recording of this call. If you do not agree with these terms, simply drop off the line. I will now turn the
+meeting over to your hosts for today's call, Nene Foxhall and Jonathan Ireland. Please go ahead.
+
+NENE FOXHALL, EVP OF COMMUNICATIONS & GOVERNMENT AFFAIRS, UNITED CONTINENTAL
+HOLDINGS, INC.: Thank you, Brandon. Good morning, everyone, and welcome to United's third-quarter
+2014 earnings conference call. Joining us here in Chicago are Chairman, President, and CEO, Jeff Smisek;
+Vice Chairman and Chief Revenue Officer, Jim Compton; Executive Vice President and Chief Operations
+Officer, Greg Hart; and Executive Vice President and Chief Financial Officer, John Rainey.
+
+Jeff will begin with some overview comments, after which Jim will discuss revenue and capacity. Greg will
+follow with an update on our operations. John will then review our costs, fleet, and capital structure, after
+which we will open the call for questions, first from analysts and then from the media.
+
+(Caller Instructions)
+
+With that, I'll turn the call over to Jonathan Ireland.
+
+JONATHAN IRELAND, MANAGING DIRECTOR OF IR, UNITED CONTINENTAL HOLDINGS, INC.:
+Thanks, Nene. This morning, we issued our earnings release and separate investor update. Both are
+available on our website at ir.united.com. Information in this morning's release and investor update and
+remarks made during this conference call may contain forward-looking statements, which represent the
+Company's current expectations or beliefs concerning future events and financial performance.
+All forward-looking statements are based upon information currently available to the Company. A number
+of factors could cause actual results to differ materially from our current expectations. Please refer to our
+press release, Form 10-Q, and other reports filed with the SEC by United Continental Holdings and United
+Airlines for a more thorough description of these factors.
+
+Also, during the course of our call, we will discuss several non-GAAP financial measures. For a
+reconciliation of these non-GAAP measure to GAAP measures, please refer to the tables at the end of our
+earnings release and investor update, copies of which are available on our website. Unless otherwise
+noted, special charges are excluded, as we walk you through our numbers for the quarter. These items are
+detailed in our earnings release. And now, I'd like to turn the call over to Jeff Smisek, Chairman, President,
+and CEO of United.
+
+JEFF SMISEK, CHAIRMAN, PRESIDENT & CEO, UNITED CONTINENTAL HOLDINGS, INC.: Thanks,
+Nene and Jonathan, and thank you all for joining us on our third-quarter 2014 earnings call. Today, we
+reported pre-tax earnings of $1.1 billion, the highest quarterly profit in United's history. We earned $2.75
+per diluted share, nearly double our earnings per share in the third quarter last year. We had good revenue
+and cost performance in the quarter.
+
+Page123of290©2018Factiva,Inc.Allrightsreserved.Our revenue results demonstrate the progress we're making in our revenue management, network, and
+Express operation, while our solid cost performance largely reflects the early results of Project Quality,
+designed to deliver $2 billion of annual cost savings by 2017. During the quarter, we also returned $220
+million in cash to our shareholders under our $1 billion share buyback program.
+
+I want to thank our employees for their hard work during the summer and for their skills in responding to the
+multi-week outage of the Aurora [en] route FAA facility, which significantly affected our operations. They
+did a great job responding and handling the effects on our customers and I am proud of them.
+So far this year, we've made a number of improvements to our operations and will continue to focus on
+our reliability and product. Our goal is to deliver flyer-friendly service, a competitive product, and
+competitive margins. We're continuing to take steps to improve the customer experience for our
+passengers, including installing in-flight satellite-based WiFi and streaming video on our mainline fleet, as
+well as adding WiFi and streaming video on our two-cabin regional fleet.
+
+As of today, we have WiFi on more than one-half our mainline aircraft, nearly 200 of which are equipped
+with streaming video. By the end of the year, two-thirds of the mainline fleet will have WiFi and we will have
+begun installation on our two-cabin regional fleet.
+
+Our progress this quarter shows that our plan is working. We're excited about the opportunities ahead and
+this Management team is committed to executing in each area of the business to realize this Company's
+potential. We will continue to make progress against our plan and will take all appropriate actions to
+generate the level of earnings we and our shareholders expect. Now, I'll turn the call over to Jim, Greg, and
+John.
+
+JIM COMPTON, VICE CHAIRMAN & CHIEF REVENUE OFFICER, UNITED CONTINENTAL HOLDINGS,
+INC.: Thanks, Jeff. First, I'd also like to recognize our employees for running an ever-improving airline this
+quarter. I appreciate our employees' commitment to providing great service to our customers. I'd also like to
+thank our customers for choosing United. We are making strides each day to improve your flying
+experience and we appreciate your business.
+
+In the third quarter, United's consolidated PRASM grew 3.9% on capacity growth of 0.5% year-over-year.
+The improvements we've made to our Pacific network continue to pay off. Our new routes to Chengdu and
+Taipei have both performed better than expectations. We also continued to see strong results from
+transforming our Narita flying and regauging our Australia routes. Additionally, high demand for our China
+service during the peak summer travel season helped offset pressure from the continued industry capacity
+growth.
+
+Our trans-Atlantic flying was also able to absorb the additional competitive capacity and performed better
+than expected in the third quarter, largely driven by strong premium cabin bookings, particularly in London.
+Although the trans-Atlantic entity has experienced several recent pressures, including Middle East unrest,
+Ukrainian conflict, and more recently, concern about Ebola, we have not seen any meaningful impact on
+bookings to date. In the Latin American markets, particularly deep South America, we exceeded our
+expectations, recovering more quickly from the World Cup slowdown than we initially anticipated.
+
+In the third quarter, revenue from our total Corporate portfolio, including our rapidly growing PerksPlus
+product, grew approximately 5%. Ancillary revenue continued to grow in the third quarter, increasing
+approximately 11% per passenger and keeping us on track to achieve $3 billion in ancillary revenue in
+2014.
+
+During the quarter, Economy Plus revenue increased by double-digits due to enhanced pricing optimization
+and a lower refund rate. We decreased the refund rate by implementing an improved solution for reseating
+customers during aircraft swaps. Additionally, we recently began to sell Economy Plus through the
+Amadeus and Sabre distribution systems, allowing our travel management partners and travel agencies to
+seamlessly book extra legroom seats for our customers, further driving additional Economy Plus sales.
+
+We are pleased with the progress we're making on improving our revenue thus far and we still have many
+more opportunities to optimize the value of our network. On the last earnings call, I introduced our
+three-pronged approach to growing passenger revenue, enhancing our revenue management practices,
+optimizing our network and schedule, and improving our United Express operations. I'd like to provide you
+with an update on each of these areas.
+
+First, in revenue management, our booking curve optimization initiative increased third-quarter PRASM by
+1 point. Additionally, our recently restructured Premium cabin fares on many of our domestic and short-haul
+Latin flights added a 0.5 point of PRASM in the third quarter and increased the Premium paid load factor on
+these routes by 12 points year-over-year to 40%.
+
+Page124of290©2018Factiva,Inc.Allrightsreserved.Second, our recent changes to the network and schedule are improving the bottom line as well. In the
+second quarter, for example, we significantly reduced flying from Cleveland and realized the full effects of
+this change to the network in the third quarter. We expect the run rate annual benefit of this change to be
+approximately $60 million.
+
+We are making progress on other network and schedule initiatives, including our redesign of the flight
+[bank] structure at our hubs in Chicago, Denver, and Houston. We implemented the newly rebanked
+schedule in Denver at the end of September and will follow with Houston late this year and Chicago in
+March of 2015. This phased rebanking will allow for optimal peaking across the network during the
+high-demand summer period next year.
+
+Additionally, we continue to increase the seasonality of our flying. We view seasonal shaping as an
+additional step in our commitment to capacity discipline. By adding more flying to the peak summer travel
+period and reducing flying during the lower demand shoulder periods, we expect to improve our yield over
+the full year.
+
+This will be most notable in the trans-Atlantic markets. For example, in July 2015, we will fly over 40% more
+trans-Atlantic capacity compared to February 2015, while we expect our full-year trans-Atlantic capacity in
+2015 to continue to reflect appropriate capacity discipline. We expect this seasonal scoping of capacity to
+generate almost a 0.5 point of PRASM improvement in our trans-Atlantic entity for the full year of 2015.
+
+This quarter, we launched a new initiative to consolidate departure frequencies throughout the network.
+Frequency consolidation will reduce cost, improve reliability, improve the product offering, and provide
+more Premium seating. As an example, in January, with our Denver to Minneapolis route, we are reducing
+service from five flights per day, comprised of a mix of Express and mainline aircraft, to four flights per day,
+comprised exclusively of mainline flying on weekdays. In this example, we are only increasing our daily
+seats by 3%, while increasing seats per departure by approximately 30%.
+
+We've already implemented similar changes in other routes in Chicago and Newark. The effect of these
+changes will be seen throughout the network, as we plan on increasing gauge by 5% in 2015, while
+reducing departures by 3%. The effect will be most pronounced in Chicago, which will see average daily
+departures drop approximately up to 8% and seats per departure increase up to 10% in some months. This
+not only drives efficiency-related margin improvement, but also helps to better manage the congested air
+space around O'Hare.
+
+Third, we continue to make good progress on improving our United Express operation. This quarter, we
+announced that we will add 50 incremental two-cabin E175s to our fleet and we will remove 31 Q400
+propeller aircraft beginning in 2015. Including these regional fleet changes, we expect to have 85 E175s in
+our fleet by the end of next year.
+
+Our continued progression to more modern, consistent, fuel-efficient, and larger gauge regional aircraft will
+improve the operational and revenue performance of our Express operation, while substantially improving
+our product offering. For each 50-seat aircraft an E175 is replacing, we expect to generate over $1 million
+of annual improved profitability. In summary, we are pleased with the initial progress of our three-pronged
+revenue initiative, but we recognize that it will take some time before we realize the full benefits.
+
+Before turning to fourth-quarter revenue guidance, I would first like to remind you of a 1.5 point PRASM
+tailwind we received in the fourth quarter of 2013. As we explained in our fourth-quarter 2013 traffic
+releases, this tailwind was due to certain interlying ticket reconciliations. As this was one time in nature, we
+will be facing a 1.5 point PRASM headwind in the fourth quarter of this year. Taking this into account, we
+expect our [unit] revenue to be essentially flat in the fourth quarter of 2014 compared to the fourth quarter
+of 2013.
+
+The domestic entity continues to display strong demand in the fourth quarter. Continued capacity discipline
+has supported the consistent unit revenue growth in the last several quarters and we expect domestic
+strength to continue into the fourth quarter. The Atlantic region is demonstrating improved capacity
+discipline in the winter period. In the Atlantic, we expect that the United joint venture with Lufthansa and Air
+Canada will reduce trans-Atlantic capacity by approximately a 0.5% this winter, with United down 3%.
+
+As previously mentioned, our Pacific strategy is yielding solid results; however, we continue to see roughly
+20% competitive capacity growth between the US from both Shanghai and Beijing, which is putting
+pressure on our unit revenue performance, as peak summer demand tapers off. Additionally, the
+weakening yen is applying renewed pressure on our Narita flying.
+
+We expect the combination of these two factors, as well as increasing stage lengths due to our newly
+launched margin-accretive Pacific routes, to provide approximately 1.5% headwind to our consolidated
+PRASM performance for the fourth quarter. In spite of these challenges, the Pacific remains a solidly
+
+Page125of290©2018Factiva,Inc.Allrightsreserved.profitable entity for United and continues to be one of the fastest growing regions in the world. United is the
+best-positioned US carrier to capitalize on this growth in the future.
+
+In the Latin markets, we will grow our capacity in the fourth quarter along with many of our peers. We
+expect to grow our seasonal capacity by double-digits in the high-demand fourth quarter, driven primarily
+by capacity expansion in the beach markets. This fourth-quarter seasonal growth allows us to more
+opportunistically and efficiently redeploy marginal capacity from elsewhere in the network on a seasonal
+and day-of-week basis. However, as is often the case with significant capacity additions, we expect to face
+PRASM pressure in the Latin entity in the fourth quarter, but believe these additions will be profit
+maximizing for the overall network.
+
+Turning to our consolidated capacity, we expect our consolidated capacity in the fourth quarter to grow
+0.5% to 1.5% year-over-year. As we look toward 2015, we expect to grow consolidated capacity by 1.5% to
+2.5% for the full year, with 0.5% to 1.5% growth in our domestic entity. This growth will be very efficient.
+
+Approximately one-half of this growth will come from the installation of slimline seats and upgauging of
+aircraft. The remaining growth will come largely from increasing the utilization of our fleet, as our improving
+operation permits us to reduce fares and the completion of aircraft modification programs allows us to
+return aircraft to regular service.
+
+As United, we remain committed to growing capacity below GDP, as we believe this strategy will generate
+the best opportunity for margin expansion. In conclusion, I am pleased with our continued improvement in
+revenue management, network planning, and our Express operation, and I'm excited about the many
+significant opportunities we have ahead of us. With that, I'll turn the call over to Greg.
+
+GREG HART, EVP & COO, UNITED CONTINENTAL HOLDINGS, INC.: Thanks, Jim. I would also like to
+take this opportunity to thank our employees for their tremendous efforts in the third quarter. This quarter
+presented many unexpected operational challenges, like the fire at the FAA's facility in Aurora and we
+appreciate their hard work and dedication to transforming United into a more efficient, flyer-friendly airline.
+At United, we are reinventing the airline from an operational standpoint and are focused on becoming
+better and more efficient in everything we do.
+
+Over the last year, we have transformed our approach to the business. We don't take past practices as a
+given. Instead, we challenge ourselves to find new and better ways for everything we do, each and every
+day. When we talk about reinventing the business from an operations perspective, we think of it in three
+broad categories: reducing variability, leveraging technology to improve our handling of irregular
+operations, and streamlining and simplifying our operations.
+We have many initiatives underway to reduce the variability in our operations. One example is more
+effectively positioning spare parts into the appropriate stations where they are needed. Through this effort,
+we've reduced spare parts-related cancellations in the third quarter by more than 20% year-over-year. This
+improvement in reliability allows us to reduce the number of spare aircraft, which in turn improves fleet
+utilization and revenue.
+
+We are also taking steps to improve our reaction to and recovery from irregular operation, which are largely
+driven by weather and air traffic control delays. Our goal is to more effectively run the operation during
+irregular events and then rebuild our airline as soon as the event passes. To improve the operation during
+such events, we are deploying technology solutions to more strategically cancel flights and more
+opportunistically route passengers around impacted regions.
+
+We are also developing new mobile tools for our airport agents to more quickly assist passengers during
+irregular operations. For example, these tools will allow roaming agents to scan boarding passes in order
+to quickly assist passengers in determining optimal rerouting opportunities.
+We also have significant opportunities to streamline and simplify our operations. There are numerous
+initiatives underway focused on driving efficiencies through simplification. As mentioned on the previous
+earnings call, we are reducing the number of Express carriers operating in each hub. At the same time, we
+are reducing Express fleet combination in several airports. As an example, in Washington Dulles, we are
+going from eight Express aircraft types down to five. These simplification efforts allow us to reduce the
+number of Express maintenance bases by nearly 25% through base consolidation.
+
+While we are proud of the improvements we are making in the operation, we are excited about the many
+opportunities we have to make us a more reliable and efficient airline. With our assets, dedicated
+employees, and ability to execute, we expect to continue to improve our operation over the coming
+quarters. With that, I'll turn the call over to [Jeff].
+
+JOHN RAINEY, EVP & CFO, UNITED CONTINENTAL HOLDINGS, INC.: Thanks, Greg. And thanks to
+everyone for joining the call this morning. Up want to reiterate my appreciation to the United team for their
+
+Page126of290©2018Factiva,Inc.Allrightsreserved.hard work throughout this quarter. Throughout the Company, our employees are making meaningful
+improvements to United and I appreciate their efforts.
+Today, we reported $1.1 billion of pre-tax income for the third quarter. Our third-quarter earnings per
+diluted share were $2.75, nearly double our earnings per share in the third quarter of last year. Our return
+on invested capital over the trailing 12-month period reached 12.3%, the highest result in the last three
+years. Our operating margin was 11.7% and our pre-tax margin was 10.2%, both more than 450 basis
+points higher than last year.
+
+We're pleased with the continued financial improvement we've made and we're excited about our
+opportunity to significantly grow earnings. We are all working hard to increase our revenue and improve our
+efficiency to generate the level of earnings we and our shareholders expect. Our third-quarter consolidated
+CASM, excluding fuel, third-party business expense, and profit sharing, increased 1% year-over-year.
+
+We are continuing to make good progress on our Project Quality initiative. This year, we expect to achieve
+nearly $200 million of fuel savings, and now expect over $300 million of non-fuel savings. Our full-year
+estimate for both of these numbers has increased with each quarter this year as we continue to perform
+better than our original expectation.
+
+A key component of the non-fuel savings is productivity and we continue to make great progress in this
+area. This quarter, we improved productivity by 4%, marking the fifth consecutive quarter in which our
+productivity has increased, keeping us on track to achieve our 2014 goal of a 3% improvement. We expect
+fourth-quarter non-fuel CASM to increase between 1.25% and 2.25%, resulting in a full-year CASM
+estimate in line with our original guidance, despite a 1 point reduction in our capacity projection that we
+provided at the beginning of the year.
+In the third quarter, we returned $220 million to shareholders through a combination of an accelerated
+share repurchase program and open market transactions. We are pleased with the early progress we have
+made in our $1 billion share buyback program and we will continue to opportunistically repurchase shares
+over the coming quarters.
+
+We're making good progress in improving our balance sheet. In the third quarter, we redeemed the entire
+$800 million of our 6.75% secured notes. At the same time, we closed on a transaction under our existing
+$1.9 billion credit facility, in which we increased the size of our undrawn revolver by $350 million to a total
+of $1.35 billion, and also issued an additional $500 million tranche of term loan debt.
+
+We've also made meaningful progress in reducing our convertible debt. Earlier this month, we retired all
+$248 million of our 6% convertible preferred securities due in 2030. We also issued a redemption notice
+for the remaining $56 million of our 6% convertible debt due in 2029. Furthermore, in January 2015, the
+$202 million outstanding of our 4.5% convertible notes will mature.
+
+Following that maturity, we will no longer have any outstanding convertible debt. This represents a $1.9
+billion reduction in convertible debt since the merger. These transactions are representative of our stated
+long-term goal to reduce gross debt to $15 billion while maintaining an appropriate level of liquidity.
+Our capital expenditures in the fourth quarter were $493 million, and in the fourth quarter, we expect to
+spend approximately $1 billion. We plan to take delivery of five 737-900ERs, one 787-8, one 787-9, and
+11 E175s in the quarter. Apart from the additional E175s that Jim already mentioned, earlier in the quarter,
+we announced an agreement with Boeing to convert seven 787-8s, delivering between 2017 and 2018, into
+larger, more efficient 787-10s, that will be delivered in 2022 and beyond.
+
+In addition, we recently decided to retain 11 767-300ER aircraft that we had originally planned to retire and
+will invest in these aircraft with new interiors, winglets, and reliability modifications to extend the useful life
+of these aircraft into the next decade. In addition, we continue to explore the used aircraft market to find
+suitable aircraft that will allow us to reduce CapEx and right-size our fleet without substantially increasing
+fleet complexity. For example, we recently reached an agreement to purchase two used 737-700s to
+backfill flying as 50 seaters exit the fleet. These changes to the fleet plan demonstrate our discipline in
+managing our capital allocation.
+I'm encouraged by our third-quarter performance and the progress we're making to expand revenue,
+reduce cost, improve the balance sheet, and return cash to shareholders. Through these actions, we are
+expanding earnings and demonstrating our commitment to increasing shareholder value. I'll now turn it
+over to Jonathan to open up the call for questions.
+
+JONATHAN IRELAND: Thank you, John. First, we will take questions from the analyst community. Then
+we will take questions from the media.
+
+(Caller Instructions)
+
+Page127of290©2018Factiva,Inc.Allrightsreserved.Operator, please describe the procedure to ask a question.
+
+Questions and Answers
+
+OPERATOR: (Operator Instructions)
+From Cowen and Company, we have Helane Becker on the phone. Please go ahead.
+HELANE BECKER, ANALYST, COWEN AND COMPANY: GDP forecasts keep changing on an almost
+daily basis. Can you just talk about the leverage you have to adjust capacity, either if GDP slows from
+current forecasts for next year or accelerates?
+
+JIM COMPTON: Hey, Helane, this is Jim. We have a history of creating a flexible fleet plan and that is --
+clearly, as we head into 2015, we have the ability to adjust our capacity to economic changes. We gauge
+GDP forecast based on consensus out there, so you're right, it does move around. But we do have the
+ability with utilization of the aircraft, working really closely with our tech house team to more finely tune
+when we can do work on our airplanes to also.
+
+The history of the flexible fleet plans continues for us and we have great flexibility to adjust to the economic
+environment. And we will -- it is about keeping demand and capacity in line and that's what we're really
+focused on.
+
+HELANE BECKER: Okay. And then just as a follow-up question to that capacity comment you made about
+Chicago going to more seats per departure and fewer departures per day, are you worried that competitors
+will come in and backfill what you're doing with additional capacity?
+
+JIM COMPTON: Helane, it's obviously a very competitive business that we're in and so that schedule that
+we'll be building in Chicago will be a very attractive schedule to the business passenger, as well as the
+leisure passenger. We're confident with the seat growth that we apply by upgauging, that we'll be very
+competitive in the market.
+
+HELANE BECKER: Great. Thanks very much.
+
+OPERATOR: From JPMorgan, we have Jamie Baker on the line. Please go ahead.
+
+JAMIE BAKER, ANALYST, JPMORGAN: Hey, good morning, everybody. I want to commend you on
+showing significant relative margin improvement in the third quarter. You basically halved the operating
+margin deficit relative to Delta, but it looks like you're guiding for a bit of slippage in the fourth quarter. You
+have explained why. That's fine. If we set aside the first quarter of next year, where we at least hope that
+you're going to have ridiculously easy weather comps, in what quarter next year do you expect the
+initiatives that you've been talking about here to be showing the most relative momentum to the industry?
+
+And furthermore, do you have an internal target as to where you'd want your relative margins to be by the
+end of next year? And I'm not trying to pry guidance out of you. I'm just curious as to whether you believe
+you can achieve margin parity with other best-in-class operators. If you think you can, when?
+
+JOHN RAINEY: Jamie, this is John. I'll tell you, I can't predict necessarily what other carriers are going to
+do. I'm going to tell you that we're focused on United Airlines and what we can do to create value for our
+shareholders. We recognize we have some further improving to do. This was a record profit for us this
+quarter. Our guidance in the fourth quarter would lead you to what is also a record profit for United in the
+fourth quarter.
+
+We've talked about our desire to make money in the first quarter and we want to continue to expand
+earnings. We are only about 25% of the way through our Project Quality initiative. We're in the very early
+stages of our revenue initiative. And so we think that we've got a lot of improvement, a lot of opportunity in
+front of us.
+
+We would all like to close that margin gap as soon as possible. I promise you that the team here is
+extremely focused on it. We don't like our relative place in the industry, that's a fact, and we think that
+we've got a lot of opportunity to improve.
+JAMIE BAKER: Excellent. And a follow-up for Jim Compton. Ultimately, Jim, what solves the China
+problem? And I only ask because, again, bringing up Delta, they have a decent solution for Tokyo longer
+term. It's called Seattle. But in your case it's tough for me to see what you can actually do about China,
+until such time that your competitors there suddenly wake up and choose to focus on returns. Is there a
+better Chinese strategy other than simply hope?
+JIM COMPTON: Hey, Jamie, we're -- obviously, China is a big part of our network and a very profitable
+part of our network. It's a very strong, growing part of the world from a demand perspective. We continue to
+
+Page128of290©2018Factiva,Inc.Allrightsreserved.expect that. So our footprint there, we think, is the best position. I'll tell you our strategy is well beyond
+hope.
+
+If you think about the things that we're doing with the flexibility of our fleets, the 787, San Francisco to
+Chengdu is a perfect example of that, that we're tapping into that growth in China in ways that, quite
+frankly, our competitors can't, as we continue to match capacity and demand. So we call it our second
+phase of our Pacific; that's combined with what we're doing in Tokyo with our JV partner to put the flying
+out of Narita, work with them, much [color posed here] on the connections. But as it is to China, we're well
+positioned and we feel we have lots of opportunity to do well as that market continues to grow.
+JAMIE BAKER: Is there much regulatory appetite for potential JV immunization with Chinese carriers?
+
+JEFF SMISEK: Jamie, this is Jeff. We're not going to be able to get JVs with, for example, our partner in
+China, until China goes open skies. As that--
+
+JAMIE BAKER: Right.
+
+JEFF SMISEK: But whatever period of time it takes. Clearly, that's something we would be keenly
+interested in, where we'd have the regulatory authority to do that, but we don't have that yet.
+JIM COMPTON: And I would add to Jeff's comments, working with Air China, some of the success of
+Chengdu being ahead of our expectations is the connections that they're building for us in Chengdu. So
+we'll continue to work with that from an alliance perspective with our Star partners.
+
+JAMIE BAKER: John, Jim and Jeff, I appreciate your answers. Take care.
+
+OPERATOR: From Wolfe Research, we have Hunter Keay on the line. Please go ahead.
+
+HUNTER KEAY, ANALYST, WOLFE RESEARCH: Hey, thanks very much. Hey, a question for John. I
+don't mean for this to sound antagonistic at all, I don't, but I can't think of another way to ask it. If a
+company doesn't qualify for hedge accounting, doesn't that mean that the company is just speculating
+with commodity derivatives that don't correlate to the price of the commodities that they use?
+
+JOHN RAINEY: Not necessarily, Jamie. The accounting rules are around getting hedge accounting
+treatment. I'll give you one example. If you don't have an equal number of bought and sold, call and put
+positions, that doesn't allow you to get hedge accounting. You have to -- so for example, if you did a collar,
+a bought call and a sold put, you get hedge accounting, but if you were to then go out and mitigate the cost
+of that by selling a call at the high end, say $140 of Brent, that precludes you being able to get hedge
+accounting.
+
+I'll tell you that our hedge philosophy here is one of risk management. This is our single largest expense
+that represents $12 billion to $13 billion for us annually. We think that taking some risk off the table in the
+near-term is a prudent thing to do. We've had this discussion before with you. I know that, philosophically,
+we agree that, long-term, the industry needs to be able to adjust capacity and, therefore, its prices to
+compensate for its price inputs. Given the nature of our business, that we sell tickets 330 days in
+advanced, that we schedule employees for many months in advance sometimes, it's difficult to adjust
+capacity in the very near-term, which is why our hedge position is more heavily weighted, close in.
+
+HUNTER KEAY: Okay. Thank you, John. I appreciate that. And a little bit more on the previous question. In
+terms of open skies with China, Jeff, do you believe that a pacing item for open skies to occur -- because if
+you look at prior open skies agreements with the Japanese and with the EU, it's some sort of free market
+concept for slot-controlled airports. So is it fair to assume that we should pretty much never assume China
+is ever going to grant open skies because they're not going to relinquish control over slots at Beijing and
+Shanghai?
+
+JEFF SMISEK: I don't know. It's a good question, Hunter, and I don't know the answer to it. That's going to
+require work by US carriers pushing our own government to be flexible and to make sure that there are a
+fair allocation of slots to US carriers and that's, as you allude to, our government's experience with Japan,
+in particular, with Haneda, is a good example of that. That's a difficult process. What -- I wasn't predicting
+necessarily a near-term open skies agreement with China. I was just saying that if there were one, it would
+be necessary. That's a predicate to having a joint venture.
+
+HUNTER KEAY: Thank you very much.
+
+OPERATOR: From Deutsche Bank, we have Michael Linenberg on the line. Please go ahead.
+
+MICHAEL LINENBERG, ANALYST, DEUTSCHE BANK: Good morning, guys. Just a couple here. Jim,
+appreciate that you gave us the quarterly PRASM guide and highlighted the headwind. Can you give us,
+
+Page129of290©2018Factiva,Inc.Allrightsreserved.maybe, an early read on October? And I'm asking because I know last year we did have the government
+shutdown, and as I recall, that was -- maybe it was 1 point, 1.5 point headwind. Any color on October, how
+things are shaping up?
+
+JIM COMPTON: Hey, Mike.
+
+MICHAEL LINENBERG: Hey.
+
+JIM COMPTON: We don't comment on a specific month, but you're right, just in terms of last year with the
+government shutdown, the beginning of the month and then it's coming back about October 16 last year,
+there was clearly, from a government traffic, as well as business traffic associated with government-type
+fares, strength year-over-year in that area and we did see that so far in October. We're now back to
+year-over-year where the government shutdown was over.
+
+MICHAEL LINENBERG: Okay. Great. And just my second question, on the seasonal shaping, as we move
+into the early part of 2015, conceptually, it does make a lot of sense, to really ramp up when demand is
+strongest. But given the adjustments there on capacity, you highlighted the trans-Atlantic numbers, can you
+talk about just some of the potential execution risks here? Is this -- could we see this go very wrong or do
+you feel like you have the systems, the controls, the ability to move people around?
+
+I know there have been some structural changes, like on how you staff up at airports, for example, and the
+way some of the new contracts have been structured. Just highlight some of the things that we should be
+looking for so that we know that -- to go from X to X plus 20% on capacity in particular markets, that you're
+operating well?
+
+JIM COMPTON: Mike, this is Jim again. What we're doing with the seasonal capacity change is a process
+internally that we started a long time ago. By that I mean, the network planning group has worked
+hand-in-hand with our operations folks. Because you're right, there is a lot of coordination in terms of
+having utilization of the aircraft there, the crews, and so forth, and the ability for the stations to handle the
+schedule.
+
+So we're really confident where we're at in it because the process began a long time ago and we're right on
+timeline for the execution to go very well. And we're excited about it because, obviously, that peak summer
+demand will drive the full year. We talk about adding a 0.5 point of PRASM to our trans-Atlantic entity into
+2015 with this network change that we're doing.
+
+MICHAEL LINENBERG: Okay. Very good. Thanks, Jim.
+
+OPERATOR: From Morgan Stanley, we have John Godyn on the line. Please go ahead.
+
+JOHN GODYN, ANALYST, MORGAN STANLEY: Thanks a lot for taking my question. Just one on costs
+and one on capacity. First on costs, John, you had some good commentary about how you're tracking
+versus the cost reduction plan that was announced toward the end of 2013. I'm curious if you could just
+speak to whether opportunities are being pushed forward or outright upside to the plan is being created and
+how we might revise the $1 billion fuel and $1 billion ex-fuel numbers, if in fact there is now upside being
+found?
+
+JOHN RAINEY: John, it's a good question. I would characterize our progress thus far as really more the
+opportunity has been greater than what we expected on the initiatives that we've embarked on, rather than
+sliding forward initiatives. There have been some exceptions, but those go both ways. When you get into
+this, some things take longer than you expect and some things you can accelerate.
+
+But generally, what we've seen is where there have been opportunities, we've exceeded our expectations
+and I really credit the employees for this. This is, just across the board, you see every single work group,
+where there's a real drive for efficiency. I'll give you an example. In the third quarter, overtime in our
+maintenance group was about 2 points better year-over-year and that doesn't really mean much just in
+terms of dollars in that statement, but 1 point overtime change for maintenance is about $10 million to $12
+million annually.
+
+This is just really running a better, more efficient operation and you see that in the bottom line. And that's
+one example. We see it in our res group, we see it in our airport groups. We've got better staffing with our
+flight attendants. They're really a huge drive across the Company and clearly everyone is on board.
+
+JOHN GODYN: And if this is really a momentum and a cultural dynamic in the background, it sounds like it
+could last even for the next few years. I wonder, is it possible that by the end of this plan, we find that we're
+hundreds of millions of dollars above the $1 billion ex-fuel and $1 billion fuel that you outlined at the end
+of 2013?
+
+Page130of290©2018Factiva,Inc.Allrightsreserved.JEFF SMISEK: Hey, John, this is Jeff. One of the things -- the point you make is a very good point. One of
+the things, this Project Quality is designed to deliver $2 billion of efficiencies to cost savings by 2017, but
+it's not going end in 2017. What we're instilling here is a culture of efficiency and continuous improvement
+something that this industry has woefully lacked, candidly.
+
+This is the first step of what we're doing. We have a lot of confidence in achieving the goals that we set
+forth in November of 2013, but it won't stop in 2017. This is a way of thinking. This is a way of questioning
+how and why we do things and how we can do things more efficiently, better for our employees, better for
+our customers, and clearly better for our bottom line.
+
+JOHN GODYN: Got it. And if I could just ask a question on capacity. Jim, you offered a lot of tactical
+commentary in the short-term about how you're managing different market dynamics, but when I think
+about the 2015 guidance and the fact that you're still growing a bit faster in international than in domestic, I
+just wonder is there appetite for maybe more structural change to how you think about international versus
+domestic, because you're [overweight] position in international still comes up as one of the largest risk
+factors, at least in my conversations with investors?
+
+JIM COMPTON: Hey, John, this is Jim. The capacity guidance -- let me put a little context around the
+international piece of 2015, because as we've talked a lot about, the seasonal shaping of trans-Atlantic,,
+that really implies really low single-digit capacity growth for the Atlantic entity in 2015. As you think about
+Latin America in terms of routes that make a lot of sense for us to complete our portfolio, we are beginning
+this year adding Houston to Santiago. It's for a long time been a big ask from our corporate partners to
+serve that market, so we're really excited about it.
+
+So 2015, in that sense, becomes a run rate of that new market that we're very excited about. So it's very
+strategic in terms of what we're trying to do from a business side. We also are starting in this year Denver
+to Panama, and so the run rate of that market is also into growth. And then the rest is, what I mentioned in
+my script, is we're seeing really strong demands in the beach markets.
+
+For instance, we can take a Chicago-LaGuardia trip on a Saturday and fly from Chicago to Cancun on that
+same Saturday and we'll -- it generates incremental capacity into Latin America, but from a margin
+perspective, it's actually very accretive. So the way we think of this all is in the context of what we're trying
+to do strategically: be capacity disciplined, build on our strengths, and do that with different levers. One of
+the levers is some of the seasonality. When you think about the Latin, you get into mid-single-digit type of
+growth in that area with what I described.
+
+In the Pacific, just to close that out, we're really excited about starting LA to Melbourne this year and you're
+going to have the run rate of that. And again, it's as much about ultimately getting out of our tag Sydney to
+Melbourne that is very expensive for us to operate, but allows us to serve Melbourne. The 787-9 becomes
+the great airplane [to solve] that will have that run rate capacity in there.
+
+And then we have the run rate of San Francisco to Chengdu and San Fran to Taipei capacity, that I've
+already noted is running ahead of expectations. That gets us in the mid-single digits in the Pacific. So the
+international capacity we think fits very well with our capacity discipline, although because of the run rate
+and some of the things we're doing in the beach markets, generates a capacity next year at the level that
+maybe you're inferring.
+
+JOHN GODYN: Okay. Thanks for the color.
+
+OPERATOR: From Credit Suisse, we have Julie Yates on the line. Please go ahead.
+
+JULIE YATES, ANALYST, CREDIT SUISSE: Good morning. Thanks for taking my question.
+
+JIM COMPTON: Good morning, Julie.
+
+JULIE YATES: I realize it's a little early to be giving 2015 cost guidance, and you guys are still in the middle
+of your budgeting process, but from a high level, how should we be thinking about the non-fuel unit cost
+growth in 2015, especially in light of the fact that Project Quality seems to be doing a little bit better than
+you originally expected?
+
+JOHN RAINEY: Julie, we've characterized our cost goal as being one where we expect to grow non-fuel
+cost at something less than inflation. I appreciate that's a little bit vague as inflation can bounce around. It's
+a long-term goal, and we may see that 00 we may see cost pressures from one year to the next, which will
+cause that to vary. We are, as Jim alluded to, growing more next year than what we did this year.
+
+It's obviously easier to keep that number lower as you're supported by some growth, so we're sticking to
+that goal. We'll give more clarity over the coming quarter about what our 2015 [number] is, but we're
+extremely encouraged by the early progress that we've seen this year. I talked about in my prepared
+
+Page131of290©2018Factiva,Inc.Allrightsreserved.remarks the fact that, despite capacity coming down a full point versus our original expectations, we've
+been able to hit our cost goals. So I expect that to bleed over into 2015 and the same performance that
+we've seen this year will continue into the next year.
+
+JULIE YATES: Okay. And then just a follow-up on labor. Is there any update on reaching a single contract
+with either the flight attendant or the technician group?
+GREG HART: Hey, this is Greg. We remain in negotiations with our flight attendants. I'm sure you all saw
+that we went on an early out program with our flight attendants, which has been very, very well received
+and we hope that is a bridge for an agreement with our flight attendants, which we expect to have happen
+some time next year. We are still working with our technicians, and obviously, are very focused on getting a
+deal done with those folks as soon as we can, as well.
+
+JULIE YATES: Okay. And then how much of a tailwind on the labor productivity is it to reach the single
+contract on the flight attendant side?
+GREG HART: I'm not sure I understand your question, Julie.
+
+JULIE YATES: Once you get to single contract with the flight attendants, I would imagine that you'll be able
+to recognize greater labor productivity from staffing?
+
+GREG HART: Right. The specifics of the contract are still -- we're still working on. Obviously, we -- there
+are some inefficiencies just in our system today by having two separate collective bargaining agreements,
+with the inefficiencies of staffing, transportation costs, hotels, things like that, so we do expect some benefit
+from that, but we haven't necessarily quantified that.
+
+JULIE YATES: Okay. Thank you very much.
+
+OPERATOR: From Evercore, we have Duane Pfennigwerth on the line. Please go ahead.
+
+DUANE PFENNIGWERTH, ANALYST, EVERCORE PARTNERS: Good morning. Just a couple of fuel
+questions, if I could. This move down we've had here $2.90 to $2.40, $2.50 [jet] before taxes and fees,
+pretty sharp move. How has that changed your plans, if at all, for 2015, or maybe for the fourth quarter?
+Does that relate at all to the stage length increase, which is probably implied by that fuel efficiency? And
+then could you just give us a sense for where you are from a hedge book perspective and the degree to
+which you're participating in this downward move into 2015?
+
+JOHN RAINEY: Sure. Let me take the last part of your question first, if that's okay. For the fourth quarter,
+we're 39% hedged, and over the next 12 months, we're about 35% hedged. In terms of our participation, in
+the fourth quarter, we are participating about 70% to the upside and the downside in fuel movements, and
+for the 2015, that's more like 80%. So hopefully that helps.
+
+In terms of our hedge strategy, our hedge strategy is -- part of it has been to be responsive to the overall
+fuel market. Over the last few years, you've seen that fuel has been relatively [range bound] and our hedge
+portfolio has reflected that fact we fared better than any of our competitors over that period of time. We've
+seen fuel break out of that range and we're very early on in this. We will look to see if it stabilizes and a
+new trading band develops and then our hedge structure will respond to that.
+
+DUANE PFENNIGWERTH: Okay. Thanks. And then maybe I missed it. Have you offered CapEx guidance
+for next year yet?
+
+JOHN RAINEY: We have not. We did talk about, at investor day last year, Duane, our long-term goal of
+about $2.8 billion to $3 billion over the next few years. We have made some changes. I talked a little bit
+about some of the changes we've made from a fleet perspective, so that -- we would expect that number to
+move around a little bit, but we'll give you more guidance on that as we get closer to year-end.
+DUANE PFENNIGWERTH: Okay. I assume -- it sounds like -- correct me if I'm wrong, it sounds like that
+pushed some aircraft out, so maybe the bias on that is down. And then just lastly on the buyback, when
+you initially announced it, $1 billion over three years and you've taken down over $200 million in the first
+quarter, so it looks like you'll finish that in a year. Can you just give us a sense for when you would choose
+to update us on the authorization and how we should be thinking about that timing?
+JEFF SMISEK: Well, we're going to take this in steps, Duane. I'm pleased at the fact that we're almost
+one-quarter of the way through this early on. We've seen a lot of volatility in the market and it has created
+some buying opportunities for us. We still think this is a great way to return cash to shareholders, given
+where our stock is trading right now, but I've emphasized before, this is a first step, and when we complete
+this or get close to completion, we'll come back to the market with our next step, but I'm not prepared to
+talk anymore about that, at this point in time.
+
+Page132of290©2018Factiva,Inc.Allrightsreserved.DUANE PFENNIGWERTH: Okay. Thanks for taking the questions.
+
+JEFF SMISEK: You bet.
+
+OPERATOR: We have time for one last question. And from Barclays we have David Fintzen on the line.
+Please go ahead.
+
+DAVID FINTZEN, ANALYST, BARCLAYS CAPITAL: Hey, thanks. Good morning, everyone. Maybe a
+question for John. I appreciate getting a little ahead of 2015 here, but if I look at your absolute non-fuel
+growth, the last few quarters, you've kept it right around 1% if not below in some quarters. As we get out to
+2015, and obviously there's a lot to go on Project Quality, are there some other inflationary cost pressures
+that pick up in 2015 versus 2014 that would materially start to change that absolute cost profile? I'm just
+trying to think through some of the moving pieces into next year?
+
+JOHN RAINEY: Good question, David. There are a couple of headwinds. I do not expect it to change that
+profile. The best example I can give you right now relates to pension. The discount rate that we use today
+to discount the liabilities in our pension is about 5.1%. The preliminary look for next year, it looks like it will
+be closer to 4.3%, so that will create between $50 million and $100 million of headwind for us next year.
+
+There's also an update to the mortality tables for pensions, which is not reflected in our current numbers.
+But that said, even with those headwinds, we expect to receive the type of cost performance that we've
+outlined, so I don't expect it to change the profile that you alluded to.
+DAVID FINTZEN: Okay. That's very helpful. Then maybe a quick one for Jim. On the Chinese capacity
+growth, it's obviously coming from a lot of arguably lesser-known brands from a US perspective. How
+effective are some of these carriers at competing in the US point-of-sale?
+JIM COMPTON: Well, clearly their point-of-sale is more Chinese point-of-sale and -- but I liken -- every
+competitor is a good competitor and, our goal in competing is obviously operate at a really high reliability
+rate with a great product and -- but our point-of-sale on the US side is stronger than the Chinese
+point-of-sale and you have that dynamic for them also, on their side. Clearly, you're right, they're building a
+brand presence as they grow their presence into the US and so United, since 1986, being in the market in
+China, has a strong presence over there to date.
+
+DAVID FINTZEN: Okay. That's very helpful. Thanks, everyone.
+
+JEFF SMISEK: Thanks, Dave.
+
+OPERATOR: Thank you, ladies and gentlemen. This concludes the analyst and investor portion of our call
+today. We will now take questions from the media.
+
+(Operator Instructions)
+
+From Thomson Reuters, we have Jeffrey Dastin on the line. Please go ahead.
+
+JEFFREY DASTIN, MEDIA, THOMSON REUTERS: Hi. Thank you for taking my call. Could you elaborate
+on the 787-10 conversion? Will there essentially be deferred 787 deliveries?
+
+JEFF SMISEK: Our current plan is to defer the deliveries that we expected to take in 2017 and 2018 into
+2022. We still do hold option positions. Jim alluded to the fact that fleet flexibility is something that's very
+important for us to be able to respond to the economic environment, yet still do so in our
+capacity-disciplined manner, but that was the move that we recently made, yes.
+
+JEFFREY DASTIN: Thank you.
+
+JEFF SMISEK: You're welcome.
+
+OPERATOR: From Flightglobal Media, we have Edward Russell on the line. Please go ahead.
+
+EDWARD RUSSELL, MEDIA, FLIGHTGLOBAL MEDIA: Could you elaborate a bit more on the -- looking at
+use of aircraft, first of all, where the 737s you purchased are coming from? And then also, are you looking
+for narrow bodies or wide bodies? Thank you.
+JOHN RAINEY: Sure. The 737-700s that we obtained were from a leasing company. I don't want to
+comment any further on the airline that they came from. But the other part of your question, at this point
+we're really more focused on narrow body lift. Part of the issue that we're solving for is today we are too
+reliant on the 50-seat RJ. It creates some operational complexities, but there's also a looming shortage with
+respect to pilots being able to fly some of those, as we look at some of the changes in the training
+requirements.
+
+Page133of290©2018Factiva,Inc.Allrightsreserved.So what we want to do is backfill some of that capacity in a financially disciplined way. We don't necessarily
+want to go out and place a brand new aircraft order that creates several billion dollars more of CapEx.
+We've talked a lot about having a balanced allocation of cash flow. So this is a way, by looking at the used
+aircraft market, that we can still backfill some of that capacity, more narrow-body focused, but do it while
+still addressing the other cash flow needs that we have.
+
+EDWARD RUSSELL: All right. And can we infer to say you're looking for aircraft that are currently in your
+fleet or models at least?
+
+JEFF SMISEK: That's accurate. Any time you look at adding a plane or new fleet type, there's some
+complexity with that. There has been some discussion about the 190s. That's something that is on the
+radar, candidly, as well, but certainly if you look at our narrow body fleet with the Airbus A319s, A320s, the
+new gen 737s, those are all planes that fit the profile that we could easily accommodate into our fleet.
+
+EDWARD RUSSELL: Great. Thank you.
+
+NENE FOXHALL: Okay, thanks, everybody. We'll conclude now. We appreciate you all joining us on the
+call. Please call media relations if you have any further questions and we'll look forward to talk to you next
+quarter.
+
+OPERATOR: Ladies and gentlemen, this concludes today's conference. Thank you for joining. You may
+now disconnect.
+
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this
+web site without obligation to notify any person of such changes.
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those
+stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and
+believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF
+THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE
+AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR
+INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO
+WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE
+BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND
+THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER
+DECISIONS.]
+
+CO ual : United Continental Holdings, Inc.
+IN
+i75 : Airlines | i7501 : Scheduled Passenger Airlines | iairtr : Air Transport | itsp : Transportation/Shipping
+NS c151 : Earnings | ntra : Transcripts | c15 : Performance | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | nfcpin :
+C&E Industry News Filter | niwe : IWE Filter
+
+RE usa : United States | chgdu : Chengdu | denver : Denver | houst : Houston | melb : Melbourne | usco :
+
+Colorado | victor : Victoria (Australia) | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | austr
+: Australia | bric : BRICS Countries | china : China | chinaz : Greater China | devgcoz : Emerging Market
+Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia | namz : North America | sichu :
+Sichuan | uss : Southern U.S. | ustx : Texas | usw : Western U.S.
+
+PUB CQ-Roll Call, Inc.
+AN Document FNDW000020141025eaan00464
+
+Page134of290©2018Factiva,Inc.Allrightsreserved.

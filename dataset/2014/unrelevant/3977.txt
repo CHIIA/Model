@@ -1,0 +1,184 @@
+Regulating the outlaw: The Bitcoin bandit
+
+HD
+BY
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Regulating the outlaw: The Bitcoin bandit
+
+James North
+1,091 words
+8 April 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+After only three years in existence the web-generated currency, Bitcoin, can pay for you to fly to space,
+shop on eBay, buy a luxury electric car, pay for a house deposit or order pizza. But the mainstream
+uptake of Bitcoin has left regulators wondering if governments should help or hinder this financial
+phenomenon.
+
+The US Congressional Law Library recently reviewed how more than 40 governments are dealing with
+digital currencies like Bitcoin. Governments are scrambling to regulate, while still keeping in mind the
+potential for digital currencies to restore faith in the global economy and allow savvy countries to help
+businesses engage more securely and cost-effectively with global markets.
+
+Bitcoins can no longer be dismissed as a faddish fast form of payment: more than 12.4 million Bitcoins
+worth almost US$8 billion are in circulation and each day there are US$100 million Bitcoin online
+transactions. But the market size and scandals -- like the use of Bitcoins by online drug traffickers and
+the US$500 million theft that crashed the world's largest Bitcoin exchange -- have put regulators on alert.
+
+WHAT IS BITCOIN?
+Bitcoin, a web-generated currency, allows online transactions without credit cards, direct debits or other
+traditional forms of payment.
+
+See our cheat sheet of the Top Ten Bitcoin Basics.
+
+Bitcoin is currently in the spotlight but there are more than 150 digital currencies in the market. Bitcoin is a
+"cryptographic currency" or "cryptocurrency" because it uses computers to solve complex algorithms from
+which limited numbers of coins can be 'mined'. Other cryptocurrencies include:
+
+LTCBitcoin's largest competitor, Litecoin (). Limited to 84 million coin (four times Bitcoin's 21 million coin
+limit). Value US$10 to US$20 per coin.
+
+PPCPeercoin (). Infinite coin supply. Value US$2 to US$10 per coin.
+
+NMCNamecoin (). Limited to 21 million coins. Value US$2 toUS$10.
+
+DGCDogecoin (pronounced 'doggy coin') (). Most notable market entrant. Value US 0.0007 to 50 cents
+per coin.
+
+The subtle differences between each cryptocurrency— particularly in how each is 'mined'—will continue
+to challenge regulators who are also grappling with the question of whether too much regulation too soon
+could stymie future cryptocurrency related innovation.
+
+ARE WE ON THE PATH TO INNOVATION??
+
+Businesses like Overstock.com, Virgin Galactic, Wordpress, Reddit, PayPal, eBay, Tesla Motors and
+Domino's Pizza (in the U.S. via a third party) are using Bitcoin's low transaction fees, daily cash outs,
+lack of payment reversals and merchant tools to cut costs and engage consumers in new ways. Bitcoin is
+also touted as a future 'micro-transaction' platform for online transactions that now incur bank fees
+higher than the cost of goods or services offered.
+
+Page141of294©2018Factiva,Inc.Allrightsreserved.Bitcoin's online transactions do not require the provision of personal or financial information so they are
+likely to improve consumer confidence undermined by the inadvertent online releases of personal
+information by businesses including recent data security breaches by Telstra and, in the US, Target.
+
+OR ARE WE ON THE PATH TO ANNIHILATION?
+
+The biggest threat to Bitcoin is volatility. Most businesses find it difficult to adopt a currency whose value
+can move several hundred dollars in a day because of the unregulated philosophy underlying the Bitcoin
+protocol.
+
+The Silk Road drug trafficking website boosted Bitcoin until the FBI shut it down and Bitcoin's value
+plummeted from US$240 per coin to less than US$80 in a day. However, six months later Bitcoin was
+worth $1200. A Silicon Valley venture capitalist recently predicted it could rise to US$100,000 per coin.
+
+Bitcoin's value also dropped and then recovered after hackers stole $500 million that led to the crash of
+the largest Bitcoin dealing site, Mt. Gox. Its closure fed concerns about the lack of security of Bitcoin
+trading platforms dominated by small tech start-ups.
+
+In such a rapidly changing environment, governments are updating their responses to cryptocurrencies
+almost daily. The information below, drawn partly from the US Congressional Law Library's
+cryptocurrency report and recent media coverage, is our snapshot of regulation at the time of writing.
+
+Bitcoin is subject to the same taxation requirements ascommercial
+transactions, including GST. The Australian Tax Officeadvises Bitcoin traders
+to keep detailed records of theirtransactions as they are subject to tax. It
+is not clear how theATO will link series of anonymous transactions to an
+individual TaxFile Number without the individual self-reporting, so
+futureenforcement is likely to be an issue.Brazil
+Brazil is one of only two countries to enactcryptocurrency-specific laws.
+Law No. 12,865 applies totransactions of 'electronic currencies' and gives
+theBrazilian Central Bank regulatory power over electronic currencies.The
+Bank has until 7 April 2014 to establish the regulations.Canada
+The Bank of Canada says Bitcoin should have less intensiveoversight and
+regulation than traditional payment systems. In 2013FINTRAC (Canada's
+financial intelligence department) toldCanada's major Bitcoin exchange
+operators that they were not'money services businesses' under the Proceeds of
+Crime(Money Laundering) and Terrorist Financing Act. Therefore theydo not
+subject to FINTRAC registration or rules.ChinaChinese banks and payment
+institutions have been prohibitedfrom Bitcoin dealing since 3 December 2013.
+- be that Bitcoinpricing, buying or selling, providing Bitcoin services to
+customersor trading Bitcoin with other currencies.European Union
+Bitcoin does not fall within either of the major EU paymentdirectives
+(Electronic Money Directive 2009/110/EC and PaymentServices Directive
+2007/64/E) but, the European Banking Authoritywarns that consumers using
+cryptocurrencies still need to paytax.United Kingdom
+Bitcoin trading is not subject to VAT but any Bitcointransactions for goods
+and services will still be taxed at between10 and 20 percent, depending on
+the goods or services.USA
+Internal Revenue Service guidelines stipulate that Bitcoin willbe treated
+(at least for tax purposes) as 'property' ratherthan 'currency -- like
+stocks, bonds or real estate that aresubject to capital gains tax when sold
+at a profit or loss.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Most awarded
+
+firm and Australian deal of
+the year Employer of Choice for
+Women
+Australasian Legal Business Awards
+Equal Opportunity for Women
+in the Workplace (EOWA)
+
+Mr James North
+
+Page142of294©2018Factiva,Inc.Allrightsreserved.Corrs Chambers Westgarth
+
+Level 32, Governor Phillip Tower
+
+1 Farrer Place
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29210 6500
+
+Fax: 29210 6611
+
+E-mail: Savannah.Bassant@corrs.com.au
+
+URL: www.corrs.com.au/thinking
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO
+IN
+
+NS
+
+ebayus : eBay Incorporated
+i35104 : Electric/Gas/Biofuel Vehicles | ivicu : Virtual Currencies | i351 : Motor Vehicles | iaut : Automotive
+| ibnk : Banking/Credit | ifinal : Financial Services | i64 : Retail/Wholesale | i656000301 : Etailing (B2C) |
+ionlauc : Online Auctions | iretail : Retail
+ccat : Corporate/Industrial News | c13 : Regulation/Government Policy | reqrbc : Suggested Reading
+Banking/Credit | ncat : Content Types | nfact : Factiva Filters | nfcpin : FC&E Industry News Filter | redit :
+Selection of Top Stories/Trends/Analysis | reqr : Suggested Reading Industry News
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+IPD Media
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020140408ea48000e0
+
+Page143of294©2018Factiva,Inc.Allrightsreserved.

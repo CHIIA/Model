@@ -1,0 +1,165 @@
+DATA ROOM
+
+SE
+HD
+BY
+WC
+PD
+SN
+SC
+ED
+PG
+LA
+CY
+LP
+
+TD
+
+Business
+DATA ROOM
+
+EDITED BY BRIDGET CARTER
+1,092 words
+27 October 2014
+The Australian
+AUSTLN
+Australian
+18
+English
+© 2014 News Limited. All rights reserved.
+
+Morgan Stanley and UBS set for MYOB MORGAN Stanley and UBS are expected to be named as the
+advisers for Bain Capital ’s exit of its $2.5 billion accounting software business, MYOB, via an initial
+public offering or a trade sale, according to sources.
+Bain executives flew back to the US and Hong Kong at the weekend after holding a beauty parade for
+investment banks in Sydney last week.
+
+Those thought to have been vying for the appointment alongside UBS and Morgan Stanley were Citi,
+Macquarie Capital , JPMorgan , Deutsche and Bank of America Merrill Lynch .
+Bain plans to list the company in May, should it not be sold to a private equity buyer beforehand.
+While the pricing on the MYOB business is unclear, it is thought the price tag will be about $2.5bn.
+This would mean Bain would come close to doubling its money after outlaying $1.35bn to purchase
+the company in 2011 from Archer Capital .
+Archer took MYOB private for about $350 million in 2009.
+
+All eyes on Medibank A $2.5BN float of MYOB will be one of the largest in the next 12 months, but the
+deal now grabbing most of the market’s attention is one double the size — the float of Medibank
+Private for up to $5.5bn.
+
+The initial public offering of the government-owned insurer will happen before Christmas after
+marketing to retail brokers got under way recently.
+
+But global institutions such as BlackRock, Fidelity , Wellington Management and London-based
+Newton are expected to be given a great deal of attention from Medibank advisers, given the advisory
+fees they will receive for locking in offshore investors are understood to be almost three times as much
+as they would receive for securing locals.
+Among the joint lead managers are Goldman Sachs , Macquarie and Deutsche , while Lazard is
+advising the government.
+
+Retail investors are allowed to bid first for the shares, offered at a range of $1.55 to $2 each.
+
+Brokers will be allocated about 60 per cent of the stock.
+It is believed that retail shareholders are likely to wind up with about half the allocated shares on offer,
+with the remainder owned by local and global institutional investors.
+
+Investor feedback on Medibank has been largely positive, but some sources are arguing institutions
+are nervous about speaking out on the deal for fear it could jeopardise their chances of winning share
+allocations.
+
+Page168of266©2018Factiva,Inc.Allrightsreserved.But government privatisations are usually popular with investors, offering opportunities to boost
+earnings by stripping out costs.
+Amid all the excitement surrounding Medibank, construction software businessAconex starts its
+bookbuild today, raising between $232m and $264m through Macquarie Capital and UBS . The
+company is expected to have a market value of between $356m and $412m.
+
+QBE picks Goldman INSURANCE giant QBE has hired Goldman Sachs to float its mortgage
+insurance business, QBE LMI , according to sources.
+The decision by QBE to spin out the business as an IPO prospect comes after larger rival Genworth
+floated its mortgage insurance business in May — a deal also run by Goldman.
+
+Sources estimate QBE LMI is likely to have a market capitalisation of about $1bn when it lists next
+year.
+The insurer confirmed it would float the business in August as part of plans to raise $1.5bn from asset
+sales following a string of profit downgrades.
+Genworth Australia ’s shares closed 13 per cent higher than their issue price when the company
+staged its debut on the Australian Securities Exchange , taking its market value to $1.95bn. It appears
+the company is thriving on investor appetite for businesses exposed to Australia’s booming housing
+market. Its market value is now $2.3bn.
+Goldman was one of the lead banks on the Genworth Australia deal, working alongside Macquarie,
+UBS and Commonwealth Bank. The listing pricing equated to 6.2 to 8.2 times forecast annual net
+profit for financial 2014.
+Look before you leap QBE LMI isn’t the only company to stand on the sidelines and watch how its
+industry rival performs on the public market before launching in itself.
+Private equity firm Quadrant has now redrafted plans to list aged care business Estia before
+Christmas through advisers Morgan Stanley , UBS and Deutsche after watching its $1.2bn rival,
+Regis, perform strongly amid choppy market conditions on its ASX debut this month.
+
+Regis listed after its major competitor Japara, with a market value of $631m, soared 35 per cent on its
+first day of trade in April.
+
+Plans by Quadrant to float Estia were first flagged by The Australian in May, and while initially slated
+to happen before Christmas, were later pushed back until 2015.
+
+However, it is now believed attempts will be made to launch the initial public offering within coming
+weeks, offering a third competitor to Japara and Regis on the public stage.
+Meanwhile, the high price Quadrant has locked in for the float of its APN Outdoor billboard business
+— $425m — is thought to be motivating other media rivals to opt for the public market when it comes
+to staging exits.
+
+The APN deal has been handled by Morgan Stanley and UBS , and following its listing the next is
+expected to be Ooh! Media, although no definitive plans for a listing, through advisers Macquarie
+Capital and Highbury Partnership, have yet been announced.
+
+It is understood that apart from television networks Seven and Nine, the potential buyers that looked at
+Ooh! Media included French billboard giant JCDecaux , although it walked away in the initial stages of
+the process.
+
+Rothschild adds Howell INVESTMENT bank Rothschild is boosting its consumer and industrials team
+in Melbourne, hiring former Goldman Sachs executive director Mark Howell.
+
+Mr Howell reports to Sam Prentice, co-head of the consumer and industrials practice and head of
+Rothschild’s Melbourne office.
+Rothschild recently acted for Saputo, helping the Canadian dairy giant secure highly sought- after
+Warrnambool Cheese & Butter.
+
+It also aided South Africa’s Woolworth in bidding for David Jones and Country Road, and R&R Ice
+Cream ’s acquisition of Peters Ice Cream from Pacific Equity Partners .
+
+Page169of266©2018Factiva,Inc.Allrightsreserved.Meanwhile, Danny Bessell also started formally this month as managing director and head of
+infrastructure, utilities and transport, as the bank prepares for multi-billion dollar infrastructure
+privatisations.
+
+Mr Bessell comes from the position of commercial director at the Linking Melbourne Authority, a
+government body responsible for managing complex road projects in Victoria. He fills the vacancy left
+by Bruce MacDiarmid, who was poached by Deutsche earlier this year.
+
+carterb@theaustralian.com.au
+
+CO
+
+IN
+
+NS
+
+RE
+
+PUB
+AN
+
+boasl : Bank Of America Merrill Lynch International Ltd | grtsam : Archer Capital | bainca : Bain
+Capital, LLC | dwitd : Morgan Stanley | myob : MYOB Group Ltd. | ncnbco : Bank of America
+Corporation
+i3302 : Computers/Consumer Electronics | i330202 : Software | i3302021 : Applications Software |
+i814 : Banking | i81402 : Commercial Banking | i81502 : Trusts/Funds/Financial Vehicles | i8150203 :
+Private Equity | i831 : Financial Investments | i83101 : Investment Banking | ialtinv : Alternative
+Investments | ibnk : Banking/Credit | icomp : Computing | ifinal : Financial Services | iinv :
+Investing/Securities | itech : Technology | iventure : Venture Capital
+c1711 : Initial Public Offerings | c14 : Stock Listings | c02 : Corporate Changes | c17 : Corporate
+Funding | c171 : Share Capital | cactio : Corporate Actions | ccat : Corporate/Industrial News | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | melb : Melbourne | sydney : Sydney | victor : Victoria (Australia) | apacz : Asia
+Pacific | ausnz : Australia/Oceania | nswals : New South Wales
+News Ltd.
+Document AUSTLN0020141026eaar00029
+
+Page170of266©2018Factiva,Inc.Allrightsreserved.

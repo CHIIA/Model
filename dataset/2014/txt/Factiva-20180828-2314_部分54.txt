@@ -1,0 +1,187 @@
+Potential pitfalls for foreign insurers on exiting Asian joint ventures
+
+HD
+BY
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+Potential pitfalls for foreign insurers on exiting Asian joint ventures
+
+Michael Park
+1,375 words
+11 November 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+Introduction
+
+For many foreign insurers, establishing a presence in Asia's emerging markets is a priority, with their vast
+populations, increasing sophistication and rapidly expanding middle classes. In many jurisdictions the
+preferred, and sometimes only, way in which a foreign insurance company can operate is through a joint
+venture with one or more local partners. However, the decision to go into partnership should not be taken
+lightly as procuring an exit can be a slow and arduous process due to complex or uncertain legal and
+regulatory landscapes, defects or ambiguity in imperfectly drafted joint venture agreements, and cultural
+differences and diverging commercial drivers among joint venture partners.
+
+Foreign ownership restrictions
+
+Many Asian countries (e.g. PRC, India, Thailand, Malaysia, Indonesia and Myanmar) restrict the level of
+equity a foreign entity may hold in an insurance company. These restrictions may put off many potential
+foreign purchasers who may not be interested in acquiring what is typically a minority stake. Meanwhile,
+local insurers may be reluctant to partner with rivals, further shrinking the potential market for the shares.
+
+The restrictions can be particularly unhelpful where a local partner wishes to sell equity (perhaps pursuant
+to tag-along rights) alongside a foreign insurer which is looking to sell its stake to a foreign purchaser. If
+the aggregate amount of equity for sale exceeds the maximum amount which a foreign purchaser may
+acquire, the whole transaction may fail.
+
+Local legislators are increasingly keen to attract inbound foreign investment and are generally relaxing
+the restrictions on foreign ownership. However, the wheels of legislative change tend to turn very slowly.
+In the meantime, many potential foreign purchasers will prefer to keep their powder dry in the hope that
+they may soon be allowed to acquire a more substantial interest.
+
+Limits on the number of insurance businesses an insurer can promote
+
+Many Asian countries prohibit an insurer from being interested in more than one business engaged in a
+given type of insurance activity (e.g. life insurance or general insurance). The restrictions generally apply
+on a group basis rather than an entity basis, meaning that an insurer which is active in one sector may
+not simply acquire a stake in a joint venture which is involved in the same sector. This limits sale
+opportunities as many potential purchasers may be existing players in the market.
+However, an acquisitive insurance company may still be able to expand its business by merging with
+another entity conducting the same type of business through a court- and regulator-approved scheme.
+Such mergers, which require the support of shareholders of all merging entities, generally follow a course
+prescribed by statute, and are time consuming, expensive, played out in public and significantly increase
+the execution risk of the transaction since the decision as to whether the transaction proceeds is made
+by the court and regulator, whose judgment may be influenced by prevailing government policy or a
+desire to protect policyholders.
+
+Regulatory issues
+
+In each jurisdiction, there is at least one regulator with overall responsibility for insurers whose prior
+consent is generally required for the transfer of shares in the joint venture or for a proposed merger.
+
+Page155of286©2018Factiva,Inc.Allrightsreserved.Frequently, it is also necessary to satisfy the same regulator that both the incoming shareholder and its
+appointees as directors or other senior managers satisfy relevant 'fit and proper' qualifications.
+
+Where a shareholder is also a bank - e.g. in the context of a bancassurance distribution joint venture - the
+approval of the relevant banking regulator may also be required.
+Formal regulatory approval is generally sought after conditional sale and purchase documentation is
+signed. Different jurisdictions and different regulators may permit different degrees of informal dialogue
+prior to signing to ascertain whether the regulator is likely ultimately to grant its approval. A prospective
+purchaser may be reluctant to enter into binding documentation, possibly requiring it to make a
+regulatory announcement, without a considerable degree of comfort that the necessary approvals will be
+granted and the transaction will complete.
+
+The law governing the merger process in many emerging markets is often very vague, or as yet
+unwritten, or only recently adopted. In their effort to avoid making mistakes, regulators may move very
+slowly and guidelines as to the duration of the approval process should be treated with considerable
+scepticism. Even after lengthy deliberation, the risk of regulators adopting an unusual or inconsistent
+position remains significant.
+
+In most jurisdictions, the parties will have to satisfy the relevant competition authority before closing that
+their proposed transaction will not eliminate or restrict competition. The competition authority usually has
+around 30 days to complete its preliminary review and to either give its clearance or, if it still has concerns
+about the transaction's anti-competitive effect, confirm that it is proceeding to a more thorough
+investigation, in which case the process may be extended by a further 60-120 days generally (and
+sometimes longer still), thus extending the transaction timetable considerably.
+Certain countries, such as India and China, also apply restrictions on the price at which equity interests in
+a joint venture company may be sold by a foreign entity to a local purchaser.
+
+Contractual issues
+
+Many foreign insurers do not make the situation any easier on an exit by entering into poorly drafted joint
+venture agreements. Problems arise most commonly with confidentiality and transfer clauses.
+
+Confidentiality
+
+There is invariably included in a joint venture agreement a clause requiring the parties to keep
+confidential information relating to the business or customers or affairs of the joint venture company,
+subject to limited exceptions.
+
+An insurer with one eye on its exit strategy should ensure that one such exception permits the provision
+of information relating to the joint venture company (including a copy of the joint venture agreement) to a
+potential purchaser of its stake. This allows the selling shareholder to progress negotiations with the
+prospective purchaser without having to notify or seek the permission of its joint venture partners whose
+involvement at this early stage may be unhelpful as it would allow them time to devise a strategy to block
+the sale, or extract value from the outgoing shareholder in return for the grant of relevant waivers and
+consents, or seek to negotiate with the prospective purchaser a revised joint venture agreement prior to
+signing the sale and purchase documentation, resulting in delays to completion.
+
+Transfer provisions
+
+A well-drafted joint venture agreement typically provides that, having agreed the terms of a deal with a
+third party, an outgoing shareholder will be obliged to offer round its shares on the same terms to its joint
+venture partners, who have the option to buy the outgoing shareholder's shares or decline the offer, in
+which case the outgoing shareholder will be free to sell its shares to the third party on the agreed terms.
+Crucially, the outgoing shareholder can force through a sale, either to the third party or its joint venture
+partners.
+Unfortunately, however, the drafting in relation to the sale process in many joint venture agreements is
+deficient in some way. These defects in the drafting require the outgoing shareholder to seek waivers or
+consents from its partners to vary or clarify the relevant drafting, presenting them with an opportunity
+either to prevent the sale by refusing to grant such waivers and consents or to extract value from the
+outgoing shareholder in return for their grant.
+
+Conclusion
+
+The complexities outlined above can all serve to make it very difficult for a foreign insurer to exit an Asian
+joint venture. Indeed, it is not unusual for an exit to take one or even two years to implement. However, by
+
+Page156of286©2018Factiva,Inc.Allrightsreserved.giving due attention to exit strategy at the outset of the investment, and by ensuring that the joint venture
+agreement is drafted in a way which not only facilitates the exit process but also enables the foreign
+insurer to control it, risks can be mitigated.
+Mr Michael Park
+
+Norton Rose Fulbright Australia
+
+Level 18
+
+Grosvenor Place
+
+225 George St
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: Alex.boxsell@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO
+IN
+NS
+
+nortrb : Norton Rose Fulbright LLP
+i82 : Insurance | ifinal : Financial Services | i835 : Legal Services | ibcs : Business/Consumer Services
+c184 : Joint Ventures | ccat : Corporate/Industrial News | c18 : Ownership Changes | cactio : Corporate
+Actions | ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+Insurance
+
+RE
+IPD
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020141111eabb0008f
+
+Page157of286©2018Factiva,Inc.Allrightsreserved.

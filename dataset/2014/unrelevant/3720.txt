@@ -1,0 +1,255 @@
+UK: The Competition and Markets Authority launches operations The new UK competition authority will have additional powers and handle cases differently than before
+
+HD
+
+BY
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+UK: The Competition and Markets Authority launches operations The new UK competition
+authority will have additional powers and handle cases differently than before
+Peter Scott
+1,737 words
+17 August 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+You might also be interested in...
+
+From the Editor
+
+European Union: Damages Directive approved by EU Parliament
+
+New rules to harmonise procedure for antitrust damages actions
+
+European Union: New EU competition rules on technology transfer agreements
+
+The new rules could require the amendment of certain clauses in technology transfer agreements
+
+France: The new "Hamon Law" introducing French class actions
+
+New consumer law introduces significant provisions with respect to competition and distribution law
+
+Italy: New developments in the "Pfizer saga"
+
+A recent judgment provides further guidance on the interaction between antitrust law and patent law in the
+pharmaceutical sector
+
+Canada: Consent agreement reached with e-book publishers
+
+Canada has reached a settlement with e-book publishers following settlements in the EU and the US
+Canada: Abuse of dominance do-over: Appeals court orders new hearing in real estate case
+
+Court rules on whether a trade association, which is not a competitor in the market, can engage in abuse
+of dominance
+
+Japan and South Korea: Crackdown on bid-rigging in East Asia
+
+Asian competition authorities show they are increasingly serious about bid-rigging activities
+China: Life Technologies/ Thermo Fischer
+China's antitrust regulator is a key gatekeeper in international merger control filings
+China: MOFCOM adopts Simple Cases Regulation
+
+Adoption of simplified merger review rules follows recent European Commission reforms
+
+Australia: The country may lead the world on competition reform
+
+In Australia, a comprehensive reform of competition policy is taking place
+
+South Africa: The growing importance of public interest factors in merger control
+
+Page242of286©2018Factiva,Inc.Allrightsreserved.Foreign companies planning acquisitions in Africa need to consider the impact on the public interest
+
+South Africa: Dawn raids rise again
+
+The South African Competition Commission is currently intensifying its efforts in relation to cartel
+infringements
+
+Introduction
+
+On 1 April 2014, the UK's new competition authority, the Competition and Markets Authority (CMA),
+officially took over the competition and certain consumer functions and powers from the two UK
+competition authorities in charge until then, the Office of Fair Trading (OFT) and the Competition
+Commission.
+
+Like its predecessors, the CMA will:
+
+Investigate mergers which may restrict competition;
+
+Study and investigate markets where there may be competition and consumer problems;
+
+Consider possible infringements of the UK and/or EU competition prohibitions on anti-competitive
+agreements and the abuse of a dominant position;
+
+Prosecute individuals suspected of committing the criminal cartel offence;
+
+Enforce consumer protection legislation;
+
+Cooperate with the various economic sector regulators, including OFGEM, OFWAT, ORR, OFCOM and
+Monitor, and encourage them to use their concurrent competition law powers in favour of their powers
+under the relevant regulatory regimes; and
+
+Consider regulatory references and appeals.
+
+However, there will be a number of differences in the way cases are handled by the new competition
+authority, and the CMA has been granted certain new powers.
+
+The way cases are handled
+Until now, the initial assessment of a transaction under the UK merger control rules and/or a market
+under the market investigations regime was carried out by the OFT, with a possible further in-depth
+investigation being conducted by a separate body, namely the Competition Commission. From now on,
+however, as a result of a single competition authority replacing the two existing bodies, both stages of any
+merger or market investigation will be conducted by the CMA.
+
+In order to address possible concerns about "confirmation bias", the CMA has sought to ensure in its
+structure and procedures that no such procedural unfairness can arise. Within the CMA, there is to be
+separation between those CMA officials responsible for the initial "Phase 1" decision (with a senior official
+taking the decision based on the work carried out by the case team) and those responsible for the
+in-depth "Phase 2" decision; similarly to the Competition Commission's procedures, any Phase 2 decision
+will be made by a panel of independent individuals with backgrounds in business, law, economics,
+accountancy, etc.
+
+The CMA has not only put such separation between the case teams in place for merger and market
+investigations, but has also introduced it for investigations under the competition law prohibitions on
+anti-competitive agreements and abuse of dominance. Such investigations were previously carried out
+solely by the OFT, with the Competition Commission having no role. In this type of case, the investigatory
+phase leading to the point where the CMA forms the provisional view that there has been an infringement
+- the so-called "Statement of Objections" - will now be conducted by a group of CMA officials who are
+wholly separate from those who take the final decision. The CMA thus hopes to establish a greater
+separation of powers and more procedural safeguards in order to address previous concerns that the
+same team of OFT officials was each of "investigator, prosecutor, judge and jury" in competition law
+investigations.
+
+CMA's new powers
+
+The CMA has been granted certain new powers to assist it in its competition-law-enforcement functions.
+In particular:
+
+Page243of286©2018Factiva,Inc.Allrightsreserved.In relation to the UK and/or EU competition prohibitions on anti-competitive agreements1 and the abuse
+of a dominant position2:
+
+powers of investigationThe CMA has been given stronger where it suspects an infringement of the
+prohibitions. This will include a new power to require individuals connected to a business under
+investigation (e.g. directors or employees) to answer questions; and
+powers to order "interim measures"The CMA will have stronger requiring a company under investigation
+for breach of either prohibition to terminate the relevant commercial practices pending the outcome of
+the investigation. Until now, such "interim measures" could only be applied where the continuance of the
+conduct would cause "serious, irreparable damage" to another business, such as a competitor or supplier,
+which basically meant that there would only be an interim measures order if it could be shown that it was
+necessary to prevent another business exiting the market. From now on, the CMA will be able to order
+interim measures where continuance of the conduct would merely cause "significant damage" to another
+business. This is a lower threshold, which will be satisfied if, but for the interim measures order, that other
+business would suffer financial, operational or reputational damage.
+
+It is intended to become easier for the new CMA to bring prosecutions under the UK's criminal cartel
+offence.
+The offence is committed when an individual, e.g. an employee or director of a company, is directly
+involved in horizontal price-fixing, market-sharing, coordinated output reductions or bid-rigging. Over the
+past ten years, only three prosecutions have been brought and - to date - just one of those successfully;
+three individuals were convicted and imprisoned in June 2008 for their roles in a cartel relating to the
+supply of marine hoses and ancillary equipment in the UK3. It was argued that the difficulty in bringing
+prosecutions related to the statutory requirement to show that the accused individual had acted
+"dishonestly". As of today, the "dishonesty" requirement has been removed and mere participation in the
+anti-competitive practices is sufficient for committing the offence.
+
+However, to provide some protection against the tougher offence being applied too strictly, there are now
+a number of exclusions from, and defences against, the offence. Broadly speaking, it is only secret
+anti-competitive agreements that will give rise to criminal prosecutions. An individual will not be liable
+under the offence if the anti-competitive agreement has been disclosed in advance to (potential)
+customers or the CMA, or has otherwise been published.
+
+As regards the merger control regime:
+
+stronger "hold separate" powersThe CMA has been granted in the case of mergers which are being
+examined by the CMA but where a clearance decision has not yet been issued. The CMA has been given
+the power to order a reversal of any integration between the businesses of the merging parties that has
+already occurred.
+
+more time to carry out its initial assessmentThe CMA has been given of a merger. This initial Phase 1
+investigation is now subject to a statutory timetable of a maximum 40 working days (i.e. eight weeks plus
+public holidays), which is longer than the time period for a Phase 1 investigation under the EU merger
+control regime and many other jurisdictions.
+
+In practice, however, the main timing issue in merger control proceedings is not so much the formal time
+limit for a Phase 1 investigation, but the amount of time spent on "pre-notification" discussions with the
+parties before the relevant competition authority is willing to accept the notification and formally "start the
+clock". The CMA has said that it will take account of any restraints imposed on the merging parties by
+other regulatory processes, such as the City Code governing public takeovers or other jurisdictions'
+merger control regimes, when carrying out its review of the transaction and that it may try to reach its
+decision more quickly than the standard statutory timetable, provided that the facts and issues of the
+particular case and the CMA's existing caseload allow it to do so.
+
+It will be interesting to see how the CMA will apply its new powers and whether the reforms to the UK's
+competition laws will have the policy makers' desired effect of strengthening their effectiveness.
+
+Footnotes
+
+1The UK "Chapter I" prohibition under the Competition Act 1998 and Article 101 of the Treaty on the
+Functioning of the European Union (TFEU).
+
+2The UK "Chapter II" prohibition under the Competition Act 1998 and Article 102 TFEU.
+
+3In May 2010, a second criminal cartel prosecution in relation to the British Airways/Virgin Atlantic
+passenger fuel surcharge cartel collapsed in the early stages of the trial and four British Airways
+
+Page244of286©2018Factiva,Inc.Allrightsreserved.executives were acquitted of price-fixing charges. A third criminal cartel prosecution is currently before the
+UK courts; in February this year a former executive pleaded guilty to the criminal cartel offence in respect
+of the supply of galvanised steel tanks for water storage in the UK. In relation to the same cartel two other
+former executives were charged in June this year.
+
+Mr Peter Scott
+
+Norton Rose Fulbright Australia
+
+3 More London Riverside
+
+London SE1 2AQ
+
+United Kingdom
+
+London
+
+UNITED KINGDOM
+
+Tel: 29330 8000
+
+Fax: 293308000
+
+E-mail: clair.simpson@nortonrosefulbright.com
+
+URL: www.nortonrosefulbright.com/
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO
+IN
+NS
+
+RE
+
+offair : Competition and Markets Authority | nortrb : Norton Rose Fulbright LLP
+i835 : Legal Services | ibcs : Business/Consumer Services
+c34 : Anti-Competition Issues | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | uk : United Kingdom | apacz : Asia Pacific | ausnz : Australia/Oceania | eecz : European
+Union Countries | eurz : Europe | weurz : Western Europe
+nti-trust/Competition Law
+
+IPD
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020140817ea8h0005p
+
+Page245of286©2018Factiva,Inc.Allrightsreserved.

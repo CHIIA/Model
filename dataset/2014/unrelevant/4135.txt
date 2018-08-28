@@ -1,0 +1,168 @@
+What do China ’s MOFCOM’s recent merger clearance decisions mean for you?
+
+HD
+BY
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+What do China’s MOFCOM’s recent merger clearance decisions mean for you?
+
+Thomas Jones
+993 words
+15 May 2014
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2014 Mondaq Ltd
+
+China's Anti-Monopoly Law (AML) is one of the youngest antitrust laws in the world having come into
+effect just over five years ago.
+The AML has primarily been enforced by Ministry of Commerce People's Republic of China
+(中华人民共和国商务部), or MOFCOM. In the years since the law's introduction, MOFCOM's capabilities
+in key areas such as competition and market analysis as well as monitoring and enforcement have
+grown rapidly.
+
+MOFCOM's latest decisions demonstrate its increasing sophistication, particularly in its willingness to
+consider complex behavioural and structural remedies. Also apparent, is MOFCOM's readiness to
+impose harsher merger remedies where key sectors of China's economy are involved. This is most
+evident in last year's conditional approval of the global mega deal between Glencore and Xstrata.
+
+GELNCORE/XSTRATA1
+
+On 16 April 2013, MOFCOM announced its conditional approval of Glencore International Plc's
+(嘉能可国际公司) (Glencore) USD$35 billion global takeover of Xstrata Plc (斯特拉塔公司) (Xstrata).
+MOFCOM was the last of the regulatory authorities to approve the transaction with approval first received
+from the Australian Competition and Consumer Commission in Australia in July 2012, followed by the
+Department of Justice in the US, the Competition Commission of South Africa and the European
+Commission in the EU.
+MOFCOM's lengthy decision, published in Chinese only, is relatively detailed and can be seen as a
+move toward greater transparency. MOFCOM focused on the overlaps between the merging parties in
+the markets for copper concentrate, zinc concentrate and lead concentrate. MOFCOM found the merger
+was likely to restrict competition in those markets and result in a significant increase in vertical integration
+by Glencore in those markets.
+MOFCOM thus imposed a "crown jewels" structural remedy requiring Glencore to sell the US$5.7 billion
+Las Bambas copper project in Peru. Failure to do so in the required time would result in the sale of other
+Glencore assets (namely Glencore's interests in the Tampakan, Frieda River, El Pachon and Alumbrera
+projects) at prices without a reserve. Behavioural remedies were also employed including obligations to
+supply to Chinese customers at benchmark prices.
+
+MEDIATEK/MSTAR2
+On 26 August 2013, MOFCOM cleared the acquisition of MStar Semiconductor, Inc. (Cayman)
+(开曼晨星半导体公司) (MStar Cayman) by Media Tek. Inc. (联发科技股份有限公司) (MediaTek) more
+than a year after it was first notified in July 2012. The proposed acquisition involved the exchange of
+every ordinary share of MStar Cayman for 0.794 ordinary share of MediaTek plus NT$1 in cash. The
+total transaction value was RMB ¥24.55 billion (approximately US$4 billion).
+
+The merger parties are principally engaged in the design and manufacture of integrated circuit chips for
+multi-media display and wireless communications devices. MOFCOM focused on the (likely) effect of the
+merger on the Chinese market for LCD TV control chips of which MStar possessed 65% market share
+and MediaTek 20%. MOFCOM concluded the merged entity would eliminate the remaining suppliers and
+the threat of new entry would not pose an effective constraint on the post merger entity.
+
+Page139of294©2018Factiva,Inc.Allrightsreserved.In light of these concerns, MOFCOM imposed a set of extensive "hold-separate" behavioural remedies in
+order for MStar's LCD TV control chip business (Morningstar Taiwan) to be maintained as an
+independent competitor in the market
+
+IMPLICATIONS OF MOFCOM'S APPROACH
+
+The remedies imposed by MOFCOM in Glencore/Xstrata are much more 'draconian' compared to those
+in MediaTek/MStar, particularly given the significantly lower level of concentration (combined
+post-merger market share of 12.1% in the supply of copper concentrates in Glencore/Xstrata as
+compared with 80% of LCD chips in MediaTek/MStar).
+
+Given the competition issues identified in MOFCOM's decision on MediaTek/MStar, it's questionable why
+the transaction was approved or why behavioural remedies were used instead of structural remedies
+such as divestiture.
+Perhaps where China's access to key commodities is at issue, MOFCOM is more ready to intervene and
+impose harsher merger remedies, even remedies with an extraterritorial reach.
+
+Whilst MOFCOM has generally been receptive to behavioural remedies, over the past few years it has
+become more experienced and confident in monitoring more extensive behavioural remedies. Similar to
+its overseas regulatory peers, MOFCOM has begun imposing more complex behavioural remedies such
+as the "hold separate" remedies as seen in MediaTek/MStar.
+
+MOFCOM is also now willing to impose specific remedies targeted at the competition issues identified.
+For example, to ensure that Morningstar Taiwan remains independent from MediaTek, MOFCOM did not
+shy away from specifying the limited shareholder's rights of MediaTek in Morningstar Taiwan. A further
+example is the new obligation for the merger parties to submit a detailed implementation plan before deal
+closing (and subject to MOFCOM approval).
+
+These decisions are likely to encourage merger parties that may have previously considered the
+available remedies too limiting, to notify MOFCOM and other regulators and offer more creative
+approaches to remedies.
+
+Footnotes
+1Read the MOFCOM decision on Glencore/Xstrata here (only available in Chinese)
+
+2Read the English version of the MOFCOM decision on MediaTek/MStar here
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Most awarded
+
+firm and Australian deal of
+the year Employer of Choice for
+Women
+Australasian Legal Business Awards
+Equal Opportunity for Women
+in the Workplace (EOWA)
+
+Mr Thomas Jones
+
+Corrs Chambers Westgarth
+
+Level 32, Governor Phillip Tower
+
+1 Farrer Place
+
+Sydney
+
+2000
+
+AUSTRALIA
+
+Tel: 29210 6500
+
+Fax: 29210 6611
+
+Page140of294©2018Factiva,Inc.Allrightsreserved.E-mail: Savannah.Bassant@corrs.com.au
+
+URL: www.corrs.com.au/thinking
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+CO
+IN
+
+NS
+
+RE
+
+cncomr : China Ministry of Commerce | march : Glencore Xstrata PLC
+i211 : Metal Ore Mining | i8396 : Diversified Holding Companies | ibasicm : Basic Materials/Resources |
+ibcs : Business/Consumer Services | imet : Mining/Quarrying
+ccat : Corporate/Industrial News | c181 : Acquisitions/Mergers/Takeovers | c18 : Ownership Changes |
+cactio : Corporate Actions | ncat : Content Types | nfact : Factiva Filters | nfcpin : FC&E Industry News
+Filter
+china : China | austr : Australia | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric :
+BRIC Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | easiaz : Eastern Asia
+Anti-trust/Competition Law
+
+IPD
+PUB Mondaq Limited
+AN
+
+Document BBPUB00020140516ea5f00009
+
+Page141of294©2018Factiva,Inc.Allrightsreserved.

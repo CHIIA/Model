@@ -1,0 +1,116 @@
+FED:Woolworths moves into China drinks market
+
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+FED:Woolworths moves into China drinks market
+
+288 words
+3 December 2014
+Australian Associated Press Financial News Wire
+AAPFIN
+English
+(c) 2014 Australian Associated Press Pty Ltd. All Rights Reserved
+
+WOOLWORTHS By Stephen Johnson and Evan Schwarten
+SYDNEY, Dec 3 AAP - Woolworths has bought one of China's major alcohol distributors in its first foray
+into the world's second largest economy.
+
+The supermarket giant has bought Summergate Fine Wine and Spirits, only weeks after Australia
+signed a free trade deal with China.
+Summergate was co-founded in 1999 by two expat wine enthusiasts, and distributes imported alcoholic
+beverages across China.
+It also owns a retail business, Pudao Wines.
+
+Woolworths has not revealed the cost of the acquisition, but it expects strong growth from Summergate.
+General manager Ian Ford, an American who co-founded Summergate with his Kiwi business partner
+Brendan O'Toole, told AAP the business achieved annual sales of $US40 million ($A43.28 million).
+
+Morningstar senior analyst Tim Montague-Jones said the sales figure suggests Woolworths paid
+between $US16 million to $US20 million.
+
+"It's just a small, little toehold into a potentially large market just to give them a bit of feel for that sort of
+environment," Mr Montague-Jones said.
+It could be a decade before Woolworths injected capital into the business, he added.
+
+Mr Ford said Summergate and Woolworths shared a long term view on future opportunities, and have
+the resources and expertise to support accelerated growth.
+
+Woolworths owns the Dan Murphy's, BWS and Cellarmasters brands in Australia, which generated total
+sales of $7.4 billion in 2013/14.
+
+Woolworths shares were up 59 cents, or 1.9 per cent, at $30.83 at 1545 AEDT.
+Its move into China comes two years after Woolworths pulled out of India by selling its stake in
+Woolworths Wholesale to a Tata Sons-owned company.
+
+AAP saj/dmc
+
+CO
+IN
+
+RE
+
+PUB
+AN
+
+wolwth : Woolworths Limited
+i64 : Retail/Wholesale | i641 : Food Retailing | i6411 : Supermarkets/Grocery Stores | i654 : Specialty
+Stores | iretail : Retail
+austr : Australia | china : China | sydney : Sydney | apacz : Asia Pacific | asiaz : Asia | ausnz :
+Australia/Oceania | bric : BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market
+Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia | nswals : New South Wales
+Australian Associated Press Pty Ltd
+Document AAPFIN0020141203eac3001p5
+
+Page236of237©2018Factiva,Inc.Allrightsreserved.Search Summary
+
+Text
+
+Date
+Source
+Author
+Company
+Subject
+Industry
+Region
+Language
+Results Found
+Timestamp
+
+((chin* or hong kong)) and (
+( (residential or site or commercial) and (casino resort or island or hotel or apartment
+or park or estate or property) and (group or firm or company or board or entitys) and
+(transaction* or purchase* or sale or sold or buy) )
+or
+( (uranium or wind or gold or solar or ore or copper or energy or alumina or iron or lead
+or coal or oil) and (bonds or acquisition or merge or purchase or sale or stake or
+equity) and (million* or billion* or B or M) and (operations or mining or firm or
+company))
+or
+( (dairy or cheese or butter or milk or bread or wine) and (sold or buy or sale or equity
+or stake or merge or acquire) and (brand or company or business or group or firm or
+board) and (million* or billion* or B or M))
+)
+not (terrorism or war or navy or stock market or share market or Wall St or Wall Street
+or Forex or Stock Exchange or rst=asxtex)
+and re=austr
+01/09/2014 to 31/12/2014
+All Sources
+All Authors
+All Companies
+All Subjects
+All Industries
+All Regions
+English
+2,847
+28 August 2018 22:50
+
+Page237of237©2018Factiva,Inc.Allrightsreserved.

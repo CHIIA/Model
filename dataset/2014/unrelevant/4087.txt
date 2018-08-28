@@ -1,0 +1,406 @@
+Artificial photosynthesis – the future of solar?
+
+HD Artificial photosynthesis – the future of solar?
+WC 4,972 words
+PD 26 August 2014
+SN Australian Broadcasting Corporation Transcripts
+SC ABCTRS
+LA English
+CY (c) 2014 Australian Broadcasting Corporation
+LP
+
+TD
+
+Plants make energy very efficiently: they take sunlight, water and carbon-dioxide and turn it into fuel to
+make them grow. So what if humans could mimic that process for their own fuel?
+
+Barack Obama: The first step in winning the future is encouraging American innovation. We'll invest in
+biomedical research, information technology, and especially clean energy technology. We are telling
+America's scientists and engineers that if they assemble teams of the best minds in their fields and focus
+on the hardest problems in clean energy, we will fund the Apollo projects of our time. At the California
+Institute of Technology they are developing a way to turn sunlight and water into fuel for our cars. So
+instead of subsidising…
+
+Antony Funnell: Barack Obama might see potential in renewable energy technology, but in Australia the
+sector is having a hard time of it. The current federal government in Canberra has been busy winding back
+Australia's commitment.
+
+It's now considering the findings of a review it commissioned into the nation's renewable energy target, a
+review chaired by a former oil executive, who critics deride as a climate change sceptic. As you can
+imagine, the overall mood is gloomy, to say the least.
+
+Hello, Antony Funnell here, welcome to Future Tense.
+
+Fran Kelly, RN Breakfast: As anticipated, the federal government's review of the renewable energy target
+has recommended a significant scaling-back of the scheme. The inquiry suggests two options; either
+closing the scheme to new entrants, or supporting new renewable energy power generation only when
+electricity demand is on the increase.
+
+Antony Funnell: But all of that doesn't mean enthusiasm for renewables has been diminished completely.
+
+Today on the program we'll meet an Australian scientist with a passion for renewable energy and
+innovation. And we'll learn about research into a potentially game-changing form of solar technology called
+'artificial photosynthesis'.
+
+But before we go there, it might be instructive to get a quick snapshot of just how significantly the clean or
+renewable energy market has changed in recent years.
+
+Giles Parkinson is a former business editor and deputy editor of the Australian Financial Review, and he is
+now the founder and editor of the website RenewEconomy.com.
+
+Giles Parkinson: Well, the size of the renewable energy sector worldwide is about US$260 billion, and that
+is forecast to grow pretty rapidly to over $1 trillion within a few years, and that's from the rather
+conservative forecast from the International Energy Agency. So they are seeing a combination of factors
+that will drive that. One is focused on climate policies, one is incentives which are provided to drive the
+transition to clean energy, and the third and the most important factor is the fact that very soon in many
+countries clean energy will be clearly competitive with other technologies and therefore will be installed
+without the need for subsidy.
+
+Antony Funnell: And, as you say, the cost of renewable technologies has really come down in recent years,
+hasn't it.
+
+Page264of399©2018Factiva,Inc.Allrightsreserved.Giles Parkinson: It has plummeted. Solar, for instance, has fallen about 80%, and most predictions are that
+it will continue to fall, maybe by not quite the same quantum but significant decline in any case. Wind
+technology is the other major one which has probably fallen maybe 25%, but that's because that's
+technology has been around a bit longer. Other technologies are also falling as well, but those technologies
+are probably not quite ready for commercial development, and I'm probably thinking here of solar thermal
+and wave and geothermal technologies.
+Antony Funnell: And how significant has the investment of China in renewable energies been, particularly
+over the last half-decade or so?
+
+Giles Parkinson: Well, it has been quite crucial. If we go back we saw the big incentives provided by the
+German government because they wanted a rapid transition to renewables, and that provided the
+investment impetus for all the Chinese manufacturers to invest in solar manufacturing, and that brought
+down the cost of manufacturing by a significant degree and basically underlined that.
+
+What's interesting now is that those manufacturing costs are continuing to fall because there is great
+competition there between them and also US manufacturers and the few remaining European
+manufacturers, but also China has now emerged as the biggest market for the consumption of solar
+panels. That has changed their dynamics as well. And the second-biggest market is Japan which is looking
+for alternatives after the Fukushima disaster. And the third biggest market is the US where solar is
+increasing very rapidly.
+
+Antony Funnell: So from an economic as well as an environmental perspective, renewable energies, they
+are going to continue to have significant potential, even if our government at the moment doesn't see them
+as the way ahead.
+
+Giles Parkinson: Look, that's right, and our government has got this problem with providing incentives to
+renewable energy. And the issue in Australia and in some other developed countries is that demand has
+fallen. And so what's happening now is that the more renewables you bring into the market, the more that
+the coal and the gas generators get displaced and have to close down early. And there is just this massive
+pushback by those generators, the owners of those generators, which in Australia includes state
+governments (and they are very powerful, they are very influential) to stop the renewables.
+
+What's interesting is that in the other markets where demand is increasing because they are emerging
+economies or because those countries do not have a big energy infrastructure, then solar and wind energy
+is proving competitive with all the other investment choices that they can make. So someone in India now
+choosing between a coal-fired generator and solar, it's about line ball at the moment and very soon it will be
+pretty much in the court of solar because that will be the cheapest option for them.
+
+Antony Funnell: Giles Parkinson from RenewEconomy.com.
+
+So, to recap, it's still a fossil fuel world. But at $260 billion US dollars and growing, the global renewable
+energy sector is not to be sneezed at. In the last decade or so, the industry has made significant advances.
+And who knows what new disruptive technology exists just around the corner? Well, now that I mention it,
+one approach that's got very little coverage but is showing enormous potential is what's called artificial
+photosynthesis.
+
+Artificial photosynthesis video: The ingredients are simple; sunshine, carbon dioxide and water. For at least
+2 billion years that recipe has worked for plants. Through the process of photosynthesis, leaves convert the
+Sun's rays into their own energy source. What if we could develop a technology that mimics the chemistry
+of a leaf and produces clean, abundant fuels directly from sunlight?
+
+Antony Funnell: Across the world, teams of scientists are working to develop systems that will produce
+energy by mimicking the way in which plants work.
+
+President Obama referenced that effort in the clip I played earlier in the show:
+
+Barack Obama: At the California Institute of Technology they are developing a way to turn sunlight and
+water into fuel for our cars. So instead of subsidising…
+Antony Funnell: Recently a group of leading experts in the field of artificial photosynthesis met in the UK
+for a conference organised by Australian academic Thomas Faunce.
+
+Professor Faunce holds a joint position in the College of Law and the College of Medicine, Biology and the
+Environment at the ANU, the Australian National University. His vision is for a world where every
+human-made structure is covered in solar panels, not traditional photovoltaic panels, but devices that use
+sunlight to split water.
+
+Page265of399©2018Factiva,Inc.Allrightsreserved.Thomas Faunce: Well, essentially it works very similarly to the way photosynthesis works at the moment. If
+you look out a window you can see small photosynthesis going on with grass and big photosynthesis going
+on with trees. And essentially what those plants are doing, using sunlight as a source of energy to split
+water, H2O, into hydrogen and oxygen, oxygen which goes off to create the atmosphere that allows us to
+breathe and keeps solar radiation away, and hydrogen which can be used in a variety of different energy
+forms, either hydrogen itself which can be burnt, produce energy and water as a by-product, or hydrogen
+which could be mixed with atmospheric nitrogen to make ammonia. So this is what plants are doing across
+the Earth at the moment, making hydrogen and oxygen, absorbing CO2. So the simple vision is that we
+start doing our own photosynthesis in our buildings, not using biology, and all these structures that the
+increasing human population is putting across the surface of the Earth start to do photosynthesis
+themselves.
+
+Antony Funnell: So it's about mimicking the energy generation that goes on every day in trees and plants,
+and in that sense it's a more natural form of solar energy generation, isn't it, then the traditional form of
+solar energy generation that we are used to.
+
+Thomas Faunce: Well, it's a more evolved form. I think seeing that grabbing photons, as our solar energy
+collectors do at the moment, and sticking that energy into the electricity grid, is a very simplistic way of
+looking at the energy solution. You then have all sorts of problems with how do you cope with the diurnal
+supply of the energy, how do you store it and so forth, whereas for over a billion years plants have worked
+out that the crucial scientific question is how do you transform solar energy into chemical energy. Because
+once you've got that energy so transformed you can…as a structure you can move around, you can use it
+in different ways, you can use it at different times, you can store it.
+
+The part of the science that is the most clearly worked out is the splitting of water. That's been going on for
+almost 50 years now. Scientists have been using rare earth metals in particular, like ruthenium and iridium
+to use solar energy to split water into hydrogen and oxygen. That part of it could be improved. We are still
+looking for a catalyst which is as efficient as the way plants work. Plants use manganese. People are
+looking at doped dioxide and cobalt and other forms of catalysts. But if you're going to come up with a form
+of water splitting that's capable of being used across the planet, it has to have a good life cycle analysis.
+You want to make sure that that catalyst, when it goes off into the biosphere, is not going to create
+problems.
+
+So in answer to your question, that side of things—the water splitting and the catalysis—is the side of the
+artificial photosynthesis that's most fully worked out, although there is still a long way to go in coming up
+with a prototype water splitting device that could be commercialised.
+
+Antony Funnell: So that's the grand vision, a radical new form of solar technology. And, as Thomas Faunce
+mentioned, it isn't simply a theoretical one.
+
+Daniel Nocera: What we have here is the leaf itself and it has silicon and it's coated with my catalyst. And
+now what I'm going to do is drop it into this container, put in some water…
+
+Antony Funnell: What you're listening to now is a clip from a BBC video in which Harvard scientist Daniel
+Nocera demonstrates artificial photosynthesis at work.
+
+Daniel Nocera: And so as we turn on the Sun…
+
+Presenter: I'm seeing some bubbles…
+
+Daniel Nocera: And now it's making oxygen. And then the protons are running around to the back side
+here. So this is looking just like the leaf; sunlight in, wireless current, I charge it up, two catalysts make
+oxygen and hydrogen.
+
+Presenter: That's very good, that's very good.
+
+Daniel Nocera: Thanks…
+
+Antony Funnell: In 2011 Daniel Nocera unveiled a device called the Artificial Leaf. We've linked to the video
+on our webpage if you want to take a look.
+
+Essentially his device proves that you can make a relatively simple artificial photosynthesis panel, a panel,
+says Nocera, that's not only efficient, but also solves the great problem faced by traditional forms of solar
+technology; the problem of storage.
+
+Daniel Nocera: So photovoltaics in all of the energy systems you think about solar, you use it when it's
+there. So when the Sun is out it's generating energy into a different form. But you're using it when it's there.
+And the piece that is missing is energy storage, it's the storage of that energy. And so the artificial
+
+Page266of399©2018Factiva,Inc.Allrightsreserved.photosynthesis gives you a means to basically bottle up the sunlight in the form of a fuel, and you can use
+the fuel when the Sun goes down. And so artificial photosynthesis really is a storage mechanism, that's
+what the plants do with photosynthesis, it's a storage mechanism. When the sun is hitting the plant it's
+converting it into a fuel—carbohydrate—that you can use and eat at some later time. So they're very
+paralleled, the artificial photosynthesis versus photosynthesis. They are basically storing sunlight in a
+usable form that you can use on demand. It gives a storage mechanism for the photovoltaic, in effect.
+
+Antony Funnell: And that's a very important point, isn't it, because one of the criticisms of traditional solar
+systems and what is said to have held them back, is that storage issue.
+Daniel Nocera: That's right. So I'm going to put it in a different way. Say you're a power company. Right
+now power companies don't really care if you are using renewable energy or not. And the reason is, if you
+are generating electricity on your roof, they can't make money off of it. If they had storage you could then
+send the electricity from your roof to them. They would store it, and then at night they could sell it back to
+you. So with storage, energy becomes a commodity because you can sell it once you store it.
+
+So my feeling is, with good energy storage, that's what will make renewable energy take off. And so when
+people talk about solar panels and it's too expensive, I actually have a different view, that the only thing
+holding back renewable energy right now is storage. And once you have a good storage mechanism…and
+chemical fuels is the best way to store energy, it's the most energy dense form of storing energy…once you
+have a storage mechanism, I believe renewable energy will take off and you will see solar photovoltaics
+everywhere.
+Antony Funnell: Because it's making it commercial in that sense. That's going to achieve the scaling up of
+the technology, isn't it, because artificial photosynthesis, as you know, as you've been part of
+demonstrating, can work. This isn't theory. But the problem has been to date, hasn't it, trying to get it to a
+commercial level, trying to scale it up.
+
+Daniel Nocera: Yes, whether we like it or not, things don't take off until you can make profits and people
+can make money. And so there has been no impetus or motivation because people can't make money off
+of solar energy easily without a storage mechanism. So you can put some solar panels on your roof and
+run your house, but the only person making money there is the people who install them, effectively, and sell
+them. You don't have a long term basic financial model unless energy is being dealt with and becomes a
+commodity.
+
+And I can tell you, just out of personal experience…you have alluded to my work and I have this invention
+called the Artificial Leaf, but I had a company that was spun out of the Artificial Leaf, and as we are
+speaking it is being sold to a Fortune 100 company because they want to get into the energy game
+because they see what I'm telling you right now; there's money to be made in the future if you have good
+energy storage mechanisms. And so I'm starting to see it everywhere. A lot of times people think, oh, the oil
+companies are suppressing the development of energy. It's not, they just don't have any motivation to do it.
+But there are other companies, Fortune 100 companies that are just as big as oil companies but historically
+they haven't made money in energy, they've done other things, and they see their growth area as the
+energy market, and it will be those types of companies that start driving these technologies.
+
+Antony Funnell: So from your first-hand experience then, we are just on the edge of this taking off, are we?
+
+Daniel Nocera: Where on the cusp, it's about to happen. If you take a lot of companies right now that
+historically haven't done energy, say a big defence contractor, they will get their future…for instance, I'll just
+use defence funds are drying up, so you have big engineering companies and they look to the future and
+they say, well, what is a growth area for us? A growth area will be energy. And so I'm starting to see lots of
+companies (and these are big companies) internally starting to restructure as their internal R&D efforts to
+start out on an energy pathway. And a lot of it really gets down to exactly what you said—the
+storage—because once they can store energy, they have something they can market and people will want
+to buy it. And so I believe we really are on the cusp of all of this, yes.
+
+Antony Funnell: Harvard University's Daniel Nocera.
+
+So artificial photosynthesis could provide the cheap, clean energy solution of the future. But the ANU's
+Thomas Faunce sees far more than just a new form of solar technology. He speaks of its development as
+having a moral dimension. And what he means by that is that it represents a way of correcting the damage
+humans have done to the environment through the use of fossil fuels. Because, if you think back to your
+school days and to biology class, you'll remember that the process of photosynthesis actually reduces the
+amount of carbon dioxide in the atmosphere.
+
+Thomas Faunce again:
+
+Page267of399©2018Factiva,Inc.Allrightsreserved.Thomas Faunce: Really if you ask why people such as myself are most enthusiastic about this as a solution
+to a lot of our problems on Earth at the moment is that it's not just an energy solution, it's a distributed
+energy solution. So it's an energy solution that puts power into the homes and the structures around
+individual families and individual communities. Once these structures are created with this technology, they
+will have their own locally sourced fuel which is cheap and readily available.
+
+But not only that, when the technology is fully developed, each of those units will be capable of taking
+carbon dioxide either from concentrated areas such as engines or other areas where there is high
+concentrations of CO2, buildings and so forth, but even just from the atmosphere where it's quite diffuse,
+and then incorporating that to enrich the soil through mechanisms like using it to create biochar, potentially
+using it to create starches in the same way that plants do at the moment, which could include buildings
+making their own paper supply or basic starches that could be incorporated in food, and then incorporating
+atmospheric nitrogen to make ammonia fertiliser or combining it with the hydrogen to make fuel.
+
+So it's a package that, once it is fully worked out and spread across the planet, will change a lot of the
+power structures and the way in which human beings live by giving families and local communities a lot
+more autonomy over their food and fuel.
+
+Antony Funnell: There are various research projects underway looking at the development of artificial
+photosynthesis, but you've been pushing for the creation of a global artificial photosynthesis project. Why?
+And what does that say about the research efforts to date?
+
+Thomas Faunce: People may not be aware, but most developed nations have now large national projects
+working on artificial photosynthesis. The largest is the Joint Centre on Artificial Photosynthesis at Caltech,
+which was funded by the Obama administration with $122 million. The South Koreans have a Korean
+artificial photosynthesis project, the Chinese have a large project, the Singaporeans at Nanyang University,
+the Max Planck Institute in Germany, most European nations, particularly thinking about Sweden, the
+United Kingdom. Australia has a centre of excellence called ACES which is working on artificial
+photosynthesis, and a lot of other researchers working in the field.
+
+So we have a situation now where governments through their funding structures have set up what you
+could call centres of excellence or national projects working on aspects of artificial photosynthesis, but the
+nature of the grant funding challenge with academia is that researchers tend to write proposals in which
+they can show the funders, the government, that they've achieved something within a short time frame,
+which means that a lot of these proposals are focused on developing new catalysts for splitting water
+because it's possible to do this or show that there's been some improvement over the standard lifetime of a
+grant, which is about, say, five years or so.
+
+The problem is that a lot of these harder areas of the science—the carbon dioxide reduction and the
+nitrogen absorption—are sort of left hanging because it's much harder to show funders that you've made
+progress in this sort of very difficult area. So that's one of the main reasons why we think we need to shift to
+some global initiative.
+
+I think the other problem is that these national projects have some wonderful researchers, but in a sense
+they are replicating a lot of each other's work. There's a sort of competitive race going on, that's
+understandable, but at the same time there is no doubt that if we can foster collaboration, particularly where
+we could cherry-pick the best researchers, say, working on CO2 reduction, and bring them together into
+projects, that would be an advantage. Or even if individual researchers who are outside these national
+projects and perhaps not receiving large amounts of money but came up with a fantastic idea, there could
+be some mechanism for helping that along and then using resources to encourage that sort of outside the
+mainstream development.
+
+Antony Funnell: You recently held an international scientific conference on artificial photosynthesis,
+supported by the Royal Society in Britain. So what came out of that particular meeting?
+
+Thomas Faunce: Yes, well, that's actually the second large international conference that I've organised
+developing the idea of a global artificial photosynthesis project. The first was held in Australia at Lord Howe
+Island in August 2011, and yes, in July I coordinated a meeting funded by the Hooke Committee of the UK
+Royal Society to actually go much further and try and get towards what you could almost call a business
+plan for a global project.
+
+So we invited to that meeting representatives from Deutsche Bank, from Shell, from the Wellcome Trust,
+and the Moore Foundation, which is a large charitable foundation that funds environmental projects, and we
+opened up the meeting with the Wellcome Trust and Moore Foundation in particular saying, well, this is
+what we would like to see from the field if we were going to fund a global project, and so in a sense giving
+writing instructions to the 50 or 60 representatives of these large national projects who are gathered. And
+as the meeting went along these researchers were encouraged not just to present a snapshot of their
+
+Page268of399©2018Factiva,Inc.Allrightsreserved.cutting-edge research on artificial photosynthesis but try and discuss how that research could be facilitated,
+accelerated, taken to the next step by a global project.
+
+So it was a fascinating series of discussions. Outcomes of the meeting is we hope to produce a series of
+principles, like a sort of ethical statement about why you'd want a global project and what its visionary goals
+are, how it's going to help humanity. That's a particular interest of mine. I guess we saw it as a way in which
+we could start shaping the field to create the sort of structures that would be necessary if we were going to
+get to the next step of having a global project on it, which I think to me is a critical endeavour of this field, is
+to take off…there's no doubt that this technology, the artificial photosynthesis technology will evolve, but
+have we really got 50 or 100 years to wait until this happens?
+
+I think the vision behind a global project is that humanity doesn't have this length of time, and if we can get
+a project going on artificial photosynthesis as, for example, the Wellcome Trust funded the project on the
+human genome project, it may be that we could see an exponential acceleration in the pace of research
+which would lead to both a global energy and a climate change solution in time to reduce some of the dire
+consequences that we are all aware of of leaving these problems go unchecked.
+
+Daniel Nocera: It's interesting to listen to Tom talk about it, because he talks about it as a moral imperative,
+which I believe it is. And the reason is that we are changing the planet, and that's going to change the lives
+of future generations. And I do believe in what he is saying, that it's a moral imperative since we are the
+ones doing it, we need to fix it and deliver a future planet to the population that's sustainable. So the moral
+imperative idea is one that I fully believe in, and if we are messing it up, it's our job to fix it.
+
+But then there's a second piece which is coordination. So the United States and most countries have a
+Department of Energy, and the problem is there's a Department of Energy in America and we do science,
+and then there is a Department of Energy in Australia and people are doing science, and there is no
+coordination among all these efforts. And so it's extremely inefficient, the way this field is doing research
+and moving forward. So if you had basically a global Department of Energy that was saying what are the
+strengths, what projects are going on over here, how can we coordinate the projects going on over here in
+this part of the world, it would be a lot more efficient I believe and a lot quicker we would get to a solution.
+
+And so besides the moral imperative, just from an efficiency point of view, a global effort would start to
+coordinate people and money would be used more, I believe, wisely and more directed and targeted to a
+solution. So on both sides of the coin I think there is great power to having a coordinated effort in solar
+energy, solar energy storage, in this area of artificial photosynthesis.
+Antony Funnell: And the realistic possibilities of that happening, given the commercial potential I guess of
+this type of technology and all that that means in terms of competition?
+
+Daniel Nocera: Yes, at some level…so there's the research that's got to be done and I believe that should
+all get coordinated. But then down to the realism again, if people are going to make money there's got to be
+some level of competition internally. So I think when it finally starts getting spun out to companies, I doubt
+they will globally coordinate. That's not how they make money. But before you get to commercial ventures
+there is this massive amount of research that needs to be done and proven, and there's got to be
+prototypes, prototyping to prove that it can be done at scale. That should all, in my opinion, be coordinated,
+and it could be coordinated with a global effort.
+
+Once you get to commercialisation things are going to move quickly. It's probably best they not be
+coordinated and there would be internal competition because that's what would drive it to market more
+quickly. But when I talked to Tom, the part I'm more interested in is…if you get to that stage it's a home run.
+Once you have companies fighting over a technology to develop to go to market, you've won, it's going to
+happen. But before that, there's a whole bunch of research and then even engineering to prototyping to
+prove it can be done at scale. That should be coordinated. And I don't think that should be competitive, it
+should be a coordinated effort.
+
+Antony Funnell: Professor Daniel Nocera from Harvard University, ending our look at the science of artificial
+photosynthesis, a potential new form of renewable energy, and also—according to our other main guest
+today, the ANU's Professor Thomas Faunce—a moral imperative. Our third guest was Giles Parkinson
+from the website RenewEconomy.com.
+
+The sound engineer for this edition of Future Tense was Peter McMurray. I'm Antony Funnell, until next
+time, cheers!
+
+CO clfitg : California Institute of Technology | welltr : Wellcome Trust
+IN i163 : Renewable Energy Generation | i1 : Energy | i16 : Electricity/Gas Utilities | i16101 : Electric Power
+
+Generation | ieutil : Electric Utilities | iutil : Utilities
+
+Page269of399©2018Factiva,Inc.Allrightsreserved.NS ccat : Corporate/Industrial News | ntra : Transcripts | ncat : Content Types | nfact : Factiva Filters | nfce :
+
+FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | niwe : IWE Filter
+
+RE austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+IPD Artificial
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140901ea8q0000b
+
+Page270of399©2018Factiva,Inc.Allrightsreserved.

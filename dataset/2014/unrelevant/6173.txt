@@ -1,0 +1,133 @@
+(ED) ANZ Global: Aust bond futures sold off with US markets
+
+HD
+WC
+PD
+SN
+SC
+LA
+CY
+LP
+
+TD
+
+(ED) ANZ Global: Aust bond futures sold off with US markets
+
+1,083 words
+15 September 2014
+Ralph Wragg Australian Business News
+AAPRAW
+English
+Copyright 2014 RWE AUSTRALIAN BUSINESS NEWS PTY LTD. All Rights Reserved.
+
+Sydney - Monnday - September 15: (RWE Aust Business News) - The latest global business information
+compiled by ANZ research analysts. ` Weekend markets update
+
+-----------------------
+
+US Treasuries continued to sell off on Friday night and are around 25bps higher since the start of
+September. The curve steepened with the 2-year yield unchanged at 0.56% and the 10-year yield
+increasing 5bps to 2.61%.
+Australian bond futures also sold off, underperforming US Treasuries across the curve. The implied
+3-year yield increased 3bps to 2.88% and the implied 10-year yield increased 6bps to 3.67%.
+
+US equities drifted lower on Friday night ahead of the FOMC meeting this week. The market has now
+broken its run of five straight weeks of rises. The S&P 500 fell 0.6% to 1,986, the Dow Jones fell 0.4% to
+16,988 and the Nasdaq finished 0.5% lower at 4,568.
+
+European equities were broadly unchanged but the German DAX underperformed, declining 0.4% to
+9,651. The Euro Stoxx 50 declined a marginal 0.1% to 3,235 but the FTSE 100 rose 0.1% to 6,807.
+
+Australian SPI futures fell 0.3% to 5,519.
+
+In currency markets, the AUD has begun this week where it left off last, under pressure. The proximate
+driver on this occasion were the weekend China data, which reinforced the signal from bulk commodity
+prices over recent months, that China’s economy is continuing to slow as its deleveraging cycle
+continues.
+
+This week the key events are global, with the FOMC likely to support the USD in response to a shift in
+language towards tightening, as well as some volatility in GBP around the Scottish referendum on
+Thursday. We expect the AUD to continue to push lower.
+
+Indicative trading levels: AUD 0.9006, AUD/EUR 0.6942, AUD/GBP 0.5533, AUD/NZD 1.1053, AUD/JPY
+96.53, AUD/CNY 5.53, EUR/USD 1.2974, GBP/USD 1.6276, USD/JPY 107.19.
+
+Oil prices declined on Friday as signs continue to mount that global demand is softening at the same time
+global supply is set to rise. WTI futures fell 0.7% to USD92.27 per barrel and Brent futures lost 0.8% to
+USD97.11 per barrel.
+
+The spot gold price (-0.9%) continued its slide on waning inflation expectations but lifting interest rate
+forecasts. Gold fell to a seven-month low of USD1,229.7 per ounce.
+
+Base metals prices prices were flat to lower on Friday but may take a hit on the open due to the weaker
+China data released over the weekend. Copper, nickel, lead and zinc were broadly unchanged, while
+aluminium (-0.5%) fell modestly.
+
+· Agricultural commodities prices were mixed on Friday. Corn (-1.2%) and wheat (-0.9%) weakened
+further following the US Government forecast of record global wheat output and rising inventories. Sugar
+also declined a solid 1.9%. In contrast, soybeans (+0.3%), canola (+0.6%), palm oil (+0.8%) and cocoa
+(+1.1%) all rose.
+
+Page108of320©2018Factiva,Inc.Allrightsreserved.Key Drivers
+
+-----------
+
+The global bond market sell-off continued on Friday night. In the US, most of the pain was at the long end
+and both the US 10- and 30-year bond yields are 27bps above the recent troughs in late August. US
+equities also declined modestly.
+
+Economic data were supportive of these moves with solid US retail sales and consumer confidence
+further building the case for the Federal Reserve to raise interest rates. Meanwhile, the AUD remains
+under pressure, opening just above USD0.90 this morning following weaker-than-expected China activity
+data on the weekend. Oil prices fell further, with Brent down almost 15% from year highs.
+
+US retail sales in August were largely in line with expectations but revisions were positive. Headline sales
+rose 0.6% m/m in August, in line with market expectations, but growth in July was revised up to 0.3%
+m/m (originally reported as unchanged). ‘Control’ retail sales (which feed into GDP calculations) rose
+0.4% m/m in August while July sales were revised 0.3ppts higher to 0.4% m/m. This is consistent with
+goods consumption rising at a solid pace in Q3.
+China activity data (released Saturday) was soft to weak. Industrial production was the largest miss,
+rising 6.9% y/y (mkt: 8.8%) in August, the slowest pace since the global financial crisis, and much slower
+than the 9% y/y pace in July. Electricity production declined 2.2% y/y in August. The significant
+divergence between industrial production and electricity production points to a weak heavy industry, led
+by sluggish demand in China’s private residential property market. Retail sales (+11.9% y/y) and fixed
+asset investment (+16.5% y/y) growth also slowed and came in below expectations.
+Short of outright policy easing, ANZ expects that China will likely miss the 7.5% GDP growth target this
+year, and a sharp economic slowdown will also make ongoing structural reforms more difficult.
+Also in China, August monetary data (released Friday) suggest that China’s credit extension improved
+somewhat after the sharp decline in July, although it remains soft. China’s new yuan loans bounced back
+to RMB703bn in August from the extremely low RMB385bn in July.
+
+Aggregate financing also picked up (RMB957.4bn) but was significantly lower than in the same period
+last year. M2 money supply growth slowed further to 12.8% y/y in August, the first time since March that
+M2 growth came in below the central bank’s target of 13% y/y.
+
+Euro area industrial production picked up in July, rising 1.0% m/m, and June growth was also revised
+higher to flat from -0.3% m/m previously. The composition was also encouraging, with solid capital goods
+production growth. This should help ease fears of a continuation of weak growth in Q3.
+This week in Australia, the minutes of the RBA September Board meeting will be released tomorrow.
+
+We expect the Minutes to reiterate the slightly more upbeat tone on the domestic economy purveyed in
+the post-meeting statement. Chris Kent (RBA Assistant Governor, Economic) will also speak tomorrow at
+the Bloomberg Economic Summit and the Banks’ quarterly Bulletin will be released on Thursday. The key
+focus offshore will be the Federal Reserve policy meeting where markets are looking for a more upbeat
+tone.
+
+NS
+
+RE
+
+mnonfr : Non-ferrous Metals | c21 : Output/Production | e1111 : Industrial Production | ccat :
+Corporate/Industrial News | e11 : Economic Performance/Indicators | ecat : Economic News | m14 :
+Commodity Markets | m142 : Metals Markets | mcat : Commodity/Financial Market News | ncat : Content
+Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter
+usa : United States | china : China | austr : Australia | apacz : Asia Pacific | asiaz : Asia | ausnz :
+Australia/Oceania | bric : BRIC Countries | chinaz : Greater China | devgcoz : Emerging Market Countries
+| dvpcoz : Developing Economies | easiaz : Eastern Asia | namz : North America
+
+PUB RWE Australian Business News Pty Ltd
+AN
+
+Document AAPRAW0020140915ea9f0002x
+
+Page109of320©2018Factiva,Inc.Allrightsreserved.

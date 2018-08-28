@@ -1,0 +1,207 @@
+Telecommunications Industry in Hong Kong
+
+compute
+
+SE
+HD Telecommunications Industry in Hong Kong
+WC 2,543 words
+PD 1 January 2014
+SN EUROTRADE Computer & Communication Magazine
+SC FMEURO
+LA
+CY Copyright 2014 EUROTRADE Media Co., Ltd. All Rights Reserved.
+LP
+
+English
+
+TD
+
+Overview ? Hong Kong's role as a leading business centre in the Asia-Pacific region owes much to its
+advanced telecommunications infrastructure, which facilitates domestic and international communications
+by voice or data. The role of telecommunications is especially vital to Hong Kong's competitiveness in the
+age of electronic commerce. In 2011, the industry of information and communications generated HK$ 63
+billion (US$ 8 billion), contributing to 3.3% of GDP. ? Digital 21, the blueprint for Hong Kong’s
+information and communication technology (ICT) development, was last updated in 2008. The 2008 Digital
+21 Strategy highlighted five action areas: (1) Facilitating a digital economy; (2) promoting advanced
+technology and innovation; (3) developing Hong Kong as a hub for technological cooperation and trade;
+(4) enabling the next generation of public services; and (5) Building an inclusive, knowledge-based
+society. ?
+
+To increase the land supply for science and technology development, the government has allocated a site
+of about two hectares in Tseung Kwan O to develop a high-tier data centre, opened for tender in 2013. ?
+The advanced technology and quality services of Hong Kong's telecommunications sector attract
+multinational companies, such as AT&T and Verizon, to set up their regional operations in Hong Kong. ?
+Hong Kong's telecommunications industry is totally privately owned and faces no restriction on foreign
+investment. All telecommunication services are open for competition. ? With the opening up of the
+telecommunications market in most countries, many Hong Kong operators, such as Hutchison, have
+gained a foothold in overseas markets, particularly in the mobile phone sector. ? In the Global Information
+Technology Report 2013 by the World Economic Forum, Hong Kong ranks fourth in Asia (14th in the
+world) in the Network Readiness Index, indicating Hong Kong’s advanced position in telecommunication
+infrastructure, regulatory environment, and business readiness of using information technology. Industry
+Data March 2013 No. of establishments 321 Employment 18,048 Source: Quarterly Report of Employment
+& Vacancies Statistics, Census and Statistics Department Business Receipts (HK$ billion) 2009 2010
+2011 Public local phone/facsimile/telegraph/telegram services 6.7 4.8 4.9 Public long distance phone
+services 4.5 4.6 6.6 Mobile phone services 15.4 16.2 18.8 Internet, satellite communication, and other
+services 21.4 23.7 24.0 Total 48.0 49.3 54.3 Sources: Key Statistics on Business Performance and
+Operating Characteristics of the Information and Communications, Financing and Insurance, Professional
+and Business Services Sectors, Census and Statistics Department Phone / Household Broadband
+Penetration Rate April 2013 Household fixed phone line penetration rate 103.3% Mobile subscriber
+penetration rate 229% Household broadband penetration rate 85.2% Source: Office of the
+Communications Authority External Telephone Traffic Volume (million minutes) 2009 2010 2011 2012
+Total Outgoing Calls 7,759 7,727 7,646 7,888 Total Incoming Calls 2,271 2,582 2,896 2,637 Source:
+Office of the Communications Authority Local Fixed Telecommunications Network Services (FTNS): The
+FTNS market has been fully liberalised since 1 January 2003, with no pre-set limit on the number of
+licences issued, nor specific requirement on network rollout or investment. As at June 2013, there were 20
+local fixed network operators in Hong Kong. As at September 2012, there were about 4.3 million
+exchange lines in the city, a density of 102 lines per 100 households or 60% by population, which was
+among the highest in the world. Mobile Services: As at December 2012, there were 5 mobile network
+operators. In April 2013, the number of mobile service subscribers reached 16.4 million, representing one
+of the highest penetration rates in the world at about 229%. Among these subscribers, 10.7 million were
+2G and 3/4G service customers. Broadband Services: As at June 2013, there were 194 Internet Service
+Providers (ISPs) licensed to provide broadband services. As at September 2012, more than 2.27 million
+customers are now using broadband services with speed up to 1,000 Mbps (Megabits per second). In the
+residential market, 87% of the households are using broadband service. Internationally, Hong Kong's
+
+Page193of210©2018Factiva,Inc.Allrightsreserved.broadband penetration rate is among the highest in the world. This has facilitated the development of IPTV
+- as at November 2012, there were nearly 1.36 million IPTV subscribers. The International Direct Dialling
+(IDD): International Direct Dialing (IDD) service to most countries and regions of the world is available. In
+2011, the volume of outgoing and incoming traffic for telephone calls was 7,646 million minutes and 2,896
+million minutes respectively. Cost of IDD calls has gone down significantly since January 1999, when
+fixed-line operators were allowed to offer non-exclusive international services. Satellite: As at November
+2012, there were 41 licensees permitted to operate either external cable or non-cable based facilities for
+the provision of external communication services in Hong Kong, with more than 185 satellite earth station
+antennas in operation. Hong Kong adopts an open sky policy in regulating the provision of satellite
+services. Hong Kong provides dedicated relay services for multinational companies, international press
+agencies and TV channels to downlink or uplink their satellite signals over the Asia Pacific region.
+Submarine Cable: Hong Kong is connected to a number of submarine cable systems, including: ? The
+Okinawa-Luzon-Hong Kong system connects Hong Kong to the Philippines, Japan and North America. ?
+The Asia Pacific Cable (APC) system links Hong Kong to Malaysia, Singapore, Taiwan and Japan. ? The
+Thailand-Vietnam-Hong Kong (TVH) system connects Hong Kong to Thailand and Vietnam. ? The Asian
+Pacific Cable Network (APCN) system connects Hong Kong to Taiwan, Korea, Japan, Thailand, the
+Philippines, Malaysia, Singapore, Indonesia and Australia. ? The Fibre-optic Link Around the Globe
+(FLAG) connects Hong Kong to Thailand, Shanghai, South Korea, Japan and other countries around the
+world. ? The SEA-ME-WE-3 cable connects Hong Kong to various countries in South East Asia, Middle
+East and the Western Europe. ? The Asian Pacific Cable Network 2 (APCN2) connects Hong Kong to the
+Chinese Mainland, Taiwan, Korea, Japan and other Asian countries. ? C2C Network connects Hong
+Kong to the Philippines, Taiwan and Singapore. ? The Asia America Gateway (AAG) connects Southeast
+Asia and North America, via Hong Kong, Guam and Hawaii. ? The East Asia Crossing (EAC) connects
+Hong Kong with Japan, South Korea, Taiwan, the Chinese mainland, Singapore and the Philippines. ?
+The North Asia Cable System (NACS) connects Hong Kong with Japan and Taiwan. ? The Reach North
+Asia Loop (RNAL) connects Hong Kong with Taiwan, Korea and Japan. ? The Trans Pacific Cable
+(TPC-1 & TPC-2) connects Hong Kong with Vietnam, the Philippines, Japan, Taiwan, Singapore, South
+Korea, Guam and Hawaii. ? The VSNL SG HK JP Guam connects Hong Kong with Singapore, Japan and
+Guam. Exports The main form of cross-border exports of telecommunications services is through incoming
+calls from another country, in the form of revenue collected for the service of completing the call. Other
+export incomes are derived from: ? offering roaming services to overseas mobile phone users; ? selling
+satellite transponder capacities to other telecommunications operators, broadcasting and multinational
+corporations to meet their regional communications, broadcasting and international communications
+needs; ? consultancy services (e.g. technology transfer and training programmes) to overseas customers;
+and ? telecommunications services provided to travellers to Hong Kong. With the opening up of the
+telecommunications market in most countries, many Hong Kong operators have gained a foothold in the
+overseas markets, particularly in the mobile telephone sector. For example, Hutchison Telecom has 3G
+operations in different regions and countries (e.g. the UK, Denmark, Italy, Sweden, Ireland, Israel,
+Macau, Australia and Austria). Many other operators have invested in the development of
+telecommunications networks in Asia, including India, Indonesia, the Philippines, Sri Lanka, Taiwan and
+Vietnam. The bulk of Hong Kong's international call traffic is now with the Chinese mainland.
+International private leased circuits are offered to several mainland gateway cities, while some operators
+provide roaming services to mobile phone and pager users when they are on the mainland. Exports of
+telecommunication services (HK$ million) 2009 2010 2011 Exports - Telecommunication services 4,614
+7,343 9,695 Sources: Report on Hong Kong Trade in Services Statistics for 2011, Census and Statistics
+Department Industry Development and Market Outlook Local industry developments As of end-June 2008,
+mandatory type II interconnection policy had been withdrawn. Type II interconnection is a regulatory tool
+widely deployed in the world, requiring the incumbent fixed network operator (“FNO”) to open up its
+copper-based customer access network (CAN) to new entrants so that the latter may provide competing
+service to customers in the start-up phase when their own self-built CANs are not as extensive as the
+incumbent’s. Now over 86% of local households have the choice of more than one FNO. The increasing
+use of data services such as instant messaging and mobile internet services among the younger
+generations helps stimulate the mobile data usage in Hong Kong. As at September 2012, local mobile
+data usage recorded a remarkable surge to 6,347,228 Gigabytes. This represents a double in the mobile
+data usage over 2011 and 4.3 times over the same period in 2010. After 29 new digital terrestrial
+television (DTT) fill-in stations launched in 2011, the coverage of DTT services has been expanded to 96%
+in early 2012. Citing a public survey conducted in June 2012, take-up rate of DTT increased to 73.5% of
+total number of households in Hong Kong. The development of FTTH (Fibre-to-the-home) technologies
+goes fast in Hong Kong. The household penetration of FTTH, FTTB (Fibre-to-the-home) and local area
+networks is around 45%, as at February 2012. WiFi access is increasingly widespread in Hong Kong. As
+at June 2013, there were more than 19,495 public WiFi hot spots in Hong Kong. Since the Hong Kong
+government launched the Government WiFiprogramme in 2007, there were free public WiFi services in
+415 government premises as at May 2013. Macro-trends in the industry "Going wireless" continues to gain
+momentum in the global consumer market - according to the GSM Association, mobile networks provides
+coverage to over 90% of the world's population in 2012. Worldwide mobile data bandwidth usage
+continues to grow as the mobile phone increasingly integrates into users’ daily life. Services and functions
+
+Page194of210©2018Factiva,Inc.Allrightsreserved.that can be done through the mobile phone include payment, receiving news, exchanging files, music, and
+movies, trading, etc. With the deployment of the 4G technologies such as the Long Term Evolution (LTE)
+and other advanced technologies progressively by the three broadband wireless access services
+providers in the 2.5/2.6 GHz band, consumers can enjoy even higher speed of mobile data services up to
+100 Mbps. In Hong Kong, CSL launched its 4G network services in early 2012, while Hutchison and
+Smartone announced plans to launch 4G services in 2012. The expansion of 3G/4G networks drives up
+the demand for video telephony, sharing and messaging services over mobile networks. According to ABI
+Research, in 2011, there were fewer than 47 million consumers using such services, but the take up rate
+is expected to grow to 390 million in 2016. ABI Research also forecast that the global mobile TV’s market
+revenue will exceed US$ 20 billion by 2015. Following the first launch of 3D TV in 2009, NOW TV
+broadcast the first 3D movie on its channel in November 2011, while i-Cable broadcast the first 3D English
+Premier League match in January 2012. It is expected that more 3D TV channels will be introduced in the
+near future. More countries within the Asia Pacific region, such as Malaysia, Indonesia, Vietnam and
+Australia, have rolled out commercial IPTV services in the last 3 years. The China market According to
+the Ministry of Industry and Information Technology (MIIT), total fixed investment in the
+telecommunications sector reached RMB 361.4 billion as at end-2012, up 8.5%.Total revenue of the
+industry reached RMB 1,076.3 billion, up 9.0%. As at the end of 2012, the number of mobile phone users
+in China increased by 12.8% to 1.11 billion (equivalent to 82.6 subscribers per 100 persons) while fixed
+line phone subscribers dropped by 2.4% to 278.2 million (or 20.7 subscribers per 100 persons). Since the
+issue of 3G licences in January 2009 and the launch of 3G services in the following months, 3G usage has
+surged on the mainland. As at May 2013, there were more than 304 million 3G users on the Chinese
+mainland, 26.1% to the mobile phone subscribers. The explosive growth of 3G usage on the Mainland has
+stimulated the need for more 3G services or products, such as wireless music and mobile newspapers.
+Strong pricing advantage and improving quality of services has helped raise the competitiveness of
+Chinese telecom vendors, such as ZTE Corp. and Huawei Technology. According to the World
+Intellectual Property Organisation (WIPO) in 2011, ZTE and Huawei were ranked as first and third globally
+in terms of the number of international patent applications. TD-LTE-Advanced, domestically developed on
+the mainland and supported by China Mobile, has been recognised by International Telecommunication
+Unit (ITU) as a global 4G technology. China Mobile finished phase-I large-scale test of TD-LTE network in
+6 cities in 2011, with the phase-II plan to be launched in nine cities in 2012. The Mainland-Hong Kong
+Closer Economic Partnership Arrangement (CEPA) Under CEPA, qualified Hong Kong service suppliers
+(HKSS) are allowed to set up joint-venture enterprises on the Chinese mainland from 1 October 2003,
+providing 5 types of value-added telecommunications services without geographic restriction. These
+services include Internet data centre services, store and forward services, call centre services, Internet
+access services (i.e. ISP) and content services (i.e. ICP). Hong Kong services suppliers’ shareholding in
+the joint venture should not exceed 50%. From January 2008, HKSS are allowed additionally to provide
+mainland-IP-based Virtual Private Network (VPN) services as defined in the Telecommunications
+Business Classification in the form of a joint venture, with the Hong Kong partner holding a stake of not
+more than 50%. Taking effect in October 2009, HKSS can distribute in Guangdong Province fixed and
+mobile telephone service cards which can only be used in Hong Kong. Mobile satellite phone service
+cards, however, are explicitly excluded. According to CEPA Supplement IX, HKSS are allowed to set up
+wholly owned companies or equity joint ventures in providing offshore call centre services in Dongguan
+and Zhuhai Cities of Guangdong Province on a pilot basis, with no limitation on the equity ratio of the
+Hong Kong side. Under CEPA Supplement X, which will take effect from January 2014, HKSS are
+allowed to set up joint-venture enterprises in Guangdong Province to provide online data processing and
+transaction processing services (yet confined to e-commerce business websites only). HKSS’s
+shareholding should not exceed 55%. Further, contractual service providers employed by HKSS are
+allowed to provide this type of services on the mainland in the mode of movement of natural persons. As
+at the end of September 2013, there were 48 approved HKSS in the sector of value-added
+telecommunications services (including calling cards) out of a total of 53 applications.
+
+CO cthkng : China Mobile Limited | cmbile : China Mobile Communications Corp
+IN
+
+i9741109 : Cable Broadcasting | ibrdbi : Broadband Infrastructure | i83944 : Internet Service Providers |
+i7902 : Telecommunications | i3302 : Computers/Electronics | i3303 : Networking | i97411 : Broadcasting |
+icomp : Computing | iint : Internet/Online | imed : Media/Entertainment | itech : Technology | i79022 :
+Wireless Telecommunications Services
+c184 : Joint Ventures | c22 : New Products/Services | c18 : Ownership Changes | cactio : Corporate
+Actions | ccat : Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfcpin : FC&E
+Industry News Filter
+china : China | hkong : Hong Kong | vietn : Vietnam | taiwan : Taiwan | guam : Guam | phlns : Philippines |
+austr : Australia | guang : Guangdong | apacz : Asia Pacific | asiaz : Asia | ausnz : Australia/Oceania | bric
+: BRIC Countries | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | easiaz : Eastern Asia | indochz : Indo-China | pacisz : Pacific Islands | seasiaz : Southeast
+Asia
+
+NS
+
+RE
+
+Page195of210©2018Factiva,Inc.Allrightsreserved.IPD COMPUTER NEWS & TRENDS
+PUB Eurotrade (HK) Ltd.
+AN Document FMEURO0020140228ea1100005
+
+Page196of210©2018Factiva,Inc.Allrightsreserved.

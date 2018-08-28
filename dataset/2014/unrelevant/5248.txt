@@ -1,0 +1,197 @@
+Icon Energy rises 1.2% on high volatility 29 August, 2014 16:00 AEST
+
+HD
+WC 793 words
+PD
+SN
+SC
+LA
+CY
+LP
+
+Icon Energy rises 1.2% on high volatility 29 August, 2014 16:00 AEST
+
+29 August 2014
+Australian Company News Bites - Stock Report
+NBACSR
+English
+Copyright 2014 News Bites Pty Ltd. All Rights Reserved.
+
+AUSTRALIAN DAILY STOCK REPORT
+Icon Energy Limited (ASX:ICN), Australia's 39th largest energy company by market cap, traded
+between an intraday low of 16.0c and a high of 16.70c. The price range has expanded in the last two days
+(from 0.20c two days ago to 0.70c today) which, accompanied by a price rise, is a bullish signal. The
+average daily volatility of 3.0% places the stock in the 3rd quartile in the market meaning it is mildly
+volatile. Since the start of trading its volatility (highest price minus lowest price/lowest price) of 4.4% was
+1.5 times the average daily volatility of 3.0%, up from 1.2% on Thursday and 1.2% on Wednesday. A
+price rise on high volatility is a bullish signal. The stock price increased 0.20c (or 1.2%) to close at 16.70c.
+Compared with the All Ordinaries Index which rose 3.3 points (or 0.06%) in the day, this represented a
+relative price increase of 1.2%.
+
+TD
+
+BULLISH SIGNALS
+
+Fundamentals:
++ The company is cash rich with Cash to Market Capitalisation at 21.2%.
+
++ Interest cover defined by EBIT/I is 14.1 times. This indicates it is less leveraged.
+
++ Tobin's Q Ratio, defined as MCap divided by Total Assets, is 1.9. Compared with the rest of the market
+the stock is undervalued.
+
+Undervaluation [compared with sector average]:
++ Return on Equity 7.9% [3.2%].
+
++ Return on Assets 7% [1.9%].
+
+Technicals:
+
+Uptrend: The stock continues its significant uptrend.
+
++ Rises to Falls: in the past month the number of rises outnumbered falls 10:3 or 3.3:1.
+
++ The stock's relative price strength percentile is rising at 45 for 6 months, 75 for 3 months and 93 for 1
+month.
+
+High Performance Indicators:
+Value Rank In Market
+Description
+Price/MAP200
+1.14
+1.02
+Price/MAP50
+Cash to MCap % 21.2
+
+In Top Quartile
+In Top Quartile
+In Top Quartile
+
+BEARISH SIGNALS
+
+Fundamentals:
+
+Page185of405©2018Factiva,Inc.Allrightsreserved.+ Total Liabilities/EBITDA of 6.1 which compares unfavourably with the Joseph Piotroski benchmark of 5.
+
+Overvaluation [compared with sector average]:
+
++ Return on Capital Employed 1.5% [6.0%].
+
+Technicals:
+
+Overbought/Bearish/Resistance Signals:
+
++ The stock is overbought according to the Williams % R indicator of -7.5, suggesting the price is close to
+its 14-day high of 17.0c.
+
++ The Money Flow Index [MFI] is 87.9 suggesting an overbought 14-day trend, being above 80. The
+Money Ratio of 7.3 suggests positive money flow was 7.3 times negative money flow.
+
+Low Performance Indicators:
+Description
+Value Rank In Market
+27.6
+Price Earnings
+Return on Capital Employed [ROCE] % 1.5
+
+In Bottom Quartile
+In Bottom 2%
+
+NOTE
+
+Technicals:
++ Volume: there were 977,775 shares worth $163,288 traded. This has been propped up by firm volume
+of 1.8 times average.
++ Beta: the Beta of Icon Energy stock is 0.3. A Beta lower than 1 suggests this is a low risk, low return
+stock with volatility less than that of the market.
++ Icon Energy is at a discount of 9.7% to its 12-month high of 18.50c on 05 Mar, 2014. It is also at a
+premium of 33.6% to the 12-month low of 12.50c on 25 Jul, 2014.
++ The present value of $1,000 (PV$1000) invested one year ago in Icon Energy is $1,044, for a capital
+gain of $44.
+PV$1000 1-week
+ICN.ASX 1,044
+
+1-month 1-year
+1,285
+
+1,044
+
+Fundamentals:
+
+Parity [compared with sector average]:
+
++ Price to Book of 2.2 [2.1].
+
+Performance Indicators:
+Description
+Value
+Today's Turnover $163,288
+$102.8
+MCap
+million
+In 2nd Quartile
+
+Rank In Market
+In 2nd Quartile
+
+Financial Summary
+Jun 2013
+Year ended
+Pretax (AUDm) 0.7
+Net (AUDm)
+3.7
+EPS (AUD)
+0.01
+
+Jun 2012
+(5.3)
+(4.6)
+(0.01)
+
+Jun 2011
+(6.7)
+(6)
+(0.01)
+
+To download our Detailed Research Report (PDF), giving comprehensive trading and background
+information on Icon Energy, click here
+To view Recent Company Headlines, click here
+July 30: Icon Energy to Commence Hydraulic Stimulation in ATP 855 in September 2014
+July 29: Icon Energy Reports Negative Cash Flow of $7.99m for the June 2014 Quarter
+
+Page186of405©2018Factiva,Inc.Allrightsreserved.June 30: Icon Energy Announces Extension of Shantou SinoEnergy Gas Sales Agreement
+June 20: Ching-Tang Li buys 10.6m Icon Energy shares
+June 19: Icon Energy Announces 28Tcf Unconventional Prospective Gas Resource Estimate in ATP 855
+
+ISIN: AU000000ICN5
+
+AU:ICN; ASX:ICN; AX:ICN; ICN.AX
+
+Source: BuySellSignals.com
+
+CO
+IN
+NS
+
+iconol : Icon Energy Ltd
+i1 : Energy | i13 : Crude Oil/Natural Gas
+c1521 : Analyst Comments/Recommendations | c1522 : Share Price Movement/Disruptions | nrmf :
+Routine Market/Financial News | c15 : Performance | c152 : Earnings Projections | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E Exclusion Filter |
+nfcpin : FC&E Industry News Filter | niwe : IWE Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+RE
+IPD Significant Uptrend; Financial Results; NTA; Day High; Day Low; Market Capitalization; Relative Price
+
+Change; Turnover ; Price Change %; Close Price; Capital Gain; Cash to Market Capitalisation;
+Favourably; Top Quartile; Interest Coverage; Joseph Piotroski Benchmark; Performance; Present Value
+of $1,000 ; Return On Assets %; Return On Capital Employed %; Return On Equity %; Bottom Quartile;
+Total Liabilities/EBITDA; Unfavourably; Valuation; EBIT/I; PV$1000; Beta; EPS; interest cover
+
+PUB News Bites Pty Ltd
+AN
+
+Document NBACSR0020140829ea8t00064
+
+Page187of405©2018Factiva,Inc.Allrightsreserved.

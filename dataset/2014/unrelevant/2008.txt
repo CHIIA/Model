@@ -1,0 +1,150 @@
+Heard on the Street / Financial Analysis and Commentary
+
+HD
+WC
+PD
+SN
+SC
+PG
+LA
+CY
+LP
+
+TD
+
+Heard on the Street / Financial Analysis and Commentary
+
+1,088 words
+14 February 2014
+The Wall Street Journal Asia
+AWSJ
+28
+English
+Copyright © 2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+China Trusts' Road to Bust
+Sooner or later, someone in China's trust-products universe is going to lose real money.
+
+Weeks after a hasty bailout was arranged for a troubled Chinese trust product, another shadow lender,
+Jilin Trust, has failed to make payments on tranches of an investment product that came due over the
+past few months. Jilin is set to miss another payment next week. Once again the product in question is
+linked to a troubled coal miner, and was sold to investors by one of China's big four state banks, in this
+case China Construction Bank.
+The product's six tranches amount to nearly one billion yuan, or around $165 million, smaller than the
+$500 million worth of ICBC-sold products rescued last month by a mysterious third party. Trust
+investors in that case lost interest payments but no principal. Another shadowy resolution in which
+investors eventually get their principal back can't be ruled out. Jilin Trust told investors the coal
+company is in restructuring as it attempts to pay back debt. The final tranche matures in March.
+
+It is also possible authorities will let investors take a bigger hit. Even if not, more distressed trust
+situations are inevitable and will test Beijing's resolve. Bernstein Research estimates that about 40% of
+the about 10 trillion yuan in trust products outstanding will mature this year. The trust companies
+themselves are thinly capitalized, with an equity base equivalent to 2.6% of assets under management.
+A feedback loop could form: Investors steer clear of new trust products, and trust companies are then
+unable to roll over old loans to stressed borrowers, causing more defaults.
+China's big banks will be insulated so long as they can hold the line that they aren't liable for failed
+products that they distributed. If banks are seen to be involved in a bailout, investors will be right to
+question how much of this off-balance-sheet activity needs to be accounted for on the books.
+In theory, China's trusts are economically useful, directing credit to dynamic companies that banks don't
+reach because of their bias toward serving other state-owned enterprises.
+
+In practice, trusts tend to be lenders of last resort to the least-productive sectors that the banks have
+been told to avoid. The China Trustee Association says 35% of trust assets are invested in the
+infrastructure, energy, mining and real-estate sectors. Nomura economist Zhiwei Zhang reckons the
+true proportion is over 50%.
+The good news is Chinese investors are getting reacquainted with risk. The question is whether this can
+happen without sparking a broader crisis of confidence.
+
+-- Aaron Back
+
+Recovery at Rio's Tinto
+Is Built on Pumping Iron
+
+Rio Tinto is digging deep. With investors clamoring for lower costs, improving cash flows, reduced
+spending on grandiose investment projects and higher payouts to shareholders, the Anglo-Australian
+miner shoveled up the goods Thursday.
+
+Page240of340©2018Factiva,Inc.Allrightsreserved.That makes Rio a good bet on a recovery of the mining sector -- if the price for iron ore holds up.
+Rio has cut operating costs by $2.3 billion and should easily hit its $3 billion target by the end of 2014.
+Capital expenditure is expected to fall to $11 billion this year and $8 billion in 2015 from $12.9 billion
+last year. Record volumes in Rio's high-quality, low-cost iron-ore operations helped operating cash
+flow rise 22% in 2013 from the prior year.
+Despite that, Rio's net cash flow after tax, at $15.1 billion, didn't cover its capital investment and $3.3
+billion paid in dividends in 2013. But a 15% hike in Rio's dividend is a sign of confidence that free cash
+flow will continue improving. Net debt, at $18.1 billion, is nearing Rio's midteens target.
+The company, then, seems well placed to ramp up share buybacks or special payouts to shareholders
+next year. And Rio looks cheap. At about nine times 2014 earnings, at Jefferies forecasts, the miner is
+trading close to one-fifth below the average multiple for the sector.
+
+That discount, however, reflects the fact that Rio remains particularly sensitive to steel production in
+China. Earnings in Rio's aluminum business increased more than tenfold last year; copper production
+is ramping up. But iron ore, an ingredient in steelmaking, accounts for close to 90% of the company's
+divisional earnings.
+A tightening of Chinese lending conditions, as well as the government's heightened focus on air
+pollution, adds to the usual angst over the outlook for economic growth. Iron ore has already fallen from
+a peak of close to $140 a ton late last year to about $120.
+And each $10 decline in the iron-ore price could knock perhaps $1.7 billion from Rio's free cash flow.
+Investors have built the prospect of some additional decline into expectations for Rio. But if the iron-ore
+price goes below more bearish outlooks, say well below $100 a ton, that could jeopardize potential
+payouts investors are hoping for.
+
+Rio's judicious management could offset that: A somewhat conservative outlook on production for 2014
+suggests chief Sam Walsh won't simply ship tons into an oversupplied market. But Rio has
+outperformed its peers since the sector's lows last year. China and iron ore could still test investors'
+metal.
+
+-- Helen Thomas
+
+Overheard
+
+It has yet to rival the influence of the Trade Federation in "Star Wars" but the so-called Federation at
+Goldman Sachs is gaining power.
+The firm announced Tuesday five new members for its management committee, heralding a subtle shift
+in its composition. Previously, the committee was about equally divided between sales and trading,
+investment banking and the Federation. This is the firm's nickname for non-revenue-generating units
+that, at other firms, might be derisively called "the back office." At Goldman, they are very powerful,
+spanning areas such as legal, accounting, risk, compliance and "human capital." The addition of Craig
+Broderick, chief risk officer, and Sarah Smith, chief accounting officer, means there are roughly more
+people from the Federation on the committee than from investment banking. Three people also were
+added from sales and trading, making that group larger than the Federation. Investment banking now
+trails both.
+
+Goldman's Federation shouldn't get too full of itself, though. Unlike the Federation in "Star Wars" it is
+unlikely to gain an army of battle droids.
+
+License this article from Dow Jones Reprint Service
+
+CO
+IN
+
+NS
+
+rtz : Rio Tinto PLC | craaus : Rio Tinto Ltd
+i211 : Metal Ore Mining | i814 : Banking | iinv : Investing/Securities | imet : Mining/Quarrying | ibnk :
+Banking/Credit | ibasicm : Basic Materials/Resources | ifinal : Financial Services
+c151 : Earnings | c1521 : Analyst Comments/Recommendations | c173 : Financing Agreements | ccat :
+Corporate/Industrial News | ceffic : Corporate Process Redesign | m11 : Equity Markets | mirono : Iron
+Ore Markets | ndj : Dow Jones Top Stories | nedc : Commentaries/Opinions | neqac : Equities Asset
+Class News | nhrd : Heard on the Street | nsum : News Digests | ntesi : Essential Stock Market
+Information | ntop : Top Wire News | c11 : Plans/Strategy | c15 : Performance | c152 : Earnings
+Projections | c17 : Funding/Capital | m14 : Commodity Markets | m142 : Metals Markets | mcat :
+Commodity/Financial Market News | ncat : Content Types | nfact : Factiva Filters | nfce : FC&E
+
+Page241of340©2018Factiva,Inc.Allrightsreserved.Exclusion Filter | nfcpex : FC&E Executive News Filter | nfcpin : FC&E Industry News Filter | niwe : IWE
+Filter | redit : Selection of Top Stories/Trends/Analysis
+china : China | austr : Australia | eurz : Europe | uk : United Kingdom | usa : United States | use :
+Northeast U.S. | usny : New York State | jilin : Jilin | apacz : Asia Pacific | asiaz : Asia | ausnz :
+Australia/Oceania | bric : BRIC Countries | chinaz : Greater China | devgcoz : Emerging Market
+Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia | eecz : European Union Countries |
+namz : North America | weurz : Western Europe
+AEQI
+Dow Jones & Company, Inc.
+Document AWSJ000020140213ea2e0001s
+
+RE
+
+IPC
+PUB
+AN
+
+Page242of340©2018Factiva,Inc.Allrightsreserved.

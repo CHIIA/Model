@@ -1,0 +1,346 @@
+Australia's evolving legal position on use of other trader's brands in online advertising
+
+HD Australia's evolving legal position on use of other trader's brands in online advertising
+BY
+Karen Hayne
+WC 2,991 words
+PD 4 February 2014
+SN Mondaq Business Briefing
+SC BBPUB
+LA English
+CY
+LP
+
+(c) 2014 Mondaq Ltd
+
+Introduction
+
+The law in Australia continues to develop regarding use of competitor brands including use in domain
+names, in the content of online ads and use of Google Adwords.
+
+TD
+
+Google's position is now clear with the Australian High Court unanimously holding in Google Inc v
+Australian competition and consumer commission (2013) HCA 1 that Google was not liable for misleading
+or deceptive conduct in respect of advertisements published using its online Adwords service, in
+circumstances where other traders' brands were used in online advertisements (Google Case) . The High
+Court determined that "Google has no control over a user's choice of search terms or an advertiser's
+choice of keywords" and should not be responsible for misleading or deceptive conduct of its customers,
+as the advertisements were predetermined by the advertisers, not Google.
+
+While Google's position in Australia may be clear, various advertisements in the Google Case were found
+to be misleading and deceptive, and the traders held responsible for those advertisements.
+
+So while Google may permit businesses to bid on and use terms (including other traders' trade marks),
+businesses must tread carefully when deciding what terms to use and how to use them online.
+
+Below we look at some recent Australian cases to review the Australian Courts' views of what will and will
+not be permissible conduct online and also touch on Google's own policy (post the Google Case).
+
+Google - A Change in Policy
+
+After the Google Case, Google amended its AdWords Trademark Policy (Policy) in Australia to mirror the
+Policy in other parts of the world.
+
+Before 23 April 2013 (because of decisions in the Google Case in the Courts below) if a trade mark was
+being used as a Google Adword in Australia, trade mark owners could file a Google Adword Complaint.
+Google could then (under its Policy) restrict the use. Under the updated Policy, Google no longer restricts
+advertisers purchasing and using trade marks as keywords in Google Ads (formerly known as "sponsored
+links"). Google will now only restrict use if the trade marks are used and actually appear in the text of the
+resulting Google Ad.
+
+As such, trade mark owners can still complain to Google about unauthorised use of their trade marks in ad
+text (including as a domain name), and Google can take steps to restrict this use. However, the Policy is
+limited in its application. For example, Google will:
+
+Only investigate claims where the trade mark is an exact match to the registered trade mark. Near
+matches to a trade mark will not be investigated. For example if your mark is "Two Left Feet Dance
+Company" and the mark you are complaining of is "Two Left Legs Dance Company", your complaint is
+unlikely to be investigated;
+
+Not review claims where a trade mark is being used as a subdomain. For example, if you own the domain
+name "twoleftfeet.com.au" and you lodge a complaint about the domain name
+"twoleftfeet.twoleftlegs.com.au", this complaint is unlikely to be investigated.
+
+Page244of263©2018Factiva,Inc.Allrightsreserved.Further, a Google Ad may only be taken down temporarily. There are instances where the writers have
+made a complaint, only to find that an offending Google Ad reappears weeks later. This places a time
+consuming and costly burden on brand owners and may require multiple complaints regarding the same
+advertisement.
+
+Additionally, there is a level of scepticism as to Google's commitment to enforcing its own policies. For
+example, on 24 October this year Google published a large banner ad alongside the search results for
+"southwest airlines". In 2005, then Google executive, Marissa Mayer, stated:
+
+The Policy, although still an option for brand owners, is not a robust mechanism for dealing with online
+advertising issues. Particularly given its limited parameters and apparent lack of consistent enforcement
+by Google.
+
+While traders can be guided by the Policy, other traditional areas of law are also being used in Australia to
+determine these types of disputes and are shaping the parameters of acceptable conduct, including trade
+mark infringement, misleading and deceptive conduct and passing off, as some of the cases below
+illustrate.
+
+Since the Google Case, the Australian Federal Court has dealt with a number of disputes relating to online
+advertising and related conduct. The cases cover a number of issues, but below we highlight some of the
+key determinations of the Court that might guide traders as to the boundaries of acceptable conduct in
+Australia currently. Additionally, these cases also illustrate that whether or not use by one trader of another
+trader's brand (or part of it) will be found to be unlawful, might also depend on the distinctiveness of the
+brand itself.
+
+Lift Shop Case
+
+Lift Shop Pty Ltd (Liftshop) v Easy Living Home Elevators Pty Ltd (Easy Living) [2013] FCA 900 dealt with
+issues of search engine optimisation, a useful strategy for brand owners, as it can propel a website into
+the ever coveted first page of search engine results.
+
+Lift Shop owns the following Australian registered trade mark:
+
+(Lift Shop Mark).
+
+Lift Shop and Easy Living are competitors in Australia. Both supply elevators and lifts within the same
+price range and trade within New South Wales, as well as online.
+
+In 2011, Easy Living employed the assistance of a search engine optimisation agency to tailor its website
+located at www.easy-living.com.au (Website) and the content of its home page, so it appeared higher in
+search engine rankings for particular key words. In particular, the term "lift shop" was selected as a key
+word and added into the title of the Website and home page.
+
+Google search results for the term "lift shop" displayed as Easy Living's listing follows:
+
+"Easy Living Lifts | Home Elevators | Lift Shop – Lift Shop
+
+www.easy-living.com.au
+
+At Easy Living home elevators website you will find details on all of our lifts and home elevators here,
+which will help you achieve the easy living you deserve."
+
+At the date of the hearing the result displayed: "Easy Living Lifts | Home Elevators | Lift Shop – Home
+passenger Lifts www.easy-living.com.au/"
+
+Lift Shop commenced proceedings against Easy Living claiming trade mark infringement;
+
+misleading and deceptive conduct; and passing off (although this action was not pursued at the hearing).
+
+The Court found that whilst one of the objectives of Easy Living was to appear in the same search results
+as Lift Shop, it did not mean that Easy Living was suggesting that it was, or associated with, Lift Shop.
+
+The term "lift shop" was found to have a generic connotation and the Court gave consideration to the fact
+that other businesses in the same market were also identified if a search for "lift shop" was conducted.
+
+Easy Living did not try to associate itself with Lift
+
+Shop, but instead endeavoured to obtain business by openly competing with Lift Shop. Easy Living
+provided evidence that it did not want to be associated with Lift Shop's business and that its reputation
+
+Page245of263©2018Factiva,Inc.Allrightsreserved.was not enhanced by any association, as it was a supplier of European goods and Lift Shop supplied
+Chinese goods.
+
+The Court determined there were a number of differences between the entries on the respective search
+pages reinforcing the view that the parties were not associated. Emphasis was placed on the fact that
+before any meaningful commercial exchange could take place, potential customers would need to take a
+further step by entering either of the parties' websites, at which point it would be obvious that the two
+parties were not related.
+
+The Court found that Easy Living was using the term "Lift Shop" in the title of its Website in a descriptive
+manner to maximise search rankings. It was not being used as a 'trade mark'. Other businesses in the
+industry were also using the descriptive term "lift shop" in the title of their websites to boost rankings.
+
+Lift Shop's application was dismissed. This case illustrates the difficulties faced by brand owners who
+have, as part of their trade mark a descriptive element. Had the facts of this case involved a trade mark
+without a descriptive element, it is likely that Lift Shop's case would have been a far stronger one and
+perhaps the ultimate result more favourable.
+
+Thredbo (Ski Resort) Case
+
+In Kosciusko Thredbo (KT) v ThredboNet Marketing (TNM) [2013] FCA 562, KT had, since 1987, owned
+the head lease of Thredbo, as well as all the mountain operations such as the lift infrastructure and ski
+school. It also owned and operated the website located at "Thredbo.com.au". KT did not at the relevant
+time, own any registered Australian trade marks containing the word Thredbo.
+
+TNM leased out a small number of apartments in Thredbo and advertised through the website located at
+Thredbo.com and had also registered numerous business, domain and company names containing the
+word "Thredbo".
+KT claimed, among other things, that TNM's conduct in registering domain, company and business
+names containing "Thredbo", and in particular the operation of its websites with similar content and
+branding to KT's, constituted misleading and deceptive conduct.
+
+KT also claimed that TNM used similar get up to KT, including the use of the colour red, similar fonts,
+phrases, and slogans. KT also provided examples of confusion from customers making accommodation
+bookings.
+
+KT also argued that TNM's use of a hyperlink and website address known as the "Genkan link" was
+sufficiently similar to that of KT's slogan "My Thredbo" (depicted above) to constitute misleading and
+deceptive conduct by TNM.
+
+The Genkan link contained the address of www. thredbo.com/mythredbobooking.htm and was provided by
+an automated booking system via email to all TNM's customers. The link opened to a webpage entitled
+'My Thredbo Accommodation Booking'.
+
+The Court determined there was no misleading or deceptive conduct in relation to TNM's domain names,
+slogans or websites (with the exception of those that used the term 'My Thredbo'). Instead, it was found
+that TNM's conduct constituted legitimate competition in the business of providing accommodation
+services and facilities.
+
+The Court did, however, find in relation to the Genkan link and the use of "My Thredbo" on TNM's website,
+that there was a real risk that use of the link could mislead reasonable consumers into believing that the
+Genkan link was affiliated with, or part of, the business of KT. Relief was available to KT in respect of the
+Genkan link, however not in relation to the remainder of its claim.
+
+Given the term Thredbo comprises a geographical location, this case is another illustrating the difficulties
+with protection of marks with a descriptive flavour.
+Real Estate Advertising
+In REA Group Ltd (REA) v Real Estate 1 Ltd (RE1) [2013] FCA 559 the Court looked at various domain
+names and logos which had also been registered as trade marks.
+
+Since 1998, REA has operated websites located at www.realestate.com.au and since 2002 at
+www.realcommercial.com.au. Since 2008, RE1 has operated websites at www.realestate1.com.au and
+"http://www.realcommercial1.com.au/".
+Both REA and RE1 used the webpages as portals for customers wishing to list properties for sale or rent.
+
+Page246of263©2018Factiva,Inc.Allrightsreserved.In October 2010 REA (the clear market leader) commenced proceedings against RE1 for trade mark
+infringement, misleading and deceptive conduct and passing off.
+
+REA alleged that RE1 had infringed REA's registered trade marks. See the table below for REA's trade
+marks and RE1's domain names and logos.
+
+The Court determined that the essential or distinguishing feature of REA's Mark was the domain name in
+its entirety, as the words "real estate" alone were descriptive of the goods and/ or services of REA. It held
+that the RE1 Logo was not deceptively similar to REA's Mark and did not infringe REA's Mark as the RE1
+Logo was differentiated by the use of the capital E; the orange colour; different font; and the placement of
+the house after the words "realEstate1", which meant that the words "realEstate1" were the dominant
+feature of the RE1 Logo.
+
+It was noted that "realestate.com.au" was both a brand and a domain name and that each of the RE1
+Domains was deceptively similar to REA's Mark, as it was likely that a consumer would look at the whole
+of the domain name and that some consumers would not notice the "1". As such they would infringe REA's
+Mark.
+When comparing REA's Commercial Mark to RE1's Commercial Logo, the Court found that the RE1
+Commercial Logo did infringe REA's Commercial Mark, as the main feature of RE1's Commercial logo
+was the word "realcommercial" which was a word invented by REA. It was determined that each of the
+RE1 Commercial Domains infringed REA's Commercial Marks.
+
+Claims for misleading and deceptive conduct and passing off failed. The Court found that the use of
+"realestate.com.au" by REA clearly distinguished REA from other competitors in the market. RE1's use of
+similar branding to REA was not necessarily done with an intention to mislead and deceive, despite RE1's
+"less than honourable" reasons for using such branding. The use of the number 1 was enough to alleviate
+consumers of confusion with REA's branding.
+
+Further, it was unlikely that a consumer would mistakenly click on RE1's website, as the first few pages of
+any search engine results were to pages on REA's websites and if a consumer mistakenly went to an RE1
+website, the consumer would immediately know they went to the wrong website given REA's dominance of
+the market. Further, RE1's organic results and sponsored link activities did not establish that a substantial
+number of "ordinary" or "reasonable persons" were, or were likely to, have been misled or deceived.
+
+The case also highlights again the difficulties of claiming and protecting a monopoly in a brand that uses
+descriptive words.
+
+Vendor Advocacy Case
+
+Finally, the case of Vendor Advocacy Australia Pty Ltd (VAA) v Seitanidis [2013] FCA 971. Unlike the REA
+case, there were no relevant registered trade marks and the matter was determined solely on the basis of
+misleading and deceptive conduct and passing off.
+
+The claim was brought by VAA, a business conducted by Ian Reid, against Mr Seitanidis (who worked
+previously for VAA either as an employee or contractor).
+
+VAA routinely used the following types of branding, but did not hold any trade marks.
+
+The conduct complained of by Mr Seitanidis included the registration and use of a large number of domain
+names including the term "vendor advocacy" and related conduct, including placing various Google
+Adwords campaigns which:
+
+contained the phrase 'Vendor Advocacy Australia – a free service to omesellers.';
+
+referred to the domain 'vendoradvocacy.com'; and
+
+sought to obtain visitors to Mr Seitanidis' website at the internet domain 'vendoradvocacy com'.
+
+VAA did not claim a monopoly on the term "Vendor Advocacy" which was generally used in the industry,
+but wished to prevent conduct of Mr Seitanidis which it said would lead to consumers being misled into
+contacting Mr Seitanidis' business when they were looking for VAA.
+
+In yet another case involving terms which were descriptive and used by other traders, the Court was not
+satisfied that VAA could prove the required reputation and secondary meaning. Part of the problem was
+that the focus of the promotion of VAA had centred around Ian Reid, such that the Court did not think
+consumers would be misled if they came across the terms "vendor advocacy" or "Australian Vendor
+Advocacy", into thinking it was, or associated with, VAA.
+
+Page247of263©2018Factiva,Inc.Allrightsreserved.The Court also considered that consumers dealing with online advertising, including use of descriptive
+terms in similar domain names by different traders, would not necessarily be misled and consumers would
+be "vigilant when confronted... with many domain names referring the phrase "vendor advocacy"". Use of
+descriptive terms by competing businesses, likewise, would not necessarily constitute misleading and
+deceptive conduct. In the circumstances of this case, if consumers were faced with various websites using
+the descriptive term "vendor advocacy" they would not assume an association between the various
+businesses, although may be "confused" as to the various vendor advocates. However, this was because
+of use of the descriptive term and not because of anything Mr Seitanidis may have done.
+
+Unlike REA (who could rely on its trade marks) VAA was not so lucky and failed in its proceedings.
+
+Conclusion
+
+An issue left undetermined to date, is whether or not the bidding on key words by businesses which are
+registered trade marks of other brand owners, might in itself give rise to some form of infringing conduct or
+a threat to so engage.
+
+The law in the area of online advertising will continue to evolve in Australia. The cases to date highlight
+some key issues for brand owners including when brands are chosen which include descriptive words. In
+these circumstances, stopping use by other traders in online advertisements (or otherwise) will be more
+difficult and without registered trade marks, perhaps impossible.
+
+Businesses need to remain diligent about their own online advertising strategies, as well as protecting their
+brands and trade marks from mis-use by other traders.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2014 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+"There will be no banner ads on the Google homepage of Web search results pages," and that "There will
+not be crazy, flashy, graphical doodads flying and popping up all over the Googlesite. Ever."
+
+Ms Karen Hayne
+
+Addisons
+
+Level 12
+
+60 Carrington Street
+
+Sydney
+
+NSW
+
+2000
+
+AUSTRALIA
+
+Tel: 28915 1030
+
+Fax: 28916 2000
+
+E-mail: ray.hartley@addisonslawyers.com.au
+
+URL: www.addisonslawyers.com.au/team
+
+CO goog : Google Inc.
+IN
+
+i8385 : Digital Marketing | iadv : Advertising/Marketing/Public Relations | ibcs : Business/Consumer
+Services | imark : Marketing | i8395464 : Internet Search Engines | iint : Internet/Online | itech :
+Technology
+ctmark : Trademarks | ccat : Corporate/Industrial News | cgymtr : Intellectual Property | c32 : Advertising |
+c13 : Regulation/Government Policy | c31 : Marketing | cinprp : Industrial Property Rights
+(Patents/Trademarks) | ncat : Content Types | nfact : Factiva Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+NS
+
+RE
+
+Page248of263©2018Factiva,Inc.Allrightsreserved.IPD Consumer Protection
+PUB Mondaq Limited
+AN Document BBPUB00020140204ea2400005
+
+Page249of263©2018Factiva,Inc.Allrightsreserved.

@@ -1,0 +1,262 @@
+New treatments for Hepatitis C
+
+HD New treatments for Hepatitis C
+WC 2,568 words
+PD
+5 May 2014
+SN
+Australian Broadcasting Corporation Transcripts
+SC
+ABCTRS
+LA
+English
+CY
+(c) 2014 Australian Broadcasting Corporation
+LP
+
+Over 230,000 Australians have chronic hepatitis C infections.
+
+Norman Swan: Hello, and welcome to the Health Report with me, Norman Swan.
+
+TD
+
+Today, does stress affect the onset or severity of breast cancer? Fascinating findings which suggest that
+doctors can't be quite so dismissive as in the past.
+
+And another thing doctors used to be dismissive about: psychotherapy in psychosis. Even Freud thought it
+was a waste of time and he treated almost anything. Well, it turns out there is a role for talking therapies in
+conditions like schizophrenia.
+
+That's all later, after what's becoming a typical good news bad news dilemma. New treatments are coming
+on stream for hepatitis C infection which can cure almost everyone carrying the virus. They come as pills
+and have few side effects, apart from their cost that is.
+
+One of Australia's leading authorities on hep C is Professor Greg Dore who's head of the viral hepatitis
+research program at the University of New South Wales.
+
+Greg Dore: Hepatitis C is a chronic viral infection that affects the liver and causes a progressive scarring
+process that can lead to cirrhosis and complications, including liver cancer.
+
+Norman Swan: And how do you catch it?
+
+Greg Dore: In Australia the predominant means of infection is injecting drug use, so people who share
+contaminated injecting equipment. On a global scale however the most common means of infection is
+actually contaminated injections within the healthcare setting.
+
+Norman Swan: There used to be this cascading notion that of 100 people who got hepatitis C, so many
+got liver disease and so many ended up with liver failure and a liver transplant or dying. What's that story?
+
+Greg Dore: So those that become infected, three-quarters go on to develop a chronic infection. And of
+those people we think about 20% to 30% will progress to cirrhosis.
+Norman Swan: And is there any sexual acquisition of hepatitis C?
+
+Greg Dore: Minimal. I mean, in the context of men who have sex with men, particularly HIV-infected men,
+there seems to be an emerging sexually transmitted epidemic. But in the heterosexual setting we very
+rarely see cases of sexually acquired infection.
+
+Norman Swan: And living in the same home as somebody with hepatitis C?
+
+Greg Dore: Almost never seen.
+
+Norman Swan: How many Australians have chronic hepatitis C infection?
+
+Greg Dore: Around 230,000.
+
+Norman Swan: So it's a lot.
+
+Page27of296©2018Factiva,Inc.Allrightsreserved.Greg Dore: And it's increasing in terms of the burden of disease. So a lot of people have been infected
+now for 20, 30 years. People who became infected through injecting drug use in the '70s, '80s and '90s,
+and that's producing more and more advanced liver disease.
+
+Norman Swan: And it's almost universal on exit from Australian prisons.
+
+Greg Dore: It is very high prevalence. So around a third of inmates would have hepatitis C, so it's a big
+problem in prisons across the country.
+
+Norman Swan: So things have changed. It used to be untouchable, incurable, we only barely had a test
+for it.
+
+Greg Dore: Enormously. I remember giving a presentation at a conference in the late 1990s and I said
+back then that no one should be treated for hepatitis C because the results were so poor and the success
+rate was only 5% to 10% and there were significant side-effects. But it looks like in the near future we will
+be curing more than 90% of people who commence therapy, if we can get access to these new regimens
+that have been recently developed.
+
+Norman Swan: So what's changed?
+
+Greg Dore: A couple of key things. Treatment has been Interferon based for the last two decades.
+
+Norman Swan: Interferon is a drug that has some antiviral effects but also influences the immune system.
+
+Greg Dore: Exactly, and it's given subcutaneously, so injections once a week in combination with tablets,
+and the main tablet being ribavirin.
+
+Norman Swan: Which is like an antibiotic for viruses.
+
+Greg Dore: Yes, exactly. So that sort of combination has cured around about half the people we treat. But
+it's had significant side effects, it’s required at least six months, often 12 months of therapy.
+
+Norman Swan: And what's new?
+
+Greg Dore: This amazing turnaround. We've moved from that era to an era where we look like we are
+going to completely remove Interferon from the treatment regimen.
+
+Norman Swan: Because that's the cause of a lot of the side effects.
+
+Greg Dore: Absolutely. And we will have regimens that will be all oral, will require generally only 12 weeks
+of therapy, will have very limited if any side-effects, and provide cure rates above 90%.
+
+Norman Swan: And what the technology that's done that?
+
+Greg Dore: There are classes of drugs now that directly inhibit the key enzymes that are involved in
+replication of the virus. Unlocking the way that the virus replicates has enabled people to develop
+therapies, as I said, that directly inhibit these enzymes. So combining a couple of those inhibitors together
+provides a very potent effect on the virus.
+
+Norman Swan: Now, I should have a declaration of interest here; I have spoken at symposia sponsored by
+the drug company that produces the latest drug. Have you got any conflicts of interest you'd like to
+declare before we go on with this?
+Greg Dore: I'm an advisor for several pharmaceutical companies that are developing different regimens.
+
+Norman Swan: And having said that I was at a symposium sponsored by this, they're charging an
+outrageous price. They are charging…what is it, $100,000 for a treatment, just extraordinary sums which
+are hard to explain.
+
+Greg Dore: So the first key direct acting anti-viral that I think will be part of the main treatment armoury
+over the next decade or so is a drug called Sofosbuvir, and it's listed…it's just been approved in the United
+States…listed at a price of $84,000 for a 12-week course. There is another agent, a protease inhibitor
+called Simeprevir, $66,000 for a 12-week course. And a lot of clinicians in the United States, now that
+those two drugs are approved, are in fact combining those two drugs, which is a very effective regimen,
+but that's $150,000 for a curative course of therapy.
+Norman Swan: And of course the drug company will say, well, I've saved somebody from liver failure and
+liver cancer and saved their lives and how much do you value that, therefore it's cheap at the price. But it's
+a lot of money.
+
+Page28of296©2018Factiva,Inc.Allrightsreserved.Greg Dore: It is a lot of money if you want to treat a lot of people.
+
+Norman Swan: So you're saying you've got 230,000 people with chronic hep C, when do they qualify for
+this drug if it was approved?
+
+Greg Dore: I think that's the key difference. To date we've only been treating 1% to 2% of that chronic
+infection pool per year, so only a few thousand people in Australia per year have been able to be treated,
+and part of the reason why the treatment numbers are so low is because of the toxicity of therapy and the
+difficult course of therapy. So now that we’re going to transfer from that paradigm to an incredible
+paradigm potentially with limited side-effects, high cure rates, and therefore we expect a huge demand of
+those people coming forward to access that therapy. I think the government is going to be very concerned
+about that potential wave of the new demand and the high cost of therapy. So the next year or so in terms
+of evaluation of these regimens as they move through by the Pharmaceutical Benefits Advisory
+Committee will be obviously crucial in terms of the broad strategy.
+
+Norman Swan: It's going to be very hard for them because it's going to be a vast amount of money in a
+shrinking budgetary environment. What I don't get is why don't doctors, specialists like you, rise up in
+arms? This is what happened at Memorial Sloan-Kettering a couple of years ago, a new cancer drug
+comes on, the cancer specialists there thought it was completely outrageous, the price, and hard to justify,
+and they just said, 'Sorry, we can't afford to buy it and we're not going to buy it.' And because they were
+the key opinion leaders in the United States in terms of this drug, the drug company immediately or
+relatively soon dropped their price quite dramatically. Why don't specialists get together and say to the
+drug company, 'Jack off and reduce your price, because we are not going to prescribe it. It's unfair.'
+You're not going to be able to afford the drugs for your HIV patients.
+
+Greg Dore: I think it's an important point. What is happening at the moment is that there are some good
+partnerships across the sector between the community-based organisations, the key peak bodies in terms
+of clinicians, to try and come together to develop an advocacy strategy around this. We all want the best
+possible therapy for people affected by hepatitis C, there's no doubt about that.
+
+I think Australia at least has a reasonable system in terms of pricing. So we won't pay those premium
+prices that are paid for in the United States. We always pay significantly less than that, but it still will be a
+sizeable amount of money. And if the bucket is not able to be enlarged in terms of the total spent on
+hepatitis C, we'll still be restricted in terms of the total number of people we'll be able to treat. And those
+restrictions will probably be based on either people with more advanced liver disease or what we call a
+cap on the total numbers of people who can be treated per year. So you're right in the sense that if we
+could help to negotiate a considerably lower price, clearly the number of people able to be treated would
+be expanded significantly.
+
+Norman Swan: But it's hard to justify. I mean, I think that somebody did what the cost of, including
+amortising the cost of development, and it's in tens of dollars, not thousands or tens of thousands of
+dollars.
+
+Greg Dore: Absolutely, there's been some really nice work recently done coming out of the UK that has
+stated that the production price for a 12-week course of highly curative therapy is maybe $100 to $200.
+
+Norman Swan: They deserve to be reimbursed for their research and development.
+
+Greg Dore: Sure, that will be the pharmaceutical industry argument, that there needs to be return on
+investment. It's a huge investment to bring these agents right through to licensure. But what is happening I
+think globally is a range of advocacy movements to try and sort out how we can improve access, and
+access in different settings, so access in low and middle income countries. The interesting thing about
+hepatitis C is that the majority of people actually live in middle income countries such as India and China
+in terms of the global burden of disease, but also access in high income countries like Australia. We have
+a constrained fiscal environment, as you pointed out, so we need to develop a strategy that will give us the
+best potential access and the best solution for people affected by hepatitis C.
+
+Norman Swan: Of course another argument from the pharmaceutical industry I presume is, well, you
+know, 12 weeks and they're cured and then we don't have further use for this drug. Are there likely to be
+other uses of drugs such as these? Are they only active in hepatitis C or are they useful in HIV and other
+viral infections?
+
+Greg Dore: They are really only active in hepatitis C in terms of their activity. I think one of the other
+arguments they use is that treatment for hepatitis C over the last decade or so has been expensive. So
+Interferon, the monitoring of that therapy, the management of the toxicity of that therapy, the length of that
+therapy is equal to a fairly large spend. But as I said before, the total spend has been constrained by the…
+
+Norman Swan: Narrowness of the base.
+
+Page29of296©2018Factiva,Inc.Allrightsreserved.Greg Dore: Exactly. So now in terms of a public health approach, if you really want to impact on this rising
+burden of advanced liver disease, we have to treat three, four, five-fold the number of people we've been
+treating over recent years, that's what we want to achieve at a population level. So we are only going to do
+that if we can get the government to increase their investment several-fold in hepatitis C or, as you say,
+get a much cheaper price and enable expansion in terms of the numbers that we treat.
+
+But I think part of the solution is there in the fact that we have several companies that have what I think
+will be very competitive successful regimens moving through towards licensure. If it was only one or two
+companies it would be problematic, but if we have five or six companies that have very effective regimens,
+there will be competitive pricing, there will be no doubt about that.
+
+Norman Swan: In a sense there is a big stigma around hepatitis C, that you think it's just…I shouldn't have
+used the word 'just'…but you think it's just people who are out on the streets mainlining heroin or cocaine
+or what have you, but it is much broader than that in the population.
+
+Greg Dore: Yes, I think that's a really important point, there's enormous stigma around hepatitis C and that
+clearly is related to the alignment of hepatitis C with the main mode of infection being injecting drug use.
+But the reality of people with hepatitis C is that they are an incredibly diverse population. I see people in
+different clinical settings. And sure, I see people who are still injecting and have significant social and
+health issues related to that injecting, but I see many, many people who might have injected for a very
+short period of time and are what you would call…
+
+Norman Swan: Lawyers, doctors…
+
+Greg Dore: Exactly, like us! Very much part of…
+
+Norman Swan: Are you about to tell me something, Professor Dore?
+
+Greg Dore: No. Very much part of mainstream middle class Australia. And they are a very, as I said,
+diverse, interesting population of people, and it's a real privilege to be part of the care for those people.
+
+Norman Swan: Greg Dore, thank you very much for joining us on the Health Report.
+
+Greg Dore: A pleasure, Norman
+
+Norman Swan: Professor Greg Dore who's head of the viral hepatitis research program at the Kirby
+Institute at the University of New South Wales.
+
+You're listening to the Health Report here on RN with me, Norman Swan. Still to come, is breast cancer
+made worse or even caused by chronic stress? That's later.
+
+ 
+
+CO unswau : The University of New South Wales
+NS
+
+RE
+
+ghepat : Hepatitis | c23 : Research/Development | gcancr : Cancer | gtrea : Medical
+Treatments/Procedures | ntra : Transcripts | ccat : Corporate/Industrial News | gcat : Political/General
+News | ghea : Health | gmed : Medical Conditions | ncat : Content Types | nfact : Factiva Filters | nfce :
+FC&E Exclusion Filter | nfcpex : FC&E Executive News Filter | niwe : IWE Filter
+austr : Australia | usa : United States | apacz : Asia Pacific | ausnz : Australia/Oceania | namz : North
+America
+IPD Norman
+PUB Australian Broadcasting Corporation
+AN Document ABCTRS0020140506ea550002y
+
+Page30of296©2018Factiva,Inc.Allrightsreserved.

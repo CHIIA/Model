@@ -1,0 +1,212 @@
+IT Newsletter- November 3-7, 2014
+
+HD IT Newsletter- November 3-7, 2014
+CR India Infoline News Service
+WC 2,772 words
+PD 7 November 2014
+SN Indiainfoline News Service
+SC INFOIN
+LA
+English
+CY Copyright © 2014. Indiainfoline Ltd.
+LP
+
+TD
+
+Top News Tech companies raise record US$24.8bn globally in Q3 2014: PwC A record US$24.8bn was
+raised by technology companies in the third quarter of 2014, with 18 technology companies from six
+different countries completing their initial public offerings (IPOs) during this time frame, a 50% increase in
+volume over last year. Third quarter proceeds also exceeded the US$17.8bn raised in the second quarter
+of 2012 when Facebook completed its IPO of US$16bn, according to PwC's Q3 2014 Global Technology
+IPO Review. Raman Chitkara, Global Technology Industry Leader, PwC, said: "Record IPO proceeds in
+the third quarter reflect the continued economic recovery and underlying optimism prevailing around the
+world.
+
+While the final quarter of the year has started with rising market volatility, investor faith in the future of the
+technology sector remains strong, meeting and even exceeding historical norms." China dominates third
+quarter technology IPO activity Chinese companies accounted for over 50 percent of the volume and 93
+percent of proceeds from technology IPOs during the quarter. Of the 18 tech IPOs completed during the
+third quarter, 10 were Chinese companies. Eight Chinese companies completed IPOs on Chinese
+exchanges compared to five in the second quarter, with two listing on the Shanghai exchange, four on the
+Shenzhen exchange and two on the Hong Kong exchange. Two Chinese companies listed outside China
+on US exchanges, Alibaba on the NYSE and iDreamsky Technology on NASDAQ. IPO proceeds from
+Chinese exchanges rose 41 percent from $US767mn in the second quarter to US$1,085mn in the third
+quarter. Subsector activity: More of the same As with the past several quarters, Internet Software &
+Services and Software maintained their positions as the most active subsectors for tech IPOs. Internet
+Software & Services had six IPOs and raised US$22.8bn in the third quarter compared to 20 IPOs and
+US$5.1bn in proceeds in the second quarter, and six IPOs with US$0.6bn in the third quarter of 2013.
+Alibaba's US$21.8bn IPO dominated the sector in the third quarter. The Software sector also had six IPOs
+and raised US$1.3bn compared to 11 IPOs and US$3.1bn in proceeds in the second quarter and three
+IPOs with US$411mn in the third quarter of 2013. Together, these two subsectors comprised 67 percent
+(12 IPOs) of the total number of IPOs and 97 percent (US$24.0bn) of the total funds raised. The
+Semiconductor subsector had four IPOs in the third quarter compared to one in the same quarter of 2013.
+Proceeds increased to US$533mn from US$71mn the previous year. All four semiconductor IPOs were
+Chinese companies--two listing on the Shanghai exchange and two on the Shenzhen exchange. Infosys
+to hire Over 2,100 in US Infosys, a global leader in consulting, technology, outsourcing and
+next-generation services, today announced a major recruitment drive in the US to support the growth of its
+business and enhance its capabilities. The company plans to hire 1,500 professionals for consulting,
+sales and delivery during the current financial year. In addition, it will hire close to 600 Bachelors and
+Masters graduates from US Universities over the next twelve months. With this program, Infosys will
+bolster its expertise in client relationship management, consulting and technical delivery. The addition of
+these employees will help Infosys provide its clients local market insights, industry-leading technology
+expertise, and timely responsiveness to critical issues. Infosys will recruit up to 300 management and
+technology graduates from leading US universities. They will work across multiple technology domains
+including digital, big data, analytics and cloud. Up to 180 graduates will be recruited into the Infosys
+consulting practice in the US. They will join existing teams advising clients on business and technology
+transformation strategies. Infosys will also continue its global recruitment program of hiring MBA graduates
+from leading business schools, and will recruit 100 Masters graduates for its sales teams under this
+initiative. Cognizant Q3 revenue at $2.58bn Cognizant Technology Solutions Corporation,announced its
+third quarter 2014 financial results. Revenue for the third quarter of 2014 rose to $2.58 billion, up 11.9%
+from $2.31 billion in the third quarter of 2013. GAAP net income was $355.6 million, or $0.58 per diluted
+
+Page69of247©2018Factiva,Inc.Allrightsreserved.share, compared to $319.6 million, or $0.53 per diluted share, in the third quarter of 2013. Non-GAAP
+diluted earnings per share was $0.66 compared to $0.59 in the third quarter of 2013. GAAP operating
+margin for the quarter was 17.7%. Non-GAAP operating margin was 19.5%, within the Company's target
+range of 19-20%. "There is a tremendous opportunity in the marketplace as the advent of new digital
+technologies, global economic pressures, and an evolving regulatory environment force businesses across
+all industries to change and adapt faster than ever before," said Francisco D'Souza, Chief Executive
+Officer of Cognizant. "Cognizant is ideally positioned to help clients worldwide address these competitive
+challenges with end-to-end solutions that address their dual mandate of improved efficiency and of
+innovation using the latest social, mobile, analytics, cloud and sensor technologies." Domestic News
+Infosys Finacle Bets Big on Mobility, Big Data and Analytics Infosys announced that its Finacle Mobile
+Banking and e-Banking solutions have been rated 'Best-in-Class' for security and authentication
+capabilities and enterprise support. In the report titled 'Mobile Corporate Banking Technology Analysis',
+CEB TowerGroup analysts quantitatively ranked Mobile Corporate Banking solutions across 19 attributes
+to arrive at the best-in-class rankings. Infosys Finacle's leading position in the industry was reinforced by
+several other recognitions last quarter. It was named a leader in 'The Forrester Wave: Customer-Centric
+Global Banking Platforms, Q3 2014' report. The solution was recognised among the top nine global
+banking platforms, which were evaluated on a comprehensive set of 74 criteria focusing on functional
+breadth, agility, and strategy. Infosys Finacle was also adjudged a winner by Juniper Research in their
+2014 Future Mobile Awards in the mobile banking category. In another assessment, CEB TowerGroup
+analysts rated the Infosys Finacle Trade Finance solution as the 'Best-in-Class' for bank user services and
+enterprise support. Infosys Finacle continued its business momentum last quarter with 18 wins and 16
+go-lives across Europe, Middle East, Africa and Asia Pacific. With over 450 installations globally, this
+flagship banking product of Infosys is today serving 451 million customers across 84 countries - this is
+nearly 18 percent of the world's adult banked population. Financial Technologies sells entire stake in
+Indian Energy Exchange Financial Technologies (India) Ltd has announced that the Company on
+November 05, 2014, entered into a Share Purchase Agreement (SPA) with M/s. TVS Shriram Growth
+Fund 1, Mr. S. Gopalkrishnan, Mr. Lakshmi Narayanan, Mr. Rajeev Gupta, M/s. Dalmia Cement Bharat
+Power Ventures Limited, M/s. Kiran Vyapar Limited, M/s. TVS Capital Funds Limited and M/s. Agri Power
+and Engineering Solutions Private Limited for sale of 25.64% equity stake on a fully diluted basis in IEX
+for an aggregate consideration of Rs. 576.84 Crores. The said transaction is subject to fulfillment of certain
+condition precedents including buyout of the application software and other technology for its own use only
+by IEX and regulatory approvals, if any. As per the SPA, the transaction will close within 30 days, unless
+extended by all the parties. Post completion of the above said transaction, the Company would have
+completely exited IEX. Infosys and DreamWorks Animation join hands to Engineer New Solutions Infosys,
+a global leader in technology, consulting, outsourcing and next generation services, today announced a
+strategic engineering partnership with DreamWorks Animation. The two companies intend to work together
+to further develop DreamWorks' technologies to bring them to wider use. Infosys will deploy its global
+talent pool available across cloud, big data, Java and open source capabilities to develop next generation
+solutions based on the DreamWorks technology. Jeffrey Katzenberg, Chief Executive Officer and Director,
+DreamWorks Animation said "Infosys is a world leader in enterprise solutions and can deliver engineering
+talent at a massive scale to help us develop our technology for wider use." Gartner recognizes TCS as a
+"Leader" in Magic Quadrant for Worldwide Oracle Application Management Service Providers Tata
+Consultancy Services announced it has been recognized by Gartner, Inc. in the "Leaders" quadrant of the
+"Magic Quadrant for Oracle Application Management Service Providers, Worldwide." Gartner evaluated 14
+service providers, including TCS, on their ability to execute and completeness of vision. The Gartner
+analysts note that providers designated as Leaders, "are performing well today and gaining traction and
+mind share in the market. They have a clear vision of the market's direction and are actively building
+competencies to sustain their leadership position in the market." In its latest "Critical Capabilities for Oracle
+Application Management Service Providers, Worldwide" report, Gartner, the leading provider of research
+and analysis on the global information technology industry, has also given TCS the fourth-highest Product
+Score in two Use Cases - Large-Scope and -Scale Deals and Midsize-Scope and -Scale Deals, and the
+third-highest Product Score in Small-Scope and -Scale Deals - scoring a 3.07, 3.06 and 3.10 out of 5,
+respectively. Infosys appoints David D. Kennedy as Executive vice-president Infosys announced the
+appointment of David D. Kennedy as Executive Vice President and General Counsel for the company
+with effect from November 1, 2014. David D. Kennedy will also be the Executive Officer of the Company
+for the purposes of SEC Reporting. He will be based out of Palo Alto, California. Prior to joining Infosys,
+between 2012 and 2014, David D. Kennedy was JDA Software Group, Inc.'s Executive Vice President,
+Corporate Secretary and Chief Legal Officer. Prior to JDA Software, he was General Counsel and
+Corporate Secretary at Better Place Inc., a company that built infrastructure networks for electric vehicles.
+From 2007 to 2009, Mr. Kennedy served as the General Counsel and Secretary for Business Objects S.A.
+From 1998 to 2007, Mr. Kennedy served in various leadership roles within the legal department of a
+number of IBM business units, which included responsibilities in IBM's PC, sales, services and networking
+groups. He received a Bachelor of Science degree in Business Administration and has his Juris Doctor
+(J.D) from The University of Connecticut School of Law. Esprit selects Mindtree as a strategic IT Partner
+Mindtree, a global technology services company, today announced that it is working with international
+fashion brand Esprit to deliver IT solutions that will make Esprit more competitive. In the first phase of this
+
+Page70of247©2018Factiva,Inc.Allrightsreserved.relationship, Mindtree will monitor and support Esprit's SAP applications suite for more than 300 directly
+managed retail stores and over 7,500 wholesale points of sale in Europe. As part of this multi-year
+contract, Mindtree will ensure the stability of Esprit's SAP systems through early detection and resolution
+of system, functional and process issues. In addition, Mindtree will maintain on-time availability of Esprit's
+data and provide flexibility to IT management to meet their business needs. Most importantly, Mindtree will
+improve the processes service quality, allowing Esprit's IT team to focus on their strategic business needs
+without having to worry about the reliability of their SAP systems. Infosys Finacle sets new Global
+Benchmark for Processing Inter-Bank Payments Running on Oracle SPARC T5 servers Infosys
+announced that the Finacle Payments solution, an enterprise payment services hub, running on Oracle
+SPARC T5 servers with Oracle Solaris 11.2 has set a new global benchmark for the volume of inter-bank
+payment transactions processed. In a test that was validated by the professional services firm EY, the
+solution processed over 100 million payments in 79 minutes, which translates to over 75 million
+payments per hour or over 21,000 payments per second. This was achieved with stable performance and
+near linear scalability, underlining Finacle's ability to manage continuous increases in volumes, with simple
+hardware additions and no changes in the underlying application. With this, the Finacle Payments solution
+demonstrated the capability to process a high volume of inter-bank payment transactions, more than what
+is currently processed by the entire US banking system, based on estimates. At an average of 21,000
+payments per second, the Finacle solution is able to process almost five times the known volumes
+processed by the entire US banking system, which is estimated to be about 4,233 transactions per second
+on average. This capability supersedes known inter-bank payment transactions volume requirements of
+banks of all sizes. International News The processing, sensing and communications semiconductor device
+portion of IoT set for rapid growth: Gartner The processing, sensing and communications semiconductor
+device portion of the Internet of Things (IoT) will be a rapidly growing segment of the total semiconductor
+market, growing 36.2 percent in 2015, compared with the overall semiconductor market growth of 5.7
+percent, according to Gartner, Inc. Processing will be the largest revenue contributor to the IoT "things"
+semiconductor device forecast, at $7.58 billion in 2015, while sensors will see the strongest growth, with
+47.5 percent growth in 2015. The processing semiconductor device segment consists of microcontrollers
+and embedded processors, while the sensing semiconductor segment includes optical and nonoptical
+sensors. "The demand for billions of things will ripple throughout the entire value chain, from software and
+services to semiconductor devices," said Alfonso Velosa, research director at Gartner. "These 'things' will
+drive huge demand for individual chips. VMware to Continue vCloud Air Global Expansion with New
+Service Location in Australia VMware, the global leader in virtualization and cloud infrastructure, today
+announced that it will extend VMware vCloud(R) Air(TM) (previously VMware vCloud(R) Hybrid
+Service(TM)) to Australia. Complementing the VMware vCloud Air Network(TM) of service provider
+options, the new Australian service location will provide customers with a hybrid cloud option operated by
+VMware that addresses local compliance and data protection concerns. The service is expected to be
+available in Australia in the first half of 2015. Additionally, the company announced vCloud Air will be
+generally available in Japan in the coming weeks, after completing a successful beta program that began
+in July of this year. "VMware vCloud Air, combined with the VMware vCloud Air Network of service
+providers makes VMware the largest hybrid cloud network in the Asia Pacific region with more than 40
+service locations in Asia," said Bill Fathers, executive vice president and general manager, Cloud Services
+Business Unit, VMware. "The new vCloud Air location provides the highly virtualized Australian market
+with a hybrid cloud service that extends existing investment in VMware vSphere to the public cloud."
+Microsoft partners with Dropbox for file-sharing Microsoft Corp said it teamed up with online file-sharing
+companyDropbox Inc to allow Office software users to manage and share files through Dropbox's website
+and mobile app. The company said the functionality would be included in the next updates to the Office
+mobile apps, to be rolled out in the next few weeks, and online accessibility would be available in the first
+half of 2015. Microsoft already has a file-sharing service called OneDrive, but partnering with Dropbox will
+allow it to tap more than 200 million users of the Silicon Valley startup's services. Netgear rolls out
+nighthawk X6, industry's first tri-band wireless router NETGEAR, Inc. a global networking company that
+delivers innovative products to consumers, businesses and service providers, has once again set a new
+industry standard for router performance by adding to its award-winning Nighthawk(R) family of 802.11ac
+routers. The new Nighthawk X6 AC3200 Tri-Band WiFi Router (R8000) is the first tri-band WiFi router
+available for purchase incorporating the powerful new Broadcom(R) 5G WiFi XStream platform. With six
+high-performance antennas and three network bands, one 2.4GHz and two 5GHz, the Nighthawk X6
+delivers the industry's fastest combined WiFi speed, up to 3.2 Gbps. It balances the network load to
+ensure the best WiFi performance for each device and deliver the maximum wireless range available
+today. As per the press release, today's homes that combine many new and old WiFi devices need
+tri-band routers such as the Nighthawk X6 to optimize the speed of each device, whether it is an old laptop
+or the newest smartphone. Nighthawk X6 intelligently segments slower and faster devices into the most
+appropriate WiFi band. This network load balancing and segmentation enables the X6 to mitigate
+interference and more effectively support all WiFi devices.
+
+IN
+
+iappsp : Cloud Computing | i8394 : Computer Services | ibcs : Business/Consumer Services
+
+Page71of247©2018Factiva,Inc.Allrightsreserved.NS
+
+RE
+
+c14 : Stock Listings | ccat : Corporate/Industrial News | c1711 : Initial Public Offerings | c02 : Corporate
+Changes | c17 : Funding/Capital | c171 : Share Capital | cactio : Corporate Actions | ncat : Content Types |
+nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+china : China | usa : United States | austr : Australia | usca : California | apacz : Asia Pacific | asiaz : Asia |
+ausnz : Australia/Oceania | bric : BRICS Countries | chinaz : Greater China | devgcoz : Emerging Market
+Countries | dvpcoz : Developing Economies | easiaz : Eastern Asia | namz : North America | usw :
+Western U.S.
+
+IPD Infosys
+PUB India Infoline Ltd.
+AN Document INFOIN0020141107eab70005p
+
+Page72of247©2018Factiva,Inc.Allrightsreserved.

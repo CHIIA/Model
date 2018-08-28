@@ -1,0 +1,183 @@
+Hazelwood’s Tungsten Resource Inventory Boosted by 340%
+
+Hazelwood’s Tungsten Resource Inventory Boosted by 340%
+
+HD
+WC 1,614 words
+PD
+15 April 2014
+SN
+ENP Newswire
+SC
+ENPNEW
+LA
+English
+CY
+(c) 2014, Electronic News Publishing. All Rights Reserved.
+LP
+
+Release date - 11042014
+
+The directors of Hazelwood Resources (ASX: HAZ) are pleased to advise a new Mineral Resource
+estimate that boosts the Company’s tungsten Resource inventory by 340%.
+
+TD
+
+The Mt Mulgine Tungsten Project hosts a world-class tungsten resource that is compatible with
+Hazelwood’s established downstream tungsten refining business.
+
+Following a significant period of validation, review of historical data and integration of more recent drilling
+results, a significant new Mineral Resource has been estimated for the Trench Deposit at Mt Mulgine. The
+estimate was completed by independent consultants CSA Global Pty Ltd and supervised by SJS
+Resource Management Pty Ltd.
+
+The Mineral Resource for the Trench Deposit occurs from surface and 49% of the Resource is within 100
+metres of the surface. Substantial historical evaluation studies had been performed at the tungsten
+deposits of Mt Mulgine including shaft sinking at several locations to extract bulk samples that were used
+in pilot scale processing tests.
+
+The Mt Mulgine Tungsten Project, located in the mid-west region of Western Australia also hosts an
+advanced stage Mineral Resource at the Mulgine Hill Deposit, situated approximately 1 kilometre from the
+Trench Resource. A recently completed engineering pre-feasibility study for Mt Mulgine envisaged a
+concentrator that would exploit higher grade parts of Mt Mulgine for Capital Expenditure of $A31.5 million.
+The Mt Mulgine project is located 350km NNE of Perth, Western Australia. Discussion of the reported
+Mineral Resource estimate:
+
+Geology and Mineralization Interpretation
+
+The Trench deposit is a tungsten-molybdenum, vein-hosted exo-skarn formed at the intrusive contact of
+an Archaean S-type granite intrusive and a sequence of metavolcanics, metasediments and banded-iron
+formation. Mineralization is interpreted to be conformable with the stratigraphy, and dips at roughly
+-30-degree to the north-west. Scheelite appears to be the dominant tungsten mineral.
+
+Drill Information and Sampling
+
+A total of 73 holes have been drilled at the Trench deposit using surface RC and diamond core drill holes.
+The average drill hole spacing is 80m x 120m, however there are close-spaced holes in central portion of
+the deposit at 30m x 40m. Most holes have been drilled vertically, although some have been angled at
+-60-degree to 135-degree.
+Holes drilled by Minjar Gold Pty Ltd in 2012 to 2014 were sampled by reverse circulation (RC) with face
+sampling hammer. One metre samples were split and bagged. The original RC samples were then re-split
+using a three-tiered splitter before submission. Drill holes were generally angled at -60-degree to
+135-degree or vertically to intersect mineralization close to perpendicular.
+
+One hole was drilled by Vital Metals in 2008 and sampled by reverse circulation (RC) with face sampling
+hammer. One metre samples were split and bagged. The original RC samples were then re split prior to
+submission. The drill hole is angled vertically to intersect mineralization close to perpendicular.
+
+Page168of259©2018Factiva,Inc.Allrightsreserved.All other legacy diamond holes (sixty three holes for 8,979.90m) drilled using NQ and BQ core from 1972
+to 1981 were UV night-lamped and sample intervals marked out whilst core was whole (mostly in 2m
+intervals). The core was cut using brick saw and halves submitted to the laboratory. Drill holes were
+generally angled at -60-degree to 135-degree or vertically to intersect mineralization close to
+perpendicular. Core recovery was very good, rarely less than 95%.
+
+Sample Preparation and Analysis
+
+For the recent RC drilling, the field sample preparation involved re-splitting the samples and transfer to
+calico bag for dispatch to the laboratory. Re-split samples from the CPRC holes were prepared by Bureau
+Veritas (Ultra Trace) Laboratory, Perth and re-split samples from the TCRC and BDWB holes were
+prepared by Nagrom, Perth. Samples were sorted, weighed and then dried prior to being pulverised.
+Sample preparation was monitored daily and all pulverisers are tested once a shift to ensure that
+pulverised material meets the agreed specification.
+
+All legacy diamond drill samples (except for DDM215 and 216) were sent for sample preparation at either
+AMDEL Perth or AMDEL Adelaide, before pulps were sent for analysis. DDM215 and DDM216 were sent
+to Union Carbide in Niagara Falls (New York) and Ore Sorters in Melbourne for preparation and analysis.
+
+As part of an extensive data validation and QAQC program, all core samples collected by Hazelwood for
+re-assay (in 2013) from the legacy drilling were prepared by Nagrom, Perth. Samples are weighed and
+then dried at 105-degreeC. The half core for re-assay is crushed to a nominal top-size of 6.3mm, prior to
+being pulverised, until 80% passes a 75-microm screen.
+
+All samples in the Trench dataset have been analysed using XRF techniques. RC samples and legacy
+re-sampled core was analysed using XRF fusion. Original samples from the legacy drilling were analysed
+using XRF pressed pellet. XRF has proven to be a very accurate method analytical technique for WO, for
+all grades and is considered a total analysis.
+
+Estimation Methodology and Classification
+
+The Ordinary Kriging (OK) algorithm for grade interpolation was used for the Trench Mineral Resource,
+constrained by mineralized domains using a nominal 0.1% WO3 cut-off grade. A check model was also
+generated using inverse distance (ID) interpolation. A high grade cut of 1.2% WO3 was applied to the
+composited data based on classical statistical analysis.
+
+The block model was constructed using a 20mE x 20mN x 10mRL parent block size, with sub-celling to
+2mE x 2mN x 1mRL for domain volume resolution. The parent cell size was chosen on the basis of the
+general morphology of mineralized bodies and in order to avoid the generation of too large block models.
+The sub-celling size was chosen to maintain the resolution of the mineralized bodies.
+
+A bulk density value of 2.94 t/m3 was used to all fresh material. This bulk density value represents the
+average value derived from the 820 density measurements completed by SJS. A value of 2.2 t/m3 was
+used for the oxidation zones based on an adjacent deposit.
+
+Mineral Resources were classified in accordance with the Australasian Code for the Reporting of
+Exploration Results, Mineral Resources and Ore Reserves (JORC, 2012). The resource was classified as
+Inferred Mineral Resource on the basis of data quality, sample spacing and lode continuity. This evidence
+is sufficient to imply but not verify geological and grade continuity.
+Mining, Metallurgy and Other Modifying Factors
+
+It has been assumed that the Trench deposit could be mined using open pit methods given the proximity
+of mineralization to the surface and the broad zones of mineralization. Detailed mining studies including
+pit optimisations have not yet been conducted on the Trench deposit given the early nature of the defined
+Mineral Resource. Extensive metallurgical testwork has been undertaken on the Trench deposit since the
+late 1970’s.
+
+Tungsten (scheelite) mineralization at Trench is amenable to recovery by gravity pre-concentration
+followed by flotation to provide a saleable specification concentrate. Scheelite from the Trench can also
+be recovered using whole ore flotation methods, producing a lower grade concentrate suitable for APT
+(chemical) plant feed. Hazelwood is considering gravity separation followed by flotation to remove
+sulphides, using a process similar to that envisaged for the Mulgine Hill Deposit. Additional confirmatory
+testwork on representative samples from the Trench will be required to validate the flow sheet selection.
+
+Extensive baseline and targeted fauna and flora surveys have been conducted over the Mt Mulgine
+Project area. Waste rock and soil characterisation studies were completed on samples of oxide material
+from the Trench deposit during 2013. Oxide waste material was found to be non-acid forming. It was
+
+Page169of259©2018Factiva,Inc.Allrightsreserved.assumed that tailings from any tungsten operation at Mt Mulgine will be deposited in a sub-aerial Tailings
+Storage Facility; tailings characterisation testwork and design criteria for the TSF are yet to be completed.
+
+Hazelwood’s 100% interest in the Mt Mulgine Tungsten Project and 100% interest in the Big Hill Tungsten
+Project in the Pilbara of Western Australia together represent a tungsten resource inventory of more than
+14 million MTU (metric tonne units), equivalent to approximately 114,600 tonnes of contained tungsten
+metal. Hazelwood’s established downstream refining business has a production capacity of 4,000 tonnes
+per annum ferrotungsten (3,000 tonnes per annum contained tungsten metal).
+
+Contact:
+
+Terry Butler-Blaxell Managing Director Hazelwood Resources Tel: +61 89320 5220 Email:
+info@hazelwood.com.au
+
+ABOUT HAZELWOOD
+Hazelwood Resources Ltd is a new specialty metals producer with a majority stake in the ATC
+Ferrotungsten Project in Vietnam. Ferrotungsten is used in the production of high speed steels, tool steel
+and temperature resistant alloys. The ATC Ferrotungsten plant is the largest capacity facility of its type
+outside of China and its design is believed to be the most advanced in the world. High quality product
+from ATC meets the specifications of the Japanese and European markets and can be produced from a
+range of different feedstock sources.
+
+With an established specialty metals production base, Hazelwood has the ability to expand into other
+capital-efficient opportunities in downstream processing. There is potential for future vertical integration
+with Hazelwood’s 100% owned primary tungsten projects in Western Australia. The Big Hill Tungsten
+Deposit and Mt Mulgine Tungsten Project host near surface resources and are being evaluated as
+potential future sources of feedstock for Hazelwood’s downstream refining business. Hazelwood has
+significant exposure to nickel sulphides and base metals exploration through its 100% owned Cookes
+Creek and Copper Gorge (HAZ 70% Atlas Iron 30%) areas in the East Pilbara of Western Australia.
+
+[Editorial queries for this story should be sent to newswire@enpublishing.co.uk]
+
+CO hwrsau : Hazelwood Resources Limited
+IN
+NS
+
+ibasicm : Basic Materials/Resources | imet : Mining/Quarrying
+cnatrd : Natural Reserves/Resources Discovery | npress : Press Releases | c24 : Capacity/Facilities | ccat
+: Corporate/Industrial News | ncat : Content Types
+waustr : Western Australia | apacz : Asia Pacific | ausnz : Australia/Oceania | austr : Australia
+
+RE
+PUB Electronic News Publishing Ltd.
+AN
+
+Document ENPNEW0020140415ea4f00047
+
+Page170of259©2018Factiva,Inc.Allrightsreserved.

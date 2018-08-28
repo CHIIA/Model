@@ -1,0 +1,890 @@
+*ZBB Energy 3Q EPS 0c >ZBB
+
+*ZBB Energy 3Q EPS 0c >ZBB
+
+HD
+WC 2,465 words
+PD
+16 May 2014
+ET
+06:03
+SN
+Dow Jones Institutional News
+SC
+DJDN
+LA
+English
+CY
+Copyright © 2014, Dow Jones & Company, Inc.
+LP
+
+15 May 2014 16:03 ET Press Release: ZBB Energy Corporation Reports Third Quarter Fiscal Year 2014
+Break-Even Earnings per Share
+ZBB Energy Corporation Reports Third Quarter Fiscal Year 2014 Break-Even Earnings per Share
+
+TD
+
+MILWAUKEE, WI--(Marketwired - May 15, 2014) - ZBB Energy Corporation (NYSE MKT: ZBB), a leading
+developer of intelligent, renewable energy power platforms and hybrid vehicle control systems, today
+announced its financial results for its third fiscal quarter ended March 31, 2014.
+
+Third Quarter Highlights
+During the third quarter of fiscal year 2014, the Company's major accomplishments included:
+
+-- Completed a secondary offering of 6,325,000 shares of common stock at
+
+$2.25 per share for net cash proceeds of $13.1
+
+million.
+
+-- Achieved the initial milestone of the joint development agreement with
+
+Lotte Chemical, and received $3 million in one-time upfront license fees
+for the quarter.
+
+-- Tested and shipped equipment to Ergon Energy in Australia. Ergon has
+
+successfully completed their lab testing and will place the equipment in
+the field over the coming weeks as part of their field trial to
+suitability.
+
+determine
+
+Subsequent to the end of the third quarter of fiscal year 2014, the Company:
+
+-- Hired a sales manager for the state of Hawaii.
+-- Advanced to the RFQ stage for the
+
+Imperial Irrigation District's
+
+40-megawatt energy storage project.
+
+"The completion of our secondary offering and the initiation of the Lotte Chemical project strengthened
+our balance sheet this quarter and enhanced our financial capacity to more aggressively pursue the
+multiple sales opportunities in our markets," said Eric C. Apfelbach, President and Chief Executive Officer.
+"To prepare for these opportunities, we are actively working to add staff in our sales and technical areas,
+including our recent hire of a sales manager for Hawaii."
+"Additionally, ZBB and Lotte are working towards an agreement that would enable Lotte to purchase from
+ZBB the "chassis" frame, internal componentry and power electronics for ZBB EnerStore(R) flow
+batteries, whereby Lotte will source the electrolyte and manufacture the stacks to be placed in the chassis
+
+Page128of294©2018Factiva,Inc.Allrightsreserved.frame provided by ZBB. This combined global manufacturing strategy will give us the lowest possible
+costs and enable us to ramp quickly to meet the large demand that is being indicated by the RFQ activity."
+"We believe our products are the right fit for the multi-billion dollar energy storage proposals in
+California, New York, Province of Ontario and South Korea." continued Mr. Apfelbach. "We expect
+additional energy storage proposals going forward, including in China, which we believe over time has
+the potential to be a $40 billion market opportunity."
+
+Financial results for the three months ended March 31, 2014 as compared to the three months ended
+March 31, 2013 included:
+
+-- Product sales decreased 59% to $822,318 from $2,019,191.
+-- Engineering and development revenues increased 650% to $750,000 from
+
+$100,000.
+
+-- License revenues were $3,000,000.
+-- Product gross margin was 33.0% compared to 12.8% in the prior year
+
+quarter.
+
+-- Net loss to common stockholders improved to $67,945 compared to
+
+$2,824,313.
+
+-- Loss per share improved to ($0.00) from ($0.18).
+
+Financial results for the nine month period ending March 31, 2014 compared to the nine months ended
+March 31, 2013:
+
+-- Product sales decreased 58% to $2,652,896 from $6,372,336.
+-- Engineering and development revenues increased 200% to $950,000 from
+
+$318,183.
+
+-- Product gross margin was 36.0% compared to 13.4% in the prior year
+
+period.
+
+-- Net loss to common stockholders improved to $4,901,204 compared to
+
+$8,790,560.
+
+-- Loss per share improved to ($0.27) from ($0.57).
+
+Financial Position
+The Company's backlog as of March 31, 2014 was approximately $5.2 million. $3.25 million of our
+backlog relates to provisions of the Lotte Amended License and Research and Development Agreements.
+The Company ended the third quarter of fiscal 2014 with total assets of $23.5 million, including $13.4
+million in cash and $583,000 in accounts receivable.
+
+"I expect our order flow to remain uneven in the near-term. We will continue to work with our partners,
+including Lotte Chemical and Cummins Crosspoint, to extend our relationships and secure additional
+business. In addition, the recently announced plan by the U.S. Department of Energy to offer up to $4
+billion in loan guarantees for renewable energy projects could rejuvenate interest and orders in the
+domestic market," Mr. Apfelbach concluded.
+Conference call - May 15, 2014 - 4:30 p.m. Eastern Time (3:30 p.m. CT)
+The Company will hold a conference call on Thursday, May 15, 2014 at 4:30 p.m. Eastern Time (3:30
+p.m. Central Time) to discuss results for its third fiscal quarter ended March 31, 2014. To participate in the
+call, please dial 1-888-539-3612 for domestic callers and 1-719-457-0820 for international callers. The
+participant passcode is 3851779.
+
+The call will be available for replay at 1-888-203-1112 for domestic callers, and 1-719-457-0820, for
+international callers. The replay passcode is 3851779. The conference call will also be available for replay
+via the investor relations section of the Company's website at www.zbbenergy.com.
+ZBB ENERGY CORPORATION
+
+Page129of294©2018Factiva,Inc.Allrightsreserved.Condensed Consolidated Statements of Operations
+
+Three months ended
+
+March 31,
+
+2014
+
+2013
+
+-------------------------
+-----------
+-----------
+$ 2,019,191
+822,318
+$
+750,000
+100,000
+3,000,000
+-
+----------
+----------
+4,572,318
+2,119,191
+----------
+----------
+
+Nine months ended
+
+March 31,
+
+2013
+
+2014
+
+-------------------------
+-----------
+-----------
+$ 6,372,336
+$ 2,652,896
+950,000
+318,183
+3,000,000
+-
+----------
+----------
+6,602,896
+6,690,519
+----------
+----------
+
+546,904
+
+1,761,762
+
+1,698,762
+
+5,519,360
+
+65,560
+
+62,118
+
+109,196
+
+107,183
+
+1,095,589
+
+1,293,147
+
+3,400,318
+
+3,828,686
+
+2,667,569
+200,646
+----------
+4,576,267
+
+1,439,235
+338,041
+----------
+4,895,303
+
+5,221,065
+886,405
+----------
+11,315,744
+
+4,731,209
+1,022,503
+----------
+15,208,941
+
+(3,949)
+----------
+
+(2,776,112)
+----------
+
+(4,712,849)
+----------
+
+(8,518,422)
+----------
+
+(55,428)
+1,435
+(27,153)
+-
+----------
+
+(118,442)
+913
+(40,829)
+(45,000)
+----------
+
+(303,910)
+2,944
+(124,668)
+896
+----------
+
+(651,555)
+1,896
+(134,039)
+(45,000)
+----------
+
+(81,146)
+
+(203,358)
+
+(424,738)
+
+(828,698)
+
+(85,096)
+
+(2,979,470)
+
+(5,137,587)
+
+(9,346,939)
+
+(38,598)
+----------
+(46,497)
+
+(36,715)
+----------
+(2,942,755)
+
+(86,848)
+----------
+(5,050,739)
+
+(110,866)
+----------
+(9,236,074)
+
+Revenues
+Product sales
+Engineering and
+development
+License
+Total Revenues
+
+Costs and
+Expenses
+Cost of product
+sales
+Cost of
+engineering and
+development
+Advanced
+engineering and
+development
+Selling,
+general, and
+administrative
+Depreciation and
+amortization
+Total Costs and
+Expenses
+
+Income (Loss)
+from Operations
+
+Other Income
+(Expense)
+Equity in loss
+of investee
+company
+Interest income
+Interest expense
+Other income
+(expense)
+Total Other
+Income
+(Expense)
+Income (Loss)
+before provision
+(benefit) for
+Income Taxes
+Provision
+(benefit) for
+Income Taxes
+Net loss
+Net loss
+attributable to
+noncontrolling
+
+Page130of294©2018Factiva,Inc.Allrightsreserved.interest
+
+Net Income (Loss)
+Attributable to
+ZBB Energy
+Corporation
+Preferred Stock
+Dividend
+Net Loss
+Attributable to
+Common
+Shareholders
+
+Net Loss per
+share
+Basic and
+diluted
+
+Weighted average
+shares-basic and
+diluted
+
+55,428
+----------
+
+118,442
+----------
+
+303,910
+----------
+
+445,514
+----------
+
+8,931
+----------
+(76,876)
+----------
+
+(2,824,313)
+----------
+-
+----------
+
+(4,746,829)
+----------
+(154,375)
+----------
+
+(8,790,560)
+----------
+-
+----------
+
+$
+
+(67,945)
+----------
+
+$(2,824,313)
+----------
+
+$(4,901,204)
+----------
+
+$(8,790,560)
+----------
+
+$
+
+(0.00)
+
+$
+
+(0.18)
+
+$
+
+(0.27)
+
+$
+
+(0.57)
+
+18,690,642
+
+15,693,149
+
+18,045,685
+
+15,555,891
+
+ZBB ENERGY CORPORATION
+
+Condensed Consolidated Balance Sheets
+
+March 31, 2014
+(Unaudited)
+----------------
+
+June 30, 2013
+---------------
+
+$
+
+13,393,266
+69,713
+583,020
+1,748,607
+261,323
+93,976
+------------
+16,149,904
+
+$
+
+1,096,621
+60,000
+446,925
+2,459,776
+224,542
+137,228
+-----------
+4,425,092
+
+4,526,730
+2,000,219
+
+5,179,707
+2,304,122
+
+Assets
+Current assets:
+Cash and cash equivalents
+Restricted cash on deposit
+Accounts receivable, net
+Inventories
+Prepaid expenses and other
+current assets
+Refundable income tax
+credit
+Total current assets
+Long-term assets:
+Property, plant and
+equipment, net
+Investment in investee
+company
+
+15 May 2014 16:03 ET Press Release: ZBB Energy Corporation Reports -2-
+
+Intangible assets, net
+Goodwill
+Total assets
+
+Liabilities and
+Equity
+Current liabilities:
+Bank loans and notes
+payable
+
+-
+803,079
+------------
+23,479,932
+============
+
+348,701
+
+$
+
+$
+
+411,073
+803,079
+-----------
+13,123,073
+===========
+
+885,786
+
+$
+
+$
+
+Page131of294©2018Factiva,Inc.Allrightsreserved.Accounts payable
+Accrued expenses
+Customer deposits
+Accrued compensation and
+benefits
+Total current liabilities
+Long-term liabilities:
+Bank loans and notes
+payable
+Total liabilities
+
+Equity
+Series B redeemable
+convertible preferred
+stock ($0.01 par value,
+$1,000 face value)
+10,000,000 authorized,
+2,750 and 0 shares issued
+and outstanding,
+preference in liquidation
+of $5,641,510 as of March
+31, 2014
+Common stock ($0.01 par
+value); 150,000,000
+authorized, 25,257,700 and
+17,707,341 shares issued
+and outstanding as of
+March 31, 2014 and June
+30, 2013 respectively
+Additional paid-in capital
+Accumulated deficit
+Accumulated other
+comprehensive loss
+Total ZBB Energy
+Corporation Equity
+Noncontrolling interest
+Total equity
+Total liabilities and
+equity
+
+633,145
+1,461,447
+1,202,295
+194,048
+------------
+3,839,635
+
+2,133,709
+------------
+5,973,345
+------------
+
+570,932
+785,532
+2,194,262
+164,437
+-----------
+4,600,949
+
+2,395,802
+-----------
+6,996,751
+-----------
+
+28
+
+-
+
+960,891
+101,823,820
+(85,679,653)
+(1,598,710)
+------------
+15,506,376
+2,000,211
+------------
+17,506,587
+------------
+23,479,932
+============
+
+$
+
+885,389
+85,464,055
+(80,932,824)
+(1,594,418)
+-----------
+3,822,202
+2,304,120
+-----------
+6,126,322
+-----------
+13,123,073
+===========
+
+$
+
+ZBB Energy Corporation
+
+Condensed Consolidated Statements of Cash Flows
+
+Cash flows from operating
+activities
+Net loss
+Adjustments to reconcile net
+loss to net cash used in
+operating activities:
+Depreciation of property, plant
+and equipment
+
+Nine months ended March 31,
+
+-------------------------------
+------------
+----------------
+
+2014
+
+2013
+
+$
+
+(5,050,739)
+
+$ (9,236,074)
+
+580,379
+
+552,079
+
+Page132of294©2018Factiva,Inc.Allrightsreserved.Amortization of intangible
+assets
+Stock-based compensation
+Equity in loss of investee
+company
+Amortization of discounts and
+debt issuance costs on notes
+payable
+Purchase price adjustment
+Changes in assets and
+liabilities
+Accounts receivable
+Inventories
+Prepaids and other current
+assets
+Refundable income taxes
+Accounts payable
+Accrued compensation and
+benefits
+Accrued expenses
+Customer deposits
+Net cash used in operating
+activities
+Cash flows from investing
+activities
+Expenditures for property and
+equipment
+Investment in investee company
+Deposits of restricted cash
+Net cash used in investing
+activities
+Cash flows from financing
+activities
+Repayments of bank loans and
+notes payable
+Proceeds from issuance of
+preferred stock and warrants
+Preferred stock issuance costs
+Proceeds from issuance of
+common stock
+Common stock issuance costs
+Proceeds from noncontrolling
+interest
+
+Net cash provided by financing
+activities
+Effect of exchange rate changes
+on cash and cash equivalents
+Net increase (decrease) in cash
+and cash equivalents
+Cash and cash equivalents -
+beginning of period
+
+Cash and cash equivalents - end
+of period
+
+Cash paid for interest
+Cash received from foreign
+
+411,073
+450,796
+303,910
+
+14,566
+-
+
+549,532
+570,604
+651,555
+
+-
+45,000
+
+(136,095)
+823,670
+(51,346)
+43,253
+62,213
+29,610
+715,707
+(991,967)
+------------
+(2,794,971)
+------------
+
+(605,430)
+(121,558)
+1,831
+(118,682)
+48,340
+(87,710)
+(417,946)
+(174,644)
+-----------
+(8,343,103)
+-----------
+
+(39,907)
+-
+(9,713)
+------------
+(49,620)
+------------
+
+(106,479)
+-
+(60,000)
+-----------
+(166,479)
+-----------
+
+(843,262)
+3,000,000
+(96,967)
+14,231,250
+(1,149,786)
+-
+------------
+15,141,235
+------------
+-
+------------
+12,296,645
+1,096,621
+------------
+
+(877,312)
+-
+-
+4,244,689
+(177,606)
+5,500
+-----------
+3,195,271
+-----------
+776
+-----------
+(5,313,535)
+7,823,217
+-----------
+
+$
+
+$
+
+13,393,266
+============
+137,763
+
+$
+2,509,683
+===========
+$
+121,539
+
+Page133of294©2018Factiva,Inc.Allrightsreserved.income tax credit
+
+133,996
+
+-
+
+About ZBB Energy Corporation
+ZBB Energy Corporation (NYSE MKT: ZBB) designs, develops, licenses and manufactures advanced
+energy storage and power electronics systems, as well as engineered custom and semi-custom products
+targeted at the growing global need for distributed renewable energy, energy efficiency, power quality,
+and grid modernization. ZBB's portfolio includes integrated power management platforms that combine
+advanced power and energy controls plus energy storage to optimize renewable energy sources and
+conventional power inputs for grid connected and off-grid applications. ZBB's innovative platforms solve a
+wide range of electrical system challenges in global markets for utility, governmental, commercial,
+industrial and residential customers. In addition, the platforms ensure optimal efficiencies today, while
+offering the flexibility to adapt and scale to future requirements. ZBB's corporate offices, engineering and
+development, and production facilities are located in Menomonee Falls, WI, USA with a research facility
+also located in Perth, Western Australia. ZBB has a joint venture with Meineng Energy, a provider of
+leading-edge energy storage systems and solutions to the greater China market. For more information,
+visit: www.zbbenergy.com.
+
+Safe Harbor Statement
+
+Certain statements made in this press release contain forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities and Exchange
+Act of 1934, as amended that are intended to be covered by the "safe harbor" created by those sections.
+Forward-looking statements, which are based on certain assumptions and describe our future plans,
+strategies and expectations, can generally be identified by the use of forward-looking terms such as
+"believe," "expect," "may," "will," "should," "could," "seek," "intend," "plan," "estimate," "anticipate" or other
+comparable terms. Forward-looking statements in this press release may address the following subjects
+among others: statements regarding the sufficiency of our capital resources, expected operating losses,
+expected revenues, expected expenses and our expectations concerning our business strategy.
+Forward-looking statements involve inherent risks and uncertainties which could cause actual results to
+differ materially from those in the forward-looking statements, as a result of various factors including those
+risks and uncertainties described in the Risk Factors and in Management's Discussion and Analysis of
+Financial Condition and Results of Operations sections of our most recently filed Annual Report on Form
+10-K and our subsequently filed Quarterly Reports on Form 10-Q. We urge you to consider those risks
+and uncertainties in evaluating our forward-looking statements. We caution readers not to place undue
+reliance upon any such forward-looking statements, which speak only as of the date made. Except as
+otherwise required by the federal securities laws, we disclaim any obligation or undertaking to publicly
+release any updates or revisions to any forward-looking statement contained herein (or elsewhere) to
+reflect any change in our expectations with regard thereto or any change in events, conditions or
+circumstances on which any such statement is based.
+15 May 2014 16:03 ET *ZBB Energy 3Q Rev $4.57M >ZBB
+15 May 2014 16:06 ET *ZBB Energy 3Q Net $8.93M >ZBB
+15 May 2014 16:08 ET *ZBB Energy 3Q Rev $4.57M >ZBB
+
+(MORE TO FOLLOW) Dow Jones Newswires (212-416-2800)
+
+May 15, 2014 16:08 ET (20:08 GMT)
+
+NS
+
+i342 : Electrical Components/Equipment | iindstrls : Industrial Goods | iindele : Industrial Electronics |
+i3432 : Batteries
+c151 : Earnings | ccat : Corporate/Industrial News | neqac : Equities Asset Class News | c15 :
+Performance | ncat : Content Types | nfact : Factiva Filters | nfcpin : FC&E Industry News Filter
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+CO zbbec : ZBB Energy Corporation
+IN
+
+RE
+PUB Dow Jones & Company, Inc.
+AN
+
+Document DJDN000020140515ea5f004gz
+
+Page134of294©2018Factiva,Inc.Allrightsreserved.
